@@ -1,0 +1,154 @@
+{
+  "001_001": {
+    "src": "A hanging strap... If I grab it, they'll definitely see me.",
+    "trx": "A hanging strap... If I grab it, they'll definitely see me."
+  },
+  "001_002": {
+    "src": "A hanging strap.",
+    "trx": "A hanging strap."
+  },
+  "002_001": {
+    "src": "The train doors... If I get too close, they'll catch me for sure.",
+    "trx": "The train doors... If I get too close, they'll catch me for sure."
+  },
+  "002_002": {
+    "src": "Train doors.",
+    "trx": "Train doors."
+  },
+  "003_001": {
+    "src": "Seats on the train. I'd love to kick my feet up, but they would definitely see me then.",
+    "trx": "Seats on the train. I'd love to kick my feet up, but they would definitely see me then."
+  },
+  "003_002": {
+    "src": "Train seats.",
+    "trx": "Train seats."
+  },
+  "004_001": {
+    "src": "I wanna see what's going on out there, but they'd see me.",
+    "trx": "I wanna see what's going on out there, but they'd see me."
+  },
+  "004_002": {
+    "src": "A train window.",
+    "trx": "A train window."
+  },
+  "005_001": {
+    "src": "That platform pillar... What delightful curves...",
+    "trx": "That platform pillar... What delightful curves..."
+  },
+  "005_002": {
+    "src": "It's a platform pillar.",
+    "trx": "It's a platform pillar."
+  },
+  "006_001": {
+    "src": "That door goes somewhere...but where?",
+    "trx": "That door goes somewhere...but where?"
+  },
+  "006_002": {
+    "src": "It's a door.",
+    "trx": "It's a door."
+  },
+  "007_001": {
+    "src": "A bulletin board, I suppose.",
+    "trx": "A bulletin board, I suppose."
+  },
+  "007_002": {
+    "src": "It's a bulletin board.",
+    "trx": "It's a bulletin board."
+  },
+  "008_001": {
+    "src": "A bench you can sit on while waiting for the train. Can't be sitting on it and board the train though.",
+    "trx": "A bench you can sit on while waiting for the train. Can't be sitting on it and board the train though."
+  },
+  "008_002": {
+    "src": "It's a station bench.",
+    "trx": "It's a station bench."
+  },
+  "009_001": {
+    "src": "I think the A/C is busted.",
+    "trx": "I think the A/C is busted."
+  },
+  "009_002": {
+    "src": "It's for air conditioning.",
+    "trx": "It's for air conditioning."
+  },
+  "010_001": {
+    "src": "Fluorescent lighting. It's just barely bright enough.",
+    "trx": "Fluorescent lighting. It's just barely bright enough."
+  },
+  "010_002": {
+    "src": "Some fluorescent lighting.",
+    "trx": "Some fluorescent lighting."
+  },
+  "011_001": {
+    "src": "The door to the driver's compartment. Illegal to go in there without good reason.",
+    "trx": "The door to the driver's compartment. Illegal to go in there without good reason."
+  },
+  "011_002": {
+    "src": "It's the door to the driver's compartment.",
+    "trx": "It's the door to the driver's compartment."
+  },
+  "012_001": {
+    "src": "A fire hydrant. Is it even working, though...?",
+    "trx": "A fire hydrant. Is it even working, though...?"
+  },
+  "012_002": {
+    "src": "It's a fire hydrant.",
+    "trx": "It's a fire hydrant."
+  },
+  "013_001": {
+    "src": "Doors that prevent people from falling onto the tracks.",
+    "trx": "Doors that prevent people from falling onto the tracks."
+  },
+  "013_002": {
+    "src": "A platform screen door.",
+    "trx": "A platform screen door."
+  },
+  "014_001": {
+    "src": "Looks like this thing was abandoned a long time ago.",
+    "trx": "По всей видимости, этот вагон давно не используется."
+  },
+  "014_002": {
+    "src": "It's a train car.",
+    "trx": "Это вагон поезда."
+  },
+  "015_001": {
+    "src": "A board that displays departure times and destinations.",
+    "trx": "A board that displays departure times and destinations."
+  },
+  "015_002": {
+    "src": "It's an electric signboard.",
+    "trx": "It's an electric signboard."
+  },
+  "016_001": {
+    "src": "A map of the station...",
+    "trx": "A map of the station..."
+  },
+  "016_002": {
+    "src": "It's a station map.",
+    "trx": "It's a station map."
+  },
+  "017_001": {
+    "src": "A vending machine, but it doesn't work.",
+    "trx": "A vending machine, but it doesn't work."
+  },
+  "017_002": {
+    "src": "It's a vending machine.",
+    "trx": "It's a vending machine."
+  },
+  "018_001": {
+    "src": "A trash can. Not that anyone's coming to empty it.",
+    "trx": "A trash can. Not that anyone's coming to empty it."
+  },
+  "018_002": {
+    "src": "It's a trash can.",
+    "trx": "It's a trash can."
+  },
+  "019_001": {
+    "src": "A busted elevator.",
+    "trx": "A busted elevator."
+  },
+  "019_002": {
+    "src": "It's an elevator.",
+    "trx": "It's an elevator."
+  }
+}

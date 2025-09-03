@@ -1,0 +1,214 @@
+{
+  "001_011": {
+    "src": "*huff, huff*!",
+    "trx": "*huff, huff*!"
+  },
+  "001_012": {
+    "src": "Don't lose him! Go!",
+    "trx": "Don't lose him! Go!"
+  },
+  "001_013": {
+    "src": "Ngh!",
+    "trx": "Ngh!"
+  },
+  "001_014": {
+    "src": "We finally got you.",
+    "trx": "We finally got you."
+  },
+  "001_015": {
+    "src": "You little pain in the—",
+    "trx": "You little pain in the—"
+  },
+  "001_016": {
+    "src": "Auuugh!",
+    "trx": "Auuugh!"
+  },
+  "001_017": {
+    "src": "Get him!",
+    "trx": "Get him!"
+  },
+  "001_018": {
+    "src": "Wait, there!",
+    "trx": "Wait, there!"
+  },
+  "001_019": {
+    "src": "RRRGAHHH!",
+    "trx": "RRRGAHHH!"
+  },
+  "001_020": {
+    "src": "AAAUGH!",
+    "trx": "AAAUGH!"
+  },
+  "001_021": {
+    "src": "AAAUGH!",
+    "trx": "AAAUGH!"
+  },
+  "001_022": {
+    "src": "AAAUGH!",
+    "trx": "AAAUGH!"
+  },
+  "001_023": {
+    "src": "AAAUGH!",
+    "trx": "AAAUGH!"
+  },
+  "001_024": {
+    "src": "Ugh...",
+    "trx": "Ugh..."
+  },
+  "001_025": {
+    "src": "Gah...",
+    "trx": "Gah..."
+  },
+  "001_026": {
+    "src": "Ooo...",
+    "trx": "Ooo..."
+  },
+  "001_027": {
+    "src": "Ngh...",
+    "trx": "Ngh..."
+  },
+  "001_028": {
+    "src": "*huff, huff*!",
+    "trx": "*huff, huff*!"
+  },
+  "001_029": {
+    "src": "Shit... Where'd he go?! Look around, find him!",
+    "trx": "Shit... Where'd he go?! Look around, find him!"
+  },
+  "002_001": {
+    "src": "I lost them. Somehow...",
+    "trx": "I lost them. Somehow..."
+  },
+  "002_002": {
+    "src": "What... What was I doing, anyway...?",
+    "trx": "What... What was I doing, anyway...?"
+  },
+  "dialog_001": {
+    "src": "Would you like to view the tutorial for Investigations?",
+    "trx": "Would you like to view the tutorial for Investigations?"
+  },
+  "dialog_002": {
+    "src": "The Investigation tutorial is <color=red>OFF</color>.\n\n<color=red>Some necessary information may still be shown.</color>",
+    "trx": "The Investigation tutorial is <color=red>OFF</color>.\n\n<color=red>Some necessary information may still be shown.</color>"
+  },
+  "003_001": {
+    "src": "In the broken mirror, I see myself.",
+    "trx": "In the broken mirror, I see myself."
+  },
+  "003_002": {
+    "src": "My reflection—\"I.\"",
+    "trx": "My reflection—\"I.\""
+  },
+  "003_003": {
+    "src": "But... Who am \"I\" anyway?",
+    "trx": "But... Who am \"I\" anyway?"
+  },
+  "003_004": {
+    "src": "I don't know who it is, but \"I\" am reflected in the broken mirror.",
+    "trx": "I don't know who it is, but \"I\" am reflected in the broken mirror."
+  },
+  "004_001": {
+    "src": "The abandoned factory... Right! I...",
+    "trx": "Заброшенная фабрика... Точно! Я..."
+  },
+  "005_001": {
+    "src": "But whose...?",
+    "trx": "Но чей...?"
+  },
+  "005_002": {
+    "src": "Damn it. Can't remember...",
+    "trx": "Чёрт. Не могу вспомнить..."
+  },
+  "006_001": {
+    "src": "The police? What did I do this time...?",
+    "trx": "Полиция? Что я сделал на этот раз...?"
+  },
+  "006_002": {
+    "src": "No, no. The guys chasing me don't look like cops...",
+    "trx": "Нет, нет. Мои преследователи не были похожи на полицейских..."
+  },
+  "006_003": {
+    "src": "Why can't I remember anything?!",
+    "trx": "Почему я ничего не могу вспомнить?!"
+  },
+  "007_001": {
+    "src": "Right. Okay... I just happened to not have enough money, so I had no choice but to...",
+    "trx": "Right. Okay... I just happened to not have enough money, so I had no choice but to..."
+  },
+  "007_002": {
+    "src": "...",
+    "trx": "..."
+  },
+  "007_003": {
+    "src": "But how the hell would that end up with me being chased by...macho muscle baldies?!",
+    "trx": "But how the hell would that end up with me being chased by...macho muscle baldies?!"
+  },
+  "007_004": {
+    "src": "What the hell even happened?!",
+    "trx": "What the hell even happened?!"
+  },
+  "008_001": {
+    "src": "I was running from that abandoned factory...to get away from him.",
+    "trx": "I was running from that abandoned factory...to get away from him."
+  },
+  "008_002": {
+    "src": "Him...?",
+    "trx": "Him...?"
+  },
+  "008_003": {
+    "src": "Who is that, again...?",
+    "trx": "Who is that, again...?"
+  },
+  "prompt_001": {
+    "src": "Who is that, again...?",
+    "trx": "Who is that, again...?"
+  },
+  "008_004": {
+    "src": "What was his name?",
+    "trx": "What was his name?"
+  },
+  "008_005": {
+    "src": "I almost had it for a sec there, but... Damn, it's not coming back to me.",
+    "trx": "I almost had it for a sec there, but... Damn, it's not coming back to me."
+  },
+  "008_006": {
+    "src": "I never met anyone with a name like that in my life...",
+    "trx": "I never met anyone with a name like that in my life..."
+  },
+  "008_007": {
+    "src": "Is it even a person's name?",
+    "trx": "Is it even a person's name?"
+  },
+  "008_008": {
+    "src": "Damn it... I don't know...",
+    "trx": "Damn it... I don't know..."
+  },
+  "009_001": {
+    "src": "Saito... Saito Sejima...",
+    "trx": "Saito... Saito Sejima..."
+  },
+  "009_002": {
+    "src": "Right. He's the one who...",
+    "trx": "Right. He's the one who..."
+  },
+  "010_001": {
+    "src": "Shit, someone's here!",
+    "trx": "Shit, someone's here!"
+  },
+  "choice_001": {
+    "src": "I escaped from an abandoned factory.",
+    "trx": "I escaped from an abandoned factory."
+  },
+  "choice_002": {
+    "src": "I escaped from a mansion.",
+    "trx": "I escaped from a mansion."
+  },
+  "choice_003": {
+    "src": "I escaped from the police.",
+    "trx": "I escaped from the police."
+  },
+  "choice_004": {
+    "src": "I escaped from the diner without paying.",
+    "trx": "I escaped from the diner without paying."
+  }
+}

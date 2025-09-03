@@ -1,0 +1,1402 @@
+{
+  "dialog_001": {
+    "src": "Yes",
+    "trx": "Yes"
+  },
+  "dialog_002": {
+    "src": "No",
+    "trx": "No"
+  },
+  "dialog_096": {
+    "src": "OK",
+    "trx": "OK"
+  },
+  "dialog_003": {
+    "src": "Empty",
+    "trx": "Empty"
+  },
+  "dialog_004": {
+    "src": "Incorrect input",
+    "trx": "Incorrect input"
+  },
+  "dialog_005": {
+    "src": "Mental Lock {0} unlocked: <pos=75%>{1} second(s) left",
+    "trx": "Mental Lock {0} unlocked: <pos=75%>{1} second(s) left"
+  },
+  "dialog_006": {
+    "src": "Restart: <pos=75%>{0} second(s) left",
+    "trx": "Restart: <pos=75%>{0} second(s) left"
+  },
+  "dialog_007": {
+    "src": "Retry?",
+    "trx": "Retry?"
+  },
+  "dialog_008": {
+    "src": "This will end the event and open the Flowchart.\nContinue?",
+    "trx": "This will end the event and open the Flowchart.\nContinue?"
+  },
+  "dialog_009": {
+    "src": "This will bring you back to the Bonus menu.\nContinue?",
+    "trx": "This will bring you back to the Bonus menu.\nContinue?"
+  },
+  "dialog_010": {
+    "src": "This will end the game.\nContinue?",
+    "trx": "This will end the game.\nContinue?"
+  },
+  "dialog_011": {
+    "src": "Reduce difficulty and restart from the checkpoint.",
+    "trx": "Reduce difficulty and restart from the checkpoint."
+  },
+  "dialog_012": {
+    "src": "Restart from Checkpoint",
+    "trx": "Restart from Checkpoint"
+  },
+  "dialog_013": {
+    "src": "Restart Psync",
+    "trx": "Restart Psync"
+  },
+  "dialog_014": {
+    "src": "Open Flowchart",
+    "trx": "Open Flowchart"
+  },
+  "dialog_015": {
+    "src": "This will restart from the beginning of this Somnium.\nContinue?",
+    "trx": "This will restart from the beginning of this Somnium.\nContinue?"
+  },
+  "dialog_016": {
+    "src": "This will end the Psync and open the Flowchart.\nContinue?",
+    "trx": "This will end the Psync and open the Flowchart.\nContinue?"
+  },
+  "dialog_017": {
+    "src": "This will carry out the action without using TIMIES.\nContinue?",
+    "trx": "This will carry out the action without using TIMIES.\nContinue?"
+  },
+  "dialog_018": {
+    "src": "Starting the game in this text language.\nIt cannot be changed later.\nContinue?",
+    "trx": "Starting the game in this text language.\nIt cannot be changed later.\nContinue?"
+  },
+  "dialog_019": {
+    "src": "<color=#CCCC00><size=80%>Investigation (QTE)</size></color>\n{0}<line-height=80%>\n―――――――――――――――――――\n</line-height><color=#0644B9><size=80%>Somnium</size></color>\n{1}<line-height=80%>\n―――――――――――――――――――\n</line-height><color=#cc0000><size=80%>Escape</size></color>\n{2}<line-height=80%>\n―――――――――――――――――――\n</line-height>Starting the game with this difficulty.\nContinue?\n<size=80%>(These settings can be changed in the Options menu at any time.)</size>",
+    "trx": "<color=#CCCC00><size=80%>Investigation (QTE)</size></color>\n{0}<line-height=80%>\n―――――――――――――――――――\n</line-height><color=#0644B9><size=80%>Somnium</size></color>\n{1}<line-height=80%>\n―――――――――――――――――――\n</line-height><color=#cc0000><size=80%>Escape</size></color>\n{2}<line-height=80%>\n―――――――――――――――――――\n</line-height>Starting the game with this difficulty.\nContinue?\n<size=80%>(These settings can be changed in the Options menu at any time.)</size>"
+  },
+  "dialog_020": {
+    "src": "3rd Class Cabin has been unlocked in BONUS!",
+    "trx": "3rd Class Cabin has been unlocked in BONUS!"
+  },
+  "dialog_021": {
+    "src": "\"Dance\"\n \"Novel\"\n \"Alternate Alternate Ending\"\n has been unlocked in Bonus.",
+    "trx": "\"Dance\"\n \"Novel\"\n \"Alternate Alternate Ending\"\n has been unlocked in Bonus."
+  },
+  "dialog_022": {
+    "src": "Unlocked Eyeballies function!\n《Wait time for question is now 0 seconds》\n《In picture book, \"Play with Eyeballies that you met in the past\" function》\nGive answers to the questions from now on too!",
+    "trx": "Unlocked Eyeballies function!\n《Wait time for question is now 0 seconds》\n《In picture book, \"Play with Eyeballies that you met in the past\" function》\nGive answers to the questions from now on too!"
+  },
+  "dialog_023": {
+    "src": "Remaining Retries",
+    "trx": "Remaining Retries"
+  },
+  "dialog_024": {
+    "src": "Which Checkpoint would you like to restart from?",
+    "trx": "Which Checkpoint would you like to restart from?"
+  },
+  "dialog_025": {
+    "src": "Checkpoint",
+    "trx": "Checkpoint"
+  },
+  "dialog_026": {
+    "src": "Retry Cost",
+    "trx": "Retry Cost"
+  },
+  "dialog_027": {
+    "src": "Return to this checkpoint?",
+    "trx": "Return to this checkpoint?"
+  },
+  "dialog_028": {
+    "src": "Mental Lock {0}<size=80%>: Remaining Time {1} second",
+    "trx": "Mental Lock {0}<size=80%>: Remaining Time {1} second"
+  },
+  "dialog_029": {
+    "src": "This will restart from the beginning of this Somnium.\n-Temporary checkpoint saves will be reset.\n-The Retry counter will be restored.\nContinue?",
+    "trx": "This will restart from the beginning of this Somnium.\n-Temporary checkpoint saves will be reset.\n-The Retry counter will be restored.\nContinue?"
+  },
+  "dialog_030": {
+    "src": "This will restart from the beginning of this Somnium.\n-Temporary checkpoint saves will be reset.\nContinue?",
+    "trx": "This will restart from the beginning of this Somnium.\n-Temporary checkpoint saves will be reset.\nContinue?"
+  },
+  "dialog_031": {
+    "src": "This will bring you back to the Bonus menu.\nContinue?",
+    "trx": "This will bring you back to the Bonus menu.\nContinue?"
+  },
+  "dialog_076": {
+    "src": "Disable this message?",
+    "trx": "Disable this message?"
+  },
+  "dialog_097": {
+    "src": "Cancel",
+    "trx": "Cancel"
+  },
+  "dialog_032": {
+    "src": "<align=\"left\">Change Somnium difficulty from {0} to {1}?\n\n▼Detailed Changes\n・Time Decrease Speed: {2} -> <color=red>{3}</color>\n・Time Cost for Choices: {4} -> <color=red>{5}</color>\n・Retry Counter: {6} -> <color=red>{7}</color>{8}",
+    "trx": "<align=\"left\">Change Somnium difficulty from {0} to {1}?\n\n▼Detailed Changes\n・Time Decrease Speed: {2} -> <color=red>{3}</color>\n・Time Cost for Choices: {4} -> <color=red>{5}</color>\n・Retry Counter: {6} -> <color=red>{7}</color>{8}"
+  },
+  "dialog_033": {
+    "src": "Changing the difficulty fully restores the Retry counter.",
+    "trx": "Changing the difficulty fully restores the Retry counter."
+  },
+  "dialog_034": {
+    "src": "Difficulty changed to {0}.\nRetry counter restored to <color=red>{1}</color>.",
+    "trx": "Difficulty changed to {0}.\nRetry counter restored to <color=red>{1}</color>."
+  },
+  "dialog_035": {
+    "src": "Story",
+    "trx": "Story"
+  },
+  "dialog_036": {
+    "src": "Easy",
+    "trx": "Easy"
+  },
+  "dialog_037": {
+    "src": "Standard",
+    "trx": "Standard"
+  },
+  "dialog_038": {
+    "src": "Unlimited",
+    "trx": "Unlimited"
+  },
+  "dialog_039": {
+    "src": "6",
+    "trx": "6"
+  },
+  "dialog_040": {
+    "src": "3",
+    "trx": "3"
+  },
+  "dialog_041": {
+    "src": "1/4",
+    "trx": "1/4"
+  },
+  "dialog_042": {
+    "src": "1/2",
+    "trx": "1/2"
+  },
+  "dialog_043": {
+    "src": "1/1",
+    "trx": "1/1"
+  },
+  "dialog_044": {
+    "src": "1/4",
+    "trx": "1/4"
+  },
+  "dialog_045": {
+    "src": "1/2",
+    "trx": "1/2"
+  },
+  "dialog_046": {
+    "src": "1/1",
+    "trx": "1/1"
+  },
+  "dialog_047": {
+    "src": "This will restart from the beginning of this Escape.\n -Temporary checkpoint saves will be reset.\n -The Search uses will be restored.\nContinue?",
+    "trx": "This will restart from the beginning of this Escape.\n -Temporary checkpoint saves will be reset.\n -The Search uses will be restored.\nContinue?"
+  },
+  "dialog_048": {
+    "src": "This will restart from the beginning of this Escape.\n-Temporary checkpoint saves will be reset.\nContinue?",
+    "trx": "This will restart from the beginning of this Escape.\n-Temporary checkpoint saves will be reset.\nContinue?"
+  },
+  "dialog_049": {
+    "src": "This will end the Escape and open the Flowchart.\nContinue?",
+    "trx": "This will end the Escape and open the Flowchart.\nContinue?"
+  },
+  "dialog_077": {
+    "src": "<align=\"left\">Change QTE difficulty from {0} to {1}?\n \n ▼Detailed Changes\n・Time Limit: {2} -> <color=red>{3}</color>\n・Repeat Count: {4} -> <color=red>{5}</color>",
+    "trx": "<align=\"left\">Change QTE difficulty from {0} to {1}?\n \n ▼Detailed Changes\n・Time Limit: {2} -> <color=red>{3}</color>\n・Repeat Count: {4} -> <color=red>{5}</color>"
+  },
+  "dialog_078": {
+    "src": "<align=\"left\">Changed difficulty to {0}.\n \n・Time Limit: <color=red>{1}</color>\n・Repeat Count: <color=red>{2}</color>\n \nRetrying QTE...",
+    "trx": "<align=\"left\">Changed difficulty to {0}.\n \n・Time Limit: <color=red>{1}</color>\n・Repeat Count: <color=red>{2}</color>\n \nRetrying QTE..."
+  },
+  "dialog_079": {
+    "src": "<align=\"left\">Retrying QTE on {0} difficulty.\n \n・Time Limit: <color=red>{1}</color>\n・Repeat Count: <color=red>{2}</color>\n \nContinue?",
+    "trx": "<align=\"left\">Retrying QTE on {0} difficulty.\n \n・Time Limit: <color=red>{1}</color>\n・Repeat Count: <color=red>{2}</color>\n \nContinue?"
+  },
+  "dialog_080": {
+    "src": "Story",
+    "trx": "Story"
+  },
+  "dialog_081": {
+    "src": "Easy",
+    "trx": "Easy"
+  },
+  "dialog_082": {
+    "src": "Standard",
+    "trx": "Standard"
+  },
+  "dialog_083": {
+    "src": "Hard",
+    "trx": "Hard"
+  },
+  "dialog_084": {
+    "src": "3 Times Flat",
+    "trx": "3 Times Flat"
+  },
+  "dialog_085": {
+    "src": "1/2",
+    "trx": "1/2"
+  },
+  "dialog_086": {
+    "src": "Normal",
+    "trx": "Normal"
+  },
+  "dialog_087": {
+    "src": "Unlimited",
+    "trx": "Unlimited"
+  },
+  "dialog_088": {
+    "src": "2x",
+    "trx": "2x"
+  },
+  "dialog_089": {
+    "src": "Normal",
+    "trx": "Normal"
+  },
+  "dialog_050": {
+    "src": "<align=\"left\">Change Escape difficulty from {0} to {1}?\n \n ▼Detailed Changes\n・Crisis Time: {2} -> <color=red>{3}</color>\n・Search Use Limit: {4} -> <color=red>{5}</color>\n・Hints: {6} -> <color=red>{7}</color>{8}",
+    "trx": "<align=\"left\">Change Escape difficulty from {0} to {1}?\n \n ▼Detailed Changes\n・Crisis Time: {2} -> <color=red>{3}</color>\n・Search Use Limit: {4} -> <color=red>{5}</color>\n・Hints: {6} -> <color=red>{7}</color>{8}"
+  },
+  "dialog_051": {
+    "src": "\nChanging the difficulty fully restores the Search counter.",
+    "trx": "\nChanging the difficulty fully restores the Search counter."
+  },
+  "dialog_052": {
+    "src": "Difficulty changed to {0}.\nSearch counter restored to <color=red>{1}</color>.",
+    "trx": "Difficulty changed to {0}.\nSearch counter restored to <color=red>{1}</color>."
+  },
+  "dialog_053": {
+    "src": "Story",
+    "trx": "Story"
+  },
+  "dialog_054": {
+    "src": "Easy",
+    "trx": "Easy"
+  },
+  "dialog_055": {
+    "src": "Standard",
+    "trx": "Standard"
+  },
+  "dialog_056": {
+    "src": "Hard",
+    "trx": "Hard"
+  },
+  "dialog_057": {
+    "src": "Until Solved",
+    "trx": "Until Solved"
+  },
+  "dialog_058": {
+    "src": "Many",
+    "trx": "Many"
+  },
+  "dialog_059": {
+    "src": "Many",
+    "trx": "Many"
+  },
+  "dialog_060": {
+    "src": "Few",
+    "trx": "Few"
+  },
+  "dialog_061": {
+    "src": "Unlimited",
+    "trx": "Unlimited"
+  },
+  "dialog_062": {
+    "src": "Unlimited",
+    "trx": "Unlimited"
+  },
+  "dialog_063": {
+    "src": "10",
+    "trx": "10"
+  },
+  "dialog_064": {
+    "src": "0",
+    "trx": "0"
+  },
+  "dialog_065": {
+    "src": "Unlimited",
+    "trx": "Unlimited"
+  },
+  "dialog_066": {
+    "src": "Unlimited",
+    "trx": "Unlimited"
+  },
+  "dialog_067": {
+    "src": "10",
+    "trx": "10"
+  },
+  "dialog_068": {
+    "src": "0",
+    "trx": "0"
+  },
+  "dialog_072": {
+    "src": "4x",
+    "trx": "4x"
+  },
+  "dialog_071": {
+    "src": "2x",
+    "trx": "2x"
+  },
+  "dialog_070": {
+    "src": "Standard",
+    "trx": "Standard"
+  },
+  "dialog_069": {
+    "src": "0.8",
+    "trx": "0.8"
+  },
+  "dialog_090": {
+    "src": "Resumes right after The Third Eye.\nContinue?",
+    "trx": "Resumes right after The Third Eye.\nContinue?"
+  },
+  "dialog_091": {
+    "src": "Resumes right after the elevator arrives at the 5th floor.\nContinue?",
+    "trx": "Resumes right after the elevator arrives at the 5th floor.\nContinue?"
+  },
+  "dialog_092": {
+    "src": "Resumes right after the appearance of the time bomb.\nContinue?",
+    "trx": "Resumes right after the appearance of the time bomb.\nContinue?"
+  },
+  "dialog_093": {
+    "src": "Resume right after The Third Eye.",
+    "trx": "Resume right after The Third Eye."
+  },
+  "dialog_094": {
+    "src": "Resume right after the elevator arrives at the 5th floor.",
+    "trx": "Resume right after the elevator arrives at the 5th floor."
+  },
+  "dialog_095": {
+    "src": "Resume right after the appearance of the time bomb.",
+    "trx": "Resume right after the appearance of the time bomb."
+  },
+  "dialog_073": {
+    "src": "This will restart from the beginning of this Escape.\n -Temporary checkpoint saves will be reset.\n -The Search uses will be restored.\nContinue?",
+    "trx": "This will restart from the beginning of this Escape.\n -Temporary checkpoint saves will be reset.\n -The Search uses will be restored.\nContinue?"
+  },
+  "dialog_074": {
+    "src": "This will restart from the beginning of this Escape.\n -Temporary checkpoint saves will be reset.\nContinue?",
+    "trx": "This will restart from the beginning of this Escape.\n -Temporary checkpoint saves will be reset.\nContinue?"
+  },
+  "dialog_075": {
+    "src": "This will end the Escape and open the Flowchart.\nContinue?",
+    "trx": "This will end the Escape and open the Flowchart.\nContinue?"
+  },
+  "r15_dialog_001": {
+    "src": "Kusemon Team is full.\nWhich Kusemon would you like to replace  {1} {0} with?",
+    "trx": "Kusemon Team is full.\nWhich Kusemon would you like to replace  {1} {0} with?"
+  },
+  "r15_dialog_002": {
+    "src": "Date",
+    "trx": "Date"
+  },
+  "r15_dialog_003": {
+    "src": "Rarity",
+    "trx": "Rarity"
+  },
+  "r15_dialog_004": {
+    "src": "[C]",
+    "trx": "[C]"
+  },
+  "r15_dialog_005": {
+    "src": "[R]",
+    "trx": "[R]"
+  },
+  "r15_dialog_006": {
+    "src": "[SR]",
+    "trx": "[SR]"
+  },
+  "r15_dialog_007": {
+    "src": "[SSR]",
+    "trx": "[SSR]"
+  },
+  "r15_dialog_008": {
+    "src": "[F]",
+    "trx": "[F]"
+  },
+  "r15_dialog_009": {
+    "src": "[SC]",
+    "trx": "[SC]"
+  },
+  "r15_dialog_010": {
+    "src": "Kaniza",
+    "trx": "Kaniza"
+  },
+  "r15_dialog_011": {
+    "src": "Kagami",
+    "trx": "Kagami"
+  },
+  "r15_dialog_012": {
+    "src": "Mama",
+    "trx": "Mama"
+  },
+  "r15_dialog_013": {
+    "src": "Pewter",
+    "trx": "Pewter"
+  },
+  "r15_dialog_014": {
+    "src": "Ota",
+    "trx": "Ota"
+  },
+  "r15_dialog_015": {
+    "src": "Moma",
+    "trx": "Moma"
+  },
+  "r15_dialog_016": {
+    "src": "Boss",
+    "trx": "Boss"
+  },
+  "r15_dialog_017": {
+    "src": "Date",
+    "trx": "Date"
+  },
+  "r15_dialog_018": {
+    "src": "Aiba",
+    "trx": "Aiba"
+  },
+  "r15_dialog_019": {
+    "src": "Mizuki",
+    "trx": "Mizuki"
+  },
+  "r15_dialog_020": {
+    "src": "F",
+    "trx": "F"
+  },
+  "r15_dialog_021": {
+    "src": "Monokuma",
+    "trx": "Monokuma"
+  },
+  "r15_dialog_022": {
+    "src": "Wanderer",
+    "trx": "Wanderer"
+  },
+  "r15_dialog_023": {
+    "src": "Replace {0}",
+    "trx": "Replace {0}"
+  },
+  "r15_dialog_024": {
+    "src": "Cancel",
+    "trx": "Cancel"
+  },
+  "r15_dialog_025": {
+    "src": "Select Kusemon to send to battle.",
+    "trx": "Select Kusemon to send to battle."
+  },
+  "r15_dialog_026": {
+    "src": "Red Assassin",
+    "trx": "Red Assassin"
+  },
+  "r15_dialog_027": {
+    "src": "Blue Assassin",
+    "trx": "Blue Assassin"
+  },
+  "r15_dialog_028": {
+    "src": "Green Assassin",
+    "trx": "Green Assassin"
+  },
+  "r15_dialog_029": {
+    "src": "Mansion Leader",
+    "trx": "Mansion Leader"
+  },
+  "r15_dialog_030": {
+    "src": "True Mansion Leader",
+    "trx": "True Mansion Leader"
+  },
+  "r15_dialog_031": {
+    "src": "F",
+    "trx": "F"
+  },
+  "information_001": {
+    "src": "Checkpoint Saved",
+    "trx": "Checkpoint Saved"
+  },
+  "information_002": {
+    "src": "Received {0} Eyes!",
+    "trx": "Received {0} Eyes!"
+  },
+  "log_001": {
+    "src": "Look at {0}",
+    "trx": "Look at {0}"
+  },
+  "c570_map_001": {
+    "src": "This map is meant to assist with the investigation.\nIf you figure out the location, close the map and relay it to the others.",
+    "trx": "This map is meant to assist with the investigation.\nIf you figure out the location, close the map and relay it to the others."
+  },
+  "c570_map_002": {
+    "src": "Studio Dvaita",
+    "trx": "Studio Dvaita"
+  },
+  "c570_map_003": {
+    "src": "Misetan Department Store",
+    "trx": "Misetan Department Store"
+  },
+  "c570_map_004": {
+    "src": "Sekiba High",
+    "trx": "Sekiba High"
+  },
+  "c570_map_005": {
+    "src": "Yoyagi Park",
+    "trx": "Yoyagi Park"
+  },
+  "timie_information_001": {
+    "src": "Add {0} seconds\nto time cost",
+    "trx": "Add {0} seconds\nto time cost"
+  },
+  "timie_information_002": {
+    "src": "Remove {0} seconds\nfrom time cost",
+    "trx": "Remove {0} seconds\nfrom time cost"
+  },
+  "timie_information_003": {
+    "src": "Time cost\nis {0} x",
+    "trx": "Time cost\nis {0} x"
+  },
+  "timie_information_004": {
+    "src": "Change time cost\nto 1/{0}",
+    "trx": "Change time cost\nto 1/{0}"
+  },
+  "timie_information_005": {
+    "src": "Change time cost\nto {0} seconds",
+    "trx": "Change time cost\nto {0} seconds"
+  },
+  "ui_title_001": {
+    "src": "Current Goal",
+    "trx": "Current Goal"
+  },
+  "ui_title_002": {
+    "src": "Updated Goal",
+    "trx": "Updated Goal"
+  },
+  "ui_title_003": {
+    "src": "Key",
+    "trx": "Key"
+  },
+  "ui_title_004": {
+    "src": "Key Found!",
+    "trx": "Key Found!"
+  },
+  "ui_title_005": {
+    "src": "Updated Keys!",
+    "trx": "Updated Keys!"
+  },
+  "ui_title_006": {
+    "src": "Depth",
+    "trx": "Depth"
+  },
+  "ui_title_007": {
+    "src": "Updated Depth",
+    "trx": "Updated Depth"
+  },
+  "ui_title_008": {
+    "src": "Psync Objective",
+    "trx": "Psync Objective"
+  },
+  "ui_title_009": {
+    "src": "\"Escape Bunny Moon Shot\" Practice",
+    "trx": "\"Escape Bunny Moon Shot\" Practice"
+  },
+  "ui_title_010": {
+    "src": "\"Escape Bunny Moon Shot\" Grand Finale",
+    "trx": "\"Escape Bunny Moon Shot\" Grand Finale"
+  },
+  "ui_title_011": {
+    "src": "The Flower That Blooms In Snow",
+    "trx": "The Flower That Blooms In Snow"
+  },
+  "ui_description_001": {
+    "src": "Next Objective",
+    "trx": "Next Objective"
+  },
+  "ui_description_002": {
+    "src": "Somnium world rules and Psync subject information",
+    "trx": "Somnium world rules and Psync subject information"
+  },
+  "ui_description_003": {
+    "src": "Current Psync Progress",
+    "trx": "Current Psync Progress"
+  },
+  "ui_description_004": {
+    "src": "Psync objective and information to find",
+    "trx": "Psync objective and information to find"
+  },
+  "ui_description_005": {
+    "src": "Current Location",
+    "trx": "Current Location"
+  },
+  "ui_description_006": {
+    "src": "Unlocked",
+    "trx": "Unlocked"
+  },
+  "ui_description_007": {
+    "src": "Next Lock",
+    "trx": "Next Lock"
+  },
+  "purpose_difficulty_001": {
+    "src": "Difficulty: {0}",
+    "trx": "Difficulty: {0}"
+  },
+  "purpose_difficulty_002": {
+    "src": "Standard",
+    "trx": "Standard"
+  },
+  "purpose_difficulty_003": {
+    "src": "Easy",
+    "trx": "Easy"
+  },
+  "purpose_difficulty_004": {
+    "src": "Story",
+    "trx": "Story"
+  },
+  "purpose_difficulty_detail_001": {
+    "src": "・Countdown Speed: Normal\n・Choice Time Cost: Normal\n・Retries: 3",
+    "trx": "・Countdown Speed: Normal\n・Choice Time Cost: Normal\n・Retries: 3"
+  },
+  "purpose_difficulty_detail_002": {
+    "src": "・Countdown Speed: 1/2\n・Choice Time Cost: 1/2\n・Retries: 6",
+    "trx": "・Countdown Speed: 1/2\n・Choice Time Cost: 1/2\n・Retries: 6"
+  },
+  "purpose_difficulty_detail_003": {
+    "src": "・Countdown Speed: 1/4\n・Choice Time Cost: 1/4\n・Retries: Infinite",
+    "trx": "・Countdown Speed: 1/4\n・Choice Time Cost: 1/4\n・Retries: Infinite"
+  },
+  "scale_001": {
+    "src": "♪Re",
+    "trx": "♪Re"
+  },
+  "scale_002": {
+    "src": "♪Ti",
+    "trx": "♪Ti"
+  },
+  "scale_003": {
+    "src": "♪So",
+    "trx": "♪So"
+  },
+  "scale_004": {
+    "src": "♪Fa",
+    "trx": "♪Fa"
+  },
+  "scale_005": {
+    "src": "♪Do",
+    "trx": "♪Do"
+  },
+  "scale_006": {
+    "src": "♪La",
+    "trx": "♪La"
+  },
+  "scale_007": {
+    "src": "♪Mi",
+    "trx": "♪Mi"
+  },
+  "scale_008": {
+    "src": "Check Diary",
+    "trx": "Check Diary"
+  },
+  "fiction_001": {
+    "src": "This story is a work of fiction. \nAny resemblance to actual people, organizations, product names, and locations are coincidental.",
+    "trx": "This story is a work of fiction. \nAny resemblance to actual people, organizations, product names, and locations are coincidental."
+  },
+  "cautionautosave_001": {
+    "src": "This game features autosave. \nWhen the save icon is displayed on the bottom right, please do not exit the game.",
+    "trx": "This game features autosave. \nWhen the save icon is displayed on the bottom right, please do not exit the game."
+  },
+  "title_dlc_001": {
+    "src": "DLC ep1 released",
+    "trx": "DLC ep1 released"
+  },
+  "title_info_001": {
+    "src": "Choose save data to load",
+    "trx": "Выбрать данные для загрузки"
+  },
+  "title_info_002": {
+    "src": "Start from beginning",
+    "trx": "Начать с начала"
+  },
+  "title_info_003": {
+    "src": "Change settings/difficulty",
+    "trx": "Изменить параметры/сложность"
+  },
+  "title_info_004": {
+    "src": "Additional content for purchase",
+    "trx": "Дополнительный платный контент"
+  },
+  "title_info_005": {
+    "src": "Bonus menu",
+    "trx": "Меню бонусов"
+  },
+  "title_info_006": {
+    "src": "Quit Game",
+    "trx": "Выйти из игры"
+  },
+  "title_menu_001": {
+    "src": "Load Game",
+    "trx": "Загрузка"
+  },
+  "title_menu_002": {
+    "src": "New Game",
+    "trx": "Новая игра"
+  },
+  "title_menu_003": {
+    "src": "Options",
+    "trx": "Параметры"
+  },
+  "title_menu_004": {
+    "src": "Downloadable Content",
+    "trx": "Загружаемый контент"
+  },
+  "title_menu_005": {
+    "src": "Bonus",
+    "trx": "Бонусы"
+  },
+  "title_menu_006": {
+    "src": "Quit",
+    "trx": "Выход"
+  },
+  "title_menu_007": {
+    "src": "Push      Button",
+    "trx": "Push      Button"
+  },
+  "title_username_001": {
+    "src": "Logged in",
+    "trx": "Logged in"
+  },
+  "operation_guide_001": {
+    "src": "Move Cursor",
+    "trx": "Move Cursor"
+  },
+  "operation_guide_002": {
+    "src": "Move Sight",
+    "trx": "Move Sight"
+  },
+  "operation_guide_003": {
+    "src": "Move Camera",
+    "trx": "Move Camera"
+  },
+  "operation_guide_004": {
+    "src": "Check",
+    "trx": "Check"
+  },
+  "operation_guide_005": {
+    "src": "Choose Options",
+    "trx": "Choose Options"
+  },
+  "operation_guide_006": {
+    "src": "Move",
+    "trx": "Move"
+  },
+  "operation_guide_007": {
+    "src": "Controls",
+    "trx": "Controls"
+  },
+  "operation_guide_008": {
+    "src": "Look",
+    "trx": "Look"
+  },
+  "operation_guide_009": {
+    "src": "Check Keys",
+    "trx": "Check Keys"
+  },
+  "operation_guide_010": {
+    "src": "Use, Cancel",
+    "trx": "Use, Cancel"
+  },
+  "operation_guide_011": {
+    "src": "Move Cursor",
+    "trx": "Move Cursor"
+  },
+  "operation_guide_012": {
+    "src": "Enter",
+    "trx": "Enter"
+  },
+  "operation_guide_013": {
+    "src": "Close",
+    "trx": "Close"
+  },
+  "operation_guide_014": {
+    "src": "Skip Page",
+    "trx": "Skip Page"
+  },
+  "operation_guide_015": {
+    "src": "Enlarge",
+    "trx": "Enlarge"
+  },
+  "operation_guide_016": {
+    "src": "Shrink",
+    "trx": "Shrink"
+  },
+  "operation_guide_017": {
+    "src": "Move",
+    "trx": "Move"
+  },
+  "operation_guide_018": {
+    "src": "Zoom",
+    "trx": "Zoom"
+  },
+  "operation_guide_019": {
+    "src": "Current Location ",
+    "trx": "Current Location "
+  },
+  "operation_guide_020": {
+    "src": "Change Choice",
+    "trx": "Change Choice"
+  },
+  "operation_guide_021": {
+    "src": "Navi",
+    "trx": "Navi"
+  },
+  "operation_guide_022": {
+    "src": "Check",
+    "trx": "Check"
+  },
+  "operation_guide_023": {
+    "src": "Display Correct Answer",
+    "trx": "Display Correct Answer"
+  },
+  "operation_guide_024": {
+    "src": "Hide Correct Answer",
+    "trx": "Hide Correct Answer"
+  },
+  "operation_guide_025": {
+    "src": "Close",
+    "trx": "Close"
+  },
+  "operation_guide_026": {
+    "src": "Switch Mode",
+    "trx": "Switch Mode"
+  },
+  "operation_guide_027": {
+    "src": "Hold: Mode List",
+    "trx": "Hold: Mode List"
+  },
+  "operation_guide_028": {
+    "src": "Background\nCharacter\n \nLyrics\nUI ON/OFF\n \nSwitch Camera\nZoom Camera\nReset Camera\n \nNormal Playback\nFast Forward/Cancel\nRewind/Cancel\nSlow/Cancel\n \nRestart\nMirror\nPause/Resume\n \nReplay Grand Finale\nReturn to Bonus Menu",
+    "trx": "Background\nCharacter\n \nLyrics\nUI ON/OFF\n \nSwitch Camera\nZoom Camera\nReset Camera\n \nNormal Playback\nFast Forward/Cancel\nRewind/Cancel\nSlow/Cancel\n \nRestart\nMirror\nPause/Resume\n \nReplay Grand Finale\nReturn to Bonus Menu"
+  },
+  "operation_guide_029": {
+    "src": "Lyrics\nUI ON/OFF\nRestart\nPause/Resume\n \nReturn to Practice\nReturn to Bonus Menu",
+    "trx": "Lyrics\nUI ON/OFF\nRestart\nPause/Resume\n \nReturn to Practice\nReturn to Bonus Menu"
+  },
+  "operation_guide_030": {
+    "src": "Lyrics ON/OFF\nUI ON/OFF\n \nNormal Playback\nFast Forward/Cancel\nRewind/Cancel\nSlow/Cancel\n \nRestart\nPause/Resume\n \nReturn to Bonus Menu",
+    "trx": "Lyrics ON/OFF\nUI ON/OFF\n \nNormal Playback\nFast Forward/Cancel\nRewind/Cancel\nSlow/Cancel\n \nRestart\nPause/Resume\n \nReturn to Bonus Menu"
+  },
+  "operation_guide_031": {
+    "src": "UI Display",
+    "trx": "UI Display"
+  },
+  "operation_guide_032": {
+    "src": "Open Dial",
+    "trx": "Open Dial"
+  },
+  "operation_guide_033": {
+    "src": "Move Cursor",
+    "trx": "Move Cursor"
+  },
+  "operation_guide_034": {
+    "src": "Choose Options",
+    "trx": "Choose Options"
+  },
+  "operation_guide_035": {
+    "src": "Move Choice Cursor",
+    "trx": "Move Choice Cursor"
+  },
+  "operation_guide_036": {
+    "src": "Change Alphabet",
+    "trx": "Change Alphabet"
+  },
+  "operation_guide_037": {
+    "src": "Confirm",
+    "trx": "Confirm"
+  },
+  "operation_guide_038": {
+    "src": "Back",
+    "trx": "Back"
+  },
+  "operation_guide_039": {
+    "src": "Input",
+    "trx": "Input"
+  },
+  "operation_guide_040": {
+    "src": "Turntable Rotation",
+    "trx": "Turntable Rotation"
+  },
+  "operation_guide_041": {
+    "src": "Vehicle Movement",
+    "trx": "Vehicle Movement"
+  },
+  "operation_guide_042": {
+    "src": "Redo",
+    "trx": "Redo"
+  },
+  "operation_guide_043": {
+    "src": "Box Rotation",
+    "trx": "Box Rotation"
+  },
+  "operation_guide_044": {
+    "src": "Move Cursor",
+    "trx": "Move Cursor"
+  },
+  "operation_guide_045": {
+    "src": "Pull Corner",
+    "trx": "Pull Corner"
+  },
+  "operation_guide_058": {
+    "src": "Check Scroll",
+    "trx": "Check Scroll"
+  },
+  "operation_guide_046": {
+    "src": "Choose",
+    "trx": "Choose"
+  },
+  "operation_guide_047": {
+    "src": "Confirm",
+    "trx": "Confirm"
+  },
+  "operation_guide_048": {
+    "src": "Fast Forward",
+    "trx": "Fast Forward"
+  },
+  "operation_guide_049": {
+    "src": "Back",
+    "trx": "Back"
+  },
+  "operation_guide_059": {
+    "src": "1 Square Forward",
+    "trx": "1 Square Forward"
+  },
+  "operation_guide_060": {
+    "src": "2 Squares Forward",
+    "trx": "2 Squares Forward"
+  },
+  "operation_guide_061": {
+    "src": "3 Squares Forward",
+    "trx": "3 Squares Forward"
+  },
+  "operation_guide_062": {
+    "src": "4 Squares Forward",
+    "trx": "4 Squares Forward"
+  },
+  "operation_guide_050": {
+    "src": "Switch Items",
+    "trx": "Switch Items"
+  },
+  "operation_guide_051": {
+    "src": "Items",
+    "trx": "Items"
+  },
+  "third_eye_001": {
+    "src": "Find the Third Path!",
+    "trx": "Find the Third Path!"
+  },
+  "third_eye_002": {
+    "src": "Found the Third Path!",
+    "trx": "Found the Third Path!"
+  },
+  "message_001": {
+    "src": "Difficulty: {0}",
+    "trx": "Difficulty: {0}"
+  },
+  "itemlist_001": {
+    "src": "Combine",
+    "trx": "Combine"
+  },
+  "itemlist_002": {
+    "src": ": Hold",
+    "trx": ": Hold"
+  },
+  "itemlist_003": {
+    "src": "Not Combinable",
+    "trx": "Not Combinable"
+  },
+  "itemlist_004": {
+    "src": "Start Combine Mode",
+    "trx": "Start Combine Mode"
+  },
+  "itemlist_005": {
+    "src": "End Combine Mode",
+    "trx": "End Combine Mode"
+  },
+  "itemlist_006": {
+    "src": "Combine Mode",
+    "trx": "Combine Mode"
+  },
+  "itemlist_007": {
+    "src": "Select item to combine with",
+    "trx": "Select item to combine with"
+  },
+  "operation_guide_052": {
+    "src": "Scroll",
+    "trx": "Scroll"
+  },
+  "operation_guide_053": {
+    "src": "Turn Item",
+    "trx": "Turn Item"
+  },
+  "operation_guide_054": {
+    "src": "Enlarge Item",
+    "trx": "Enlarge Item"
+  },
+  "operation_guide_055": {
+    "src": "See Item",
+    "trx": "See Item"
+  },
+  "operation_guide_056": {
+    "src": "See Image",
+    "trx": "See Image"
+  },
+  "operation_guide_057": {
+    "src": "See Text",
+    "trx": "See Text"
+  },
+  "operation_guide_063": {
+    "src": "Display Text",
+    "trx": "Display Text"
+  },
+  "operation_guide_064": {
+    "src": "Hide Text",
+    "trx": "Hide Text"
+  },
+  "difficulty_004": {
+    "src": "Story",
+    "trx": "Story"
+  },
+  "difficulty_005": {
+    "src": "Easy",
+    "trx": "Easy"
+  },
+  "difficulty_006": {
+    "src": "Standard",
+    "trx": "Standard"
+  },
+  "difficulty_007": {
+    "src": "Hard",
+    "trx": "Hard"
+  },
+  "message_002": {
+    "src": "Investigation (QTE)",
+    "trx": "Investigation (QTE)"
+  },
+  "message_003": {
+    "src": "Somnium",
+    "trx": "Somnium"
+  },
+  "message_004": {
+    "src": "Escape",
+    "trx": "Escape"
+  },
+  "difficulty_info_001": {
+    "src": "This is the recommended setting.\nYou will be given a tense experience.",
+    "trx": "This is the recommended setting.\nYou will be given a tense experience."
+  },
+  "difficulty_info_002": {
+    "src": "This setting makes it relatively easy to progress.",
+    "trx": "This setting makes it relatively easy to progress."
+  },
+  "difficulty_info_003": {
+    "src": "This setting is for people who focus on the story.",
+    "trx": "This setting is for people who focus on the story."
+  },
+  "difficulty_info_004": {
+    "src": "This is the recommended setting.\nThis provides a tense experience you can really sink your teeth into.",
+    "trx": "This is the recommended setting.\nThis provides a tense experience you can really sink your teeth into."
+  },
+  "difficulty_info_005": {
+    "src": "This setting makes it relatively easy to progress.\nYou will have more time and be more free to explore the Somniums.",
+    "trx": "This setting makes it relatively easy to progress.\nYou will have more time and be more free to explore the Somniums."
+  },
+  "difficulty_info_006": {
+    "src": "This setting is for people who focus on the story.\nThis will allow you to fully explore the Somniums without worrying about the time.",
+    "trx": "This setting is for people who focus on the story.\nThis will allow you to fully explore the Somniums without worrying about the time."
+  },
+  "difficulty_info_007": {
+    "src": "This setting is for experienced puzzle solvers.\nIt provides a tense experience and difficulty in solving puzzles.",
+    "trx": "This setting is for experienced puzzle solvers.\nIt provides a tense experience and difficulty in solving puzzles."
+  },
+  "difficulty_info_008": {
+    "src": "This is the recommended setting.\nYou will receive hints, but you will still be able to feel like you solve the puzzles yourself.",
+    "trx": "This is the recommended setting.\nYou will receive hints, but you will still be able to feel like you solve the puzzles yourself."
+  },
+  "difficulty_info_009": {
+    "src": "This setting makes it relatively easy to progress.\nExploration is less trouble and puzzle solving becomes smoother.",
+    "trx": "This setting makes it relatively easy to progress.\nExploration is less trouble and puzzle solving becomes smoother."
+  },
+  "difficulty_info_010": {
+    "src": "This setting is for people who focus on the story.\nYou will receive all the answers you need and progress without issue.",
+    "trx": "This setting is for people who focus on the story.\nYou will receive all the answers you need and progress without issue."
+  },
+  "difficulty_info_011": {
+    "src": "・Time Limit: Normal\n・Repeat Count: Normal",
+    "trx": "・Time Limit: Normal\n・Repeat Count: Normal"
+  },
+  "difficulty_info_012": {
+    "src": "・Time Limit: Double\n・Repeat Count: 1/2",
+    "trx": "・Time Limit: Double\n・Repeat Count: 1/2"
+  },
+  "difficulty_info_013": {
+    "src": "・Time Limit: Infinite\n・Repeat Count: Always 3\n・No failures for misses",
+    "trx": "・Time Limit: Infinite\n・Repeat Count: Always 3\n・No failures for misses"
+  },
+  "difficulty_info_014": {
+    "src": "・Countdown Speed: Normal\n・Choice Time Cost: Normal \n・Retries: 3",
+    "trx": "・Countdown Speed: Normal\n・Choice Time Cost: Normal \n・Retries: 3"
+  },
+  "difficulty_info_015": {
+    "src": "・Countdown Speed: 1/2\n・Choice Time Cost: 1/2 \n・Retries: 6",
+    "trx": "・Countdown Speed: 1/2\n・Choice Time Cost: 1/2 \n・Retries: 6"
+  },
+  "difficulty_info_016": {
+    "src": "・Countdown Speed: 1/4\n・Choice Time Cost: 1/4\n・Retries: Infinite",
+    "trx": "・Countdown Speed: 1/4\n・Choice Time Cost: 1/4\n・Retries: Infinite"
+  },
+  "difficulty_info_017": {
+    "src": "・Crisis Time: 0.8\n・Search Limit: 0\n・Hints: Few",
+    "trx": "・Crisis Time: 0.8\n・Search Limit: 0\n・Hints: Few"
+  },
+  "difficulty_info_018": {
+    "src": "・Crisis Time: Normal\n・Search Limit: 10\n・Hints: Many",
+    "trx": "・Crisis Time: Normal\n・Search Limit: 10\n・Hints: Many"
+  },
+  "difficulty_info_019": {
+    "src": "・Crisis Time: Double\n・Search Limit: Infinite\n・Hints: Many",
+    "trx": "・Crisis Time: Double\n・Search Limit: Infinite\n・Hints: Many"
+  },
+  "difficulty_info_020": {
+    "src": "・Crisis Time: 4x\n・Search Limit: Infinite\n・Hints: Until Solved",
+    "trx": "・Crisis Time: 4x\n・Search Limit: Infinite\n・Hints: Until Solved"
+  },
+  "ui_title_012": {
+    "src": "Difficulty Setting",
+    "trx": "Difficulty Setting"
+  },
+  "difficulty_caption_001": {
+    "src": "Select Difficulty\nThis can be changed at any time.\nThe difficulty setting does not affect the story.",
+    "trx": "Select Difficulty\nThis can be changed at any time.\nThe difficulty setting does not affect the story."
+  },
+  "difficulty_008": {
+    "src": "Story",
+    "trx": "Story"
+  },
+  "difficulty_009": {
+    "src": "Easy",
+    "trx": "Easy"
+  },
+  "difficulty_010": {
+    "src": "Standard",
+    "trx": "Standard"
+  },
+  "difficulty_subtitle_001": {
+    "src": "Investigation (QTE)",
+    "trx": "Investigation (QTE)"
+  },
+  "difficulty_explanation_001": {
+    "src": "The difficulty setting for the Quick Time Events that happen during Investigation.",
+    "trx": "The difficulty setting for the Quick Time Events that happen during Investigation."
+  },
+  "difficulty_subtitle_002": {
+    "src": "Somnium",
+    "trx": "Somnium"
+  },
+  "difficulty_explanation_002": {
+    "src": "The difficulty setting for the explorations of people's memories within their Somniums.",
+    "trx": "The difficulty setting for the explorations of people's memories within their Somniums."
+  },
+  "difficulty_info_021": {
+    "src": "This setting is for people who focus on the story.\nThis will allow you to fully explore the Somniums without worrying about the time.\n・Countdown Speed: 1/4\n・Choice Time Cost: 1/4\n・Retries: Infinite",
+    "trx": "This setting is for people who focus on the story.\nThis will allow you to fully explore the Somniums without worrying about the time.\n・Countdown Speed: 1/4\n・Choice Time Cost: 1/4\n・Retries: Infinite"
+  },
+  "difficulty_info_022": {
+    "src": "This setting makes it relatively easy to progress.\nYou will have more time and be more free to explore the Somniums.\n・Countdown Speed: 1/2\n・Choice Time Cost: 1/2\n・Retries: 6",
+    "trx": "This setting makes it relatively easy to progress.\nYou will have more time and be more free to explore the Somniums.\n・Countdown Speed: 1/2\n・Choice Time Cost: 1/2\n・Retries: 6"
+  },
+  "difficulty_info_023": {
+    "src": "This is the recommended setting.\nThis provides a tense experience you can really sink your teeth into.\n・Countdown Speed: Normal\n・Choice Time Cost: Normal\n・Retries: 3",
+    "trx": "This is the recommended setting.\nThis provides a tense experience you can really sink your teeth into.\n・Countdown Speed: Normal\n・Choice Time Cost: Normal\n・Retries: 3"
+  },
+  "cluelist_explanation_001": {
+    "src": "Total Time Spent",
+    "trx": "Total Time Spent"
+  },
+  "timer_remain_001": {
+    "src": "Remaining Time",
+    "trx": "Remaining Time"
+  },
+  "timer_remain_002": {
+    "src": "Real-time Countdown",
+    "trx": "Real-time Countdown"
+  },
+  "evaluation_001": {
+    "src": "Performance Result",
+    "trx": "Performance Result"
+  },
+  "swing_001": {
+    "src": "Remaining",
+    "trx": "Remaining"
+  },
+  "swing_002": {
+    "src": "Charge Swing",
+    "trx": "Charge Swing"
+  },
+  "swing_003": {
+    "src": "Tossed Shoes {0} Times (AI2: Shoes Kicked: {0})",
+    "trx": "Tossed Shoes {0} Times (AI2: Shoes Kicked: {0})"
+  },
+  "swing_004": {
+    "src": "Aiba's Turn",
+    "trx": "Aiba's Turn"
+  },
+  "swing_005": {
+    "src": "Kizuna's Turn",
+    "trx": "Kizuna's Turn"
+  },
+  "cooking_001": {
+    "src": "Time Cost",
+    "trx": "Time Cost"
+  },
+  "cooking_002": {
+    "src": "Input cooking command!",
+    "trx": "Input cooking command!"
+  },
+  "exsight_001": {
+    "src": "Start of Investigation",
+    "trx": "Start of Investigation"
+  },
+  "exsight_002": {
+    "src": "Obtain Information",
+    "trx": "Obtain Information"
+  },
+  "exsight_003": {
+    "src": "Normal",
+    "trx": "Normal"
+  },
+  "exsight_004": {
+    "src": "X-ray",
+    "trx": "X-ray"
+  },
+  "exsight_005": {
+    "src": "Thermo",
+    "trx": "Thermo"
+  },
+  "exsight_006": {
+    "src": "Nightvision",
+    "trx": "Nightvision"
+  },
+  "exsight_007": {
+    "src": "Sonar",
+    "trx": "Sonar"
+  },
+  "exsight_008": {
+    "src": "Reenacted",
+    "trx": "Reenacted"
+  },
+  "explanation_001": {
+    "src": "Select Language\nThis cannot be changed later.",
+    "trx": "Select Language\nThis cannot be changed later."
+  },
+  "underwater_001": {
+    "src": "Descend",
+    "trx": "Descend"
+  },
+  "underwater_002": {
+    "src": "Ascend",
+    "trx": "Ascend"
+  },
+  "underwater_003": {
+    "src": "Strafe",
+    "trx": "Strafe"
+  },
+  "underwater_004": {
+    "src": "Decelerate",
+    "trx": "Decelerate"
+  },
+  "message_005": {
+    "src": "Reduce difficulty and restart from the checkpoint.",
+    "trx": "Reduce difficulty and restart from the checkpoint."
+  },
+  "message_006": {
+    "src": "Restart from the checkpoint.",
+    "trx": "Restart from the checkpoint."
+  },
+  "message_007": {
+    "src": "Restart from the beginning of the Escape section.",
+    "trx": "Restart from the beginning of the Escape section."
+  },
+  "message_008": {
+    "src": "Open the Flowchart.",
+    "trx": "Open the Flowchart."
+  },
+  "message_009": {
+    "src": "Breach of agreement detected. Shutting down.",
+    "trx": "Breach of agreement detected. Shutting down."
+  },
+  "message_010": {
+    "src": "Probability of Success",
+    "trx": "Probability of Success"
+  },
+  "usarinpa_info_001": {
+    "src": "Found <color=#E8F665>{0}</color>\n<size=80%>Added to FILE 【Appendix】",
+    "trx": "Found <color=#E8F665>{0}</color>\n<size=80%>Added to FILE 【Appendix】"
+  },
+  "psynctarget_001": {
+    "src": "Explorer: {0}",
+    "trx": "Explorer: {0}"
+  },
+  "techno_001": {
+    "src": "The key is to match the colors!",
+    "trx": "The key is to match the colors!"
+  },
+  "techno_002": {
+    "src": "1",
+    "trx": "1"
+  },
+  "techno_003": {
+    "src": "2",
+    "trx": "2"
+  },
+  "techno_004": {
+    "src": "3",
+    "trx": "3"
+  },
+  "techno_005": {
+    "src": "4",
+    "trx": "4"
+  },
+  "techno_006": {
+    "src": "5",
+    "trx": "5"
+  },
+  "techno_007": {
+    "src": "6",
+    "trx": "6"
+  },
+  "techno_008": {
+    "src": "Blue",
+    "trx": "Blue"
+  },
+  "techno_009": {
+    "src": "Green",
+    "trx": "Green"
+  },
+  "techno_010": {
+    "src": "Indigo",
+    "trx": "Indigo"
+  },
+  "techno_011": {
+    "src": "Orange",
+    "trx": "Orange"
+  },
+  "techno_012": {
+    "src": "Red",
+    "trx": "Red"
+  },
+  "techno_013": {
+    "src": "Purple",
+    "trx": "Purple"
+  },
+  "techno_014": {
+    "src": "Yellow",
+    "trx": "Yellow"
+  }
+}

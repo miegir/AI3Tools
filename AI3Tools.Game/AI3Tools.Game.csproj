@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>AI3Tools</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AI3Tools.Core\AI3Tools.Core.csproj" />
+    <ProjectReference Include="..\AI3Tools.Resources.Bundles\AI3Tools.Resources.Bundles.csproj" />
+    <ProjectReference Include="..\AI3Tools.Resources.Il2CppMetadata\AI3Tools.Resources.Il2CppMetadata.csproj" />
+    <ProjectReference Include="..\AI3Tools.Resources.TextMaps\AI3Tools.Resources.TextMaps.csproj" />
+  </ItemGroup>
+
+</Project>
