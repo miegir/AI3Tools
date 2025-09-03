@@ -1,6 +1,15 @@
 # Remove the line below if you want to inherit .editorconfig settings from higher directories
 root = true
 
+# All files
+[*]
+# Diable vsspell at global level
+vsspell_section_id = 67630d5d8166467f961d317bac8469b9
+vsspell_spell_check_as_you_type = false
+vsspell_include_in_project_spell_check = false
+vsspell_code_analyzers_enabled = false
+vsspell_additional_dictionary_folders_67630d5d8166467f961d317bac8469b9 = clear_inherited
+
 # C# files
 [*.cs]
 # Spelling
