@@ -1,214 +1,267 @@
 {
   "001_011": {
     "src": "*huff, huff*!",
-    "trx": "*huff, huff*!"
+    "yax": "*пых, пых*!",
+    "trx": "☯️*пых, пых*!"
   },
   "001_012": {
     "src": "Don't lose him! Go!",
-    "trx": "Don't lose him! Go!"
+    "yax": "Не потеряй его! Иди!",
+    "trx": "☯️Не потеряй его! Иди!"
   },
   "001_013": {
     "src": "Ngh!",
-    "trx": "Ngh!"
+    "yax": "Нгх!",
+    "trx": "☯️Нгх!"
   },
   "001_014": {
     "src": "We finally got you.",
-    "trx": "We finally got you."
+    "yax": "Наконец-то мы добрались до тебя.",
+    "trx": "☯️Наконец-то мы добрались до тебя."
   },
   "001_015": {
     "src": "You little pain in the—",
-    "trx": "You little pain in the—"
+    "yax": "Ты маленькая заноза в заднице.—",
+    "trx": "☯️Ты маленькая заноза в заднице.—"
   },
   "001_016": {
     "src": "Auuugh!",
-    "trx": "Auuugh!"
+    "yax": "Уууух!",
+    "trx": "☯️Уууух!"
   },
   "001_017": {
     "src": "Get him!",
-    "trx": "Get him!"
+    "yax": "Хватай его!",
+    "trx": "☯️Хватай его!"
   },
   "001_018": {
     "src": "Wait, there!",
-    "trx": "Wait, there!"
+    "yax": "Подожди, там!",
+    "trx": "☯️Подожди, там!"
   },
   "001_019": {
     "src": "RRRGAHHH!",
-    "trx": "RRRGAHHH!"
+    "yax": "РРРГАХХХ!",
+    "trx": "☯️РРРГАХХХ!"
   },
   "001_020": {
     "src": "AAAUGH!",
-    "trx": "AAAUGH!"
+    "yax": "Ого!",
+    "trx": "☯️Ого!"
   },
   "001_021": {
     "src": "AAAUGH!",
-    "trx": "AAAUGH!"
+    "yax": "Ого!",
+    "trx": "☯️Ого!"
   },
   "001_022": {
     "src": "AAAUGH!",
-    "trx": "AAAUGH!"
+    "yax": "Ого!",
+    "trx": "☯️Ого!"
   },
   "001_023": {
     "src": "AAAUGH!",
-    "trx": "AAAUGH!"
+    "yax": "Ого!",
+    "trx": "☯️Ого!"
   },
   "001_024": {
     "src": "Ugh...",
-    "trx": "Ugh..."
+    "yax": "Фу...",
+    "trx": "☯️Фу..."
   },
   "001_025": {
     "src": "Gah...",
-    "trx": "Gah..."
+    "yax": "Боже...",
+    "trx": "☯️Боже..."
   },
   "001_026": {
     "src": "Ooo...",
-    "trx": "Ooo..."
+    "yax": "Ооо...",
+    "trx": "☯️Ооо..."
   },
   "001_027": {
     "src": "Ngh...",
-    "trx": "Ngh..."
+    "yax": "Нгх...",
+    "trx": "☯️Нгх..."
   },
   "001_028": {
     "src": "*huff, huff*!",
-    "trx": "*huff, huff*!"
+    "yax": "*пых, пых*!",
+    "trx": "☯️*пых, пых*!"
   },
   "001_029": {
     "src": "Shit... Where'd he go?! Look around, find him!",
-    "trx": "Shit... Where'd he go?! Look around, find him!"
+    "yax": "Дерьмо... Куда он делся?! Оглянись, найди его!",
+    "trx": "☯️Дерьмо... Куда он делся?! Оглянись, найди его!"
   },
   "002_001": {
     "src": "I lost them. Somehow...",
-    "trx": "I lost them. Somehow..."
+    "yax": "Я потерял их. Как-то...",
+    "trx": "☯️Я потерял их. Как-то..."
   },
   "002_002": {
     "src": "What... What was I doing, anyway...?",
-    "trx": "What... What was I doing, anyway...?"
+    "yax": "Что... И вообще, что я делал?..",
+    "trx": "☯️Что... И вообще, что я делал?.."
   },
   "dialog_001": {
     "src": "Would you like to view the tutorial for Investigations?",
-    "trx": "Would you like to view the tutorial for Investigations?"
+    "yax": "Хотели бы вы ознакомиться с руководством по проведению расследований?",
+    "trx": "☯️Хотели бы вы ознакомиться с руководством по проведению расследований?"
   },
   "dialog_002": {
     "src": "The Investigation tutorial is <color=red>OFF</color>.\n\n<color=red>Some necessary information may still be shown.</color>",
-    "trx": "The Investigation tutorial is <color=red>OFF</color>.\n\n<color=red>Some necessary information may still be shown.</color>"
+    "yax": "Руководство по расследованию отключено.\n\nНекоторая необходимая информация по-прежнему может отображаться.</color>",
+    "trx": "☯️Руководство по расследованию отключено.\n\nНекоторая необходимая информация по-прежнему может отображаться.</color>"
   },
   "003_001": {
     "src": "In the broken mirror, I see myself.",
-    "trx": "In the broken mirror, I see myself."
+    "yax": "В разбитом зеркале я вижу себя.",
+    "trx": "☯️В разбитом зеркале я вижу себя."
   },
   "003_002": {
     "src": "My reflection—\"I.\"",
-    "trx": "My reflection—\"I.\""
+    "yax": "Мое отражение — \"я\".",
+    "trx": "☯️Мое отражение — \"я\"."
   },
   "003_003": {
     "src": "But... Who am \"I\" anyway?",
-    "trx": "But... Who am \"I\" anyway?"
+    "yax": "Но... И вообще, кто такой \"я\"?",
+    "trx": "☯️Но... И вообще, кто такой \"я\"?"
   },
   "003_004": {
     "src": "I don't know who it is, but \"I\" am reflected in the broken mirror.",
-    "trx": "I don't know who it is, but \"I\" am reflected in the broken mirror."
+    "yax": "Я не знаю, кто это, но \"я\" отражаюсь в разбитом зеркале.",
+    "trx": "☯️Я не знаю, кто это, но \"я\" отражаюсь в разбитом зеркале."
   },
   "004_001": {
     "src": "The abandoned factory... Right! I...",
-    "trx": "Заброшенная фабрика... Точно! Я..."
+    "yax": "Заброшенный завод... Правильно! Я...",
+    "trx": "☯️Заброшенный завод... Правильно! Я..."
   },
   "005_001": {
     "src": "But whose...?",
-    "trx": "Но чей...?"
+    "yax": "Но чей?..",
+    "trx": "☯️Но чей?.."
   },
   "005_002": {
     "src": "Damn it. Can't remember...",
-    "trx": "Чёрт. Не могу вспомнить..."
+    "yax": "Черт возьми. Не могу вспомнить...",
+    "trx": "☯️Черт возьми. Не могу вспомнить..."
   },
   "006_001": {
     "src": "The police? What did I do this time...?",
-    "trx": "Полиция? Что я сделал на этот раз...?"
+    "yax": "В полицию? Что я натворил на этот раз?..",
+    "trx": "☯️В полицию? Что я натворил на этот раз?.."
   },
   "006_002": {
     "src": "No, no. The guys chasing me don't look like cops...",
-    "trx": "Нет, нет. Мои преследователи не были похожи на полицейских..."
+    "yax": "- нет, нет. Парни, преследующие меня, не похожи на копов...",
+    "trx": "☯️- нет, нет. Парни, преследующие меня, не похожи на копов..."
   },
   "006_003": {
     "src": "Why can't I remember anything?!",
-    "trx": "Почему я ничего не могу вспомнить?!"
+    "yax": "Почему я ничего не могу вспомнить?!",
+    "trx": "☯️Почему я ничего не могу вспомнить?!"
   },
   "007_001": {
     "src": "Right. Okay... I just happened to not have enough money, so I had no choice but to...",
-    "trx": "Right. Okay... I just happened to not have enough money, so I had no choice but to..."
+    "yax": "Верно. Хорошо... Так получилось, что у меня просто не хватило денег, так что у меня не было другого выбора, кроме как сделать это...",
+    "trx": "☯️Верно. Хорошо... Так получилось, что у меня просто не хватило денег, так что у меня не было другого выбора, кроме как сделать это..."
   },
   "007_002": {
     "src": "...",
-    "trx": "..."
+    "yax": "...",
+    "trx": "☯️..."
   },
   "007_003": {
     "src": "But how the hell would that end up with me being chased by...macho muscle baldies?!",
-    "trx": "But how the hell would that end up with me being chased by...macho muscle baldies?!"
+    "yax": "Но как, черт возьми, это могло закончиться, если за мной будут гоняться... мускулистые лысые мачо?!",
+    "trx": "☯️Но как, черт возьми, это могло закончиться, если за мной будут гоняться... мускулистые лысые мачо?!"
   },
   "007_004": {
     "src": "What the hell even happened?!",
-    "trx": "What the hell even happened?!"
+    "yax": "Что, черт возьми, вообще произошло?!",
+    "trx": "☯️Что, черт возьми, вообще произошло?!"
   },
   "008_001": {
     "src": "I was running from that abandoned factory...to get away from him.",
-    "trx": "I was running from that abandoned factory...to get away from him."
+    "yax": "Я убегал от этого брошенного человека factory...to отойди от него подальше.",
+    "trx": "☯️Я убегал от этого брошенного человека factory...to отойди от него подальше."
   },
   "008_002": {
     "src": "Him...?",
-    "trx": "Him...?"
+    "yax": "Он?..",
+    "trx": "☯️Он?.."
   },
   "008_003": {
     "src": "Who is that, again...?",
-    "trx": "Who is that, again...?"
+    "yax": "Еще раз, кто это?..",
+    "trx": "☯️Еще раз, кто это?.."
   },
   "prompt_001": {
     "src": "Who is that, again...?",
-    "trx": "Who is that, again...?"
+    "yax": "Еще раз, кто это?..",
+    "trx": "☯️Еще раз, кто это?.."
   },
   "008_004": {
     "src": "What was his name?",
-    "trx": "What was his name?"
+    "yax": "Как его звали?",
+    "trx": "☯️Как его звали?"
   },
   "008_005": {
     "src": "I almost had it for a sec there, but... Damn, it's not coming back to me.",
-    "trx": "I almost had it for a sec there, but... Damn, it's not coming back to me."
+    "yax": "На секунду у меня это почти получилось, но... Черт, никак не могу вспомнить.",
+    "trx": "☯️На секунду у меня это почти получилось, но... Черт, никак не могу вспомнить."
   },
   "008_006": {
     "src": "I never met anyone with a name like that in my life...",
-    "trx": "I never met anyone with a name like that in my life..."
+    "yax": "Я никогда в жизни не встречал никого с таким именем...",
+    "trx": "☯️Я никогда в жизни не встречал никого с таким именем..."
   },
   "008_007": {
     "src": "Is it even a person's name?",
-    "trx": "Is it even a person's name?"
+    "yax": "Это вообще имя человека?",
+    "trx": "☯️Это вообще имя человека?"
   },
   "008_008": {
     "src": "Damn it... I don't know...",
-    "trx": "Damn it... I don't know..."
+    "yax": "Черт возьми... Я не знаю...",
+    "trx": "☯️Черт возьми... Я не знаю..."
   },
   "009_001": {
     "src": "Saito... Saito Sejima...",
-    "trx": "Saito... Saito Sejima..."
+    "yax": "Сайто... Сайто Седжима...",
+    "trx": "☯️Сайто... Сайто Седжима..."
   },
   "009_002": {
     "src": "Right. He's the one who...",
-    "trx": "Right. He's the one who..."
+    "yax": "Верно. Он тот, кто...",
+    "trx": "☯️Верно. Он тот, кто..."
   },
   "010_001": {
     "src": "Shit, someone's here!",
-    "trx": "Shit, someone's here!"
+    "yax": "Черт, здесь кто-то есть!",
+    "trx": "☯️Черт, здесь кто-то есть!"
   },
   "choice_001": {
     "src": "I escaped from an abandoned factory.",
-    "trx": "I escaped from an abandoned factory."
+    "yax": "Я сбежал с заброшенной фабрики.",
+    "trx": "☯️Я сбежал с заброшенной фабрики."
   },
   "choice_002": {
     "src": "I escaped from a mansion.",
-    "trx": "I escaped from a mansion."
+    "yax": "Я сбежал из особняка.",
+    "trx": "☯️Я сбежал из особняка."
   },
   "choice_003": {
     "src": "I escaped from the police.",
-    "trx": "I escaped from the police."
+    "yax": "Я сбежал от полиции.",
+    "trx": "☯️Я сбежал от полиции."
   },
   "choice_004": {
     "src": "I escaped from the diner without paying.",
-    "trx": "I escaped from the diner without paying."
+    "yax": "Я сбежал из закусочной, не заплатив.",
+    "trx": "☯️Я сбежал из закусочной, не заплатив."
   }
 }

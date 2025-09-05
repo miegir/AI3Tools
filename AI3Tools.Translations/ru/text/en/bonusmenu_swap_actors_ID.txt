@@ -1,0 +1,77 @@
+{
+  "bonusmenu_swap_actors_001": {
+    "src": "",
+    "yax": "",
+    "trx": "☯️"
+  },
+  "bonusmenu_swap_actors_002": {
+    "src": "",
+    "yax": "",
+    "trx": "☯️"
+  },
+  "bonusmenu_swap_actors_003": {
+    "src": "",
+    "yax": "",
+    "trx": "☯️"
+  },
+  "bonusmenu_swap_actors_004": {
+    "src": "",
+    "yax": "",
+    "trx": "☯️"
+  },
+  "bonusmenu_swap_actors_005": {
+    "src": "",
+    "yax": "",
+    "trx": "☯️"
+  },
+  "bonusmenu_swap_actors_006": {
+    "src": "",
+    "yax": "",
+    "trx": "☯️"
+  },
+  "bonusmenu_swap_actors_007": {
+    "src": "",
+    "yax": "",
+    "trx": "☯️"
+  },
+  "bonusmenu_swap_actors_008": {
+    "src": "",
+    "yax": "",
+    "trx": "☯️"
+  },
+  "bonusmenu_swap_actors_009": {
+    "src": "",
+    "yax": "",
+    "trx": "☯️"
+  },
+  "bonusmenu_swap_actors_010": {
+    "src": "",
+    "yax": "",
+    "trx": "☯️"
+  },
+  "bonusmenu_swap_actors_011": {
+    "src": "",
+    "yax": "",
+    "trx": "☯️"
+  },
+  "bonusmenu_swap_actors_012": {
+    "src": "",
+    "yax": "",
+    "trx": "☯️"
+  },
+  "bonusmenu_swap_actors_013": {
+    "src": "",
+    "yax": "",
+    "trx": "☯️"
+  },
+  "bonusmenu_swap_actors_014": {
+    "src": "",
+    "yax": "",
+    "trx": "☯️"
+  },
+  "bonusmenu_swap_actors_015": {
+    "src": "",
+    "yax": "",
+    "trx": "☯️"
+  }
+}

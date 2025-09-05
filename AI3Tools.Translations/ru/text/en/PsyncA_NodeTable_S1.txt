@@ -1,0 +1,272 @@
+{
+  "target_001": {
+    "src": "Script",
+    "yax": "Скрипт",
+    "trx": "☯️Скрипт"
+  },
+  "target_002": {
+    "src": "Pick up",
+    "yax": "Подбирать",
+    "trx": "☯️Подбирать"
+  },
+  "object_name_001": {
+    "src": "Gun",
+    "yax": "Пушка",
+    "trx": "☯️Пушка"
+  },
+  "target_003": {
+    "src": "Enter",
+    "yax": "Входить",
+    "trx": "☯️Входить"
+  },
+  "object_name_002": {
+    "src": "Giant Monitor",
+    "yax": "Гигантский монитор",
+    "trx": "☯️Гигантский монитор"
+  },
+  "target_007": {
+    "src": "Examine",
+    "yax": "Исследовать",
+    "trx": "☯️Исследовать"
+  },
+  "object_name_003": {
+    "src": "Door-Shaped Monitor A",
+    "yax": "Монитор в форме двери A",
+    "trx": "☯️Монитор в форме двери A"
+  },
+  "target_008": {
+    "src": "Examine",
+    "yax": "Исследовать",
+    "trx": "☯️Исследовать"
+  },
+  "object_name_004": {
+    "src": "Door-Shaped Monitor B",
+    "yax": "Монитор в форме двери B",
+    "trx": "☯️Монитор в форме двери B"
+  },
+  "target_009": {
+    "src": "Talk",
+    "yax": "Поговорить",
+    "trx": "☯️Поговорить"
+  },
+  "object_name_005": {
+    "src": "Mystery Person",
+    "yax": "Таинственный человек",
+    "trx": "☯️Таинственный человек"
+  },
+  "target_005": {
+    "src": "Enter",
+    "yax": "Входить",
+    "trx": "☯️Входить"
+  },
+  "object_name_006": {
+    "src": "Giant Monitor",
+    "yax": "Гигантский монитор",
+    "trx": "☯️Гигантский монитор"
+  },
+  "target_010": {
+    "src": "Wait Here",
+    "yax": "Жди здесь",
+    "trx": "☯️Жди здесь"
+  },
+  "object_name_007": {
+    "src": "Door-Shaped Monitor C",
+    "yax": "Монитор в форме двери C",
+    "trx": "☯️Монитор в форме двери C"
+  },
+  "target_011": {
+    "src": "Examine",
+    "yax": "Исследовать",
+    "trx": "☯️Исследовать"
+  },
+  "object_name_008": {
+    "src": "Door-Shaped Monitor D",
+    "yax": "Монитор в форме двери D",
+    "trx": "☯️Монитор в форме двери D"
+  },
+  "target_012": {
+    "src": "Examine",
+    "yax": "Исследовать",
+    "trx": "☯️Исследовать"
+  },
+  "object_name_009": {
+    "src": "Door-Shaped Monitor E",
+    "yax": "Монитор в форме двери E",
+    "trx": "☯️Монитор в форме двери E"
+  },
+  "target_013": {
+    "src": "Talk",
+    "yax": "Поговорить",
+    "trx": "☯️Поговорить"
+  },
+  "object_name_010": {
+    "src": "Mystery Person",
+    "yax": "Таинственный человек",
+    "trx": "☯️Таинственный человек"
+  },
+  "target_006": {
+    "src": "Enter",
+    "yax": "Входить",
+    "trx": "☯️Входить"
+  },
+  "object_name_011": {
+    "src": "Door-Shaped Monitor F",
+    "yax": "Монитор в форме двери F",
+    "trx": "☯️Монитор в форме двери F"
+  },
+  "target_014": {
+    "src": "Talk",
+    "yax": "Поговорить",
+    "trx": "☯️Поговорить"
+  },
+  "object_name_012": {
+    "src": "Mystery Person",
+    "yax": "Таинственный человек",
+    "trx": "☯️Таинственный человек"
+  },
+  "target_015": {
+    "src": "Enter",
+    "yax": "Входить",
+    "trx": "☯️Входить"
+  },
+  "object_name_013": {
+    "src": "Door-Shaped Monitor G",
+    "yax": "Монитор в форме двери G",
+    "trx": "☯️Монитор в форме двери G"
+  },
+  "target_016": {
+    "src": "Read",
+    "yax": "Прочитай",
+    "trx": "☯️Прочитай"
+  },
+  "object_name_014": {
+    "src": "Script",
+    "yax": "Скрипт",
+    "trx": "☯️Скрипт"
+  },
+  "target_017": {
+    "src": "Take and Throw",
+    "yax": "Бери и выбрасывай",
+    "trx": "☯️Бери и выбрасывай"
+  },
+  "object_name_015": {
+    "src": "Umbrella",
+    "yax": "Зонтик",
+    "trx": "☯️Зонтик"
+  },
+  "target_018": {
+    "src": "Take and Throw",
+    "yax": "Бери и выбрасывай",
+    "trx": "☯️Бери и выбрасывай"
+  },
+  "object_name_016": {
+    "src": "Paper Airplane",
+    "yax": "Бумажный самолетик",
+    "trx": "☯️Бумажный самолетик"
+  },
+  "target_019": {
+    "src": "Take and Throw",
+    "yax": "Бери и выбрасывай",
+    "trx": "☯️Бери и выбрасывай"
+  },
+  "object_name_017": {
+    "src": "Spring Onion",
+    "yax": "Зеленый лук",
+    "trx": "☯️Зеленый лук"
+  },
+  "target_020": {
+    "src": "Take and Throw",
+    "yax": "Бери и выбрасывай",
+    "trx": "☯️Бери и выбрасывай"
+  },
+  "object_name_018": {
+    "src": "Nondescript Man",
+    "yax": "Ничем не примечательный мужчина",
+    "trx": "☯️Ничем не примечательный мужчина"
+  },
+  "target_021": {
+    "src": "A. Matchstick Fire",
+    "yax": "A. Огонь от спички",
+    "trx": "☯️A. Огонь от спички"
+  },
+  "object_name_019": {
+    "src": "Stepping Stone A",
+    "yax": "Ступенька А",
+    "trx": "☯️Ступенька А"
+  },
+  "target_022": {
+    "src": "B. Cigarette Fire",
+    "yax": "B. Возгорание сигареты",
+    "trx": "☯️B. Возгорание сигареты"
+  },
+  "object_name_020": {
+    "src": "Stepping Stone B",
+    "yax": "Ступенька В",
+    "trx": "☯️Ступенька В"
+  },
+  "target_023": {
+    "src": "Die A",
+    "yax": "Умереть В",
+    "trx": "☯️Умереть В"
+  },
+  "object_name_021": {
+    "src": "Frame A",
+    "yax": "Кадр А",
+    "trx": "☯️Кадр А"
+  },
+  "target_024": {
+    "src": "Die B",
+    "yax": "Умереть В",
+    "trx": "☯️Умереть В"
+  },
+  "object_name_022": {
+    "src": "Frame B",
+    "yax": "Кадр В",
+    "trx": "☯️Кадр В"
+  },
+  "target_025": {
+    "src": "A. Baking Soda",
+    "yax": "A. Пищевая сода",
+    "trx": "☯️A. Пищевая сода"
+  },
+  "object_name_023": {
+    "src": "Route A",
+    "yax": "Маршрут А",
+    "trx": "☯️Маршрут А"
+  },
+  "target_026": {
+    "src": "B. Citric Acid",
+    "yax": "B. Лимонная кислота",
+    "trx": "☯️B. Лимонная кислота"
+  },
+  "object_name_024": {
+    "src": "Route B",
+    "yax": "Маршрут В",
+    "trx": "☯️Маршрут В"
+  },
+  "target_027": {
+    "src": "A. 1",
+    "yax": "А. 1",
+    "trx": "☯️А. 1"
+  },
+  "object_name_025": {
+    "src": "Rope A",
+    "yax": "Веревка А",
+    "trx": "☯️Веревка А"
+  },
+  "target_028": {
+    "src": "B. 2",
+    "yax": "В. 2",
+    "trx": "☯️В. 2"
+  },
+  "object_name_026": {
+    "src": "Rope B",
+    "yax": "Веревка B",
+    "trx": "☯️Веревка B"
+  },
+  "target_029": {
+    "src": "Barstool",
+    "yax": "Барный стул",
+    "trx": "☯️Барный стул"
+  }
+}

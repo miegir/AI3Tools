@@ -1,0 +1,257 @@
+{
+  "HalfToOneSolo_018": {
+    "src": "Here we are alone again, the world's coming to an end",
+    "yax": "Мы снова здесь одни, конец света подходит к концу.",
+    "trx": "☯️Мы снова здесь одни, конец света подходит к концу."
+  },
+  "HalfToOneSolo_019": {
+    "src": "Light is fading fast and it's lookin' like a disaster",
+    "yax": "Свет быстро меркнет, и это похоже на катастрофу.",
+    "trx": "☯️Свет быстро меркнет, и это похоже на катастрофу."
+  },
+  "HalfToOneSolo_020": {
+    "src": "Jump on to the UFO, and toward the mirror's glow, we go",
+    "yax": "Запрыгиваем на НЛО, и мы направляемся к зеркальному сиянию.",
+    "trx": "☯️Запрыгиваем на НЛО, и мы направляемся к зеркальному сиянию."
+  },
+  "HalfToOneSolo_021": {
+    "src": "Begin here at the end less is more is what they say, picture perfect naivete",
+    "yax": "Начинай с конца, меньше значит больше - вот что они говорят, идеальная наивность.",
+    "trx": "☯️Начинай с конца, меньше значит больше - вот что они говорят, идеальная наивность."
+  },
+  "HalfToOneSolo_022": {
+    "src": "Trace along the lemniscate and never letting go",
+    "yax": "Проследи за лемнискатой и никогда не отпускай ее.",
+    "trx": "☯️Проследи за лемнискатой и никогда не отпускай ее."
+  },
+  "HalfToOneSolo_023": {
+    "src": "Our time is running out, so I'll say what should be said",
+    "yax": "Наше время на исходе, поэтому я скажу то, что должно быть сказано",
+    "trx": "☯️Наше время на исходе, поэтому я скажу то, что должно быть сказано"
+  },
+  "HalfToOneSolo_024": {
+    "src": "I'm taking you along with me and making you see",
+    "yax": "Я беру тебя с собой и заставляю тебя увидеть",
+    "trx": "☯️Я беру тебя с собой и заставляю тебя увидеть"
+  },
+  "HalfToOneSolo_025": {
+    "src": "The future we were promised is over and done",
+    "yax": "Будущее, которое нам обещали, свершилось.",
+    "trx": "☯️Будущее, которое нам обещали, свершилось."
+  },
+  "HalfToOneSolo_026": {
+    "src": "Gotta go, a galaxy of burning love is aglow",
+    "yax": "Пора уходить, галактика пылающей любви пылает вовсю.",
+    "trx": "☯️Пора уходить, галактика пылающей любви пылает вовсю."
+  },
+  "HalfToOneSolo_027": {
+    "src": "Gotta grab the gravity and go jump the moon shot",
+    "yax": "Нужно воспользоваться гравитацией и прыгнуть на луну.",
+    "trx": "☯️Нужно воспользоваться гравитацией и прыгнуть на луну."
+  },
+  "HalfToOneSolo_028": {
+    "src": "Second thoughts not enough to keep me from fantasy",
+    "yax": "Раздумий недостаточно, чтобы удержать меня от фантазий.",
+    "trx": "☯️Раздумий недостаточно, чтобы удержать меня от фантазий."
+  },
+  "HalfToOneSolo_029": {
+    "src": "I confess I have a sweet tooth and I'm gunning for two",
+    "yax": "Признаюсь, я сладкоежка и мечтаю о двух",
+    "trx": "☯️Признаюсь, я сладкоежка и мечтаю о двух"
+  },
+  "HalfToOneSolo_030": {
+    "src": "Strawberry revolver to shoot your heart out free",
+    "yax": "Клубничный револьвер, который прострелит твое сердце бесплатно",
+    "trx": "☯️Клубничный револьвер, который прострелит твое сердце бесплатно"
+  },
+  "HalfToOneSolo_031": {
+    "src": "In sync, daring, and bold, as long as I have you",
+    "yax": "Синхронно, дерзко и дерзко - до тех пор, пока у меня есть ты.",
+    "trx": "☯️Синхронно, дерзко и дерзко - до тех пор, пока у меня есть ты."
+  },
+  "HalfToOneSolo_032": {
+    "src": "All those things so dear to me, stowed away with lock and key",
+    "yax": "Все эти вещи, которые так дороги мне, спрятаны под замком.",
+    "trx": "☯️Все эти вещи, которые так дороги мне, спрятаны под замком."
+  },
+  "HalfToOneSolo_033": {
+    "src": "Kept my presents past 'cuz the future's coming even faster",
+    "yax": "Оставил свои подарки в прошлом, потому что будущее наступает еще быстрее.",
+    "trx": "☯️Оставил свои подарки в прошлом, потому что будущее наступает еще быстрее."
+  },
+  "HalfToOneSolo_034": {
+    "src": "Couldn't bear to see them break, didn't dare make a mistake, heartache",
+    "yax": "Не мог вынести, когда они ломались, не осмеливался совершить ошибку, испытывал душевную боль.",
+    "trx": "☯️Не мог вынести, когда они ломались, не осмеливался совершить ошибку, испытывал душевную боль."
+  },
+  "HalfToOneSolo_035": {
+    "src": "And then I got to thinking pawns of time can not be queens, only halcyon dreams are pristine",
+    "yax": "И тогда я пришел к мысли, что пешки времени не могут быть ферзями, только безмятежные мечты остаются нетронутыми.",
+    "trx": "☯️И тогда я пришел к мысли, что пешки времени не могут быть ферзями, только безмятежные мечты остаются нетронутыми."
+  },
+  "HalfToOneSolo_036": {
+    "src": "Memories are lost to time, but we can make some more",
+    "yax": "Воспоминания утрачены со временем, но мы можем создать еще что-то",
+    "trx": "☯️Воспоминания утрачены со временем, но мы можем создать еще что-то"
+  },
+  "HalfToOneSolo_037": {
+    "src": "I don't let it bother me, I got plenty left in me still",
+    "yax": "Я не позволяю этому беспокоить меня, во мне еще много чего осталось.",
+    "trx": "☯️Я не позволяю этому беспокоить меня, во мне еще много чего осталось."
+  },
+  "HalfToOneSolo_038": {
+    "src": "And together we can always rebuild anything that breaks",
+    "yax": "И вместе мы всегда сможем восстановить все, что разрушается.",
+    "trx": "☯️И вместе мы всегда сможем восстановить все, что разрушается."
+  },
+  "HalfToOneSolo_039": {
+    "src": "No matter what life throws at us, we have each other",
+    "yax": "Что бы ни подкидывала нам жизнь, мы есть друг у друга",
+    "trx": "☯️Что бы ни подкидывала нам жизнь, мы есть друг у друга"
+  },
+  "HalfToOneSolo_040": {
+    "src": "Never know, a nebula of lonely love dynamo",
+    "yax": "Никогда не знаешь наверняка, туманность одинокой любви.",
+    "trx": "☯️Никогда не знаешь наверняка, туманность одинокой любви."
+  },
+  "HalfToOneSolo_041": {
+    "src": "Now there's next to nothing left so go jump the moonshot",
+    "yax": "Теперь там почти ничего не осталось, так что давай, прыгай на луну.",
+    "trx": "☯️Теперь там почти ничего не осталось, так что давай, прыгай на луну."
+  },
+  "HalfToOneSolo_042": {
+    "src": "Trample on the past, and the future, and everything",
+    "yax": "Растоптать прошлое, и будущее, и все остальное",
+    "trx": "☯️Растоптать прошлое, и будущее, и все остальное"
+  },
+  "HalfToOneSolo_043": {
+    "src": "Even though a tsunami in the sea of soda",
+    "yax": "Даже несмотря на цунами в содовом море",
+    "trx": "☯️Даже несмотря на цунами в содовом море"
+  },
+  "HalfToOneSolo_044": {
+    "src": "Is filling up your cup and it will take your breath away",
+    "yax": "Это наполнит вашу чашу, и у вас захватит дух",
+    "trx": "☯️Это наполнит вашу чашу, и у вас захватит дух"
+  },
+  "HalfToOneSolo_045": {
+    "src": "I will see you again at our next place to be",
+    "yax": "Я увижу вас снова в нашем следующем месте, где мы будем",
+    "trx": "☯️Я увижу вас снова в нашем следующем месте, где мы будем"
+  },
+  "HalfToOneSolo_046": {
+    "src": "Even if you can't see me under the moonlight, listen close",
+    "yax": "Даже если ты не видишь меня в лунном свете, слушай внимательно",
+    "trx": "☯️Даже если ты не видишь меня в лунном свете, слушай внимательно"
+  },
+  "HalfToOneSolo_047": {
+    "src": "I'm shouting \"I am right here!\" Hear my message ringing in the night",
+    "yax": "Я кричу: \"Я здесь!\" Слышу, как в ночи раздается мое сообщение.",
+    "trx": "☯️Я кричу: \"Я здесь!\" Слышу, как в ночи раздается мое сообщение."
+  },
+  "HalfToOneSolo_048": {
+    "src": "Let me hear you out there! Jump with me!",
+    "yax": "Дайте мне послушать вас! Прыгайте вместе со мной!",
+    "trx": "☯️Дайте мне послушать вас! Прыгайте вместе со мной!"
+  },
+  "HalfToOneSolo_049": {
+    "src": "Take my hand, escape with me, we'll make it to the end (Flying, rising, A-set you bet!)",
+    "yax": "Возьми меня за руку, убегай со мной, мы дойдем до конца (Полет, взлет, победа, не сомневайся!)",
+    "trx": "☯️Возьми меня за руку, убегай со мной, мы дойдем до конца (Полет, взлет, победа, не сомневайся!)"
+  },
+  "HalfToOneSolo_050": {
+    "src": "I'll take you to the future on the dream you can depend (Photon, proton, A-set you bet!)",
+    "yax": "Я поведу тебя в будущее, к мечте, на которую ты можешь положиться (Фотон, протон, А-сет, ставь!)",
+    "trx": "☯️Я поведу тебя в будущее, к мечте, на которую ты можешь положиться (Фотон, протон, А-сет, ставь!)"
+  },
+  "HalfToOneSolo_051": {
+    "src": "Can you see it now? (A-set express!)",
+    "yax": "Ты видишь это сейчас? (Экспресс-набор!)",
+    "trx": "☯️Ты видишь это сейчас? (Экспресс-набор!)"
+  },
+  "HalfToOneSolo_052": {
+    "src": "Coming fast and loud? (Line to the light!)",
+    "yax": "Приближаетесь быстро и громко? (Подойдите к свету!)",
+    "trx": "☯️Приближаетесь быстро и громко? (Подойдите к свету!)"
+  },
+  "HalfToOneSolo_053": {
+    "src": "Fascinating (Fascinating)",
+    "yax": "Увлекательный (завораживающий)",
+    "trx": "☯️Увлекательный (завораживающий)"
+  },
+  "HalfToOneSolo_054": {
+    "src": "Navigating (Captivating)",
+    "yax": "Навигация (увлекательная)",
+    "trx": "☯️Навигация (увлекательная)"
+  },
+  "HalfToOneSolo_055": {
+    "src": "I (We!)",
+    "yax": "Я (Мы!)",
+    "trx": "☯️Я (Мы!)"
+  },
+  "HalfToOneSolo_056": {
+    "src": "Say (Say!)",
+    "yax": "Скажи (Скажи!)",
+    "trx": "☯️Скажи (Скажи!)"
+  },
+  "HalfToOneSolo_057": {
+    "src": "Sayonara (Tesa don't go!)",
+    "yax": "Сайонара (Теза, не уходи!)",
+    "trx": "☯️Сайонара (Теза, не уходи!)"
+  },
+  "HalfToOneSolo_058": {
+    "src": "3-2-1, clock is ticking can you outrun the sun?",
+    "yax": "3-2-1, часы тикают, сможешь ли ты обогнать солнце?",
+    "trx": "☯️3-2-1, часы тикают, сможешь ли ты обогнать солнце?"
+  },
+  "HalfToOneSolo_059": {
+    "src": "Kick over the hourglass and go jump the moon shot",
+    "yax": "Переверни песочные часы и прыгай на луну.",
+    "trx": "☯️Переверни песочные часы и прыгай на луну."
+  },
+  "HalfToOneSolo_060": {
+    "src": "Astronauts hum along to the tune of this rhapsody",
+    "yax": "Астронавты подпевают мелодии этой рапсодии",
+    "trx": "☯️Астронавты подпевают мелодии этой рапсодии"
+  },
+  "HalfToOneSolo_061": {
+    "src": "On the road of winding shadows as planets go by",
+    "yax": "По дороге извилистых теней, когда мимо проплывают планеты.",
+    "trx": "☯️По дороге извилистых теней, когда мимо проплывают планеты."
+  },
+  "HalfToOneSolo_062": {
+    "src": "Skipping to infinity, \"so long, Space and Time!\"",
+    "yax": "Перескакивая в бесконечность, \"Прощай, Пространство и время!\"",
+    "trx": "☯️Перескакивая в бесконечность, \"Прощай, Пространство и время!\""
+  },
+  "HalfToOneSolo_063": {
+    "src": "So now let's disappear, cuz",
+    "yax": "Так что теперь давай исчезнем, потому что",
+    "trx": "☯️Так что теперь давай исчезнем, потому что"
+  },
+  "HalfToOneSolo_064": {
+    "src": "There is only one of you and",
+    "yax": "Есть только один из вас, и",
+    "trx": "☯️Есть только один из вас, и"
+  },
+  "HalfToOneSolo_065": {
+    "src": "One of me in this entire world",
+    "yax": "Один из меня во всем этом мире",
+    "trx": "☯️Один из меня во всем этом мире"
+  },
+  "HalfToOneSolo_066": {
+    "src": "Turn off the spotlight",
+    "yax": "Выключите прожектор",
+    "trx": "☯️Выключите прожектор"
+  },
+  "HalfToOneSolo_067": {
+    "src": "There is no \"next time\"",
+    "yax": "Нет никакого \"следующего раза\".",
+    "trx": "☯️Нет никакого \"следующего раза\"."
+  },
+  "HalfToOneSolo_068": {
+    "src": "This is goodbye",
+    "yax": "Это прощание",
+    "trx": "☯️Это прощание"
+  }
+}

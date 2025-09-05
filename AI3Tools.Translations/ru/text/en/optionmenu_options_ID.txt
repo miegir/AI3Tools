@@ -1,0 +1,262 @@
+{
+  "optionmenu_options_001": {
+    "src": "Settings Request Sheet",
+    "yax": "Лист запроса настроек",
+    "trx": "Ведомость настроек"
+  },
+  "optionmenu_options_002": {
+    "src": "Please check off your requested categories below and submit to your superior.",
+    "yax": "Пожалуйста, отметьте желаемые категории ниже и отправьте их своему начальнику.",
+    "trx": "Заполните приведенную ниже ведомость настроек и отправьте ее своему руководителю."
+  },
+  "optionmenu_options_003": {
+    "src": "Sound\n \n \n \n \n \nControls\n \n \n \n \n \n \n \n \n \nText\n \n \n \nScreen\n \nLanguage\nTutorial\n \n \nTrivia",
+    "yax": "Звук\n \n \n \n \n \nУправления\n \n \n \n \n \n \n \n \n \nТекст\n \n \n \nЭкран\n \nЯзык\nРуководство\n \n \nМелочи",
+    "trx": "Громкость\n \n \n \n \n \nУправление\n \n \n \n \n \n \n \n \n \nТекст\n \n \n \nЭкран\n \nЯзык\nОбучение\n \n \nФакты"
+  },
+  "optionmenu_options_004": {
+    "src": "BGM Volume\n \nSFX Volume\n \nVoice Volume\n \nCursor Speed\n \nFirst-Person Vertical Camera\nFirst-Person Horizontal Camera\nFirst-Person Camera Speed\n \nThird-Person Vertical Camera\nThird-Person Horizontal Camera\nThird-Person Camera Speed\n \nFont Size\nDisplay Type\nSkip Type\nSkip First-time Scene\nBrightness\n \nVoice\nInvestigation\nSomnium\nEscape",
+    "yax": "Громкость BGM\n \nГромкость SFX\n \nГромкость голоса\n \nСкорость движения курсора\n \nВертикальная камера от первого лица\nГоризонтальная камера от первого лица\nСкорость камеры от первого лица\n \nВертикальная камера от третьего лица\nГоризонтальная камера от третьего лица\nСкорость камеры от третьего лица\n \nразмер шрифта\nТип отображения\nТип пропуска\nПропустить сцену в первый раз\nЯркость\n \nГолос\nРасследование\nСомниум\nПобег",
+    "trx": "Музыка\n \nЭффекты\n \nОзвучка\n \nСкорость курсора\n \nОт 1-го лица: вертикальная ось\nОт 1-го лица: <cspace=-0.3>горизонтальная ось</cspace>\nОт 1-го лица: скорость\n \nОт 3-го лица: вертикальная ось\nОт 3-го лица: <cspace=-0.3>горизонтальная ось</cspace>\nОт 3-го лица: скорость\n \nРазмер шрифта\nПоявление текста\nПоявление текста при пропуске\nПропускать в первый раз\nЯркость\n \nОзвучка\nРасследование\nСомниум\nПоиск выхода"
+  },
+  "optionmenu_options_005": {
+    "src": "Slow Text\nFast Text\n \n \n \nEnglish",
+    "yax": "Медленный текст\nБыстрый текст\n \n \n \nАнглийский",
+    "trx": "Медленно\nБыстро\n \n \n \nАнглийский"
+  },
+  "optionmenu_options_006": {
+    "src": "Display Immediately\nSkip Immediately\n \n \n \nJapanese",
+    "yax": "Отобразить немедленно\nНемедленно пропустить\n \n \n \nЯпонский",
+    "trx": "Мгновенно\nМгновенно\n \n \n \nЯпонский"
+  },
+  "optionmenu_options_007": {
+    "src": "L\u3000\u3000\u3000\u3000\u3000 M\u3000\u3000\u3000\u3000\u3000 S",
+    "yax": "L М С",
+    "trx": "Крупный\u3000\u3000 Средний\u3000\u3000Мелкий"
+  },
+  "optionmenu_options_008": {
+    "src": "Reset to Default",
+    "yax": "Сброс к значению по умолчанию",
+    "trx": "Сброс параметров"
+  },
+  "optionmenu_options_009": {
+    "src": "Difficulty Request Sheet",
+    "yax": "Лист Запроса сложности",
+    "trx": "Ведомость сложности"
+  },
+  "optionmenu_options_010": {
+    "src": "Please check off your requested categories below and submit to your superior.",
+    "yax": "Пожалуйста, отметьте желаемые категории ниже и отправьте их своему начальнику.",
+    "trx": "Заполните приведенную ниже ведомость сложности и отправьте ее своему руководителю."
+  },
+  "optionmenu_options_011": {
+    "src": "Investigation (QTE)\n \n \n \n \n \n \nSomnium\n \n \n \n \n \n \n \n \nEscape",
+    "yax": "Исследование (QTE)\n \n \n \n \n \n \nСомниум\n \n \n \n \n \n \n \n \nПобег",
+    "trx": "Расследование\n(QTE)\n \n \n \n \n \nСомниум\n \n \n \n \n \n \n \n \nПоиск выхода"
+  },
+  "optionmenu_options_012": {
+    "src": "Standard\n \nEasy\n \nStory\n \n \nStandard\n \n \nEasy\n \n \nStory\n \n \nHard\n \n \nStandard\n \n \nEasy\n \n \nStory\n\n \nReset to Default",
+    "yax": "Стандарт\n \nЛегко\n \nИстория\n \n \nСтандарт\n \n \nЛегко\n \n \nИстория\n \n \nТрудный\n \n \nСтандарт\n \n \nЛегко\n \n \nИстория\n\n \nСброс к значению по умолчанию",
+    "trx": "Обычная\n \nЛегкая\n \nИстория\n \n \nОбычная\n \n \nЛегкая\n \n \nИстория\n \n \nТяжелая\n \n \nОбычная\n \n \nЛегкая\n \n \nИстория\n\n \nСброс параметров"
+  },
+  "optionmenu_options_013": {
+    "src": "・Time Limit: Normal\n・Repeat Count: Normal\n・Time Limit: Double\n・Repeat Count: 1/2\n・Time Limit: Infinite\n・Repeat Count: Always 3\n・No failures for mistakes\n・Countdown Speed: Normal\n・Choice Time Cost: Normal\n・Retry Count: 3\n・Countdown Speed: 1/2\n・Choice Time Cost: 1/2\n・Retry Count: 6\n・Countdown Speed: 1/4\n・Choice Time Cost: 1/4\n・Retry Count: Infinite\n・Crisis Time: 0.8\n・Search Limit: 0\n・Hints: Few\n・Crisis Time: Normal\n・Search Limit: 10\n・Hints: Many\n・Crisis Time: Double\n・Search Limit: Infinite\n・Hints: Many\n・Crisis Time: 4x\n・Search Limit: Infinite\n・Hints: Until Solved",
+    "yax": "・Ограничение по времени: Обычное\n・ Количество повторов: Обычное\n・ Ограничение по времени: Двойное\n・ Количество повторов: 1/2\n・ Ограничение по времени: Бесконечное\n・Количество повторов: Всегда 3\n・Без ошибок\n・Скорость обратного отсчета: Нормальная\n・Стоимость времени выбора: Нормальная\n・Количество попыток: 3\n・ Скорость обратного отсчета: 1/2\n・ Время выбора: 1/2\n・Количество попыток: 6\n・Скорость обратного отсчета: 1/4\n・Время выбора: 1/4\n・Количество попыток: Бесконечно\n・Время кризиса: 0,8\n・Ограничение по поиску: 0\n・Подсказок: Мало\n・ Время кризиса: Обычное\n・ Ограничение по поиску: 10\n・Подсказок: Много\n・ Время кризиса: Удвоенное\n・Ограничение по поиску: Бесконечное\n・Подсказок: Много\n・Время кризиса: 4 раза\n・ Ограничение по поиску: Бесконечное\n・Подсказки: Пока не разгаданы",
+    "trx": "・Ограничение времени: Обычное\n・Необходимое количество повторов: Обычное\n・Ограничение времени: Удвоенное\n・Необходимое количество повторов: 1/2\n・Ограничение времени: Бесконечно\n・Необходимое количество повторов: Всегда 3\n・Нет провала при ошибке\n・Скорость расхода времени: Обычная\n・Стоимость вариантов выбора: Обычная\n・Количество попыток: 3\n・Скорость расхода времени: 1/2\n・Стоимость вариантов выбора: 1/2\n・Количество попыток: 6\n・Скорость расхода времени: 1/4\n・Стоимость вариантов выбора: 1/4\n・Количество попыток: Бесконечно\n・Ограничение времени в кризис: 0,8\n・Количество попыток поиска: 0\n・Подсказки: Мало\n・Ограничение времени в кризис: Обычное\n・Количество попыток поиска: 10\n・Подсказки: Много\n・Ограничение времени в кризис: Удвоенное\n・Количество попыток поиска: Бесконечно\n・Подсказки: Много\n・Ограничение времени в кризис: 4x\n・Количество попыток поиска: Бесконечно\n・Подсказки: Вплоть до решения"
+  },
+  "optionmenu_options_014": {
+    "src": "Manager",
+    "yax": "Менеджер",
+    "trx": "<cspace=-0.5>Начальник"
+  },
+  "optionmenu_options_015": {
+    "src": "Agent",
+    "yax": "Агент",
+    "trx": "Агент"
+  },
+  "optionmenu_options_016": {
+    "src": "Tutorial\n \nTrivia",
+    "yax": "Руководство\n \nМелочи",
+    "trx": "Обучение\n \nФакты"
+  },
+  "optionmenu_options_017": {
+    "src": "Investigation\nSomnium\nEscape",
+    "yax": "Расследование\nСомниум\nПобег",
+    "trx": "Расследование\nСомниум\nПоиск выхода"
+  },
+  "optionmenu_options_operationguide_001": {
+    "src": "Change Difficulty",
+    "yax": "Сложность изменения",
+    "trx": "Сложность"
+  },
+  "optionmenu_options_operationguide_002": {
+    "src": "Various Settings",
+    "yax": "Различные Настройки",
+    "trx": "Параметры"
+  },
+  "optionmenu_options_message_001": {
+    "src": "Adjust or mute BGM volume",
+    "yax": "Отрегулируйте или отключите громкость BGM",
+    "trx": "Настройка громкости или приглушение музыки"
+  },
+  "optionmenu_options_message_002": {
+    "src": "Adjust or mute SFX volume",
+    "yax": "Отрегулируйте или отключите громкость SFX",
+    "trx": "Настройка громкости или приглушение эффектов"
+  },
+  "optionmenu_options_message_003": {
+    "src": "Adjust or mute Voice volume",
+    "yax": "Отрегулируйте или отключите громкость голоса",
+    "trx": "Настройка громкости или приглушение озвучки"
+  },
+  "optionmenu_options_message_004": {
+    "src": "Adjust cursor movement speed",
+    "yax": "Отрегулируйте скорость перемещения курсора",
+    "trx": "Настройка скорости перемещения курсора"
+  },
+  "optionmenu_options_message_005": {
+    "src": "Behavior for up and down camera movement during Investigation",
+    "yax": "Поведение при перемещении камеры вверх и вниз во время расследования",
+    "trx": "Настройка перемещения камеры вверх и вниз во время расследования"
+  },
+  "optionmenu_options_message_006": {
+    "src": "Behavior for left and right camera movement during Investigation",
+    "yax": "Поведение при перемещении камеры влево и вправо во время расследования",
+    "trx": "Настройка перемещения камеры влево и вправо во время расследования"
+  },
+  "optionmenu_options_message_007": {
+    "src": "Adjust camera speed during Investigation",
+    "yax": "Отрегулируйте скорость камеры во время расследования",
+    "trx": "Настройка скорости камеры во время расследования"
+  },
+  "optionmenu_options_message_008": {
+    "src": "Behavior for up and down camera movement during Somnium and VR",
+    "yax": "Поведение при перемещении камеры вверх и вниз во время сна и виртуальной реальности",
+    "trx": "Настройка перемещения камеры вверх и вниз в сомниумах и VR"
+  },
+  "optionmenu_options_message_009": {
+    "src": "Behavior for left and right camera movement during Somnium and VR",
+    "yax": "Поведение при перемещении камеры влево и вправо во время сна и виртуальной реальности",
+    "trx": "Настройка перемещения камеры влево и вправо в сомниумах и VR"
+  },
+  "optionmenu_options_message_010": {
+    "src": "Adjust camera speed during Somnium and VR",
+    "yax": "Отрегулируйте скорость камеры во время сна и виртуальной реальности",
+    "trx": "Настройка скорости камеры в сомниумах и VR"
+  },
+  "optionmenu_options_message_011": {
+    "src": "Text font size setting",
+    "yax": "Настройка размера шрифта текста",
+    "trx": "Настройка размера шрифта"
+  },
+  "optionmenu_options_message_012": {
+    "src": "Text display method setting",
+    "yax": "Настройка способа отображения текста",
+    "trx": "Настройка метода отображения текста"
+  },
+  "optionmenu_options_message_013": {
+    "src": "Display text at high speed or skip text",
+    "yax": "Отображать текст на высокой скорости или пропускать текст",
+    "trx": "Быстрая прокрутка или пропуск текста"
+  },
+  "optionmenu_options_message_014": {
+    "src": "Skip scenes that have not been previously viewed",
+    "yax": "Пропускать сцены, которые ранее не просматривались",
+    "trx": "Возможность пропуска сцен, просматриваемых в первый раз"
+  },
+  "optionmenu_options_message_015": {
+    "src": "Adjust screen brightness",
+    "yax": "Отрегулируйте яркость экрана",
+    "trx": "Настройка яркости экрана"
+  },
+  "optionmenu_options_message_016": {
+    "src": "Voice setting",
+    "yax": "Настройка голоса",
+    "trx": "Настройка озвучки"
+  },
+  "optionmenu_options_message_017": {
+    "src": "Display tutorial text during Investigation\n\nSome necessary information may still be shown even if it is OFF.",
+    "yax": "Отображать обучающий текст во время исследования\n\nНекоторая необходимая информация может по-прежнему отображаться, даже если она выключена.",
+    "trx": "Отображение обучения во время расследования\n\nСамая важная информация будет отображаться даже при выключенной настройке."
+  },
+  "optionmenu_options_message_018": {
+    "src": "Display tutorial text during Somnium\n\nSome necessary information may still be shown even if it is OFF.",
+    "yax": "Отображать обучающий текст во время сна\n\nНекоторая необходимая информация может отображаться, даже если она выключена.",
+    "trx": "Отображение обучения во время расследования\n\nСамая важная информация будет отображаться даже при выключенной настройке."
+  },
+  "optionmenu_options_message_019": {
+    "src": "Display tutorial text during Escape\n\nSome necessary information may still be shown even if it is OFF.",
+    "yax": "Отображать обучающий текст во время Escape\n\nНекоторая необходимая информация может по-прежнему отображаться, даже если она выключена.",
+    "trx": "Отображение обучения во время поиска выхода\n\nНекоторая необходимая информация может по-прежнему отображаться, даже если она выключена."
+  },
+  "optionmenu_options_message_020": {
+    "src": "Display Aiba's Trivia",
+    "yax": "Покажите мелочи Aiba",
+    "trx": "Отображение фактов от Айбы"
+  },
+  "optionmenu_options_message_026": {
+    "src": "QTE Difficulty\n Standard\n This is the recommended difficulty for QTEs.\n Should provide just the right amount of tension.",
+    "yax": "Сложность QTE\n Стандарт\n Это рекомендуемая сложность для QTE.\n Необходимо обеспечить необходимое напряжение.",
+    "trx": "Сложность QTE:\nОбычная\n\nЭто рекомендуемая сложность QTE. Она обеспечивает задуманный авторами уровень напряжения."
+  },
+  "optionmenu_options_message_027": {
+    "src": "QTE Difficulty\n Easy\n Makes it relatively easier to progress.",
+    "yax": "Сложность QTE\n Легко\n Это относительно облегчает прогресс.",
+    "trx": "Сложность QTE:\nЛегкая\n\nВыполнение последовательностей QTE становится легче."
+  },
+  "optionmenu_options_message_028": {
+    "src": "QTE Difficulty\n Story\n For players who want to focus on the story.",
+    "yax": "Сложность QTE\n История\n Для игроков, которые хотят сосредоточиться на сюжете.",
+    "trx": "Сложность QTE:\nИстория\n\nДля игроков, желающих сфокусироваться на истории."
+  },
+  "optionmenu_options_message_029": {
+    "src": "Somnium Time Limit\n Standard\n This is the recommended setting.\n Should provide a tense experience you can sink your teeth into.",
+    "yax": "Ограничение по времени сна\n Стандарт\n Это рекомендуемая настройка.\n Она должна создавать ощущение напряжения, от которого можно впиться зубами.",
+    "trx": "Сложность сомниумов:\nОбычная\n\nЭто рекомендуемая сложность. Должна создавать ощущение напряжения, от которого вам придется стиснуть зубы."
+  },
+  "optionmenu_options_message_030": {
+    "src": "Somnium Time Limit\n Easy\n Makes it easier to progress.\n You will have more time to explore the Somniums.",
+    "yax": "Ограничение по времени сна\n Легко\n Это облегчает прогресс.\n У вас будет больше времени для изучения сомниумов.",
+    "trx": "Сложность сомниумов:\nЛегкая\n\nОблегчает прохождение сомниумов. У вас будет больше времени на их изучение."
+  },
+  "optionmenu_options_message_031": {
+    "src": "Somnium Time Limit\n Story\n For players who want to focus on the story.\n You will have ample time to explore the Somniums.",
+    "yax": "Ограничение по времени сна\n История\n Для игроков, которые хотят сосредоточиться на сюжете.\n У вас будет достаточно времени, чтобы изучить Сомниумы.",
+    "trx": "Сложность сомниумов:\nИстория\n\nДля игроков, желающих сфокусироваться на истории. У вас будет достаточно времени для подробного изучения сомниумов."
+  },
+  "optionmenu_options_message_032": {
+    "src": "Escape Difficulty\n Hard\n For experienced puzzle solvers.\n Should provide a tense experience and challenging puzzles.",
+    "yax": "Избежать трудностей\n Трудный\n Для опытных любителей решать головоломки.\n Игра должна обеспечить увлекательный опыт и сложные головоломки.",
+    "trx": "Сложность поиска выхода:\nТяжелая\n\nДля профессионалов в поиске выхода. Обеспечивается достаточный уровень напряжения и сложности головоломок."
+  },
+  "optionmenu_options_message_033": {
+    "src": "Escape Difficulty\n Standard\n This is the recommended setting.\n You will occasionally receive hints to help solve puzzles.",
+    "yax": "Избежать трудностей\n Стандарт\n Это рекомендуемая настройка.\n Время от времени вы будете получать подсказки, которые помогут решить головоломки.",
+    "trx": "Сложность поиска выхода:\nОбычная\n\nЭто рекомендуемая сложность. Иногда вы будете получать подсказки, помогающие решить головоломки."
+  },
+  "optionmenu_options_message_034": {
+    "src": "Escape Difficulty\n Easy\n Makes it easier to progress.\n You will receive additional help solving puzzles.",
+    "yax": "Избежать трудностей\n Легко\n Это облегчает прогресс.\n Вы получите дополнительную помощь в решении головоломок.",
+    "trx": "Сложность поиска выхода:\nЛегкая\n\nНайти выход становится легче. Вы будете получать дополнительные подсказки, помогающие решить головоломки."
+  },
+  "optionmenu_options_message_035": {
+    "src": "Escape Difficulty\n Story\n For players who want to focus on the story.\n You will receive all the answers you need to progress without trouble.",
+    "yax": "Избежать трудностей\n История\n Для игроков, которые хотят сосредоточиться на сюжете.\n Вы получите все ответы, необходимые для успешного прохождения.",
+    "trx": "Сложность поиска выхода:\nИстория\n\nДля игроков, желающих сфокусироваться на истории. Вы получите все ответы, необходимые для успешного прохождения."
+  },
+  "optionmenu_options_message_024": {
+    "src": "Reset all Settings to Default",
+    "yax": "Сбросьте все настройки до значений по умолчанию",
+    "trx": "Сброс всех параметров к значениям по умолчанию"
+  },
+  "optionmenu_options_message_025": {
+    "src": "Reset all Difficulty Settings to Default",
+    "yax": "Сбросьте все настройки сложности до значений по умолчанию",
+    "trx": "Сброс всех параметров сложности к значениям по умолчанию"
+  },
+  "optionmenu_options_message_021": {
+    "src": "While the limit counter is active, you cannot change the Difficulty from OPTIONS.",
+    "yax": "Пока счетчик лимитов активен, вы не можете изменить уровень сложности с помощью опций.",
+    "trx": "Пока активен счетчик, уровень сложности изменить нельзя."
+  }
+}

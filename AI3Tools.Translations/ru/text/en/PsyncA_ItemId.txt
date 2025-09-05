@@ -1,0 +1,372 @@
+{
+  "item_name_001": {
+    "src": "Empty",
+    "yax": "Пустой",
+    "trx": "☯️Пустой"
+  },
+  "item_name_002": {
+    "src": "X Key",
+    "yax": "Клавиша X",
+    "trx": "☯️Клавиша X"
+  },
+  "item_name_003": {
+    "src": "Bronze Sumerian Idol (Bottom)",
+    "yax": "Бронзовый шумерский идол (внизу)",
+    "trx": "☯️Бронзовый шумерский идол (внизу)"
+  },
+  "item_name_004": {
+    "src": "Bronze Sumerian Idol (Top)",
+    "yax": "Бронзовый шумерский идол (вверху)",
+    "trx": "☯️Бронзовый шумерский идол (вверху)"
+  },
+  "item_name_005": {
+    "src": "Bronze Sumerian Idol",
+    "yax": "Бронзовый шумерский идол",
+    "trx": "☯️Бронзовый шумерский идол"
+  },
+  "item_name_006": {
+    "src": "Ampule",
+    "yax": "Ампула",
+    "trx": "☯️Ампула"
+  },
+  "item_name_007": {
+    "src": "Wooden Stick",
+    "yax": "Деревянная палочка",
+    "trx": "☯️Деревянная палочка"
+  },
+  "item_name_008": {
+    "src": "Hammer-shaped Iron Sumerian Idol",
+    "yax": "Железный шумерский идол в форме молота",
+    "trx": "☯️Железный шумерский идол в форме молота"
+  },
+  "item_name_009": {
+    "src": "Iron Sumerian Idol",
+    "yax": "Железный шумерский идол",
+    "trx": "☯️Железный шумерский идол"
+  },
+  "item_name_010": {
+    "src": "Crystal Sumerian Idol",
+    "yax": "Хрустальный шумерский идол",
+    "trx": "☯️Хрустальный шумерский идол"
+  },
+  "item_name_011": {
+    "src": "Crystal Shield",
+    "yax": "Кристаллический щит",
+    "trx": "☯️Кристаллический щит"
+  },
+  "item_name_012": {
+    "src": "Crystal Knife",
+    "yax": "Хрустальный нож",
+    "trx": "☯️Хрустальный нож"
+  },
+  "item_name_013": {
+    "src": "Porcelain Sumerian Idol",
+    "yax": "Фарфоровый шумерский идол",
+    "trx": "☯️Фарфоровый шумерский идол"
+  },
+  "item_name_014": {
+    "src": "Crystal Symbol Slate",
+    "yax": "Кристаллическая грифельная доска с символами",
+    "trx": "☯️Кристаллическая грифельная доска с символами"
+  },
+  "item_name_015": {
+    "src": "Ivory Sumerian Idol",
+    "yax": "Шумерский идол из слоновой кости",
+    "trx": "☯️Шумерский идол из слоновой кости"
+  },
+  "item_name_016": {
+    "src": "Lapis Lazuli Sumerian Idol",
+    "yax": "Шумерский идол из ляпис-лазури",
+    "trx": "☯️Шумерский идол из ляпис-лазури"
+  },
+  "item_name_017": {
+    "src": "Moon and Eye Key",
+    "yax": "Ключ к Луне и глазу",
+    "trx": "☯️Ключ к Луне и глазу"
+  },
+  "item_name_018": {
+    "src": "Small Box",
+    "yax": "Маленькая коробочка",
+    "trx": "☯️Маленькая коробочка"
+  },
+  "item_name_019": {
+    "src": "pH Explanation Poster",
+    "yax": "Плакат с объяснением рН",
+    "trx": "☯️Плакат с объяснением рН"
+  },
+  "item_name_021": {
+    "src": "\"Rite of the Point\" Scroll",
+    "yax": "Свиток \"Ритуал точки\"",
+    "trx": "☯️Свиток \"Ритуал точки\""
+  },
+  "item_name_022": {
+    "src": "\"Rite of the Edge\" Scroll",
+    "yax": "Свиток \"Ритуал края\"",
+    "trx": "☯️Свиток \"Ритуал края\""
+  },
+  "item_name_023": {
+    "src": "\"Rite of the Face\" Scroll",
+    "yax": "Свиток \"Ритуал лица\"",
+    "trx": "☯️Свиток \"Ритуал лица\""
+  },
+  "item_name_024": {
+    "src": "Newspaper",
+    "yax": "Газета",
+    "trx": "☯️Газета"
+  },
+  "item_name_025": {
+    "src": "Moon and Eye Key",
+    "yax": "Ключ к Луне и глазу",
+    "trx": "☯️Ключ к Луне и глазу"
+  },
+  "item_name_027": {
+    "src": "Bucket",
+    "yax": "Ведро",
+    "trx": "☯️Ведро"
+  },
+  "item_name_028": {
+    "src": "Liquid-Filled Bucket",
+    "yax": "Ведро, заполненное жидкостью",
+    "trx": "☯️Ведро, заполненное жидкостью"
+  },
+  "item_name_020": {
+    "src": "Baking Soda Water-Filled Bucket",
+    "yax": "Ведро для пищевой соды, наполненное водой",
+    "trx": "☯️Ведро для пищевой соды, наполненное водой"
+  },
+  "item_name_031": {
+    "src": "Umbilical Cord",
+    "yax": "Пуповина",
+    "trx": "☯️Пуповина"
+  },
+  "item_name_032": {
+    "src": "Sportswear",
+    "yax": "Спортивная одежда",
+    "trx": "☯️Спортивная одежда"
+  },
+  "item_name_033": {
+    "src": "Ringed Finger Model",
+    "yax": "Модель пальца с кольцом",
+    "trx": "☯️Модель пальца с кольцом"
+  },
+  "item_name_034": {
+    "src": "Taped Finger Model",
+    "yax": "Модель пальца, заклеенного скотчем",
+    "trx": "☯️Модель пальца, заклеенного скотчем"
+  },
+  "item_name_035": {
+    "src": "Basic Finger Model",
+    "yax": "Базовая модель пальца",
+    "trx": "☯️Базовая модель пальца"
+  },
+  "item_name_038": {
+    "src": "Curse Breaking Note",
+    "yax": "Записка о снятии проклятия",
+    "trx": "☯️Записка о снятии проклятия"
+  },
+  "item_name_039": {
+    "src": "Magatama Necklace",
+    "yax": "Ожерелье Магатама",
+    "trx": "☯️Ожерелье Магатама"
+  },
+  "item_name_040": {
+    "src": "Citric Acid",
+    "yax": "Лимонная кислота",
+    "trx": "☯️Лимонная кислота"
+  },
+  "item_name_041": {
+    "src": "Tesa IC Card",
+    "yax": "Микросхема Tesa",
+    "trx": "☯️Микросхема Tesa"
+  },
+  "item_name_042": {
+    "src": "Antenna Stick",
+    "yax": "Антенная ручка",
+    "trx": "☯️Антенная ручка"
+  },
+  "item_name_043": {
+    "src": "Small Battery",
+    "yax": "Маленькая батарея",
+    "trx": "☯️Маленькая батарея"
+  },
+  "item_name_044": {
+    "src": "Goggles",
+    "yax": "Защитные очки",
+    "trx": "☯️Защитные очки"
+  },
+  "item_name_045": {
+    "src": "Night Vision Goggles",
+    "yax": "Очки ночного видения",
+    "trx": "☯️Очки ночного видения"
+  },
+  "item_name_046": {
+    "src": "Proverb Card 1",
+    "yax": "Карточка с пословицами 1",
+    "trx": "☯️Карточка с пословицами 1"
+  },
+  "item_name_047": {
+    "src": "Proverb Card 2",
+    "yax": "Карточка с пословицами 2",
+    "trx": "☯️Карточка с пословицами 2"
+  },
+  "item_name_048": {
+    "src": "Proverb Card 3",
+    "yax": "Карточка с пословицами 3",
+    "trx": "☯️Карточка с пословицами 3"
+  },
+  "item_name_049": {
+    "src": "Proverb Card 4",
+    "yax": "Карточка с пословицами 4",
+    "trx": "☯️Карточка с пословицами 4"
+  },
+  "item_name_050": {
+    "src": "Constellation Chart",
+    "yax": "Карта созвездий",
+    "trx": "☯️Карта созвездий"
+  },
+  "item_name_051": {
+    "src": "Alcohol-Filled Paper Cup",
+    "yax": "Бумажный стаканчик, наполненный алкоголем",
+    "trx": "☯️Бумажный стаканчик, наполненный алкоголем"
+  },
+  "item_name_052": {
+    "src": "Tesa Sticker",
+    "yax": "Наклейка Tesa",
+    "trx": "☯️Наклейка Tesa"
+  },
+  "item_name_053": {
+    "src": "Strange Code Card",
+    "yax": "Странная кодовая карточка",
+    "trx": "☯️Странная кодовая карточка"
+  },
+  "item_name_054": {
+    "src": "Paper Cup",
+    "yax": "Бумажный стаканчик",
+    "trx": "☯️Бумажный стаканчик"
+  },
+  "item_name_055": {
+    "src": "Pierced Paper Cup",
+    "yax": "Проколотый бумажный стаканчик",
+    "trx": "☯️Проколотый бумажный стаканчик"
+  },
+  "item_name_056": {
+    "src": "10F Button",
+    "yax": "Кнопка 10F",
+    "trx": "☯️Кнопка 10F"
+  },
+  "item_name_057": {
+    "src": "6F Button",
+    "yax": "Кнопка 6F",
+    "trx": "☯️Кнопка 6F"
+  },
+  "item_name_058": {
+    "src": "Ammo Magazine",
+    "yax": "Магазин с боеприпасами",
+    "trx": "☯️Магазин с боеприпасами"
+  },
+  "item_name_059": {
+    "src": "5F Button",
+    "yax": "Кнопка 5F",
+    "trx": "☯️Кнопка 5F"
+  },
+  "item_name_060": {
+    "src": "1F Button",
+    "yax": "Кнопка 1F",
+    "trx": "☯️Кнопка 1F"
+  },
+  "item_name_061": {
+    "src": "Moon and Eye Key",
+    "yax": "Ключ к Луне и глазу",
+    "trx": "☯️Ключ к Луне и глазу"
+  },
+  "item_name_062": {
+    "src": "Wire Cutters",
+    "yax": "Кусачки для проволоки",
+    "trx": "☯️Кусачки для проволоки"
+  },
+  "item_name_063": {
+    "src": "Electronic Lock",
+    "yax": "Электронный замок",
+    "trx": "☯️Электронный замок"
+  },
+  "item_name_064": {
+    "src": "Cigarettes",
+    "yax": "Сигареты",
+    "trx": "☯️Сигареты"
+  },
+  "item_name_065": {
+    "src": "Moscow Mule",
+    "yax": "Московский мул",
+    "trx": "☯️Московский мул"
+  },
+  "item_name_066": {
+    "src": "Margerita",
+    "yax": "Маргерита",
+    "trx": "☯️Маргерита"
+  },
+  "item_name_067": {
+    "src": "Gin and Tonic",
+    "yax": "Джин с тоником",
+    "trx": "☯️Джин с тоником"
+  },
+  "item_name_068": {
+    "src": "Spritzer",
+    "yax": "Спритцер",
+    "trx": "☯️Спритцер"
+  },
+  "item_name_069": {
+    "src": "White Lady",
+    "yax": "Белая леди",
+    "trx": "☯️Белая леди"
+  },
+  "item_name_070": {
+    "src": "Freezer Note",
+    "yax": "Примечание о морозильной камере",
+    "trx": "☯️Примечание о морозильной камере"
+  },
+  "item_name_071": {
+    "src": "Metal Plate",
+    "yax": "металлическая пластина",
+    "trx": "☯️металлическая пластина"
+  },
+  "item_name_072": {
+    "src": "Dice",
+    "yax": "Игральная кость",
+    "trx": "☯️Игральная кость"
+  },
+  "item_name_073": {
+    "src": "White Chip",
+    "yax": "Белая фишка",
+    "trx": "☯️Белая фишка"
+  },
+  "item_name_074": {
+    "src": "Blue Chip",
+    "yax": "Голубая фишка",
+    "trx": "☯️Голубая фишка"
+  },
+  "item_name_075": {
+    "src": "Partial Route Map",
+    "yax": "Частичная карта маршрута",
+    "trx": "☯️Частичная карта маршрута"
+  },
+  "item_name_076": {
+    "src": "Partial Route Map",
+    "yax": "Частичная карта маршрута",
+    "trx": "☯️Частичная карта маршрута"
+  },
+  "item_name_077": {
+    "src": "Keycard",
+    "yax": "Карточка-ключ",
+    "trx": "☯️Карточка-ключ"
+  },
+  "item_name_078": {
+    "src": "Lit Cigarette",
+    "yax": "Зажженная сигарета",
+    "trx": "☯️Зажженная сигарета"
+  },
+  "item_name_079": {
+    "src": "Propeller Parts",
+    "yax": "Детали пропеллера",
+    "trx": "☯️Детали пропеллера"
+  }
+}

@@ -10,14 +10,15 @@ internal class BundleFile : IDisposable
     private readonly Dictionary<long, string> paths = [];
     private readonly Dictionary<long, GameObject> gameObjectMap = [];
     private readonly Dictionary<string, BundleResourceBlob> resourceBlobs = [];
+    private readonly Dictionary<AssetFileInfo, AssetsFileInstance> assetFileInstanceByAssetLookup = [];
+    private readonly Dictionary<AssetTypeValueField, AssetsFileInstance> assetFileInstanceByFieldLookup = [];
     private readonly GameObjectCollection gameObjects = new();
     private readonly FileTargetCollector fileTargetCollector = new();
     private readonly List<FileSource> unrollSources = [];
     private readonly ILogger logger;
     private readonly AssetsManager assetsManager;
     private readonly BundleFileInstance bundleFileInstance;
-    private readonly int assetsFileIndex;
-    private readonly AssetsFileInstance assetsFileInstance;
+    private readonly Dictionary<int, AssetsFileInstance> assetsFileInstances;
     private readonly ILookup<string, long> pathLookup;
     private AssetBundleFile? unpackedBundleFile;
 
@@ -28,9 +29,7 @@ internal class BundleFile : IDisposable
         using var classPackageStream = new MemoryStream(Properties.Resources.ClassData);
         assetsManager.LoadClassPackage(classPackageStream);
         bundleFileInstance = assetsManager.LoadBundleFile(stream);
-        assetsFileIndex = GetAssetsFileIndex();
-        assetsFileInstance = assetsManager.LoadAssetsFileFromBundle(bundleFileInstance, assetsFileIndex);
-        assetsManager.LoadClassDatabaseFromPackage(assetsFileInstance.file.Metadata.UnityVersion);
+        assetsFileInstances = LoadAssetsFileInstances();
         LoadPaths();
         LoadGameObjects();
         pathLookup = paths.ToLookup(e => AssetNameHelper.Unpack(e.Value), e => e.Key, StringComparer.OrdinalIgnoreCase);
@@ -69,16 +68,28 @@ internal class BundleFile : IDisposable
 
     public IEnumerable<AssetFileInfo> GetAssets(AssetClassID typeId)
     {
-        return assetsFileInstance.file.GetAssetsOfType(typeId);
+        foreach (var assetsFileInstance in assetsFileInstances.Values)
+        {
+            foreach (var asset in assetsFileInstance.file.GetAssetsOfType(typeId))
+            {
+                assetFileInstanceByAssetLookup[asset] = assetsFileInstance;
+                yield return asset;
+            }
+        }
     }
 
     public AssetTypeValueField GetBaseField(AssetFileInfo asset)
     {
-        return assetsManager.GetBaseField(assetsFileInstance, asset);
+        var assetsFileInstance = LookupAssetsFileInstance(asset);
+        var field = assetsManager.GetBaseField(assetsFileInstance, asset);
+        assetFileInstanceByFieldLookup[field] = assetsFileInstance;
+        return field;
     }
 
     public string ReadAssetName(AssetFileInfo asset, string defaultExtension)
     {
+        var assetsFileInstance = LookupAssetsFileInstance(asset);
+
         var name = AssetHelper.GetAssetNameFast(
             assetsFileInstance.file, assetsManager.ClassDatabase, asset);
 
@@ -102,11 +113,11 @@ internal class BundleFile : IDisposable
     public GameObject? ResolveGameObject(AssetTypeValueField pointer)
     {
         if (pointer.IsDummy) return default;
-        if (pointer["m_FileID"].AsInt != 0) return default;
+        var fileId = pointer["m_FileID"].AsInt;
         var pathId = pointer["m_PathID"].AsLong;
         if (gameObjectMap.TryGetValue(pathId, out var gameObject)) return gameObject;
-        var asset = assetsManager.GetExtAsset(assetsFileInstance, 0, pathId);
-        if (asset.file == null) return default;
+        var asset = assetsManager.GetExtAsset(assetsFileInstances[fileId], fileId, pathId);
+        if (asset.file == null || asset.baseField == null) return default;
         gameObject = new GameObject(asset.info, asset.baseField);
         gameObjectMap.Add(pathId, gameObject);
         return gameObject;
@@ -156,29 +167,33 @@ internal class BundleFile : IDisposable
 
     public IEnumerable<AssetFileInfo> FindAssets(AssetClassID typeId, string name, string defaultExtension)
     {
-        name = AssetNameHelper.Unpack(name, out var path);
+        name = AssetNameHelper.Unpack(name, out _);
 
-        foreach (var pathId in pathLookup[name])
+        foreach (var assetsFileInstance in assetsFileInstances.Values)
         {
-            var asset = assetsFileInstance.file.GetAssetInfo(pathId);
-            if (asset is null)
+            foreach (var pathId in pathLookup[name])
             {
-                continue;
-            }
+                var asset = assetsFileInstance.file.GetAssetInfo(pathId);
+                if (asset is null)
+                {
+                    continue;
+                }
 
-            if (asset.TypeId != (int)typeId)
-            {
-                continue;
-            }
+                if (asset.TypeId != (int)typeId)
+                {
+                    continue;
+                }
 
-            var assetName = ReadAssetName(asset, defaultExtension);
-            assetName = AssetNameHelper.Unpack(assetName, out var assetPath);
-            if (!string.Equals(name, assetName, StringComparison.OrdinalIgnoreCase))
-            {
-                continue;
-            }
+                assetFileInstanceByAssetLookup[asset] = assetsFileInstance;
+                var assetName = ReadAssetName(asset, defaultExtension);
+                assetName = AssetNameHelper.Unpack(assetName, out _);
+                if (!string.Equals(name, assetName, StringComparison.OrdinalIgnoreCase))
+                {
+                    continue;
+                }
 
-            yield return asset;
+                yield return asset;
+            }
         }
     }
 
@@ -189,6 +204,8 @@ internal class BundleFile : IDisposable
         {
             return null;
         }
+
+        var assetsFileInstance = LookupAssetsFileInstance(baseField);
 
         var fileId = scriptField["m_FileID"].AsInt;
         var pathId = scriptField["m_PathID"].AsLong;
@@ -353,7 +370,7 @@ internal class BundleFile : IDisposable
 
     public void Write(FileSource source, AssetBundleCompressionType compressionType)
     {
-        if (assetsFileInstance.file.AssetInfos.All(info => info.Replacer is null))
+        if (assetsFileInstances.Values.All(assetsFileInstance => assetsFileInstance.file.AssetInfos.All(info => info.Replacer is null)))
         {
             if (source.CanUnroll())
             {
@@ -368,7 +385,10 @@ internal class BundleFile : IDisposable
         var bundleFile = bundleFileInstance.file;
         var directoryInfo = bundleFile.BlockAndDirInfo.DirectoryInfos;
 
-        directoryInfo[assetsFileIndex].SetNewData(assetsFileInstance.file);
+        foreach (var (assetsFileIndex, assetsFileInstance) in assetsFileInstances)
+        {
+            directoryInfo[assetsFileIndex].SetNewData(assetsFileInstance.file);
+        }
 
         foreach (var (key, value) in resourceBlobs)
         {
@@ -401,6 +421,26 @@ internal class BundleFile : IDisposable
         {
             WriteCompressed(source, compressionType);
         }
+    }
+
+    private AssetsFileInstance LookupAssetsFileInstance(AssetFileInfo asset)
+    {
+        if (!assetFileInstanceByAssetLookup.TryGetValue(asset, out var assetsFileInstance))
+        {
+            throw new NotSupportedException("Unknown asset.");
+        }
+
+        return assetsFileInstance;
+    }
+
+    private AssetsFileInstance LookupAssetsFileInstance(AssetTypeValueField field)
+    {
+        if (!assetFileInstanceByFieldLookup.TryGetValue(field, out var assetsFileInstance))
+        {
+            throw new NotSupportedException("Unknown field.");
+        }
+
+        return assetsFileInstance;
     }
 
     private void WriteUncompressed(Stream stream)
@@ -447,19 +487,15 @@ internal class BundleFile : IDisposable
         }
     }
 
-    private int GetAssetsFileIndex()
+    private Dictionary<int, AssetsFileInstance> LoadAssetsFileInstances()
     {
         var bundleFile = bundleFileInstance.file;
         var inf = bundleFile.BlockAndDirInfo.DirectoryInfos;
+        var map = new Dictionary<int, AssetsFileInstance>();
 
         for (var i = 0; i < inf.Count; i++)
         {
             if (inf[i].Flags == 0)
-            {
-                continue;
-            }
-
-            if (inf[i].Name.EndsWith(".sharedAssets"))
             {
                 continue;
             }
@@ -469,10 +505,12 @@ internal class BundleFile : IDisposable
                 continue;
             }
 
-            return i;
+            var assetsFileInstance = assetsManager.LoadAssetsFileFromBundle(bundleFileInstance, i);
+            assetsManager.LoadClassDatabaseFromPackage(assetsFileInstance.file.Metadata.UnityVersion);
+            map[i] = assetsFileInstance;
         }
 
-        return 0;
+        return map;
     }
 
     private void LoadPaths()

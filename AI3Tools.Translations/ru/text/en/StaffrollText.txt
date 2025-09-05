@@ -1,0 +1,552 @@
+{
+  "staffroll_joke_001": {
+    "src": "DT Man Who Lacks Something",
+    "yax": "Человек, Которому чего-то не хватает",
+    "trx": "☯️Человек, Которому чего-то не хватает"
+  },
+  "staffroll_joke_002": {
+    "src": "Kaname Date",
+    "yax": "Дата Канаме",
+    "trx": "☯️Дата Канаме"
+  },
+  "staffroll_joke_003": {
+    "src": "Reptilian Who Yearns For Attention",
+    "yax": "Рептилия, Жаждущая Внимания",
+    "trx": "☯️Рептилия, Жаждущая Внимания"
+  },
+  "staffroll_joke_004": {
+    "src": "Akemi",
+    "yax": "Акеми",
+    "trx": "☯️Акеми"
+  },
+  "staffroll_joke_047": {
+    "src": "Yet To Complete A Single Escape",
+    "yax": "Еще предстоит Совершить Один Побег",
+    "trx": "☯️Еще предстоит Совершить Один Побег"
+  },
+  "staffroll_joke_048": {
+    "src": "Iris Sagan",
+    "yax": "Айрис Саган",
+    "trx": "☯️Айрис Саган"
+  },
+  "staffroll_joke_049": {
+    "src": "Half Man, Half Plot Convenience",
+    "yax": "Наполовину человек, наполовину Удобство участка",
+    "trx": "☯️Наполовину человек, наполовину Удобство участка"
+  },
+  "staffroll_joke_050": {
+    "src": "Ryuki Kuruto",
+    "yax": "Рюки Куруто",
+    "trx": "☯️Рюки Куруто"
+  },
+  "staffroll_joke_051": {
+    "src": "Man Who Keeps Fighting For Love",
+    "yax": "Человек, Который Продолжает Бороться За Любовь",
+    "trx": "☯️Человек, Который Продолжает Бороться За Любовь"
+  },
+  "staffroll_joke_052": {
+    "src": "Kaname Date",
+    "yax": "Дата Канаме",
+    "trx": "☯️Дата Канаме"
+  },
+  "staffroll_joke_053": {
+    "src": "Was Originally Planned To Be A Real Lizard Person",
+    "yax": "Изначально Планировалось, Что Он Станет Настоящим Человеком-Ящерицей",
+    "trx": "☯️Изначально Планировалось, Что Он Станет Настоящим Человеком-Ящерицей"
+  },
+  "staffroll_joke_054": {
+    "src": "Akemi",
+    "yax": "Акеми",
+    "trx": "☯️Акеми"
+  },
+  "staffroll_joke_055": {
+    "src": "Leading Tackler",
+    "yax": "Ведущий нападающий",
+    "trx": "☯️Ведущий нападающий"
+  },
+  "staffroll_joke_056": {
+    "src": "Aiba",
+    "yax": "Айба",
+    "trx": "☯️Айба"
+  },
+  "staffroll_joke_057": {
+    "src": "New ABIS Commander",
+    "yax": "Новый командир ABIS",
+    "trx": "☯️Новый командир ABIS"
+  },
+  "staffroll_joke_058": {
+    "src": "Hitomi Sagan",
+    "yax": "Хитоми Саган",
+    "trx": "☯️Хитоми Саган"
+  },
+  "staffroll_joke_059": {
+    "src": "Peeping Tom Psyncer",
+    "yax": "Подглядывающий Том-Псайнер",
+    "trx": "☯️Подглядывающий Том-Псайнер"
+  },
+  "staffroll_joke_060": {
+    "src": "Kaname Date",
+    "yax": "Дата Канаме",
+    "trx": "☯️Дата Канаме"
+  },
+  "staffroll_joke_061": {
+    "src": "Woman Who Wraps Men Around Her Finger",
+    "yax": "Женщина, Которая Обводит Мужчин вокруг Пальца",
+    "trx": "☯️Женщина, Которая Обводит Мужчин вокруг Пальца"
+  },
+  "staffroll_joke_062": {
+    "src": "Ritsuko Enshu",
+    "yax": "Рицуко Эншу",
+    "trx": "☯️Рицуко Эншу"
+  },
+  "staffroll_joke_063": {
+    "src": "Smartballer",
+    "yax": "Умный игрок",
+    "trx": "☯️Умный игрок"
+  },
+  "staffroll_joke_064": {
+    "src": "Kaname Date",
+    "yax": "Дата Канаме",
+    "trx": "☯️Дата Канаме"
+  },
+  "staffroll_joke_065": {
+    "src": "Ball-Shaped AI",
+    "yax": "Искусственный интеллект в форме шара",
+    "trx": "☯️Искусственный интеллект в форме шара"
+  },
+  "staffroll_joke_066": {
+    "src": "Aiba",
+    "yax": "Айба",
+    "trx": "☯️Айба"
+  },
+  "staffroll_joke_067": {
+    "src": "Man Who Wasted Precious Time Watching Videos",
+    "yax": "Человек, Который Тратил Драгоценное Время на Просмотр Видео",
+    "trx": "☯️Человек, Который Тратил Драгоценное Время на Просмотр Видео"
+  },
+  "staffroll_joke_068": {
+    "src": "Kaname Date",
+    "yax": "Дата Канаме",
+    "trx": "☯️Дата Канаме"
+  },
+  "staffroll_joke_069": {
+    "src": "AI Who Merely Observed The Man Who Wasted Precious Time Watching Videos",
+    "yax": "Искусственный Интеллект, Который Просто Наблюдал За Человеком, Который Тратил Драгоценное Время На Просмотр Видео",
+    "trx": "☯️Искусственный Интеллект, Который Просто Наблюдал За Человеком, Который Тратил Драгоценное Время На Просмотр Видео"
+  },
+  "staffroll_joke_070": {
+    "src": "Aiba",
+    "yax": "Айба",
+    "trx": "☯️Айба"
+  },
+  "staffroll_joke_071": {
+    "src": "Road Rage Cop",
+    "yax": "Разъяренный полицейский на дороге",
+    "trx": "☯️Разъяренный полицейский на дороге"
+  },
+  "staffroll_joke_072": {
+    "src": "Kaname Date",
+    "yax": "Дата Канаме",
+    "trx": "☯️Дата Канаме"
+  },
+  "staffroll_joke_073": {
+    "src": "Commissioned Staff And Road Rage Witness ",
+    "yax": "Нанятый Персонал И Свидетель Дорожных Происшествий",
+    "trx": "☯️Нанятый Персонал И Свидетель Дорожных Происшествий"
+  },
+  "staffroll_joke_074": {
+    "src": "Hina Tsukiyono",
+    "yax": "Хина Цукиено",
+    "trx": "☯️Хина Цукиено"
+  },
+  "staffroll_joke_075": {
+    "src": "AI That Failed To Avoid The Road Rage",
+    "yax": "Искусственный Интеллект, Который Не Смог Избежать Столкновения С Дорогой.",
+    "trx": "☯️Искусственный Интеллект, Который Не Смог Избежать Столкновения С Дорогой."
+  },
+  "staffroll_joke_076": {
+    "src": "Aiba",
+    "yax": "Айба",
+    "trx": "☯️Айба"
+  },
+  "staffroll_joke_077": {
+    "src": "Road Warriors, They're Not",
+    "yax": "Воины дороги, Они не такие",
+    "trx": "☯️Воины дороги, Они не такие"
+  },
+  "staffroll_joke_078": {
+    "src": "Masked Men",
+    "yax": "Люди в масках",
+    "trx": "☯️Люди в масках"
+  },
+  "staffroll_joke_079": {
+    "src": "The Person Whose Balls Got An Extensive Look",
+    "yax": "Человек, Чьи Яйца Приобрели Обширный Вид",
+    "trx": "☯️Человек, Чьи Яйца Приобрели Обширный Вид"
+  },
+  "staffroll_joke_080": {
+    "src": "Osamu Oishi",
+    "yax": "Осаму Оиси",
+    "trx": "☯️Осаму Оиси"
+  },
+  "staffroll_joke_081": {
+    "src": "The Person Who Tried To Get An Extensive Look At Mama's Balls",
+    "yax": "Человек, Который Пытался Как Следует Рассмотреть Мамины Яйца",
+    "trx": "☯️Человек, Который Пытался Как Следует Рассмотреть Мамины Яйца"
+  },
+  "staffroll_joke_082": {
+    "src": "You",
+    "yax": "Вы",
+    "trx": "☯️Вы"
+  },
+  "staffroll_joke_083": {
+    "src": "Boom! He's Under House Arrest",
+    "yax": "Бум! Он под Домашним Арестом",
+    "trx": "☯️Бум! Он под Домашним Арестом"
+  },
+  "staffroll_joke_084": {
+    "src": "Kaname Date",
+    "yax": "Дата Канаме",
+    "trx": "☯️Дата Канаме"
+  },
+  "staffroll_joke_085": {
+    "src": "Quickly Reemployed",
+    "yax": "Быстро восстановлен на работе",
+    "trx": "☯️Быстро восстановлен на работе"
+  },
+  "staffroll_joke_086": {
+    "src": "Hina Tsukiyono",
+    "yax": "Хина Цукиено",
+    "trx": "☯️Хина Цукиено"
+  },
+  "staffroll_joke_087": {
+    "src": "New Role: Putting Out Fires",
+    "yax": "Новая роль: Тушение пожаров",
+    "trx": "☯️Новая роль: Тушение пожаров"
+  },
+  "staffroll_joke_088": {
+    "src": "Aiba",
+    "yax": "Айба",
+    "trx": "☯️Айба"
+  },
+  "staffroll_joke_089": {
+    "src": "Has A Condition That Makes Him Press Buttons",
+    "yax": "У Него Есть Состояние, Которое Заставляет Его Нажимать На Кнопки",
+    "trx": "☯️У Него Есть Состояние, Которое Заставляет Его Нажимать На Кнопки"
+  },
+  "staffroll_joke_090": {
+    "src": "Kaname Date",
+    "yax": "Дата Канаме",
+    "trx": "☯️Дата Канаме"
+  },
+  "staffroll_joke_091": {
+    "src": "The First Person To Ever Stop Him",
+    "yax": "Первый Человек, Который Когда-Либо Остановил Его",
+    "trx": "☯️Первый Человек, Который Когда-Либо Остановил Его"
+  },
+  "staffroll_joke_092": {
+    "src": "Hina Tsukiyono",
+    "yax": "Хина Цукиено",
+    "trx": "☯️Хина Цукиено"
+  },
+  "staffroll_joke_093": {
+    "src": "The Second Person To Ever Stop Him",
+    "yax": "Второй Человек, Который Когда-Либо Останавливал Его",
+    "trx": "☯️Второй Человек, Который Когда-Либо Останавливал Его"
+  },
+  "staffroll_joke_094": {
+    "src": "Aiba",
+    "yax": "Айба",
+    "trx": "☯️Айба"
+  },
+  "staffroll_joke_095": {
+    "src": "Leader of the New World Order",
+    "yax": "Лидер Нового мирового порядка",
+    "trx": "☯️Лидер Нового мирового порядка"
+  },
+  "staffroll_joke_096": {
+    "src": "Iris Sagan",
+    "yax": "Айрис Саган",
+    "trx": "☯️Айрис Саган"
+  },
+  "staffroll_joke_097": {
+    "src": "The Man Without A Plan",
+    "yax": "Человек Без Плана",
+    "trx": "☯️Человек Без Плана"
+  },
+  "staffroll_joke_098": {
+    "src": "Kaname Date",
+    "yax": "Дата Канаме",
+    "trx": "☯️Дата Канаме"
+  },
+  "staffroll_joke_099": {
+    "src": "Didn't Get The Hint",
+    "yax": "Не Понял Намека",
+    "trx": "☯️Не Понял Намека"
+  },
+  "staffroll_joke_100": {
+    "src": "Hina Tsukiyono",
+    "yax": "Хина Цукиено",
+    "trx": "☯️Хина Цукиено"
+  },
+  "staffroll_joke_101": {
+    "src": "Really Just Sat By And Watched",
+    "yax": "На Самом Деле Просто Сидел И Наблюдал",
+    "trx": "☯️На Самом Деле Просто Сидел И Наблюдал"
+  },
+  "staffroll_joke_102": {
+    "src": "Aiba",
+    "yax": "Айба",
+    "trx": "☯️Айба"
+  },
+  "staffroll_joke_103": {
+    "src": "Dyed Blond Recently",
+    "yax": "Недавно перекрасилась в блондинку",
+    "trx": "☯️Недавно перекрасилась в блондинку"
+  },
+  "staffroll_joke_104": {
+    "src": "Kotaro Uchikoshi",
+    "yax": "Котаро Учикоши",
+    "trx": "☯️Котаро Учикоши"
+  },
+  "staffroll_joke_105": {
+    "src": "Audio Otaku",
+    "yax": "Аудио Отаку",
+    "trx": "☯️Аудио Отаку"
+  },
+  "staffroll_joke_106": {
+    "src": "Yusuke Kozaki",
+    "yax": "Юсуке Кодзаки",
+    "trx": "☯️Юсуке Кодзаки"
+  },
+  "staffroll_joke_107": {
+    "src": "Enjoys visiting museums and gardening",
+    "yax": "Любит посещать музеи и заниматься садоводством",
+    "trx": "☯️Любит посещать музеи и заниматься садоводством"
+  },
+  "staffroll_joke_108": {
+    "src": "Keisuke Ito",
+    "yax": "Кейсуке Ито",
+    "trx": "☯️Кейсуке Ито"
+  },
+  "staffroll_joke_109": {
+    "src": "Lemme Sleep For Just 1 More Minute",
+    "yax": "Дай Мне Поспать Еще Хотя Бы 1 Минуту.",
+    "trx": "☯️Дай Мне Поспать Еще Хотя Бы 1 Минуту."
+  },
+  "staffroll_joke_110": {
+    "src": "Kazuya Yamada",
+    "yax": "Кадзуя Ямада",
+    "trx": "☯️Кадзуя Ямада"
+  },
+  "staffroll_joke_111": {
+    "src": "Always Late",
+    "yax": "Всегда опаздывает",
+    "trx": "☯️Всегда опаздывает"
+  },
+  "staffroll_joke_112": {
+    "src": "Akira Okada",
+    "yax": "Акира Окада",
+    "trx": "☯️Акира Окада"
+  },
+  "staffroll_joke_113": {
+    "src": "Drowning In The Game Backlog",
+    "yax": "Тону В Игровом Бэклоге",
+    "trx": "☯️Тону В Игровом Бэклоге"
+  },
+  "staffroll_joke_114": {
+    "src": "Yoshihito Ogura",
+    "yax": "Есихито Огура",
+    "trx": "☯️Есихито Огура"
+  },
+  "staffroll_joke_115": {
+    "src": "Has No Intention To Show Up For Work",
+    "yax": "Не Собирается Выходить На Работу",
+    "trx": "☯️Не Собирается Выходить На Работу"
+  },
+  "staffroll_joke_116": {
+    "src": "Yasushi Takashina",
+    "yax": "Ясуси Такашина",
+    "trx": "☯️Ясуси Такашина"
+  },
+  "staffroll_joke_117": {
+    "src": "Electrically Charged",
+    "yax": "Электрически заряженный",
+    "trx": "☯️Электрически заряженный"
+  },
+  "staffroll_joke_118": {
+    "src": "Yasuhiro Takahashi",
+    "yax": "Ясухиро Такахаси",
+    "trx": "☯️Ясухиро Такахаси"
+  },
+  "staffroll_joke_119": {
+    "src": "Bikes Are An Extension Of The Body",
+    "yax": "Велосипеды - Это Продолжение Тела",
+    "trx": "☯️Велосипеды - Это Продолжение Тела"
+  },
+  "staffroll_joke_120": {
+    "src": "Etsuo Oishi",
+    "yax": "Эцуо Оиси",
+    "trx": "☯️Эцуо Оиси"
+  },
+  "staffroll_joke_121": {
+    "src": "Burned By Boiling Water",
+    "yax": "Обожженный Кипятком",
+    "trx": "☯️Обожженный Кипятком"
+  },
+  "staffroll_joke_122": {
+    "src": "Kunihiro Horio",
+    "yax": "Кунихиро Хорио",
+    "trx": "☯️Кунихиро Хорио"
+  },
+  "staffroll_joke_123": {
+    "src": "Fourth Time Since Two Years Ago",
+    "yax": "Четвертый Раз С Тех Пор, Как Прошло Два Года",
+    "trx": "☯️Четвертый Раз С Тех Пор, Как Прошло Два Года"
+  },
+  "staffroll_joke_124": {
+    "src": "Migaku Matsui",
+    "yax": "Мигаку Мацуи",
+    "trx": "☯️Мигаку Мацуи"
+  },
+  "staffroll_joke_125": {
+    "src": "Abstained From Booze And Lost A Lot Of Weight",
+    "yax": "Воздержался От Выпивки И Сильно Похудел",
+    "trx": "☯️Воздержался От Выпивки И Сильно Похудел"
+  },
+  "staffroll_joke_126": {
+    "src": "Shigeru Kawahara",
+    "yax": "Сигеру Кавахара",
+    "trx": "☯️Сигеру Кавахара"
+  },
+  "staffroll_joke_127": {
+    "src": "Hears Baby Voices During Meetings",
+    "yax": "Слышит Детские Голоса Во время Собраний",
+    "trx": "☯️Слышит Детские Голоса Во время Собраний"
+  },
+  "staffroll_joke_128": {
+    "src": "Wataru Nagano",
+    "yax": "Ватару Нагано",
+    "trx": "☯️Ватару Нагано"
+  },
+  "staffroll_joke_129": {
+    "src": "Prez Of The Escape Game Club",
+    "yax": "Президент Игрового клуба \"Побег\"",
+    "trx": "☯️Президент Игрового клуба \"Побег\""
+  },
+  "staffroll_joke_130": {
+    "src": "Hiroko Takano",
+    "yax": "Хироко Такано",
+    "trx": "☯️Хироко Такано"
+  },
+  "staffroll_joke_131": {
+    "src": "Long-Legged Characters Should Look Cool While Moving",
+    "yax": "Длинноногие Персонажи Должны Круто Смотреться Во Время Движения",
+    "trx": "☯️Длинноногие Персонажи Должны Круто Смотреться Во Время Движения"
+  },
+  "staffroll_joke_132": {
+    "src": "Hisashi Nagai",
+    "yax": "Хисаси Нагаи",
+    "trx": "☯️Хисаси Нагаи"
+  },
+  "staffroll_joke_133": {
+    "src": "A Past Too Cringe To Speak Of",
+    "yax": "Прошлое, О Котором Слишком Стыдно Говорить",
+    "trx": "☯️Прошлое, О Котором Слишком Стыдно Говорить"
+  },
+  "staffroll_joke_134": {
+    "src": "Alissa Fuji",
+    "yax": "Алисса Фудзи",
+    "trx": "☯️Алисса Фудзи"
+  },
+  "staffroll_joke_135": {
+    "src": "Dungeon Maniac",
+    "yax": "Маньяк из подземелья",
+    "trx": "☯️Маньяк из подземелья"
+  },
+  "staffroll_joke_136": {
+    "src": "Nanaka Ozaki",
+    "yax": "Нанака Одзаки",
+    "trx": "☯️Нанака Одзаки"
+  },
+  "staffroll_joke_137": {
+    "src": "35 Year Mortgage Taker",
+    "yax": "Получатель ипотеки на 35 лет",
+    "trx": "☯️Получатель ипотеки на 35 лет"
+  },
+  "staffroll_joke_138": {
+    "src": "Ryoma Nakamura",
+    "yax": "Рема Накамура",
+    "trx": "☯️Рема Накамура"
+  },
+  "staffroll_joke_139": {
+    "src": "Overworked",
+    "yax": "Перегруженный работой",
+    "trx": "☯️Перегруженный работой"
+  },
+  "staffroll_joke_140": {
+    "src": "Tomoya Shinozaki",
+    "yax": "Томоя Синодзаки",
+    "trx": "☯️Томоя Синодзаки"
+  },
+  "staffroll_joke_141": {
+    "src": "Check out Shiren 6!",
+    "yax": "Посмотрите на Ширен 6!",
+    "trx": "☯️Посмотрите на Ширен 6!"
+  },
+  "staffroll_joke_142": {
+    "src": "Hideyuki Shinozaki",
+    "yax": "Хидэюки Синодзаки",
+    "trx": "☯️Хидэюки Синодзаки"
+  },
+  "staffroll_joke_143": {
+    "src": "Never Neglect Your Health Tea",
+    "yax": "Никогда не пренебрегайте своим полезным чаем",
+    "trx": "☯️Никогда не пренебрегайте своим полезным чаем"
+  },
+  "staffroll_joke_144": {
+    "src": "Kensuke Oguri",
+    "yax": "Кенсуке Огури",
+    "trx": "☯️Кенсуке Огури"
+  },
+  "staffroll_joke_145": {
+    "src": "The Evasive Club Prez",
+    "yax": "Президент клуба уклончивых",
+    "trx": "☯️Президент клуба уклончивых"
+  },
+  "staffroll_joke_146": {
+    "src": "Hironori Ishigami",
+    "yax": "Хиронори Исигами",
+    "trx": "☯️Хиронори Исигами"
+  },
+  "staffroll_joke_147": {
+    "src": "Let's Have Some Fun Together",
+    "yax": "Давай Немного Повеселимся Вместе",
+    "trx": "☯️Давай Немного Повеселимся Вместе"
+  },
+  "staffroll_joke_148": {
+    "src": "Takayuki Yoshino",
+    "yax": "Такаюки Есино",
+    "trx": "☯️Такаюки Есино"
+  },
+  "staffroll_joke_149": {
+    "src": "Karaoke Lover",
+    "yax": "Любитель караоке",
+    "trx": "☯️Любитель караоке"
+  },
+  "staffroll_joke_150": {
+    "src": "Mayoi Funatsu",
+    "yax": "Майои Фунацу",
+    "trx": "☯️Майои Фунацу"
+  },
+  "staffroll_joke_151": {
+    "src": "How About We Add Some Zombies?",
+    "yax": "Как Насчет Того, Чтобы Добавить Немного Зомби?",
+    "trx": "☯️Как Насчет Того, Чтобы Добавить Немного Зомби?"
+  },
+  "staffroll_joke_152": {
+    "src": "Yasu Iizuka",
+    "yax": "Ясу Иидзука",
+    "trx": "☯️Ясу Иидзука"
+  }
+}

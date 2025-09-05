@@ -1,0 +1,17 @@
+{
+  "bonusmenu_santou_common_001": {
+    "src": "",
+    "yax": "",
+    "trx": "☯️"
+  },
+  "bonusmenu_santou_common_002": {
+    "src": "",
+    "yax": "",
+    "trx": "☯️"
+  },
+  "bonusmenu_santou_common_003": {
+    "src": "",
+    "yax": "",
+    "trx": "☯️"
+  }
+}

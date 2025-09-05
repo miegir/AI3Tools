@@ -1,154 +1,192 @@
 {
   "001_001": {
     "src": "A hanging strap... If I grab it, they'll definitely see me.",
-    "trx": "A hanging strap... If I grab it, they'll definitely see me."
+    "yax": "Висячий ремешок... Если я за него возьмусь, они меня точно увидят.",
+    "trx": "☯️Висячий ремешок... Если я за него возьмусь, они меня точно увидят."
   },
   "001_002": {
     "src": "A hanging strap.",
-    "trx": "A hanging strap."
+    "yax": "Свисающий ремешок.",
+    "trx": "☯️Свисающий ремешок."
   },
   "002_001": {
     "src": "The train doors... If I get too close, they'll catch me for sure.",
-    "trx": "The train doors... If I get too close, they'll catch me for sure."
+    "yax": "Двери поезда... Если я подойду слишком близко, они наверняка меня схватят.",
+    "trx": "☯️Двери поезда... Если я подойду слишком близко, они наверняка меня схватят."
   },
   "002_002": {
     "src": "Train doors.",
-    "trx": "Train doors."
+    "yax": "Двери поезда.",
+    "trx": "☯️Двери поезда."
   },
   "003_001": {
     "src": "Seats on the train. I'd love to kick my feet up, but they would definitely see me then.",
-    "trx": "Seats on the train. I'd love to kick my feet up, but they would definitely see me then."
+    "yax": "Места в поезде. Я бы с удовольствием задрал ноги, но тогда они бы меня точно увидели.",
+    "trx": "☯️Места в поезде. Я бы с удовольствием задрал ноги, но тогда они бы меня точно увидели."
   },
   "003_002": {
     "src": "Train seats.",
-    "trx": "Train seats."
+    "yax": "Сиденья в поезде.",
+    "trx": "☯️Сиденья в поезде."
   },
   "004_001": {
     "src": "I wanna see what's going on out there, but they'd see me.",
-    "trx": "I wanna see what's going on out there, but they'd see me."
+    "yax": "Я хочу посмотреть, что там происходит, но они бы меня увидели.",
+    "trx": "☯️Я хочу посмотреть, что там происходит, но они бы меня увидели."
   },
   "004_002": {
     "src": "A train window.",
-    "trx": "A train window."
+    "yax": "Окно поезда.",
+    "trx": "☯️Окно поезда."
   },
   "005_001": {
     "src": "That platform pillar... What delightful curves...",
-    "trx": "That platform pillar... What delightful curves..."
+    "yax": "Эта колонна на платформе... Какие восхитительные изгибы...",
+    "trx": "☯️Эта колонна на платформе... Какие восхитительные изгибы..."
   },
   "005_002": {
     "src": "It's a platform pillar.",
-    "trx": "It's a platform pillar."
+    "yax": "Это опора платформы.",
+    "trx": "☯️Это опора платформы."
   },
   "006_001": {
     "src": "That door goes somewhere...but where?",
-    "trx": "That door goes somewhere...but where?"
+    "yax": "Эта дверь ведет куда-то... но куда?",
+    "trx": "☯️Эта дверь ведет куда-то... но куда?"
   },
   "006_002": {
     "src": "It's a door.",
-    "trx": "It's a door."
+    "yax": "Это дверь.",
+    "trx": "☯️Это дверь."
   },
   "007_001": {
     "src": "A bulletin board, I suppose.",
-    "trx": "A bulletin board, I suppose."
+    "yax": "Наверное, доска объявлений.",
+    "trx": "☯️Наверное, доска объявлений."
   },
   "007_002": {
     "src": "It's a bulletin board.",
-    "trx": "It's a bulletin board."
+    "yax": "Это доска объявлений.",
+    "trx": "☯️Это доска объявлений."
   },
   "008_001": {
     "src": "A bench you can sit on while waiting for the train. Can't be sitting on it and board the train though.",
-    "trx": "A bench you can sit on while waiting for the train. Can't be sitting on it and board the train though."
+    "yax": "Скамейка, на которой можно посидеть в ожидании поезда. Но нельзя сидеть на ней и садиться в поезд.",
+    "trx": "☯️Скамейка, на которой можно посидеть в ожидании поезда. Но нельзя сидеть на ней и садиться в поезд."
   },
   "008_002": {
     "src": "It's a station bench.",
-    "trx": "It's a station bench."
+    "yax": "Это станционная скамейка.",
+    "trx": "☯️Это станционная скамейка."
   },
   "009_001": {
     "src": "I think the A/C is busted.",
-    "trx": "I think the A/C is busted."
+    "yax": "Я думаю, что кондиционер сломался.",
+    "trx": "☯️Я думаю, что кондиционер сломался."
   },
   "009_002": {
     "src": "It's for air conditioning.",
-    "trx": "It's for air conditioning."
+    "yax": "Это для кондиционирования воздуха.",
+    "trx": "☯️Это для кондиционирования воздуха."
   },
   "010_001": {
     "src": "Fluorescent lighting. It's just barely bright enough.",
-    "trx": "Fluorescent lighting. It's just barely bright enough."
+    "yax": "Люминесцентное освещение. Света едва хватает.",
+    "trx": "☯️Люминесцентное освещение. Света едва хватает."
   },
   "010_002": {
     "src": "Some fluorescent lighting.",
-    "trx": "Some fluorescent lighting."
+    "yax": "Немного флуоресцентного освещения.",
+    "trx": "☯️Немного флуоресцентного освещения."
   },
   "011_001": {
     "src": "The door to the driver's compartment. Illegal to go in there without good reason.",
-    "trx": "The door to the driver's compartment. Illegal to go in there without good reason."
+    "yax": "Дверь в водительское отделение. Входить туда без уважительной причины незаконно.",
+    "trx": "☯️Дверь в водительское отделение. Входить туда без уважительной причины незаконно."
   },
   "011_002": {
     "src": "It's the door to the driver's compartment.",
-    "trx": "It's the door to the driver's compartment."
+    "yax": "Это дверь в водительское отделение.",
+    "trx": "☯️Это дверь в водительское отделение."
   },
   "012_001": {
     "src": "A fire hydrant. Is it even working, though...?",
-    "trx": "A fire hydrant. Is it even working, though...?"
+    "yax": "Пожарный гидрант. Но работает ли это вообще?..",
+    "trx": "☯️Пожарный гидрант. Но работает ли это вообще?.."
   },
   "012_002": {
     "src": "It's a fire hydrant.",
-    "trx": "It's a fire hydrant."
+    "yax": "Это пожарный гидрант.",
+    "trx": "☯️Это пожарный гидрант."
   },
   "013_001": {
     "src": "Doors that prevent people from falling onto the tracks.",
-    "trx": "Doors that prevent people from falling onto the tracks."
+    "yax": "Двери, которые предохраняют людей от падения на рельсы.",
+    "trx": "☯️Двери, которые предохраняют людей от падения на рельсы."
   },
   "013_002": {
     "src": "A platform screen door.",
-    "trx": "A platform screen door."
+    "yax": "Сетчатая дверь на платформе.",
+    "trx": "☯️Сетчатая дверь на платформе."
   },
   "014_001": {
     "src": "Looks like this thing was abandoned a long time ago.",
-    "trx": "По всей видимости, этот вагон давно не используется."
+    "yax": "Похоже, что эта штука была заброшена давным-давно.",
+    "trx": "☯️Похоже, что эта штука была заброшена давным-давно."
   },
   "014_002": {
     "src": "It's a train car.",
-    "trx": "Это вагон поезда."
+    "yax": "Это вагон поезда.",
+    "trx": "☯️Это вагон поезда."
   },
   "015_001": {
     "src": "A board that displays departure times and destinations.",
-    "trx": "A board that displays departure times and destinations."
+    "yax": "Табло, на котором отображается время отправления и пункты назначения.",
+    "trx": "☯️Табло, на котором отображается время отправления и пункты назначения."
   },
   "015_002": {
     "src": "It's an electric signboard.",
-    "trx": "It's an electric signboard."
+    "yax": "Это электрическая вывеска.",
+    "trx": "☯️Это электрическая вывеска."
   },
   "016_001": {
     "src": "A map of the station...",
-    "trx": "A map of the station..."
+    "yax": "Карта станции...",
+    "trx": "☯️Карта станции..."
   },
   "016_002": {
     "src": "It's a station map.",
-    "trx": "It's a station map."
+    "yax": "Это карта станции.",
+    "trx": "☯️Это карта станции."
   },
   "017_001": {
     "src": "A vending machine, but it doesn't work.",
-    "trx": "A vending machine, but it doesn't work."
+    "yax": "Есть торговый автомат, но он не работает.",
+    "trx": "☯️Есть торговый автомат, но он не работает."
   },
   "017_002": {
     "src": "It's a vending machine.",
-    "trx": "It's a vending machine."
+    "yax": "Это торговый автомат.",
+    "trx": "☯️Это торговый автомат."
   },
   "018_001": {
     "src": "A trash can. Not that anyone's coming to empty it.",
-    "trx": "A trash can. Not that anyone's coming to empty it."
+    "yax": "Мусорное ведро. Не то чтобы кто-то собирался его выносить.",
+    "trx": "☯️Мусорное ведро. Не то чтобы кто-то собирался его выносить."
   },
   "018_002": {
     "src": "It's a trash can.",
-    "trx": "It's a trash can."
+    "yax": "Это мусорное ведро.",
+    "trx": "☯️Это мусорное ведро."
   },
   "019_001": {
     "src": "A busted elevator.",
-    "trx": "A busted elevator."
+    "yax": "Сломанный лифт.",
+    "trx": "☯️Сломанный лифт."
   },
   "019_002": {
     "src": "It's an elevator.",
-    "trx": "It's an elevator."
+    "yax": "Это лифт.",
+    "trx": "☯️Это лифт."
   }
 }

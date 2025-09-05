@@ -71,13 +71,13 @@ internal class TextMapManager
                     HasWarnings = true;
                 }
 
-                if (debugName != null)
-                {
-                    messages[key] = Dbg($"[M] {msg}");
-                }
+                messages[key] = Dbg($"[M] {msg}");
             }
 
-            string Dbg(string msg) => $"{msg} [{debugName}:{key}]";
+            string Dbg(string msg) => debugName is not null
+                ? $"{msg} [{debugName}:{key}]"
+                : msg;
+
             string Parse(string msg) => msg.StartsWith(YaxPrefix)
                 ? Dbg($"[Y] {msg[YaxPrefix.Length..]}")
                 : msg;

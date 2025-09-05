@@ -1,1402 +1,1752 @@
 {
   "dialog_001": {
     "src": "Yes",
-    "trx": "Yes"
+    "yax": "Да",
+    "trx": "Да"
   },
   "dialog_002": {
     "src": "No",
-    "trx": "No"
+    "yax": "Нет",
+    "trx": "Нет"
   },
   "dialog_096": {
     "src": "OK",
-    "trx": "OK"
+    "yax": "ОК",
+    "trx": null
   },
   "dialog_003": {
     "src": "Empty",
-    "trx": "Empty"
+    "yax": "Пустой",
+    "trx": "Пусто"
   },
   "dialog_004": {
     "src": "Incorrect input",
-    "trx": "Incorrect input"
+    "yax": "Неправильный ввод данных",
+    "trx": "Неверный ввод"
   },
   "dialog_005": {
     "src": "Mental Lock {0} unlocked: <pos=75%>{1} second(s) left",
-    "trx": "Mental Lock {0} unlocked: <pos=75%>{1} second(s) left"
+    "yax": "Ментальная блокировка {0} разблокирована: <pos=75%> _BOS_ осталась 1 секунда(ы)",
+    "trx": "<size=22>Открыт ментальный замок {0}: <pos=75%>осталось {1} сек"
   },
   "dialog_006": {
     "src": "Restart: <pos=75%>{0} second(s) left",
-    "trx": "Restart: <pos=75%>{0} second(s) left"
+    "yax": "Перезапуск: <pos=75%>{0} осталась секунда(ы)",
+    "trx": "☯️Перезапуск: <pos=75%>{0} осталась секунда(ы)"
   },
   "dialog_007": {
     "src": "Retry?",
-    "trx": "Retry?"
+    "yax": "Повторить попытку?",
+    "trx": "Повторить?"
   },
   "dialog_008": {
     "src": "This will end the event and open the Flowchart.\nContinue?",
-    "trx": "This will end the event and open the Flowchart.\nContinue?"
+    "yax": "На этом мероприятие завершится, и откроется блок-схема.\nПродолжить?",
+    "trx": "☯️На этом мероприятие завершится, и откроется блок-схема.\nПродолжить?"
   },
   "dialog_009": {
     "src": "This will bring you back to the Bonus menu.\nContinue?",
-    "trx": "This will bring you back to the Bonus menu.\nContinue?"
+    "yax": "После этого вы вернетесь в меню бонусов.\nПродолжить?",
+    "trx": "При этом вы вернетесь в меню бонусов.\nПродолжить?"
   },
   "dialog_010": {
     "src": "This will end the game.\nContinue?",
-    "trx": "This will end the game.\nContinue?"
+    "yax": "На этом игра закончится.\nПродолжить?",
+    "trx": "При этом игра завершится.\nПродолжить?"
   },
   "dialog_011": {
     "src": "Reduce difficulty and restart from the checkpoint.",
-    "trx": "Reduce difficulty and restart from the checkpoint."
+    "yax": "Уменьшите сложность и перезапустите игру с контрольной точки.",
+    "trx": "Уменьшить сложность и повторить с контрольной точки."
   },
   "dialog_012": {
     "src": "Restart from Checkpoint",
-    "trx": "Restart from Checkpoint"
+    "yax": "Перезапуск с контрольной точки",
+    "trx": "Повторить с контрольной точки"
   },
   "dialog_013": {
     "src": "Restart Psync",
-    "trx": "Restart Psync"
+    "yax": "Перезапустить Psync",
+    "trx": "Перезапустить сомниум"
   },
   "dialog_014": {
     "src": "Open Flowchart",
-    "trx": "Open Flowchart"
+    "yax": "Открытая блок-схема",
+    "trx": "Открыть хронологию"
   },
   "dialog_015": {
     "src": "This will restart from the beginning of this Somnium.\nContinue?",
-    "trx": "This will restart from the beginning of this Somnium.\nContinue?"
+    "yax": "Программа перезапустится с начала этого периода.\nПродолжить?",
+    "trx": "☯️Программа перезапустится с начала этого периода.\nПродолжить?"
   },
   "dialog_016": {
     "src": "This will end the Psync and open the Flowchart.\nContinue?",
-    "trx": "This will end the Psync and open the Flowchart.\nContinue?"
+    "yax": "Это завершит синхронизацию данных и откроет блок-схему.\nПродолжить?",
+    "trx": "☯️Это завершит синхронизацию данных и откроет блок-схему.\nПродолжить?"
   },
   "dialog_017": {
     "src": "This will carry out the action without using TIMIES.\nContinue?",
-    "trx": "This will carry out the action without using TIMIES.\nContinue?"
+    "yax": "Это позволит выполнить действие без использования временных интервалов.\nПродолжить?",
+    "trx": "☯️Это позволит выполнить действие без использования временных интервалов.\nПродолжить?"
   },
   "dialog_018": {
     "src": "Starting the game in this text language.\nIt cannot be changed later.\nContinue?",
-    "trx": "Starting the game in this text language.\nIt cannot be changed later.\nContinue?"
+    "yax": "Запускаем игру на этом языке текста.\nЭто не может быть изменено позже.\nПродолжить?",
+    "trx": "☯️Запускаем игру на этом языке текста.\nЭто не может быть изменено позже.\nПродолжить?"
   },
   "dialog_019": {
     "src": "<color=#CCCC00><size=80%>Investigation (QTE)</size></color>\n{0}<line-height=80%>\n―――――――――――――――――――\n</line-height><color=#0644B9><size=80%>Somnium</size></color>\n{1}<line-height=80%>\n―――――――――――――――――――\n</line-height><color=#cc0000><size=80%>Escape</size></color>\n{2}<line-height=80%>\n―――――――――――――――――――\n</line-height>Starting the game with this difficulty.\nContinue?\n<size=80%>(These settings can be changed in the Options menu at any time.)</size>",
-    "trx": "<color=#CCCC00><size=80%>Investigation (QTE)</size></color>\n{0}<line-height=80%>\n―――――――――――――――――――\n</line-height><color=#0644B9><size=80%>Somnium</size></color>\n{1}<line-height=80%>\n―――――――――――――――――――\n</line-height><color=#cc0000><size=80%>Escape</size></color>\n{2}<line-height=80%>\n―――――――――――――――――――\n</line-height>Starting the game with this difficulty.\nContinue?\n<size=80%>(These settings can be changed in the Options menu at any time.)</size>"
+    "yax": "<color=#CCCC00><размер=80%>Исследование (QTE)</size></color>\n{0}<высота строки=80%>\n―――――――――――――――――――\n</высота строки><color=#0644B9><размер=80%>Сомниум</размер></цвет>\n{1}<высота строки=80%>\n―――――――――――――――――――\n</line-height><color=#cc0000><size=80%>Побег</size></color>\n{2}<line-height=80%>\n―――――――――――――――――――\n</line-height>Начинаем игру с этой сложности.\nПродолжить?\n<размер=80%> (Эти настройки можно изменить в меню настроек в любое время.)</размер>",
+    "trx": "☯️<color=#CCCC00><размер=80%>Исследование (QTE)</size></color>\n{0}<высота строки=80%>\n―――――――――――――――――――\n</высота строки><color=#0644B9><размер=80%>Сомниум</размер></цвет>\n{1}<высота строки=80%>\n―――――――――――――――――――\n</line-height><color=#cc0000><size=80%>Побег</size></color>\n{2}<line-height=80%>\n―――――――――――――――――――\n</line-height>Начинаем игру с этой сложности.\nПродолжить?\n<размер=80%> (Эти настройки можно изменить в меню настроек в любое время.)</размер>"
   },
   "dialog_020": {
     "src": "3rd Class Cabin has been unlocked in BONUS!",
-    "trx": "3rd Class Cabin has been unlocked in BONUS!"
+    "yax": "Каюта 3-го класса была разблокирована в качестве бонуса!",
+    "trx": "В бонусах была разблокирована каюта 3-го класса!"
   },
   "dialog_021": {
     "src": "\"Dance\"\n \"Novel\"\n \"Alternate Alternate Ending\"\n has been unlocked in Bonus.",
-    "trx": "\"Dance\"\n \"Novel\"\n \"Alternate Alternate Ending\"\n has been unlocked in Bonus."
+    "yax": "\"Танец\"\n \"Роман\"\n \"Альтернативный финал\"\n был разблокирован в качестве бонуса.",
+    "trx": "☯️\"Танец\"\n \"Роман\"\n \"Альтернативный финал\"\n был разблокирован в качестве бонуса."
   },
   "dialog_022": {
     "src": "Unlocked Eyeballies function!\n《Wait time for question is now 0 seconds》\n《In picture book, \"Play with Eyeballies that you met in the past\" function》\nGive answers to the questions from now on too!",
-    "trx": "Unlocked Eyeballies function!\n《Wait time for question is now 0 seconds》\n《In picture book, \"Play with Eyeballies that you met in the past\" function》\nGive answers to the questions from now on too!"
+    "yax": "Разблокирована функция \"Глазные яблоки\"!\n《Время ожидания ответа на вопрос теперь равно 0 секундам》\n《В книжке с картинками появилась функция \"Поиграй с глазными яблоками, с которыми ты встречался в прошлом\"》\nОтвечай на вопросы и впредь!",
+    "trx": "Разблокирована функция глазков!\n《Время ожидания вопроса теперь 0 секунд》\n《В альбоме доступна функция \"Поиграть со встреченными в прошлом глазками\"》\nПродолжайте отвечать на вопросы!"
   },
   "dialog_023": {
     "src": "Remaining Retries",
-    "trx": "Remaining Retries"
+    "yax": "Оставшиеся повторные попытки",
+    "trx": "Оставшиеся попытки"
   },
   "dialog_024": {
     "src": "Which Checkpoint would you like to restart from?",
-    "trx": "Which Checkpoint would you like to restart from?"
+    "yax": "С какой контрольной точки вы хотели бы перезагрузиться?",
+    "trx": "С какой контрольной точки выполнить перезапуск?"
   },
   "dialog_025": {
     "src": "Checkpoint",
-    "trx": "Checkpoint"
+    "yax": "Пропускной пункт",
+    "trx": "Контрольная точка"
   },
   "dialog_026": {
     "src": "Retry Cost",
-    "trx": "Retry Cost"
+    "yax": "Стоимость повторной попытки",
+    "trx": "☯️Стоимость повторной попытки"
   },
   "dialog_027": {
     "src": "Return to this checkpoint?",
-    "trx": "Return to this checkpoint?"
+    "yax": "Вернуться на этот контрольный пункт?",
+    "trx": "Вернуться к этой контрольной точке?"
   },
   "dialog_028": {
     "src": "Mental Lock {0}<size=80%>: Remaining Time {1} second",
-    "trx": "Mental Lock {0}<size=80%>: Remaining Time {1} second"
+    "yax": "Ментальная блокировка {0}<размер=80%>: Оставшееся время {1} секунда",
+    "trx": "Ментальный замок {0}<size=80%>: Осталось {1} сек."
   },
   "dialog_029": {
     "src": "This will restart from the beginning of this Somnium.\n-Temporary checkpoint saves will be reset.\n-The Retry counter will be restored.\nContinue?",
-    "trx": "This will restart from the beginning of this Somnium.\n-Temporary checkpoint saves will be reset.\n-The Retry counter will be restored.\nContinue?"
+    "yax": "Программа перезапустится с начала текущего периода.\n- Временные сохранения контрольных точек будут сброшены.\n-Счетчик повторных попыток будет восстановлен.\nПродолжить?",
+    "trx": "☯️Программа перезапустится с начала текущего периода.\n- Временные сохранения контрольных точек будут сброшены.\n-Счетчик повторных попыток будет восстановлен.\nПродолжить?"
   },
   "dialog_030": {
     "src": "This will restart from the beginning of this Somnium.\n-Temporary checkpoint saves will be reset.\nContinue?",
-    "trx": "This will restart from the beginning of this Somnium.\n-Temporary checkpoint saves will be reset.\nContinue?"
+    "yax": "Программа перезапустится с начала текущего периода.\n- Временные сохранения контрольной точки будут сброшены.\nПродолжить?",
+    "trx": "☯️Программа перезапустится с начала текущего периода.\n- Временные сохранения контрольной точки будут сброшены.\nПродолжить?"
   },
   "dialog_031": {
     "src": "This will bring you back to the Bonus menu.\nContinue?",
-    "trx": "This will bring you back to the Bonus menu.\nContinue?"
+    "yax": "После этого вы вернетесь в меню бонусов.\nПродолжить?",
+    "trx": "☯️После этого вы вернетесь в меню бонусов.\nПродолжить?"
   },
   "dialog_076": {
     "src": "Disable this message?",
-    "trx": "Disable this message?"
+    "yax": "Отключить это сообщение?",
+    "trx": "☯️Отключить это сообщение?"
   },
   "dialog_097": {
     "src": "Cancel",
-    "trx": "Cancel"
+    "yax": "Отменить",
+    "trx": "Отмена"
   },
   "dialog_032": {
     "src": "<align=\"left\">Change Somnium difficulty from {0} to {1}?\n\n▼Detailed Changes\n・Time Decrease Speed: {2} -> <color=red>{3}</color>\n・Time Cost for Choices: {4} -> <color=red>{5}</color>\n・Retry Counter: {6} -> <color=red>{7}</color>{8}",
-    "trx": "<align=\"left\">Change Somnium difficulty from {0} to {1}?\n\n▼Detailed Changes\n・Time Decrease Speed: {2} -> <color=red>{3}</color>\n・Time Cost for Choices: {4} -> <color=red>{5}</color>\n・Retry Counter: {6} -> <color=red>{7}</color>{8}"
+    "yax": "<align=\"left\">Изменить сложность игры в Сомниуме с {0} на {1}?\n\n▼Подробные изменения\n・Скорость уменьшения времени: _BOS_2} -> <цвет=красный> _BOS_3}</цвет>\n・Затраты времени на выбор: _BOS_4} -> <color=красный> _BOS_5}</color>\n・Счетчик повторных попыток: _BOS_6} -> <цвет=красный> _BOS_7}</цвет> _BOS_8}",
+    "trx": "☯️<align=\"left\">Изменить сложность игры в Сомниуме с {0} на {1}?\n\n▼Подробные изменения\n・Скорость уменьшения времени: _BOS_2} -> <цвет=красный> _BOS_3}</цвет>\n・Затраты времени на выбор: _BOS_4} -> <color=красный> _BOS_5}</color>\n・Счетчик повторных попыток: _BOS_6} -> <цвет=красный> _BOS_7}</цвет> _BOS_8}"
   },
   "dialog_033": {
     "src": "Changing the difficulty fully restores the Retry counter.",
-    "trx": "Changing the difficulty fully restores the Retry counter."
+    "yax": "Изменение уровня сложности полностью восстанавливает счетчик повторных попыток.",
+    "trx": "☯️Изменение уровня сложности полностью восстанавливает счетчик повторных попыток."
   },
   "dialog_034": {
     "src": "Difficulty changed to {0}.\nRetry counter restored to <color=red>{1}</color>.",
-    "trx": "Difficulty changed to {0}.\nRetry counter restored to <color=red>{1}</color>."
+    "yax": "Сложность изменена на {0}.\nСчетчик повторных попыток восстановлен на <color=red>{1}</color>.",
+    "trx": "☯️Сложность изменена на {0}.\nСчетчик повторных попыток восстановлен на <color=red>{1}</color>."
   },
   "dialog_035": {
     "src": "Story",
-    "trx": "Story"
+    "yax": "История",
+    "trx": "История"
   },
   "dialog_036": {
     "src": "Easy",
-    "trx": "Easy"
+    "yax": "Легко",
+    "trx": "☯️Легкая"
   },
   "dialog_037": {
     "src": "Standard",
-    "trx": "Standard"
+    "yax": "Стандарт",
+    "trx": "☯️Обычная"
   },
   "dialog_038": {
     "src": "Unlimited",
-    "trx": "Unlimited"
+    "yax": "Неограниченный",
+    "trx": "☯️Неограниченный"
   },
   "dialog_039": {
     "src": "6",
-    "trx": "6"
+    "yax": "6",
+    "trx": null
   },
   "dialog_040": {
     "src": "3",
-    "trx": "3"
+    "yax": "3",
+    "trx": null
   },
   "dialog_041": {
     "src": "1/4",
-    "trx": "1/4"
+    "yax": "1/4",
+    "trx": null
   },
   "dialog_042": {
     "src": "1/2",
-    "trx": "1/2"
+    "yax": "1/2",
+    "trx": null
   },
   "dialog_043": {
     "src": "1/1",
-    "trx": "1/1"
+    "yax": "1/1",
+    "trx": null
   },
   "dialog_044": {
     "src": "1/4",
-    "trx": "1/4"
+    "yax": "1/4",
+    "trx": null
   },
   "dialog_045": {
     "src": "1/2",
-    "trx": "1/2"
+    "yax": "1/2",
+    "trx": null
   },
   "dialog_046": {
     "src": "1/1",
-    "trx": "1/1"
+    "yax": "1/1",
+    "trx": null
   },
   "dialog_047": {
     "src": "This will restart from the beginning of this Escape.\n -Temporary checkpoint saves will be reset.\n -The Search uses will be restored.\nContinue?",
-    "trx": "This will restart from the beginning of this Escape.\n -Temporary checkpoint saves will be reset.\n -The Search uses will be restored.\nContinue?"
+    "yax": "Программа перезапустится с начала этого перехода.\n - Временные сохранения контрольных точек будут сброшены.\n - Поисковые запросы будут восстановлены.\nПродолжить?",
+    "trx": "☯️Программа перезапустится с начала этого перехода.\n - Временные сохранения контрольных точек будут сброшены.\n - Поисковые запросы будут восстановлены.\nПродолжить?"
   },
   "dialog_048": {
     "src": "This will restart from the beginning of this Escape.\n-Temporary checkpoint saves will be reset.\nContinue?",
-    "trx": "This will restart from the beginning of this Escape.\n-Temporary checkpoint saves will be reset.\nContinue?"
+    "yax": "Все будет перезапущено с начала этого выхода.\n- Временные сохранения контрольной точки будут сброшены.\nПродолжить?",
+    "trx": "☯️Все будет перезапущено с начала этого выхода.\n- Временные сохранения контрольной точки будут сброшены.\nПродолжить?"
   },
   "dialog_049": {
     "src": "This will end the Escape and open the Flowchart.\nContinue?",
-    "trx": "This will end the Escape and open the Flowchart.\nContinue?"
+    "yax": "Это завершит поиск и откроет блок-схему.\nПродолжить?",
+    "trx": "☯️Это завершит поиск и откроет блок-схему.\nПродолжить?"
   },
   "dialog_077": {
     "src": "<align=\"left\">Change QTE difficulty from {0} to {1}?\n \n ▼Detailed Changes\n・Time Limit: {2} -> <color=red>{3}</color>\n・Repeat Count: {4} -> <color=red>{5}</color>",
-    "trx": "<align=\"left\">Change QTE difficulty from {0} to {1}?\n \n ▼Detailed Changes\n・Time Limit: {2} -> <color=red>{3}</color>\n・Repeat Count: {4} -> <color=red>{5}</color>"
+    "yax": "<align=\"left\">Изменить сложность QTE с {0} на {1}?\n \n ▼Подробные изменения\n・Ограничение по времени: _BOS_2} -> <цвет=красный> _BOS_3}</цвет>\n・Количество повторов: _BOS_4} -> <color=красный> _BOS_5}</color>",
+    "trx": "☯️<align=\"left\">Изменить сложность QTE с {0} на {1}?\n \n ▼Подробные изменения\n・Ограничение по времени: _BOS_2} -> <цвет=красный> _BOS_3}</цвет>\n・Количество повторов: _BOS_4} -> <color=красный> _BOS_5}</color>"
   },
   "dialog_078": {
     "src": "<align=\"left\">Changed difficulty to {0}.\n \n・Time Limit: <color=red>{1}</color>\n・Repeat Count: <color=red>{2}</color>\n \nRetrying QTE...",
-    "trx": "<align=\"left\">Changed difficulty to {0}.\n \n・Time Limit: <color=red>{1}</color>\n・Repeat Count: <color=red>{2}</color>\n \nRetrying QTE..."
+    "yax": "<align=\"left\">Сложность изменена на {0}.\n \n・Ограничение по времени: <color=red>{1}</color>\n・Количество повторений: <color=red>{2}</color>\n \nПовторите QTE...",
+    "trx": "☯️<align=\"left\">Сложность изменена на {0}.\n \n・Ограничение по времени: <color=red>{1}</color>\n・Количество повторений: <color=red>{2}</color>\n \nПовторите QTE..."
   },
   "dialog_079": {
     "src": "<align=\"left\">Retrying QTE on {0} difficulty.\n \n・Time Limit: <color=red>{1}</color>\n・Repeat Count: <color=red>{2}</color>\n \nContinue?",
-    "trx": "<align=\"left\">Retrying QTE on {0} difficulty.\n \n・Time Limit: <color=red>{1}</color>\n・Repeat Count: <color=red>{2}</color>\n \nContinue?"
+    "yax": "<align=\"left\">Повторите QTE на уровне сложности {0}.\n \n・Ограничение по времени: <color=red>{1}</color>\n・Количество повторов: <color=red>{2}</color>\n \nПродолжить?",
+    "trx": "☯️<align=\"left\">Повторите QTE на уровне сложности {0}.\n \n・Ограничение по времени: <color=red>{1}</color>\n・Количество повторов: <color=red>{2}</color>\n \nПродолжить?"
   },
   "dialog_080": {
     "src": "Story",
-    "trx": "Story"
+    "yax": "История",
+    "trx": "История"
   },
   "dialog_081": {
     "src": "Easy",
-    "trx": "Easy"
+    "yax": "Легко",
+    "trx": "☯️Легкая"
   },
   "dialog_082": {
     "src": "Standard",
-    "trx": "Standard"
+    "yax": "Стандарт",
+    "trx": "☯️Обычная"
   },
   "dialog_083": {
     "src": "Hard",
-    "trx": "Hard"
+    "yax": "Трудный",
+    "trx": "☯️Сложная"
   },
   "dialog_084": {
     "src": "3 Times Flat",
-    "trx": "3 Times Flat"
+    "yax": "3 Раза Ровно",
+    "trx": "☯️3 Раза Ровно"
   },
   "dialog_085": {
     "src": "1/2",
-    "trx": "1/2"
+    "yax": "1/2",
+    "trx": null
   },
   "dialog_086": {
     "src": "Normal",
-    "trx": "Normal"
+    "yax": "Обычный",
+    "trx": "☯️Обычный"
   },
   "dialog_087": {
     "src": "Unlimited",
-    "trx": "Unlimited"
+    "yax": "Неограниченный",
+    "trx": "☯️Неограниченный"
   },
   "dialog_088": {
     "src": "2x",
-    "trx": "2x"
+    "yax": "2 раза",
+    "trx": null
   },
   "dialog_089": {
     "src": "Normal",
-    "trx": "Normal"
+    "yax": "Обычный",
+    "trx": "☯️Обычный"
   },
   "dialog_050": {
     "src": "<align=\"left\">Change Escape difficulty from {0} to {1}?\n \n ▼Detailed Changes\n・Crisis Time: {2} -> <color=red>{3}</color>\n・Search Use Limit: {4} -> <color=red>{5}</color>\n・Hints: {6} -> <color=red>{7}</color>{8}",
-    "trx": "<align=\"left\">Change Escape difficulty from {0} to {1}?\n \n ▼Detailed Changes\n・Crisis Time: {2} -> <color=red>{3}</color>\n・Search Use Limit: {4} -> <color=red>{5}</color>\n・Hints: {6} -> <color=red>{7}</color>{8}"
+    "yax": "<align=\"left\">Изменить сложность побега с {0} на {1}?\n \n ▼Подробные изменения\n・Кризисное время: _BOS_2} -> <color=красный> _BOS_3}</color>\n・Ограничение на использование поиска: _BOS_4} -> <color=красный> _BOS_5}</color>\n・Подсказки: _BOS_6} -> <цвет=красный> _BOS_7}</цвет> _BOS_8}",
+    "trx": "☯️<align=\"left\">Изменить сложность побега с {0} на {1}?\n \n ▼Подробные изменения\n・Кризисное время: _BOS_2} -> <color=красный> _BOS_3}</color>\n・Ограничение на использование поиска: _BOS_4} -> <color=красный> _BOS_5}</color>\n・Подсказки: _BOS_6} -> <цвет=красный> _BOS_7}</цвет> _BOS_8}"
   },
   "dialog_051": {
     "src": "\nChanging the difficulty fully restores the Search counter.",
-    "trx": "\nChanging the difficulty fully restores the Search counter."
+    "yax": "Изменение сложности полностью восстанавливает счетчик поиска.",
+    "trx": "☯️Изменение сложности полностью восстанавливает счетчик поиска."
   },
   "dialog_052": {
     "src": "Difficulty changed to {0}.\nSearch counter restored to <color=red>{1}</color>.",
-    "trx": "Difficulty changed to {0}.\nSearch counter restored to <color=red>{1}</color>."
+    "yax": "Сложность изменена на {0}.\nСчетчик поиска восстановлен на <color=red>{1}</color>.",
+    "trx": "☯️Сложность изменена на {0}.\nСчетчик поиска восстановлен на <color=red>{1}</color>."
   },
   "dialog_053": {
     "src": "Story",
-    "trx": "Story"
+    "yax": "История",
+    "trx": "История"
   },
   "dialog_054": {
     "src": "Easy",
-    "trx": "Easy"
+    "yax": "Легко",
+    "trx": "☯️Легко"
   },
   "dialog_055": {
     "src": "Standard",
-    "trx": "Standard"
+    "yax": "Стандарт",
+    "trx": "☯️Стандарт"
   },
   "dialog_056": {
     "src": "Hard",
-    "trx": "Hard"
+    "yax": "Трудный",
+    "trx": "☯️Трудный"
   },
   "dialog_057": {
     "src": "Until Solved",
-    "trx": "Until Solved"
+    "yax": "Пока не разгадано",
+    "trx": "☯️Пока не разгадано"
   },
   "dialog_058": {
     "src": "Many",
-    "trx": "Many"
+    "yax": "Многие",
+    "trx": "☯️Многие"
   },
   "dialog_059": {
     "src": "Many",
-    "trx": "Many"
+    "yax": "Многие",
+    "trx": "☯️Многие"
   },
   "dialog_060": {
     "src": "Few",
-    "trx": "Few"
+    "yax": "Немногие",
+    "trx": "☯️Немногие"
   },
   "dialog_061": {
     "src": "Unlimited",
-    "trx": "Unlimited"
+    "yax": "Неограниченный",
+    "trx": "☯️Неограниченный"
   },
   "dialog_062": {
     "src": "Unlimited",
-    "trx": "Unlimited"
+    "yax": "Неограниченный",
+    "trx": "☯️Неограниченный"
   },
   "dialog_063": {
     "src": "10",
-    "trx": "10"
+    "yax": "10",
+    "trx": null
   },
   "dialog_064": {
     "src": "0",
-    "trx": "0"
+    "yax": "0",
+    "trx": null
   },
   "dialog_065": {
     "src": "Unlimited",
-    "trx": "Unlimited"
+    "yax": "Неограниченный",
+    "trx": "☯️Неограниченный"
   },
   "dialog_066": {
     "src": "Unlimited",
-    "trx": "Unlimited"
+    "yax": "Неограниченный",
+    "trx": "☯️Неограниченный"
   },
   "dialog_067": {
     "src": "10",
-    "trx": "10"
+    "yax": "10",
+    "trx": null
   },
   "dialog_068": {
     "src": "0",
-    "trx": "0"
+    "yax": "0",
+    "trx": null
   },
   "dialog_072": {
     "src": "4x",
-    "trx": "4x"
+    "yax": "4 раза",
+    "trx": null
   },
   "dialog_071": {
     "src": "2x",
-    "trx": "2x"
+    "yax": "2 раза",
+    "trx": null
   },
   "dialog_070": {
     "src": "Standard",
-    "trx": "Standard"
+    "yax": "Стандарт",
+    "trx": "☯️Стандарт"
   },
   "dialog_069": {
     "src": "0.8",
-    "trx": "0.8"
+    "yax": "0.8",
+    "trx": "☯️0.8"
   },
   "dialog_090": {
     "src": "Resumes right after The Third Eye.\nContinue?",
-    "trx": "Resumes right after The Third Eye.\nContinue?"
+    "yax": "Возобновляется сразу после открытия Третьего глаза.\nПродолжить?",
+    "trx": "☯️Возобновляется сразу после открытия Третьего глаза.\nПродолжить?"
   },
   "dialog_091": {
     "src": "Resumes right after the elevator arrives at the 5th floor.\nContinue?",
-    "trx": "Resumes right after the elevator arrives at the 5th floor.\nContinue?"
+    "yax": "Возобновится сразу после того, как лифт поднимется на 5-й этаж.\nПродолжить?",
+    "trx": "☯️Возобновится сразу после того, как лифт поднимется на 5-й этаж.\nПродолжить?"
   },
   "dialog_092": {
     "src": "Resumes right after the appearance of the time bomb.\nContinue?",
-    "trx": "Resumes right after the appearance of the time bomb.\nContinue?"
+    "yax": "Возобновляется сразу после появления бомбы замедленного действия.\nПродолжить?",
+    "trx": "☯️Возобновляется сразу после появления бомбы замедленного действия.\nПродолжить?"
   },
   "dialog_093": {
     "src": "Resume right after The Third Eye.",
-    "trx": "Resume right after The Third Eye."
+    "yax": "Продолжите сразу после \"Третьего глаза\".",
+    "trx": "☯️Продолжите сразу после \"Третьего глаза\"."
   },
   "dialog_094": {
     "src": "Resume right after the elevator arrives at the 5th floor.",
-    "trx": "Resume right after the elevator arrives at the 5th floor."
+    "yax": "Возобновите работу сразу после того, как лифт поднимется на 5-й этаж.",
+    "trx": "☯️Возобновите работу сразу после того, как лифт поднимется на 5-й этаж."
   },
   "dialog_095": {
     "src": "Resume right after the appearance of the time bomb.",
-    "trx": "Resume right after the appearance of the time bomb."
+    "yax": "Возобновите работу сразу после появления бомбы замедленного действия.",
+    "trx": "☯️Возобновите работу сразу после появления бомбы замедленного действия."
   },
   "dialog_073": {
     "src": "This will restart from the beginning of this Escape.\n -Temporary checkpoint saves will be reset.\n -The Search uses will be restored.\nContinue?",
-    "trx": "This will restart from the beginning of this Escape.\n -Temporary checkpoint saves will be reset.\n -The Search uses will be restored.\nContinue?"
+    "yax": "Программа перезапустится с начала этого перехода.\n - Временные сохранения контрольных точек будут сброшены.\n - Поисковые запросы будут восстановлены.\nПродолжить?",
+    "trx": "☯️Программа перезапустится с начала этого перехода.\n - Временные сохранения контрольных точек будут сброшены.\n - Поисковые запросы будут восстановлены.\nПродолжить?"
   },
   "dialog_074": {
     "src": "This will restart from the beginning of this Escape.\n -Temporary checkpoint saves will be reset.\nContinue?",
-    "trx": "This will restart from the beginning of this Escape.\n -Temporary checkpoint saves will be reset.\nContinue?"
+    "yax": "Все будет перезапущено с начала этого выхода.\n - Временные сохранения контрольной точки будут сброшены.\nПродолжить?",
+    "trx": "☯️Все будет перезапущено с начала этого выхода.\n - Временные сохранения контрольной точки будут сброшены.\nПродолжить?"
   },
   "dialog_075": {
     "src": "This will end the Escape and open the Flowchart.\nContinue?",
-    "trx": "This will end the Escape and open the Flowchart.\nContinue?"
+    "yax": "Это завершит поиск и откроет блок-схему.\nПродолжить?",
+    "trx": "☯️Это завершит поиск и откроет блок-схему.\nПродолжить?"
   },
   "r15_dialog_001": {
     "src": "Kusemon Team is full.\nWhich Kusemon would you like to replace  {1} {0} with?",
-    "trx": "Kusemon Team is full.\nWhich Kusemon would you like to replace  {1} {0} with?"
+    "yax": "Команда Кусемонов заполнена.\nНа какой кусемон вы бы хотели заменить {1} {0}?",
+    "trx": "☯️Команда Кусемонов заполнена.\nНа какой кусемон вы бы хотели заменить {1} {0}?"
   },
   "r15_dialog_002": {
     "src": "Date",
-    "trx": "Date"
+    "yax": "Дата",
+    "trx": "Датэ"
   },
   "r15_dialog_003": {
     "src": "Rarity",
-    "trx": "Rarity"
+    "yax": "Редкость",
+    "trx": "Редкость"
   },
   "r15_dialog_004": {
     "src": "[C]",
-    "trx": "[C]"
+    "yax": "[C]",
+    "trx": null
   },
   "r15_dialog_005": {
     "src": "[R]",
-    "trx": "[R]"
+    "yax": "[R]",
+    "trx": null
   },
   "r15_dialog_006": {
     "src": "[SR]",
-    "trx": "[SR]"
+    "yax": "[СТАРШИЙ]",
+    "trx": null
   },
   "r15_dialog_007": {
     "src": "[SSR]",
-    "trx": "[SSR]"
+    "yax": "[ССР]",
+    "trx": null
   },
   "r15_dialog_008": {
     "src": "[F]",
-    "trx": "[F]"
+    "yax": "[F]",
+    "trx": null
   },
   "r15_dialog_009": {
     "src": "[SC]",
-    "trx": "[SC]"
+    "yax": "[SC]",
+    "trx": null
   },
   "r15_dialog_010": {
     "src": "Kaniza",
-    "trx": "Kaniza"
+    "yax": "Каниза",
+    "trx": "Каниза"
   },
   "r15_dialog_011": {
     "src": "Kagami",
-    "trx": "Kagami"
+    "yax": "Кагами",
+    "trx": "Кагами"
   },
   "r15_dialog_012": {
     "src": "Mama",
-    "trx": "Mama"
+    "yax": "Мама",
+    "trx": "Мама"
   },
   "r15_dialog_013": {
     "src": "Pewter",
-    "trx": "Pewter"
+    "yax": "Оловянный",
+    "trx": "Пьютер"
   },
   "r15_dialog_014": {
     "src": "Ota",
-    "trx": "Ota"
+    "yax": "Ота",
+    "trx": "Ота"
   },
   "r15_dialog_015": {
     "src": "Moma",
-    "trx": "Moma"
+    "yax": "Мома",
+    "trx": "Мома"
   },
   "r15_dialog_016": {
     "src": "Boss",
-    "trx": "Boss"
+    "yax": "Босс",
+    "trx": "Босс"
   },
   "r15_dialog_017": {
     "src": "Date",
-    "trx": "Date"
+    "yax": "Дата",
+    "trx": "Датэ"
   },
   "r15_dialog_018": {
     "src": "Aiba",
-    "trx": "Aiba"
+    "yax": "Айба",
+    "trx": "Айба"
   },
   "r15_dialog_019": {
     "src": "Mizuki",
-    "trx": "Mizuki"
+    "yax": "Мизуки",
+    "trx": "Мизуки"
   },
   "r15_dialog_020": {
     "src": "F",
+    "yax": "F",
     "trx": "F"
   },
   "r15_dialog_021": {
     "src": "Monokuma",
-    "trx": "Monokuma"
+    "yax": "Монокума",
+    "trx": "Ч/Б медведь"
   },
   "r15_dialog_022": {
     "src": "Wanderer",
-    "trx": "Wanderer"
+    "yax": "Странник",
+    "trx": "Странник"
   },
   "r15_dialog_023": {
     "src": "Replace {0}",
-    "trx": "Replace {0}"
+    "yax": "Заменить {0}",
+    "trx": "☯️Заменить {0}"
   },
   "r15_dialog_024": {
     "src": "Cancel",
-    "trx": "Cancel"
+    "yax": "Отменить",
+    "trx": "☯️Отменить"
   },
   "r15_dialog_025": {
     "src": "Select Kusemon to send to battle.",
-    "trx": "Select Kusemon to send to battle."
+    "yax": "Выберите Кусемона, чтобы отправить его в бой.",
+    "trx": "Выберите Куземон для боя"
   },
   "r15_dialog_026": {
     "src": "Red Assassin",
-    "trx": "Red Assassin"
+    "yax": "Красный убийца",
+    "trx": "Красный убийца"
   },
   "r15_dialog_027": {
     "src": "Blue Assassin",
-    "trx": "Blue Assassin"
+    "yax": "Синий убийца",
+    "trx": "Синий убийца"
   },
   "r15_dialog_028": {
     "src": "Green Assassin",
-    "trx": "Green Assassin"
+    "yax": "Зеленый убийца",
+    "trx": "Зеленый убийца"
   },
   "r15_dialog_029": {
     "src": "Mansion Leader",
-    "trx": "Mansion Leader"
+    "yax": "Глава особняка",
+    "trx": "Лидер особняка"
   },
   "r15_dialog_030": {
     "src": "True Mansion Leader",
-    "trx": "True Mansion Leader"
+    "yax": "Истинный лидер Особняка",
+    "trx": "Ист. лидер особняка"
   },
   "r15_dialog_031": {
     "src": "F",
+    "yax": "F",
     "trx": "F"
   },
   "information_001": {
     "src": "Checkpoint Saved",
-    "trx": "Checkpoint Saved"
+    "yax": "Контрольная точка Сохранена",
+    "trx": "Контрольная точка сохранена"
   },
   "information_002": {
     "src": "Received {0} Eyes!",
-    "trx": "Received {0} Eyes!"
+    "yax": "Получено {0} Просмотров!",
+    "trx": "Получено {0} глазных яблок!"
   },
   "log_001": {
     "src": "Look at {0}",
-    "trx": "Look at {0}"
+    "yax": "Посмотрите на {0}",
+    "trx": "Осмотр: {0}"
   },
   "c570_map_001": {
     "src": "This map is meant to assist with the investigation.\nIf you figure out the location, close the map and relay it to the others.",
-    "trx": "This map is meant to assist with the investigation.\nIf you figure out the location, close the map and relay it to the others."
+    "yax": "Эта карта предназначена для помощи в расследовании.\nЕсли вы определили местоположение, закройте карту и передайте ее остальным.",
+    "trx": "Эта карта поможет вам сделать вывод.\nКогда вы определите место, закройте карту и расскажите всем."
   },
   "c570_map_002": {
     "src": "Studio Dvaita",
-    "trx": "Studio Dvaita"
+    "yax": "Студия Dvaita",
+    "trx": "Студия Двайта"
   },
   "c570_map_003": {
     "src": "Misetan Department Store",
-    "trx": "Misetan Department Store"
+    "yax": "Универмаг \"Мисетан\"",
+    "trx": "Универмаг Мисетан"
   },
   "c570_map_004": {
     "src": "Sekiba High",
-    "trx": "Sekiba High"
+    "yax": "Секиба Хай",
+    "trx": "Школа Секиба"
   },
   "c570_map_005": {
     "src": "Yoyagi Park",
-    "trx": "Yoyagi Park"
+    "yax": "Парк Йояги",
+    "trx": "Парк Йояги"
   },
   "timie_information_001": {
     "src": "Add {0} seconds\nto time cost",
-    "trx": "Add {0} seconds\nto time cost"
+    "yax": "Добавить {0} секунд\r\nк затратам времени",
+    "trx": "Добавляет {0} сек\nк расходу времени"
   },
   "timie_information_002": {
     "src": "Remove {0} seconds\nfrom time cost",
-    "trx": "Remove {0} seconds\nfrom time cost"
+    "yax": "Удалить {0} секунд\r\nот временных затрат",
+    "trx": "Вычитает {0} сек из\nрасхода времени"
   },
   "timie_information_003": {
     "src": "Time cost\nis {0} x",
-    "trx": "Time cost\nis {0} x"
+    "yax": "Затраты времени\r\nравно {0} x",
+    "trx": "Расход времени:\n{0} x"
   },
   "timie_information_004": {
     "src": "Change time cost\nto 1/{0}",
-    "trx": "Change time cost\nto 1/{0}"
+    "yax": "Изменение временных затрат\r\nдо 1/{0}",
+    "trx": "Сокращает расход\nвремени в {0} раз(а)"
   },
   "timie_information_005": {
     "src": "Change time cost\nto {0} seconds",
-    "trx": "Change time cost\nto {0} seconds"
+    "yax": "Изменение временных затрат\r\nдо {0} секунд",
+    "trx": "Изменяет расход\nвремени на {0} сек"
   },
   "ui_title_001": {
     "src": "Current Goal",
-    "trx": "Current Goal"
+    "yax": "Текущая цель",
+    "trx": "Текущая цель"
   },
   "ui_title_002": {
     "src": "Updated Goal",
-    "trx": "Updated Goal"
+    "yax": "Обновленная цель",
+    "trx": "Новая цель"
   },
   "ui_title_003": {
     "src": "Key",
-    "trx": "Key"
+    "yax": "Ключ",
+    "trx": "Ключи"
   },
   "ui_title_004": {
     "src": "Key Found!",
-    "trx": "Key Found!"
+    "yax": "Ключ Найден!",
+    "trx": "Найден ключ!"
   },
   "ui_title_005": {
     "src": "Updated Keys!",
-    "trx": "Updated Keys!"
+    "yax": "Обновленные Ключи!",
+    "trx": "Ключи обновлены!"
   },
   "ui_title_006": {
     "src": "Depth",
-    "trx": "Depth"
+    "yax": "Глубина",
+    "trx": "Глубина"
   },
   "ui_title_007": {
     "src": "Updated Depth",
-    "trx": "Updated Depth"
+    "yax": "Обновленная глубина",
+    "trx": "Новая глубина"
   },
   "ui_title_008": {
     "src": "Psync Objective",
-    "trx": "Psync Objective"
+    "yax": "Цель Psync",
+    "trx": "Цель сомниума"
   },
   "ui_title_009": {
     "src": "\"Escape Bunny Moon Shot\" Practice",
-    "trx": "\"Escape Bunny Moon Shot\" Practice"
+    "yax": "Тренировка \"Побег от лунного зайчика\"",
+    "trx": "☯️Репетиция \"Побег от лунного зайчика\""
   },
   "ui_title_010": {
     "src": "\"Escape Bunny Moon Shot\" Grand Finale",
-    "trx": "\"Escape Bunny Moon Shot\" Grand Finale"
+    "yax": "Грандиозный финал \"Побег из лунного зайчика\"",
+    "trx": "☯️Гранд-финал \"Побег из лунного зайчика\""
   },
   "ui_title_011": {
     "src": "The Flower That Blooms In Snow",
-    "trx": "The Flower That Blooms In Snow"
+    "yax": "Цветок, Который Распускается В Снегу",
+    "trx": "Цветок, расцветающий в снегу"
   },
   "ui_description_001": {
     "src": "Next Objective",
-    "trx": "Next Objective"
+    "yax": "Следующая цель",
+    "trx": "Следующая цель"
   },
   "ui_description_002": {
     "src": "Somnium world rules and Psync subject information",
-    "trx": "Somnium world rules and Psync subject information"
+    "yax": "Правила мира Сомниума и информация о предмете Psync",
+    "trx": "Правила мира сомниума и информация о субъекте"
   },
   "ui_description_003": {
     "src": "Current Psync Progress",
-    "trx": "Current Psync Progress"
+    "yax": "Текущий прогресс Psync",
+    "trx": "Прогресс псинхронизации"
   },
   "ui_description_004": {
     "src": "Psync objective and information to find",
-    "trx": "Psync objective and information to find"
+    "yax": "Цель Psync и информация, которую нужно найти",
+    "trx": "Цель сомниума и искомая информация"
   },
   "ui_description_005": {
     "src": "Current Location",
-    "trx": "Current Location"
+    "yax": "Текущее местоположение",
+    "trx": "Текущее положение"
   },
   "ui_description_006": {
     "src": "Unlocked",
-    "trx": "Unlocked"
+    "yax": "Разблокирован",
+    "trx": "Открыто"
   },
   "ui_description_007": {
     "src": "Next Lock",
-    "trx": "Next Lock"
+    "yax": "Следующий замок",
+    "trx": "Следующий замок"
   },
   "purpose_difficulty_001": {
     "src": "Difficulty: {0}",
-    "trx": "Difficulty: {0}"
+    "yax": "Сложность: {0}",
+    "trx": "Сложность: {0}"
   },
   "purpose_difficulty_002": {
     "src": "Standard",
-    "trx": "Standard"
+    "yax": "Стандарт",
+    "trx": "☯️Обычная"
   },
   "purpose_difficulty_003": {
     "src": "Easy",
-    "trx": "Easy"
+    "yax": "Легко",
+    "trx": "☯️Легкая"
   },
   "purpose_difficulty_004": {
     "src": "Story",
-    "trx": "Story"
+    "yax": "История",
+    "trx": "☯️История"
   },
   "purpose_difficulty_detail_001": {
     "src": "・Countdown Speed: Normal\n・Choice Time Cost: Normal\n・Retries: 3",
-    "trx": "・Countdown Speed: Normal\n・Choice Time Cost: Normal\n・Retries: 3"
+    "yax": "・Скорость обратного отсчета: Нормальная\n・Время выбора: Нормальное\n・Количество попыток: 3",
+    "trx": "☯️・Скорость обратного отсчета: Нормальная\n・Время выбора: Нормальное\n・Количество попыток: 3"
   },
   "purpose_difficulty_detail_002": {
     "src": "・Countdown Speed: 1/2\n・Choice Time Cost: 1/2\n・Retries: 6",
-    "trx": "・Countdown Speed: 1/2\n・Choice Time Cost: 1/2\n・Retries: 6"
+    "yax": "・Скорость обратного отсчета: 1/2\n・Время выбора: 1/2\n・Количество попыток: 6",
+    "trx": "☯️・Скорость обратного отсчета: 1/2\n・Время выбора: 1/2\n・Количество попыток: 6"
   },
   "purpose_difficulty_detail_003": {
     "src": "・Countdown Speed: 1/4\n・Choice Time Cost: 1/4\n・Retries: Infinite",
-    "trx": "・Countdown Speed: 1/4\n・Choice Time Cost: 1/4\n・Retries: Infinite"
+    "yax": "・Скорость обратного отсчета: 1/4\n・Время выбора: 1/4\n・Количество попыток: Бесконечно",
+    "trx": "☯️・Скорость обратного отсчета: 1/4\n・Время выбора: 1/4\n・Количество попыток: Бесконечно"
   },
   "scale_001": {
     "src": "♪Re",
-    "trx": "♪Re"
+    "yax": "♪Снова",
+    "trx": "♪Ре"
   },
   "scale_002": {
     "src": "♪Ti",
-    "trx": "♪Ti"
+    "yax": "♪Ти",
+    "trx": "♪Си"
   },
   "scale_003": {
     "src": "♪So",
-    "trx": "♪So"
+    "yax": "♪Так что",
+    "trx": "♪Соль"
   },
   "scale_004": {
     "src": "♪Fa",
-    "trx": "♪Fa"
+    "yax": "♪Фа",
+    "trx": "♪Фа"
   },
   "scale_005": {
     "src": "♪Do",
-    "trx": "♪Do"
+    "yax": "♪Делай",
+    "trx": "♪До"
   },
   "scale_006": {
     "src": "♪La",
-    "trx": "♪La"
+    "yax": "♪Ла",
+    "trx": "♪Ля"
   },
   "scale_007": {
     "src": "♪Mi",
-    "trx": "♪Mi"
+    "yax": "♪Ми",
+    "trx": "♪Ми"
   },
   "scale_008": {
     "src": "Check Diary",
-    "trx": "Check Diary"
+    "yax": "Проверьте дневник",
+    "trx": "Проверить дневник"
   },
   "fiction_001": {
     "src": "This story is a work of fiction. \nAny resemblance to actual people, organizations, product names, and locations are coincidental.",
-    "trx": "This story is a work of fiction. \nAny resemblance to actual people, organizations, product names, and locations are coincidental."
+    "yax": "Эта история является художественным произведением. \nЛюбое сходство с реальными людьми, организациями, названиями продуктов и местоположениями является случайным.",
+    "trx": "Это вымышленная история. \nЛюбое сходство с реальными людьми, организациями, названиями продуктов и местоположениями является случайным."
   },
   "cautionautosave_001": {
     "src": "This game features autosave. \nWhen the save icon is displayed on the bottom right, please do not exit the game.",
-    "trx": "This game features autosave. \nWhen the save icon is displayed on the bottom right, please do not exit the game."
+    "yax": "В этой игре есть функция автосохранения. \r\nКогда в правом нижнем углу появится значок сохранения, пожалуйста, не выходите из игры.",
+    "trx": "Эта игра использует автосохранение. \nНе выходите из игры, когда в правом нижнем углу появляется значок сохранения."
   },
   "title_dlc_001": {
     "src": "DLC ep1 released",
-    "trx": "DLC ep1 released"
+    "yax": "Выпущено дополнение ep1",
+    "trx": null
   },
   "title_info_001": {
     "src": "Choose save data to load",
-    "trx": "Выбрать данные для загрузки"
+    "yax": "Выберите сохранить данные для загрузки",
+    "trx": "Загрузка сохраненной игры"
   },
   "title_info_002": {
     "src": "Start from beginning",
-    "trx": "Начать с начала"
+    "yax": "Начните с самого начала",
+    "trx": "Начало новой игры"
   },
   "title_info_003": {
     "src": "Change settings/difficulty",
-    "trx": "Изменить параметры/сложность"
+    "yax": "Изменение настроек/сложности",
+    "trx": "Настройка параметров и сложности"
   },
   "title_info_004": {
     "src": "Additional content for purchase",
+    "yax": "Дополнительный контент для покупки",
     "trx": "Дополнительный платный контент"
   },
   "title_info_005": {
     "src": "Bonus menu",
+    "yax": "Бонусное меню",
     "trx": "Меню бонусов"
   },
   "title_info_006": {
     "src": "Quit Game",
-    "trx": "Выйти из игры"
+    "yax": "Выйти из игры",
+    "trx": "Выход из игры"
   },
   "title_menu_001": {
     "src": "Load Game",
+    "yax": "Загрузить игру",
     "trx": "Загрузка"
   },
   "title_menu_002": {
     "src": "New Game",
+    "yax": "Новая игра",
     "trx": "Новая игра"
   },
   "title_menu_003": {
     "src": "Options",
+    "yax": "Опции",
     "trx": "Параметры"
   },
   "title_menu_004": {
     "src": "Downloadable Content",
+    "yax": "Загружаемый контент",
     "trx": "Загружаемый контент"
   },
   "title_menu_005": {
     "src": "Bonus",
+    "yax": "Бонус",
     "trx": "Бонусы"
   },
   "title_menu_006": {
     "src": "Quit",
+    "yax": "Выйти",
     "trx": "Выход"
   },
   "title_menu_007": {
     "src": "Push      Button",
-    "trx": "Push      Button"
+    "yax": "Нажимная кнопка",
+    "trx": "☯️Нажимная кнопка"
   },
   "title_username_001": {
     "src": "Logged in",
-    "trx": "Logged in"
+    "yax": "Вошел в систему",
+    "trx": "☯️Вошел в систему"
   },
   "operation_guide_001": {
     "src": "Move Cursor",
-    "trx": "Move Cursor"
+    "yax": "Переместить курсор",
+    "trx": "Переместить курсор"
   },
   "operation_guide_002": {
     "src": "Move Sight",
-    "trx": "Move Sight"
+    "yax": "Переместите Прицел",
+    "trx": "Переместить прицел"
   },
   "operation_guide_003": {
     "src": "Move Camera",
-    "trx": "Move Camera"
+    "yax": "Переместить камеру",
+    "trx": "Переместить камеру"
   },
   "operation_guide_004": {
     "src": "Check",
-    "trx": "Check"
+    "yax": "Проверять",
+    "trx": "Осмотреть"
   },
   "operation_guide_005": {
     "src": "Choose Options",
-    "trx": "Choose Options"
+    "yax": "Выберите параметры",
+    "trx": "Выбрать вариант"
   },
   "operation_guide_006": {
     "src": "Move",
-    "trx": "Move"
+    "yax": "Подвиньте",
+    "trx": "Переместить"
   },
   "operation_guide_007": {
     "src": "Controls",
-    "trx": "Controls"
+    "yax": "Управления",
+    "trx": "Управление"
   },
   "operation_guide_008": {
     "src": "Look",
-    "trx": "Look"
+    "yax": "Смотри",
+    "trx": "☯️Смотри"
   },
   "operation_guide_009": {
     "src": "Check Keys",
-    "trx": "Check Keys"
+    "yax": "Проверьте ключи",
+    "trx": "☯️Проверьте ключи"
   },
   "operation_guide_010": {
     "src": "Use, Cancel",
-    "trx": "Use, Cancel"
+    "yax": "Использовать, отменить",
+    "trx": "☯️Использовать, отменить"
   },
   "operation_guide_011": {
     "src": "Move Cursor",
-    "trx": "Move Cursor"
+    "yax": "Переместить курсор",
+    "trx": "Переместить курсор"
   },
   "operation_guide_012": {
     "src": "Enter",
-    "trx": "Enter"
+    "yax": "Входить",
+    "trx": "Ввод"
   },
   "operation_guide_013": {
     "src": "Close",
-    "trx": "Close"
+    "yax": "Закрывать",
+    "trx": "Закрыть"
   },
   "operation_guide_014": {
     "src": "Skip Page",
-    "trx": "Skip Page"
+    "yax": "Пропустить страницу",
+    "trx": "Далее"
   },
   "operation_guide_015": {
     "src": "Enlarge",
-    "trx": "Enlarge"
+    "yax": "Увеличивать",
+    "trx": "☯️Увеличивать"
   },
   "operation_guide_016": {
     "src": "Shrink",
-    "trx": "Shrink"
+    "yax": "Сокращаться",
+    "trx": "☯️Сокращаться"
   },
   "operation_guide_017": {
     "src": "Move",
-    "trx": "Move"
+    "yax": "Подвиньте",
+    "trx": "Переместить"
   },
   "operation_guide_018": {
     "src": "Zoom",
-    "trx": "Zoom"
+    "yax": "Увеличение",
+    "trx": "Увеличить"
   },
   "operation_guide_019": {
     "src": "Current Location ",
-    "trx": "Current Location "
+    "yax": "Текущее местоположение",
+    "trx": "Текущее положение "
   },
   "operation_guide_020": {
     "src": "Change Choice",
-    "trx": "Change Choice"
+    "yax": "Выбор изменения",
+    "trx": "☯️Выбор изменения"
   },
   "operation_guide_021": {
     "src": "Navi",
-    "trx": "Navi"
+    "yax": "Навигационный",
+    "trx": "Нави" //spell-ignore:Нави
   },
   "operation_guide_022": {
     "src": "Check",
-    "trx": "Check"
+    "yax": "Проверять",
+    "trx": "Осмотреть"
   },
   "operation_guide_023": {
     "src": "Display Correct Answer",
-    "trx": "Display Correct Answer"
+    "yax": "Отобразить правильный ответ",
+    "trx": "Отобразить правильный ответ"
   },
   "operation_guide_024": {
     "src": "Hide Correct Answer",
-    "trx": "Hide Correct Answer"
+    "yax": "Скрыть правильный ответ",
+    "trx": "Скрыть правильный ответ"
   },
   "operation_guide_025": {
     "src": "Close",
-    "trx": "Close"
+    "yax": "Закрывать",
+    "trx": "Закрыть"
   },
   "operation_guide_026": {
     "src": "Switch Mode",
-    "trx": "Switch Mode"
+    "yax": "Переключение режима",
+    "trx": "Переключить режим"
   },
   "operation_guide_027": {
     "src": "Hold: Mode List",
-    "trx": "Hold: Mode List"
+    "yax": "Удержание: Список режимов",
+    "trx": "Удерживать: Список режимов"
   },
   "operation_guide_028": {
     "src": "Background\nCharacter\n \nLyrics\nUI ON/OFF\n \nSwitch Camera\nZoom Camera\nReset Camera\n \nNormal Playback\nFast Forward/Cancel\nRewind/Cancel\nSlow/Cancel\n \nRestart\nMirror\nPause/Resume\n \nReplay Grand Finale\nReturn to Bonus Menu",
-    "trx": "Background\nCharacter\n \nLyrics\nUI ON/OFF\n \nSwitch Camera\nZoom Camera\nReset Camera\n \nNormal Playback\nFast Forward/Cancel\nRewind/Cancel\nSlow/Cancel\n \nRestart\nMirror\nPause/Resume\n \nReplay Grand Finale\nReturn to Bonus Menu"
+    "yax": "Фон\nХарактер\n \nТекст песни\nВКЛЮЧЕНИЕ / ВЫКЛЮЧЕНИЕ пользовательского интерфейса\n \nПереключение камеры\nУвеличение камеры\nСброс настроек камеры\n \nОбычное воспроизведение\nБыстрая перемотка вперед/назад/Отмена\nПеремотка назад/Отмена\nЗамедление/Отмена\n \nПерезапуск\nЗеркало\nПриостановка/возобновление\n \nВоспроизведите финал\nВернитесь в меню бонусов",
+    "trx": "Фон\nПерсонаж\n \nТекст ВКЛ/ВЫКЛ\nИнтерфейс ВКЛ/ВЫКЛ\n \nПереключить камеру\nУвеличить\nСброс камеры\n \nОбычная скорость\nПеремотка/Отмена\nНазад/Отмена\nМедленно/Отмена\n \nС начала\nЗеркально\nПауза/Далее\n \nЗапустить гранд-финал\nВернуться в меню бонусов"
   },
   "operation_guide_029": {
     "src": "Lyrics\nUI ON/OFF\nRestart\nPause/Resume\n \nReturn to Practice\nReturn to Bonus Menu",
-    "trx": "Lyrics\nUI ON/OFF\nRestart\nPause/Resume\n \nReturn to Practice\nReturn to Bonus Menu"
+    "yax": "Текст песни\nВКЛЮЧЕНИЕ/ ВЫКЛЮЧЕНИЕ пользовательского интерфейса\nПерезапуск\nПриостановить/возобновить\n \nВернуться к практике\nВернуться в меню бонусов",
+    "trx": "Текст ВКЛ/ВЫКЛ\nИнтерфейс ВКЛ/ВЫКЛ\nС начала\nПауза/Далее\n \nВернуться к тренировке\nВернуться в меню бонусов"
   },
   "operation_guide_030": {
     "src": "Lyrics ON/OFF\nUI ON/OFF\n \nNormal Playback\nFast Forward/Cancel\nRewind/Cancel\nSlow/Cancel\n \nRestart\nPause/Resume\n \nReturn to Bonus Menu",
-    "trx": "Lyrics ON/OFF\nUI ON/OFF\n \nNormal Playback\nFast Forward/Cancel\nRewind/Cancel\nSlow/Cancel\n \nRestart\nPause/Resume\n \nReturn to Bonus Menu"
+    "yax": "Включение / ВЫКЛЮЧЕНИЕ текста\nВКЛЮЧЕНИЕ / выключение пользовательского интерфейса\n \nОбычное воспроизведение\nБыстрая перемотка вперед / Отмена\nПеремотка назад/ Отмена\nЗамедление/ Отмена\n \nПерезапуск\nПриостановить/возобновить\n \nВернуться в меню бонусов",
+    "trx": "☯️Текст ВКЛ/ВЫКЛ\nИнтерфейс ВКЛ/ВЫКЛ\n \nОбычная скорость\nПеремотка/Отмена\nНазад/Отмена\nМедленно/Отмена\n \nС начала\nПауза/Далее\n \nВернуться в меню бонусов"
   },
   "operation_guide_031": {
     "src": "UI Display",
-    "trx": "UI Display"
+    "yax": "Отображение пользовательского интерфейса",
+    "trx": "Интерфейс"
   },
   "operation_guide_032": {
     "src": "Open Dial",
-    "trx": "Open Dial"
+    "yax": "Открытый циферблат",
+    "trx": "☯️Открытый циферблат"
   },
   "operation_guide_033": {
     "src": "Move Cursor",
-    "trx": "Move Cursor"
+    "yax": "Переместить курсор",
+    "trx": "Переместить курсор"
   },
   "operation_guide_034": {
     "src": "Choose Options",
-    "trx": "Choose Options"
+    "yax": "Выберите параметры",
+    "trx": "Выбрать вариант"
   },
   "operation_guide_035": {
     "src": "Move Choice Cursor",
-    "trx": "Move Choice Cursor"
+    "yax": "Переместить курсор выбора",
+    "trx": "☯️Переместить курсор выбора"
   },
   "operation_guide_036": {
     "src": "Change Alphabet",
-    "trx": "Change Alphabet"
+    "yax": "Изменить алфавит",
+    "trx": "Изменить алфавит"
   },
   "operation_guide_037": {
     "src": "Confirm",
-    "trx": "Confirm"
+    "yax": "Подтверждать",
+    "trx": "Подтвердить"
   },
   "operation_guide_038": {
     "src": "Back",
-    "trx": "Back"
+    "yax": "Назад",
+    "trx": "Назад"
   },
   "operation_guide_039": {
     "src": "Input",
-    "trx": "Input"
+    "yax": "Ввод",
+    "trx": "☯️Ввод"
   },
   "operation_guide_040": {
     "src": "Turntable Rotation",
-    "trx": "Turntable Rotation"
+    "yax": "Вращение поворотного стола",
+    "trx": "☯️Вращение поворотного стола"
   },
   "operation_guide_041": {
     "src": "Vehicle Movement",
-    "trx": "Vehicle Movement"
+    "yax": "Движение транспортного средства",
+    "trx": "☯️Движение транспортного средства"
   },
   "operation_guide_042": {
     "src": "Redo",
-    "trx": "Redo"
+    "yax": "Переделывать",
+    "trx": "☯️Переделывать"
   },
   "operation_guide_043": {
     "src": "Box Rotation",
-    "trx": "Box Rotation"
+    "yax": "Вращение коробки",
+    "trx": "☯️Вращение коробки"
   },
   "operation_guide_044": {
     "src": "Move Cursor",
-    "trx": "Move Cursor"
+    "yax": "Переместить курсор",
+    "trx": "Переместить курсор"
   },
   "operation_guide_045": {
     "src": "Pull Corner",
-    "trx": "Pull Corner"
+    "yax": "Потяните за угол",
+    "trx": "☯️Потяните за угол"
   },
   "operation_guide_058": {
     "src": "Check Scroll",
-    "trx": "Check Scroll"
+    "yax": "Проверьте прокрутку",
+    "trx": "☯️Проверьте прокрутку"
   },
   "operation_guide_046": {
     "src": "Choose",
-    "trx": "Choose"
+    "yax": "Выбирать",
+    "trx": "☯️Выбирать"
   },
   "operation_guide_047": {
     "src": "Confirm",
-    "trx": "Confirm"
+    "yax": "Подтверждать",
+    "trx": "☯️Подтверждать"
   },
   "operation_guide_048": {
     "src": "Fast Forward",
-    "trx": "Fast Forward"
+    "yax": "перемотка вперед",
+    "trx": "☯️перемотка вперед"
   },
   "operation_guide_049": {
     "src": "Back",
-    "trx": "Back"
+    "yax": "Назад",
+    "trx": "☯️Назад"
   },
   "operation_guide_059": {
     "src": "1 Square Forward",
-    "trx": "1 Square Forward"
+    "yax": "1 Квадрат вперед",
+    "trx": "☯️1 Квадрат вперед"
   },
   "operation_guide_060": {
     "src": "2 Squares Forward",
-    "trx": "2 Squares Forward"
+    "yax": "На 2 квадрата вперед",
+    "trx": "☯️На 2 квадрата вперед"
   },
   "operation_guide_061": {
     "src": "3 Squares Forward",
-    "trx": "3 Squares Forward"
+    "yax": "На 3 квадрата вперед",
+    "trx": "☯️На 3 квадрата вперед"
   },
   "operation_guide_062": {
     "src": "4 Squares Forward",
-    "trx": "4 Squares Forward"
+    "yax": "На 4 квадрата вперед",
+    "trx": "☯️На 4 квадрата вперед"
   },
   "operation_guide_050": {
     "src": "Switch Items",
-    "trx": "Switch Items"
+    "yax": "Переключать элементы",
+    "trx": "☯️Переключать элементы"
   },
   "operation_guide_051": {
     "src": "Items",
-    "trx": "Items"
+    "yax": "Предметы",
+    "trx": "☯️Предметы"
   },
   "third_eye_001": {
     "src": "Find the Third Path!",
-    "trx": "Find the Third Path!"
+    "yax": "Найди Третий путь!",
+    "trx": "☯️Найди Третий путь!"
   },
   "third_eye_002": {
     "src": "Found the Third Path!",
-    "trx": "Found the Third Path!"
+    "yax": "Нашел Третий путь!",
+    "trx": "☯️Нашел Третий путь!"
   },
   "message_001": {
     "src": "Difficulty: {0}",
-    "trx": "Difficulty: {0}"
+    "yax": "Сложность: {0}",
+    "trx": "Сложность: {0}"
   },
   "itemlist_001": {
     "src": "Combine",
-    "trx": "Combine"
+    "yax": "Объединять",
+    "trx": "☯️Объединять"
   },
   "itemlist_002": {
     "src": ": Hold",
-    "trx": ": Hold"
+    "yax": ": Удерживайте",
+    "trx": "☯️: Удерживайте"
   },
   "itemlist_003": {
     "src": "Not Combinable",
-    "trx": "Not Combinable"
+    "yax": "Не комбинируется",
+    "trx": "☯️Не комбинируется"
   },
   "itemlist_004": {
     "src": "Start Combine Mode",
-    "trx": "Start Combine Mode"
+    "yax": "Запустите режим комбинирования",
+    "trx": "☯️Запустите режим комбинирования"
   },
   "itemlist_005": {
     "src": "End Combine Mode",
-    "trx": "End Combine Mode"
+    "yax": "Завершение режима комбинирования",
+    "trx": "☯️Завершение режима комбинирования"
   },
   "itemlist_006": {
     "src": "Combine Mode",
-    "trx": "Combine Mode"
+    "yax": "Комбинированный режим",
+    "trx": "☯️Комбинированный режим"
   },
   "itemlist_007": {
     "src": "Select item to combine with",
-    "trx": "Select item to combine with"
+    "yax": "Выберите элемент для сочетания с",
+    "trx": "☯️Выберите элемент для сочетания с"
   },
   "operation_guide_052": {
     "src": "Scroll",
-    "trx": "Scroll"
+    "yax": "Свиток",
+    "trx": "☯️Свиток"
   },
   "operation_guide_053": {
     "src": "Turn Item",
-    "trx": "Turn Item"
+    "yax": "Перевернуть предмет",
+    "trx": "☯️Перевернуть предмет"
   },
   "operation_guide_054": {
     "src": "Enlarge Item",
-    "trx": "Enlarge Item"
+    "yax": "Увеличить элемент",
+    "trx": "☯️Увеличить элемент"
   },
   "operation_guide_055": {
     "src": "See Item",
-    "trx": "See Item"
+    "yax": "Посмотреть товар",
+    "trx": "☯️Посмотреть товар"
   },
   "operation_guide_056": {
     "src": "See Image",
-    "trx": "See Image"
+    "yax": "Смотрите изображение",
+    "trx": "☯️Смотрите изображение"
   },
   "operation_guide_057": {
     "src": "See Text",
-    "trx": "See Text"
+    "yax": "Смотрите текст",
+    "trx": "☯️Смотрите текст"
   },
   "operation_guide_063": {
     "src": "Display Text",
-    "trx": "Display Text"
+    "yax": "Отображаемый текст",
+    "trx": "☯️Отображаемый текст"
   },
   "operation_guide_064": {
     "src": "Hide Text",
-    "trx": "Hide Text"
+    "yax": "Скрыть текст",
+    "trx": "☯️Скрыть текст"
   },
   "difficulty_004": {
     "src": "Story",
-    "trx": "Story"
+    "yax": "История",
+    "trx": "История"
   },
   "difficulty_005": {
     "src": "Easy",
-    "trx": "Easy"
+    "yax": "Легко",
+    "trx": "☯️Легко"
   },
   "difficulty_006": {
     "src": "Standard",
-    "trx": "Standard"
+    "yax": "Стандарт",
+    "trx": "☯️Стандарт"
   },
   "difficulty_007": {
     "src": "Hard",
-    "trx": "Hard"
+    "yax": "Трудный",
+    "trx": "☯️Трудный"
   },
   "message_002": {
     "src": "Investigation (QTE)",
-    "trx": "Investigation (QTE)"
+    "yax": "Расследование (QTE)",
+    "trx": "Расследование (QTE)"
   },
   "message_003": {
     "src": "Somnium",
-    "trx": "Somnium"
+    "yax": "Сомниум",
+    "trx": "Сомниум"
   },
   "message_004": {
     "src": "Escape",
-    "trx": "Escape"
+    "yax": "Побег",
+    "trx": "☯️Побег"
   },
   "difficulty_info_001": {
     "src": "This is the recommended setting.\nYou will be given a tense experience.",
-    "trx": "This is the recommended setting.\nYou will be given a tense experience."
+    "yax": "Это рекомендуемая настройка.\nУ вас будут напряженные ощущения.",
+    "trx": "☯️Это рекомендуемая настройка.\nУ вас будут напряженные ощущения."
   },
   "difficulty_info_002": {
     "src": "This setting makes it relatively easy to progress.",
-    "trx": "This setting makes it relatively easy to progress."
+    "yax": "Эта настройка позволяет относительно легко продвигаться вперед.",
+    "trx": "☯️Эта настройка позволяет относительно легко продвигаться вперед."
   },
   "difficulty_info_003": {
     "src": "This setting is for people who focus on the story.",
-    "trx": "This setting is for people who focus on the story."
+    "yax": "Эта настройка предназначена для людей, которые сосредоточены на сюжете.",
+    "trx": "☯️Эта настройка предназначена для людей, которые сосредоточены на сюжете."
   },
   "difficulty_info_004": {
     "src": "This is the recommended setting.\nThis provides a tense experience you can really sink your teeth into.",
-    "trx": "This is the recommended setting.\nThis provides a tense experience you can really sink your teeth into."
+    "yax": "Это рекомендуемая настройка.\nЭто создает напряженную атмосферу, в которую можно по-настоящему погрузиться.",
+    "trx": "☯️Это рекомендуемая настройка.\nЭто создает напряженную атмосферу, в которую можно по-настоящему погрузиться."
   },
   "difficulty_info_005": {
     "src": "This setting makes it relatively easy to progress.\nYou will have more time and be more free to explore the Somniums.",
-    "trx": "This setting makes it relatively easy to progress.\nYou will have more time and be more free to explore the Somniums."
+    "yax": "Эта настройка позволяет относительно легко продвигаться вперед.\nУ вас будет больше времени и свободы для изучения Сомниумов.",
+    "trx": "☯️Эта настройка позволяет относительно легко продвигаться вперед.\nУ вас будет больше времени и свободы для изучения Сомниумов."
   },
   "difficulty_info_006": {
     "src": "This setting is for people who focus on the story.\nThis will allow you to fully explore the Somniums without worrying about the time.",
-    "trx": "This setting is for people who focus on the story.\nThis will allow you to fully explore the Somniums without worrying about the time."
+    "yax": "Эта настройка предназначена для тех, кто сосредоточен на сюжете.\nЭто позволит вам полностью изучить Сомниумы, не беспокоясь о времени.",
+    "trx": "☯️Эта настройка предназначена для тех, кто сосредоточен на сюжете.\nЭто позволит вам полностью изучить Сомниумы, не беспокоясь о времени."
   },
   "difficulty_info_007": {
     "src": "This setting is for experienced puzzle solvers.\nIt provides a tense experience and difficulty in solving puzzles.",
-    "trx": "This setting is for experienced puzzle solvers.\nIt provides a tense experience and difficulty in solving puzzles."
+    "yax": "Эта настройка предназначена для опытных любителей решать головоломки.\nОна обеспечивает напряженный опыт и трудности при решении головоломок.",
+    "trx": "☯️Эта настройка предназначена для опытных любителей решать головоломки.\nОна обеспечивает напряженный опыт и трудности при решении головоломок."
   },
   "difficulty_info_008": {
     "src": "This is the recommended setting.\nYou will receive hints, but you will still be able to feel like you solve the puzzles yourself.",
-    "trx": "This is the recommended setting.\nYou will receive hints, but you will still be able to feel like you solve the puzzles yourself."
+    "yax": "Это рекомендуемая настройка.\nВы будете получать подсказки, но у вас все равно будет ощущение, что вы решаете головоломки самостоятельно.",
+    "trx": "☯️Это рекомендуемая настройка.\nВы будете получать подсказки, но у вас все равно будет ощущение, что вы решаете головоломки самостоятельно."
   },
   "difficulty_info_009": {
     "src": "This setting makes it relatively easy to progress.\nExploration is less trouble and puzzle solving becomes smoother.",
-    "trx": "This setting makes it relatively easy to progress.\nExploration is less trouble and puzzle solving becomes smoother."
+    "yax": "Эта настройка позволяет относительно легко продвигаться вперед.\nИсследование доставляет меньше хлопот, а решение головоломок становится более плавным.",
+    "trx": "☯️Эта настройка позволяет относительно легко продвигаться вперед.\nИсследование доставляет меньше хлопот, а решение головоломок становится более плавным."
   },
   "difficulty_info_010": {
     "src": "This setting is for people who focus on the story.\nYou will receive all the answers you need and progress without issue.",
-    "trx": "This setting is for people who focus on the story.\nYou will receive all the answers you need and progress without issue."
+    "yax": "Эта настройка предназначена для людей, которые сосредоточены на сюжете.\nВы получите все необходимые ответы и будете продвигаться вперед без проблем.",
+    "trx": "☯️Эта настройка предназначена для людей, которые сосредоточены на сюжете.\nВы получите все необходимые ответы и будете продвигаться вперед без проблем."
   },
   "difficulty_info_011": {
     "src": "・Time Limit: Normal\n・Repeat Count: Normal",
-    "trx": "・Time Limit: Normal\n・Repeat Count: Normal"
+    "yax": "・Ограничение по времени: Нормальное\n・Количество повторов: Нормальное",
+    "trx": "☯️・Ограничение по времени: Нормальное\n・Количество повторов: Нормальное"
   },
   "difficulty_info_012": {
     "src": "・Time Limit: Double\n・Repeat Count: 1/2",
-    "trx": "・Time Limit: Double\n・Repeat Count: 1/2"
+    "yax": "・Ограничение по времени: два раза\n・Количество повторов: 1/2",
+    "trx": "☯️・Ограничение по времени: два раза\n・Количество повторов: 1/2"
   },
   "difficulty_info_013": {
     "src": "・Time Limit: Infinite\n・Repeat Count: Always 3\n・No failures for misses",
-    "trx": "・Time Limit: Infinite\n・Repeat Count: Always 3\n・No failures for misses"
+    "yax": "・Ограничение по времени: Бесконечно\n・Количество повторов: Всегда 3\n・Никаких ошибок при промахах",
+    "trx": "☯️・Ограничение по времени: Бесконечно\n・Количество повторов: Всегда 3\n・Никаких ошибок при промахах"
   },
   "difficulty_info_014": {
     "src": "・Countdown Speed: Normal\n・Choice Time Cost: Normal \n・Retries: 3",
-    "trx": "・Countdown Speed: Normal\n・Choice Time Cost: Normal \n・Retries: 3"
+    "yax": "・Скорость обратного отсчета: Нормальная\n・Время выбора: Нормальное \n・Количество попыток: 3",
+    "trx": "☯️・Скорость обратного отсчета: Нормальная\n・Время выбора: Нормальное \n・Количество попыток: 3"
   },
   "difficulty_info_015": {
     "src": "・Countdown Speed: 1/2\n・Choice Time Cost: 1/2 \n・Retries: 6",
-    "trx": "・Countdown Speed: 1/2\n・Choice Time Cost: 1/2 \n・Retries: 6"
+    "yax": "・Скорость обратного отсчета: 1/2\n・Время выбора: 1/2 \n・Количество попыток: 6",
+    "trx": "☯️・Скорость обратного отсчета: 1/2\n・Время выбора: 1/2 \n・Количество попыток: 6"
   },
   "difficulty_info_016": {
     "src": "・Countdown Speed: 1/4\n・Choice Time Cost: 1/4\n・Retries: Infinite",
-    "trx": "・Countdown Speed: 1/4\n・Choice Time Cost: 1/4\n・Retries: Infinite"
+    "yax": "・Скорость обратного отсчета: 1/4\n・Время выбора: 1/4\n・Количество попыток: Бесконечно",
+    "trx": "☯️・Скорость обратного отсчета: 1/4\n・Время выбора: 1/4\n・Количество попыток: Бесконечно"
   },
   "difficulty_info_017": {
     "src": "・Crisis Time: 0.8\n・Search Limit: 0\n・Hints: Few",
-    "trx": "・Crisis Time: 0.8\n・Search Limit: 0\n・Hints: Few"
+    "yax": "・Время выхода из строя: 0,8\n・Ограничение на поиск: 0\n・Подсказок: Немного",
+    "trx": "☯️・Время выхода из строя: 0,8\n・Ограничение на поиск: 0\n・Подсказок: Немного"
   },
   "difficulty_info_018": {
     "src": "・Crisis Time: Normal\n・Search Limit: 10\n・Hints: Many",
-    "trx": "・Crisis Time: Normal\n・Search Limit: 10\n・Hints: Many"
+    "yax": "・Время кризиса: Обычное\n・Количество поисковых запросов: 10\n・Подсказок: Много",
+    "trx": "☯️・Время кризиса: Обычное\n・Количество поисковых запросов: 10\n・Подсказок: Много"
   },
   "difficulty_info_019": {
     "src": "・Crisis Time: Double\n・Search Limit: Infinite\n・Hints: Many",
-    "trx": "・Crisis Time: Double\n・Search Limit: Infinite\n・Hints: Many"
+    "yax": "・Время кризиса: удвоено\n・Количество поисковых запросов: Бесконечно\n・Подсказок: Много",
+    "trx": "☯️・Время кризиса: удвоено\n・Количество поисковых запросов: Бесконечно\n・Подсказок: Много"
   },
   "difficulty_info_020": {
     "src": "・Crisis Time: 4x\n・Search Limit: Infinite\n・Hints: Until Solved",
-    "trx": "・Crisis Time: 4x\n・Search Limit: Infinite\n・Hints: Until Solved"
+    "yax": "・Критическое время: 4 раза\n・Ограничение на поиск: Бесконечно\n・Подсказки: Пока не разгаданы",
+    "trx": "☯️・Критическое время: 4 раза\n・Ограничение на поиск: Бесконечно\n・Подсказки: Пока не разгаданы"
   },
   "ui_title_012": {
     "src": "Difficulty Setting",
-    "trx": "Difficulty Setting"
+    "yax": "Настройка сложности",
+    "trx": "Уровень сложности"
   },
   "difficulty_caption_001": {
     "src": "Select Difficulty\nThis can be changed at any time.\nThe difficulty setting does not affect the story.",
-    "trx": "Select Difficulty\nThis can be changed at any time.\nThe difficulty setting does not affect the story."
+    "yax": "Выберите сложность\nЭто можно изменить в любое время.\nНастройка сложности не влияет на сюжет.",
+    "trx": "☯️Выберите сложность\nЭто можно изменить в любое время.\nНастройка сложности не влияет на сюжет."
   },
   "difficulty_008": {
     "src": "Story",
-    "trx": "Story"
+    "yax": "История",
+    "trx": "История"
   },
   "difficulty_009": {
     "src": "Easy",
-    "trx": "Easy"
+    "yax": "Легко",
+    "trx": "☯️Легко"
   },
   "difficulty_010": {
     "src": "Standard",
-    "trx": "Standard"
+    "yax": "Стандарт",
+    "trx": "☯️Стандарт"
   },
   "difficulty_subtitle_001": {
     "src": "Investigation (QTE)",
-    "trx": "Investigation (QTE)"
+    "yax": "Расследование (QTE)",
+    "trx": "Расследование (QTE)"
   },
   "difficulty_explanation_001": {
     "src": "The difficulty setting for the Quick Time Events that happen during Investigation.",
-    "trx": "The difficulty setting for the Quick Time Events that happen during Investigation."
+    "yax": "Настройка сложности для быстрых событий, которые происходят во время расследования.",
+    "trx": "☯️Настройка сложности для быстрых событий, которые происходят во время расследования."
   },
   "difficulty_subtitle_002": {
     "src": "Somnium",
-    "trx": "Somnium"
+    "yax": "Сомниум",
+    "trx": "Сомниум"
   },
   "difficulty_explanation_002": {
     "src": "The difficulty setting for the explorations of people's memories within their Somniums.",
-    "trx": "The difficulty setting for the explorations of people's memories within their Somniums."
+    "yax": "Сложная обстановка для исследования воспоминаний людей в их сновидениях.",
+    "trx": "☯️Сложная обстановка для исследования воспоминаний людей в их сновидениях."
   },
   "difficulty_info_021": {
     "src": "This setting is for people who focus on the story.\nThis will allow you to fully explore the Somniums without worrying about the time.\n・Countdown Speed: 1/4\n・Choice Time Cost: 1/4\n・Retries: Infinite",
-    "trx": "This setting is for people who focus on the story.\nThis will allow you to fully explore the Somniums without worrying about the time.\n・Countdown Speed: 1/4\n・Choice Time Cost: 1/4\n・Retries: Infinite"
+    "yax": "Эта настройка предназначена для тех, кто сосредоточен на сюжете.\nЭто позволит вам полностью изучить Сомниумы, не беспокоясь о времени.\n・Скорость обратного отсчета: 1/4\n・Время на выбор: 1/4\n・Количество попыток: Бесконечно",
+    "trx": "☯️Эта настройка предназначена для тех, кто сосредоточен на сюжете.\nЭто позволит вам полностью изучить Сомниумы, не беспокоясь о времени.\n・Скорость обратного отсчета: 1/4\n・Время на выбор: 1/4\n・Количество попыток: Бесконечно"
   },
   "difficulty_info_022": {
     "src": "This setting makes it relatively easy to progress.\nYou will have more time and be more free to explore the Somniums.\n・Countdown Speed: 1/2\n・Choice Time Cost: 1/2\n・Retries: 6",
-    "trx": "This setting makes it relatively easy to progress.\nYou will have more time and be more free to explore the Somniums.\n・Countdown Speed: 1/2\n・Choice Time Cost: 1/2\n・Retries: 6"
+    "yax": "Эта настройка позволяет относительно легко продвигаться вперед.\nУ вас будет больше времени и вы сможете более свободно исследовать Сомниумы.\n・Скорость обратного отсчета: 1/2\n・Затраты времени на выбор: 1/2\n・Количество попыток: 6",
+    "trx": "☯️Эта настройка позволяет относительно легко продвигаться вперед.\nУ вас будет больше времени и вы сможете более свободно исследовать Сомниумы.\n・Скорость обратного отсчета: 1/2\n・Затраты времени на выбор: 1/2\n・Количество попыток: 6"
   },
   "difficulty_info_023": {
     "src": "This is the recommended setting.\nThis provides a tense experience you can really sink your teeth into.\n・Countdown Speed: Normal\n・Choice Time Cost: Normal\n・Retries: 3",
-    "trx": "This is the recommended setting.\nThis provides a tense experience you can really sink your teeth into.\n・Countdown Speed: Normal\n・Choice Time Cost: Normal\n・Retries: 3"
+    "yax": "Это рекомендуемая настройка.\nЭто создает ощущение напряжения, от которого можно по-настоящему впиться зубами.\n・Скорость обратного отсчета: Нормальная\n・Затраты времени на выбор: нормальные\n・Количество попыток: 3",
+    "trx": "☯️Это рекомендуемая настройка.\nЭто создает ощущение напряжения, от которого можно по-настоящему впиться зубами.\n・Скорость обратного отсчета: Нормальная\n・Затраты времени на выбор: нормальные\n・Количество попыток: 3"
   },
   "cluelist_explanation_001": {
     "src": "Total Time Spent",
-    "trx": "Total Time Spent"
+    "yax": "Общее Затраченное Время",
+    "trx": "Затраченное время"
   },
   "timer_remain_001": {
     "src": "Remaining Time",
-    "trx": "Remaining Time"
+    "yax": "Оставшееся Время",
+    "trx": "Оставшееся время"
   },
   "timer_remain_002": {
     "src": "Real-time Countdown",
-    "trx": "Real-time Countdown"
+    "yax": "Обратный отсчет в реальном времени",
+    "trx": "Отсчет в реальном времени"
   },
   "evaluation_001": {
     "src": "Performance Result",
-    "trx": "Performance Result"
+    "yax": "Результат работы",
+    "trx": "Достигнут результат"
   },
   "swing_001": {
     "src": "Remaining",
-    "trx": "Remaining"
+    "yax": "Оставшийся",
+    "trx": "Осталось"
   },
   "swing_002": {
     "src": "Charge Swing",
-    "trx": "Charge Swing"
+    "yax": "Колебание заряда",
+    "trx": "Раскачивать"
   },
   "swing_003": {
     "src": "Tossed Shoes {0} Times (AI2: Shoes Kicked: {0})",
-    "trx": "Tossed Shoes {0} Times (AI2: Shoes Kicked: {0})"
+    "yax": "Брошенные ботинки {0} Раз (AI2: Сброшенные ботинки: {0})",
+    "trx": "Брошено {0} раз (AI2: Бросок туфель: {0})"
   },
   "swing_004": {
     "src": "Aiba's Turn",
-    "trx": "Aiba's Turn"
+    "yax": "Очередь Айбы",
+    "trx": "Ход Айбы"
   },
   "swing_005": {
     "src": "Kizuna's Turn",
-    "trx": "Kizuna's Turn"
+    "yax": "Очередь Кидзуны",
+    "trx": "Ход Кизуны"
   },
   "cooking_001": {
     "src": "Time Cost",
-    "trx": "Time Cost"
+    "yax": "Временные затраты",
+    "trx": "Требуемое время"
   },
   "cooking_002": {
     "src": "Input cooking command!",
-    "trx": "Input cooking command!"
+    "yax": "Введите команду приготовления!",
+    "trx": "Введите кулинарную команду!"
   },
   "exsight_001": {
     "src": "Start of Investigation",
-    "trx": "Start of Investigation"
+    "yax": "Начало расследования",
+    "trx": "Начало расследования"
   },
   "exsight_002": {
     "src": "Obtain Information",
-    "trx": "Obtain Information"
+    "yax": "Получать информацию",
+    "trx": "Полученная информация"
   },
   "exsight_003": {
     "src": "Normal",
-    "trx": "Normal"
+    "yax": "Обычный",
+    "trx": "Обычный"
   },
   "exsight_004": {
     "src": "X-ray",
-    "trx": "X-ray"
+    "yax": "Рентген",
+    "trx": "Рентген"
   },
   "exsight_005": {
     "src": "Thermo",
-    "trx": "Thermo"
+    "yax": "Термо",
+    "trx": "Термо" //spell-ignore:Термо
   },
   "exsight_006": {
     "src": "Nightvision",
-    "trx": "Nightvision"
+    "yax": "Ночное видение",
+    "trx": "Ночное видение"
   },
   "exsight_007": {
     "src": "Sonar",
-    "trx": "Sonar"
+    "yax": "Гидролокатор",
+    "trx": "Сонар"
   },
   "exsight_008": {
     "src": "Reenacted",
-    "trx": "Reenacted"
+    "yax": "Воспроизведенный",
+    "trx": "Реконструировано"
   },
   "explanation_001": {
     "src": "Select Language\nThis cannot be changed later.",
-    "trx": "Select Language\nThis cannot be changed later."
+    "yax": "Выберите язык\nЭто не может быть изменено позже.",
+    "trx": "Выберите язык\nЕго нельзя изменить позже."
   },
   "underwater_001": {
     "src": "Descend",
-    "trx": "Descend"
+    "yax": "Спускаться",
+    "trx": "Спуск"
   },
   "underwater_002": {
     "src": "Ascend",
-    "trx": "Ascend"
+    "yax": "Восходить",
+    "trx": "Подъем"
   },
   "underwater_003": {
     "src": "Strafe",
-    "trx": "Strafe"
+    "yax": "Обстреливать",
+    "trx": "Движение"
   },
   "underwater_004": {
     "src": "Decelerate",
-    "trx": "Decelerate"
+    "yax": "Замедлить",
+    "trx": "Замедление"
   },
   "message_005": {
     "src": "Reduce difficulty and restart from the checkpoint.",
-    "trx": "Reduce difficulty and restart from the checkpoint."
+    "yax": "Уменьшите сложность и перезапустите игру с контрольной точки.",
+    "trx": "☯️Уменьшите сложность и перезапустите игру с контрольной точки."
   },
   "message_006": {
     "src": "Restart from the checkpoint.",
-    "trx": "Restart from the checkpoint."
+    "yax": "Перезагрузитесь с контрольной точки.",
+    "trx": "☯️Перезагрузитесь с контрольной точки."
   },
   "message_007": {
     "src": "Restart from the beginning of the Escape section.",
-    "trx": "Restart from the beginning of the Escape section."
+    "yax": "Перезапустите игру с начала раздела эвакуации.",
+    "trx": "☯️Перезапустите игру с начала раздела эвакуации."
   },
   "message_008": {
     "src": "Open the Flowchart.",
-    "trx": "Open the Flowchart."
+    "yax": "Откройте блок-схему.",
+    "trx": "☯️Откройте хронологию."
   },
   "message_009": {
     "src": "Breach of agreement detected. Shutting down.",
-    "trx": "Breach of agreement detected. Shutting down."
+    "yax": "Обнаружено нарушение соглашения. Отключение.",
+    "trx": "☯️Обнаружено нарушение соглашения. Отключение."
   },
   "message_010": {
     "src": "Probability of Success",
-    "trx": "Probability of Success"
+    "yax": "Вероятность успеха",
+    "trx": "☯️Вероятность успеха"
   },
   "usarinpa_info_001": {
     "src": "Found <color=#E8F665>{0}</color>\n<size=80%>Added to FILE 【Appendix】",
-    "trx": "Found <color=#E8F665>{0}</color>\n<size=80%>Added to FILE 【Appendix】"
+    "yax": "Найдено <color=#E8F665>{0}</color>\n<размер=80%>Добавлено в ФАЙЛ 【Приложение】",
+    "trx": "☯️Найдено <color=#E8F665>{0}</color>\n<размер=80%>Добавлено в ФАЙЛ 【Приложение】"
   },
   "psynctarget_001": {
     "src": "Explorer: {0}",
-    "trx": "Explorer: {0}"
+    "yax": "Исследователь: {0}",
+    "trx": "☯️Исследователь: {0}"
   },
   "techno_001": {
     "src": "The key is to match the colors!",
-    "trx": "The key is to match the colors!"
+    "yax": "Главное - чтобы цвета соответствовали друг другу!",
+    "trx": "☯️Главное - чтобы цвета соответствовали друг другу!"
   },
   "techno_002": {
     "src": "1",
-    "trx": "1"
+    "yax": "1",
+    "trx": null
   },
   "techno_003": {
     "src": "2",
-    "trx": "2"
+    "yax": "2",
+    "trx": null
   },
   "techno_004": {
     "src": "3",
-    "trx": "3"
+    "yax": "3",
+    "trx": null
   },
   "techno_005": {
     "src": "4",
-    "trx": "4"
+    "yax": "4",
+    "trx": null
   },
   "techno_006": {
     "src": "5",
-    "trx": "5"
+    "yax": "5",
+    "trx": null
   },
   "techno_007": {
     "src": "6",
-    "trx": "6"
+    "yax": "6",
+    "trx": null
   },
   "techno_008": {
     "src": "Blue",
-    "trx": "Blue"
+    "yax": "Синий",
+    "trx": "☯️Синий"
   },
   "techno_009": {
     "src": "Green",
-    "trx": "Green"
+    "yax": "Зеленый",
+    "trx": "☯️Зеленый"
   },
   "techno_010": {
     "src": "Indigo",
-    "trx": "Indigo"
+    "yax": "Индиго",
+    "trx": "☯️Индиго"
   },
   "techno_011": {
     "src": "Orange",
-    "trx": "Orange"
+    "yax": "Оранжевый",
+    "trx": "☯️Оранжевый"
   },
   "techno_012": {
     "src": "Red",
-    "trx": "Red"
+    "yax": "Красный",
+    "trx": "☯️Красный"
   },
   "techno_013": {
     "src": "Purple",
-    "trx": "Purple"
+    "yax": "Фиолетовый",
+    "trx": "☯️Фиолетовый"
   },
   "techno_014": {
     "src": "Yellow",
-    "trx": "Yellow"
+    "yax": "Желтый",
+    "trx": "☯️Желтый"
   }
 }

@@ -1,0 +1,62 @@
+{
+  "file_common_caption_001": {
+    "src": "Persons",
+    "yax": "Лиц",
+    "trx": "☯️Лиц"
+  },
+  "file_common_caption_002": {
+    "src": "Appendix",
+    "yax": "Приложение",
+    "trx": "Приложения"
+  },
+  "file_common_caption_003": {
+    "src": "Manual",
+    "yax": "Инструкция",
+    "trx": "Руководство"
+  },
+  "file_common_caption_004": {
+    "src": "Trivia",
+    "yax": "Мелочи",
+    "trx": "Факты"
+  },
+  "file_common_caption_005": {
+    "src": "Persons [6y Ago]",
+    "yax": "Человек [6 лет назад]",
+    "trx": "☯️Человек [6 лет назад]"
+  },
+  "file_common_caption_006": {
+    "src": "0123456789",
+    "yax": "0123456789",
+    "trx": null
+  },
+  "file_common_options_001": {
+    "src": "0123456789",
+    "yax": "0123456789",
+    "trx": null
+  },
+  "file_common_monologue_001": {
+    "src": "???",
+    "yax": "???",
+    "trx": "☯️???"
+  },
+  "file_common_info_001": {
+    "src": "[Persons]\n<size=80%>The characters' names, likes, hobbies, special skills, and so forth.",
+    "yax": "[Персонажи]\n<размер=80%> Имена персонажей, их пристрастия, хобби, особые навыки и так далее.",
+    "trx": "☯️[Персонажи]\n<размер=80%> Имена персонажей, их пристрастия, хобби, особые навыки и так далее."
+  },
+  "file_common_info_002": {
+    "src": "[Appendix]\n<size=80%>Additional documentation containing descriptions of the terms and the setting.",
+    "yax": "[Приложение]\n<размер=80%>Дополнительная документация, содержащая описание условий и настроек.",
+    "trx": "☯️[Приложение]\n<размер=80%>Дополнительная документация, содержащая описание условий и настроек."
+  },
+  "file_common_info_003": {
+    "src": "[Trivia]\n<size=80%>Documentation containing the unsolicited information Aiba reveals throughout the story.",
+    "yax": "[Подробности]\n<размер=80%>Документация, содержащая нежелательную информацию, которую Aiba раскрывает на протяжении всей истории.",
+    "trx": "☯️[Подробности]\n<размер=80%>Документация, содержащая нежелательную информацию, которую Aiba раскрывает на протяжении всей истории."
+  },
+  "file_common_info_004": {
+    "src": "[Manual]\n<size=80%>Explanations and rules of the game.\nYou can check tutorials here.",
+    "yax": "[Инструкция]\n<размер=80%>Пояснения и правила игры.\nВы можете ознакомиться с инструкциями здесь.",
+    "trx": "☯️[Инструкция]\n<размер=80%>Пояснения и правила игры.\nВы можете ознакомиться с инструкциями здесь."
+  }
+}

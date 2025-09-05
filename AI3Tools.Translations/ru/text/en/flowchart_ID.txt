@@ -1,0 +1,1072 @@
+{
+  "flowchart_font_kakugo_l_001": {
+    "src": "CHAPTER 1 12:00 Hisei Taigetsu -Act Call-",
+    "yax": "ГЛАВА 1 12:00 Хисэй Тайгэцу - Призыв к действию-",
+    "trx": "☯️ГЛАВА 1 12:00 Хисэй Тайгэцу - Призыв к действию-"
+  },
+  "flowchart_font_options_001": {
+    "src": "CHAPTER 1 12:00",
+    "yax": "ГЛАВА 1 12:00",
+    "trx": "☯️ГЛАВА 1 12:00"
+  },
+  "flowchart_font_options_002": {
+    "src": "Hisei Taigetsu -Act Call-",
+    "yax": "Хисэй Тайгэцу - Призыв к действию-",
+    "trx": "☯️Хисэй Тайгэцу - Призыв к действию-"
+  },
+  "flowchart_font_kakugo_l_002": {
+    "src": "CHAPTER 1 12:05 Escape From the \"Ancient Civilization\"",
+    "yax": "ГЛАВА 1 12:05 Побег из \"Древней Цивилизации\"",
+    "trx": "☯️ГЛАВА 1 12:05 Побег из \"Древней Цивилизации\""
+  },
+  "flowchart_font_options_003": {
+    "src": "CHAPTER 1 12:05",
+    "yax": "ГЛАВА 1 12:05",
+    "trx": "☯️ГЛАВА 1 12:05"
+  },
+  "flowchart_font_options_004": {
+    "src": "Escape From the \"Ancient Civilization\"",
+    "yax": "Бегство от \"Древней Цивилизации\"",
+    "trx": "☯️Бегство от \"Древней Цивилизации\""
+  },
+  "flowchart_font_kakugo_l_003": {
+    "src": "CHAPTER 2 14:00 Gogyu Zengetsu -Intro-",
+    "yax": "ГЛАВА 2 14:00 Гогю Дзенгецу -Вступление-",
+    "trx": "☯️ГЛАВА 2 14:00 Гогю Дзенгецу -Вступление-"
+  },
+  "flowchart_font_options_005": {
+    "src": "CHAPTER 1 12:05",
+    "yax": "ГЛАВА 1 12:05",
+    "trx": "☯️ГЛАВА 1 12:05"
+  },
+  "flowchart_font_options_006": {
+    "src": "Gogyu Zengetsu -Intro-",
+    "yax": "Гогю Зенгецу -Вступление-",
+    "trx": "☯️Гогю Зенгецу -Вступление-"
+  },
+  "flowchart_font_kakugo_l_004": {
+    "src": "CHAPTER 2 16:10 Decadent Knell",
+    "yax": "ГЛАВА 2 16:10 Декадентский звон",
+    "trx": "☯️ГЛАВА 2 16:10 Декадентский звон"
+  },
+  "flowchart_font_options_007": {
+    "src": "CHAPTER 2 16:10",
+    "yax": "ГЛАВА 2 16:10",
+    "trx": "☯️ГЛАВА 2 16:10"
+  },
+  "flowchart_font_options_008": {
+    "src": "Decadent Knell",
+    "yax": "Декадентский звон",
+    "trx": "☯️Декадентский звон"
+  },
+  "flowchart_font_kakugo_l_005": {
+    "src": "CHAPTER 2 16:20 Nissei Gesshi -Verse-",
+    "yax": "ГЛАВА 2 16:20 Ниссей Гесши -Стих-",
+    "trx": "☯️ГЛАВА 2 16:20 Ниссей Гесши -Стих-"
+  },
+  "flowchart_font_options_009": {
+    "src": "CHAPTER 2 16:20",
+    "yax": "ГЛАВА 2 16:20",
+    "trx": "☯️ГЛАВА 2 16:20"
+  },
+  "flowchart_font_options_010": {
+    "src": "Nissei Gesshi -Verse-",
+    "yax": "Ниссей Гесси -Стих-",
+    "trx": "☯️Ниссей Гесси -Стих-"
+  },
+  "flowchart_font_kakugo_l_006": {
+    "src": "CHAPTER 2 16:30 Escape From the \"Curse\"",
+    "yax": "ГЛАВА 2 16:30 Избавление от \"Проклятия\"",
+    "trx": "☯️ГЛАВА 2 16:30 Избавление от \"Проклятия\""
+  },
+  "flowchart_font_options_011": {
+    "src": "CHAPTER 2 16:30",
+    "yax": "ГЛАВА 2 16:30",
+    "trx": "☯️ГЛАВА 2 16:30"
+  },
+  "flowchart_font_options_012": {
+    "src": "Escape From the \"Curse\"",
+    "yax": "Спасение от \"Проклятия\"",
+    "trx": "☯️Спасение от \"Проклятия\""
+  },
+  "flowchart_font_kakugo_l_007": {
+    "src": "CHAPTER 3 17:00 Kyoka Suigetsu -Bridge-",
+    "yax": "ГЛАВА 3 17:00 Кека Суйгецу - Мост-",
+    "trx": "☯️ГЛАВА 3 17:00 Кека Суйгецу - Мост-"
+  },
+  "flowchart_font_options_013": {
+    "src": "CHAPTER 3 17:00",
+    "yax": "ГЛАВА 3 17:00",
+    "trx": "☯️ГЛАВА 3 17:00"
+  },
+  "flowchart_font_options_014": {
+    "src": "Kyoka Suigetsu -Bridge-",
+    "yax": "Киока Суйгецу -Мост-",
+    "trx": "☯️Киока Суйгецу -Мост-"
+  },
+  "flowchart_font_kakugo_l_008": {
+    "src": "CHAPTER 3 18:50 Destructive Knowledge",
+    "yax": "ГЛАВА 3 18:50 Разрушительное знание",
+    "trx": "☯️ГЛАВА 3 18:50 Разрушительное знание"
+  },
+  "flowchart_font_options_015": {
+    "src": "CHAPTER 3 18:50",
+    "yax": "ГЛАВА 3 18:50",
+    "trx": "☯️ГЛАВА 3 18:50"
+  },
+  "flowchart_font_options_016": {
+    "src": "Destructive Knowledge",
+    "yax": "Разрушительное знание",
+    "trx": "☯️Разрушительное знание"
+  },
+  "flowchart_font_kakugo_l_009": {
+    "src": "CHAPTER 3 19:00 Zettan Gettan -Chorus-",
+    "yax": "ГЛАВА 3 19:00 Зеттан Геттан -Припев-",
+    "trx": "☯️ГЛАВА 3 19:00 Зеттан Геттан -Припев-"
+  },
+  "flowchart_font_options_017": {
+    "src": "CHAPTER 3 19:00",
+    "yax": "ГЛАВА 3 19:00",
+    "trx": "☯️ГЛАВА 3 19:00"
+  },
+  "flowchart_font_options_018": {
+    "src": "Zettan Gettan -Chorus-",
+    "yax": "Зеттан Геттан -Припев-",
+    "trx": "☯️Зеттан Геттан -Припев-"
+  },
+  "flowchart_font_kakugo_l_010": {
+    "src": "CHAPTER 3 19:30 Escape From the \"Invitation to An Otherworld\"",
+    "yax": "ГЛАВА 3 19:30 Побег из \"Приглашения в Иной мир\"",
+    "trx": "☯️ГЛАВА 3 19:30 Побег из \"Приглашения в Иной мир\""
+  },
+  "flowchart_font_options_019": {
+    "src": "CHAPTER 3 19:30",
+    "yax": "ГЛАВА 3 19:30",
+    "trx": "☯️ГЛАВА 3 19:30"
+  },
+  "flowchart_font_options_020": {
+    "src": "Escape From the \"Invitation to An Otherworld\"",
+    "yax": "Побег от \"Приглашения в Потусторонний мир\"",
+    "trx": "☯️Побег от \"Приглашения в Потусторонний мир\""
+  },
+  "flowchart_font_kakugo_l_011": {
+    "src": "CHAPTER 4 20:00 Nensai Getsuou -Modulation-",
+    "yax": "ГЛАВА 4 20:00 Ненсай Гетсуо -Модуляция-",
+    "trx": "☯️ГЛАВА 4 20:00 Ненсай Гетсуо -Модуляция-"
+  },
+  "flowchart_font_options_021": {
+    "src": "CHAPTER 4 20:00",
+    "yax": "ГЛАВА 4 20:00",
+    "trx": "☯️ГЛАВА 4 20:00"
+  },
+  "flowchart_font_options_022": {
+    "src": "Nensai Getsuou -Modulation-",
+    "yax": "Ненсай Гетсуо -Модуляция-",
+    "trx": "☯️Ненсай Гетсуо -Модуляция-"
+  },
+  "flowchart_font_kakugo_l_012": {
+    "src": "CHAPTER 4 20:40 Escape From the \"Non-Existent Station\"",
+    "yax": "ГЛАВА 4 20:40 Побег с \"Несуществующей станции\"",
+    "trx": "☯️ГЛАВА 4 20:40 Побег с \"Несуществующей станции\""
+  },
+  "flowchart_font_options_023": {
+    "src": "CHAPTER 4 20:40",
+    "yax": "ГЛАВА 4 20:40",
+    "trx": "☯️ГЛАВА 4 20:40"
+  },
+  "flowchart_font_options_024": {
+    "src": "Escape From the \"Non-Existent Station\"",
+    "yax": "Побег с \"Несуществующей станции\"",
+    "trx": "☯️Побег с \"Несуществующей станции\""
+  },
+  "flowchart_font_kakugo_l_013": {
+    "src": "CHAPTER 5 20:00 Rakugetsu Okuryo -Inter-",
+    "yax": "ГЛАВА 5 20:00 Ракугецу Окуре - Интер-",
+    "trx": "☯️ГЛАВА 5 20:00 Ракугецу Окуре - Интер-"
+  },
+  "flowchart_font_options_025": {
+    "src": "CHAPTER 5 20:00",
+    "yax": "ГЛАВА 5 20:00",
+    "trx": "☯️ГЛАВА 5 20:00"
+  },
+  "flowchart_font_options_026": {
+    "src": "Rakugetsu Okuryo -Inter-",
+    "yax": "Ракугецу Окуре - \"Интер\"-",
+    "trx": "☯️Ракугецу Окуре - \"Интер\"-"
+  },
+  "flowchart_font_kakugo_l_014": {
+    "src": "CHAPTER 5 23:20 Distortional Knighthood",
+    "yax": "ГЛАВА 5 23:20 Искаженное посвящение в рыцари",
+    "trx": "☯️ГЛАВА 5 23:20 Искаженное посвящение в рыцари"
+  },
+  "flowchart_font_options_027": {
+    "src": "CHAPTER 5 23:20",
+    "yax": "ГЛАВА 5 23:20",
+    "trx": "☯️ГЛАВА 5 23:20"
+  },
+  "flowchart_font_options_028": {
+    "src": "Distortional Knighthood",
+    "yax": "Искаженное рыцарство",
+    "trx": "☯️Искаженное рыцарство"
+  },
+  "flowchart_font_kakugo_l_015": {
+    "src": "CHAPTER 5 23:30 Fugetsu Gentaku -Shout Chorus-",
+    "yax": "ГЛАВА 5 23:30 Фугецу Гентаку - Кричащий припев-",
+    "trx": "☯️ГЛАВА 5 23:30 Фугецу Гентаку - Кричащий припев-"
+  },
+  "flowchart_font_options_029": {
+    "src": "CHAPTER 5 23:30",
+    "yax": "ГЛАВА 5 23:30",
+    "trx": "☯️ГЛАВА 5 23:30"
+  },
+  "flowchart_font_options_030": {
+    "src": "Fugetsu Gentaku -Shout Chorus-",
+    "yax": "Фугецу Гентаку -Кричащий припев-",
+    "trx": "☯️Фугецу Гентаку -Кричащий припев-"
+  },
+  "flowchart_font_kakugo_l_016": {
+    "src": "EPILOGUE 19:00 Kofu Seigetsu -Outro-",
+    "yax": "ЭПИЛОГ 19:00 Кофу Сейгецу -Окончание-",
+    "trx": "☯️ЭПИЛОГ 19:00 Кофу Сейгецу -Окончание-"
+  },
+  "flowchart_font_options_031": {
+    "src": "EPILOGUE 19:00",
+    "yax": "ЭПИЛОГ 19:00",
+    "trx": "☯️ЭПИЛОГ 19:00"
+  },
+  "flowchart_font_options_032": {
+    "src": "Kofu Seigetsu -Outro-",
+    "yax": "Кофу Сейгецу -Окончание-",
+    "trx": "☯️Кофу Сейгецу -Окончание-"
+  },
+  "flowchart_font_options_033": {
+    "src": "That day, Date was running from something, yet he couldn't remember from what or why.\n\nAs he kept running, he eventually arrived at an abandoned subway station...",
+    "yax": "В тот день Дейт от чего-то убегал, но не мог вспомнить, от чего и почему.\n\nПродолжая бежать, он в конце концов добрался до заброшенной станции метро...",
+    "trx": "☯️В тот день Дейт от чего-то убегал, но не мог вспомнить, от чего и почему.\n\nПродолжая бежать, он в конце концов добрался до заброшенной станции метро..."
+  },
+  "flowchart_font_options_034": {
+    "src": "Date briefly lost his pursuers, but they caught up to him soon after he arrived at Golden Yokocho.\n\nIt looked like he was done for, but suddenly, aliens appeared and abducted the pursuers. For a moment, it seemed like he was saved, but then he saw Iris among the abducted.\n\nDespite his confusion, Date himself leaped after Iris...",
+    "yax": "Дэйт ненадолго оторвался от преследователей, но они настигли его вскоре после того, как он прибыл в Голден Йокочо.\n\nКазалось, что ему конец, но внезапно появились инопланетяне и похитили преследователей. На мгновение ему показалось, что он спасен, но затем он увидел Айрис среди похищенных.\n\nНесмотря на свое замешательство, Дейт сам бросился за Айрис...",
+    "trx": "☯️Дэйт ненадолго оторвался от преследователей, но они настигли его вскоре после того, как он прибыл в Голден Йокочо.\n\nКазалось, что ему конец, но внезапно появились инопланетяне и похитили преследователей. На мгновение ему показалось, что он спасен, но затем он увидел Айрис среди похищенных.\n\nНесмотря на свое замешательство, Дейт сам бросился за Айрис..."
+  },
+  "flowchart_font_options_035": {
+    "src": "Iris has been abducted by a mysterious UFO, which appears to be the creation of an advanced ancient civilization! Do they plan to whisk her away across the galaxy?!\n \nEscape 1: Escape From the \"Ancient Civilization\"\n \nLook forward to it!",
+    "yax": "Айрис была похищена таинственным НЛО, которое, по-видимому, является созданием высокоразвитой древней цивилизации! Они планируют увезти ее через всю галактику?!\n \nПобег 1: Побег от \"Древней цивилизации\"\n \nС нетерпением ждем этого!",
+    "trx": "☯️Айрис была похищена таинственным НЛО, которое, по-видимому, является созданием высокоразвитой древней цивилизации! Они планируют увезти ее через всю галактику?!\n \nПобег 1: Побег от \"Древней цивилизации\"\n \nС нетерпением ждем этого!"
+  },
+  "flowchart_font_options_036": {
+    "src": "Running for his life, UFOs... It all seemed like a weird dream, but it turned out that Iris really was missing...",
+    "yax": "Спасаясь бегством, он столкнулся с НЛО... Все это казалось странным сном, но оказалось, что Айрис действительно пропала...",
+    "trx": "☯️Спасаясь бегством, он столкнулся с НЛО... Все это казалось странным сном, но оказалось, что Айрис действительно пропала..."
+  },
+  "flowchart_font_options_037": {
+    "src": "Tracing Iris's phone GPS didn't lead to any useful information.\nWhile investigating her disappearance, Date looks for Mizuki and arrives at the Warehouse District, only to find a mysterious pod. For some reason, the pod had \"Psync me\" written on it.\n\nAfter bringing the pod back to ABIS, they find out that it can indeed be connected to the Psync machine, and Date Psyncs with whoever is inside.",
+    "yax": "Поиск по GPS-навигатору телефона Айрис не дал никакой полезной информации.\nРасследуя ее исчезновение, Дейт ищет Мизуки и прибывает в район Складов, где находит таинственный контейнер. По какой-то причине на контейнере было написано \"Psync me\".\n\nПосле того, как они вернули модуль ABIS, они выяснили, что его действительно можно подключить к компьютеру Psync, и назначать Psyncs свидания с теми, кто находится внутри.",
+    "trx": "☯️Поиск по GPS-навигатору телефона Айрис не дал никакой полезной информации.\nРасследуя ее исчезновение, Дейт ищет Мизуки и прибывает в район Складов, где находит таинственный контейнер. По какой-то причине на контейнере было написано \"Psync me\".\n\nПосле того, как они вернули модуль ABIS, они выяснили, что его действительно можно подключить к компьютеру Psync, и назначать Psyncs свидания с теми, кто находится внутри."
+  },
+  "flowchart_font_options_038": {
+    "src": "Target: Person of Interest I\nObjective: Find out the identity of Person of Interest I!\n\nA pod that can't be opened and a Psync target that can't be known...\n\nDelve into their dreams and look for clues that could reveal their identity.",
+    "yax": "Цель: Лицо, представляющее интерес для I\nЦель: Выяснить личность лица, представляющего интерес для I!\n\nМодуль, который нельзя открыть, и цель Psync, о которой нельзя узнать...\n\nКопайтесь в их снах и ищите подсказки, которые могли бы раскрыть их личность.",
+    "trx": "☯️Цель: Лицо, представляющее интерес для I\nЦель: Выяснить личность лица, представляющего интерес для I!\n\nМодуль, который нельзя открыть, и цель Psync, о которой нельзя узнать...\n\nКопайтесь в их снах и ищите подсказки, которые могли бы раскрыть их личность."
+  },
+  "flowchart_font_options_039": {
+    "src": "Date and Aiba failed to find out who was inside the pod. For some reason, the Somnium contained scenes related to the Escape Game Iris is trapped in...",
+    "yax": "Дэйт и Айба не смогли выяснить, кто был внутри капсулы. По какой-то причине в \"Сомниуме\" были сцены, связанные с игрой \"Побег\", в которой Айрис оказалась в ловушке...",
+    "trx": "☯️Дэйт и Айба не смогли выяснить, кто был внутри капсулы. По какой-то причине в \"Сомниуме\" были сцены, связанные с игрой \"Побег\", в которой Айрис оказалась в ловушке..."
+  },
+  "flowchart_font_options_040": {
+    "src": "Date and Aiba were unable to confirm if there was a connection between the Somnium and the escape game. The scene of Iris's murder they saw within Somnium was suddenly uploaded to ViewQube in real life.\n\nDate feared Iris might've actually been killed, but ended up more confused as she suddenly contacted him.\n\nThe Escape Game was not over yet...",
+    "yax": "Дэйт и Aiba не смогли подтвердить, есть ли связь между Somnium и игрой escape. Сцена убийства Айрис, которую они видели в Somnium, внезапно была загружена на ViewQube в реальной жизни.\n\nДейт испугался, что Айрис действительно могла быть убита, но еще больше запутался, когда она внезапно связалась с ним.\n\nИгра в побег еще не закончилась...",
+    "trx": "☯️Дэйт и Aiba не смогли подтвердить, есть ли связь между Somnium и игрой escape. Сцена убийства Айрис, которую они видели в Somnium, внезапно была загружена на ViewQube в реальной жизни.\n\nДейт испугался, что Айрис действительно могла быть убита, но еще больше запутался, когда она внезапно связалась с ним.\n\nИгра в побег еще не закончилась..."
+  },
+  "flowchart_font_options_041": {
+    "src": "Iris was locked within a mysterious box!\nThe water flowing in made it a dangerous race against time!\nWithout any help, Iris would drown!\nBut then, a certain someone showed up!\n \nEscape 2: Escape From the \"Curse\"\n \nLook forward to it!",
+    "yax": "Айрис была заперта в таинственном ящике!\nВода, хлынувшая внутрь, превратила это путешествие в опасную гонку со временем!\nБез посторонней помощи Айрис бы утонула!\nНо тут появился кое-кто еще!\n \nПобег 2: Избавление от \"Проклятия\"\n \nС нетерпением ждем этого!",
+    "trx": "☯️Айрис была заперта в таинственном ящике!\nВода, хлынувшая внутрь, превратила это путешествие в опасную гонку со временем!\nБез посторонней помощи Айрис бы утонула!\nНо тут появился кое-кто еще!\n \nПобег 2: Избавление от \"Проклятия\"\n \nС нетерпением ждем этого!"
+  },
+  "flowchart_font_options_042": {
+    "src": "Ota was not present at Matsushita Diner, due to being trapped in the same Escape Game as Iris. Unfortunately, he didn't know the game's location either, so there were still no leads to follow.",
+    "yax": "Ота не присутствовал в закусочной \"Мацусита\" из-за того, что попал в ловушку в той же игре-побеге, что и Айрис. К сожалению, он тоже не знал, где находится место проведения игры, так что никаких зацепок по-прежнему не было.",
+    "trx": "☯️Ота не присутствовал в закусочной \"Мацусита\" из-за того, что попал в ловушку в той же игре-побеге, что и Айрис. К сожалению, он тоже не знал, где находится место проведения игры, так что никаких зацепок по-прежнему не было."
+  },
+  "flowchart_font_options_043": {
+    "src": "Date, joined by Hina, the new Psync operator, decided to track down Moma, a prime suspect. However, the trail promptly ran cold.\nThey encountered Lien, who recommended they go to Marble and ask Mama for help. She had gotten into fortune telling, though following her predictions didn't yield anything useful. They only got a strange clue that suggested Iris may have been in two places at once.\n\nHaving reached a dead end in his investigation, Date chose to Psync with Person of Interest I once more...",
+    "yax": "Дэйт, к которому присоединилась Хина, новый оператор Psync, решили разыскать Мому, главного подозреваемого. Однако след быстро затерялся.\nОни встретили Лин, которая порекомендовала им отправиться в Марбл и попросить маму о помощи. Она занялась гаданием, хотя следование ее предсказаниям не принесло ничего полезного. Они получили только странную подсказку, которая предполагала, что Айрис могла находиться в двух местах одновременно.\n\nЗайдя в тупик в своем расследовании, Дейт решил еще раз связаться с интересующим его лицом...",
+    "trx": "☯️Дэйт, к которому присоединилась Хина, новый оператор Psync, решили разыскать Мому, главного подозреваемого. Однако след быстро затерялся.\nОни встретили Лин, которая порекомендовала им отправиться в Марбл и попросить маму о помощи. Она занялась гаданием, хотя следование ее предсказаниям не принесло ничего полезного. Они получили только странную подсказку, которая предполагала, что Айрис могла находиться в двух местах одновременно.\n\nЗайдя в тупик в своем расследовании, Дейт решил еще раз связаться с интересующим его лицом..."
+  },
+  "flowchart_font_options_044": {
+    "src": "Target: Person of Interest I\nObjective: Find out the truth behind Person of Interest I!\n\nReach the lower depths of this Psync subject and expose them to find more information about The Third Eye Game.",
+    "yax": "Цель: Заинтересованное лицо I.\nЦель: Выяснить правду о заинтересованном лице I!\n\nДоберитесь до самых глубин этого предмета Psync и раскройте его, чтобы найти больше информации об игре Third Eye.",
+    "trx": "☯️Цель: Заинтересованное лицо I.\nЦель: Выяснить правду о заинтересованном лице I!\n\nДоберитесь до самых глубин этого предмета Psync и раскройте его, чтобы найти больше информации об игре Third Eye."
+  },
+  "flowchart_font_options_045": {
+    "src": "Person of Interest I was Pewter. Very strange, as certain circumstances had led him to being locked up in a detention center...",
+    "yax": "Интересующим меня лицом был Пьютер. Очень странно, поскольку определенные обстоятельства привели к тому, что он был заключен в центр временного содержания...",
+    "trx": "☯️Интересующим меня лицом был Пьютер. Очень странно, поскольку определенные обстоятельства привели к тому, что он был заключен в центр временного содержания..."
+  },
+  "flowchart_font_options_046": {
+    "src": "The Psync was simply to get the indictment against Pewter dropped.\n\nThe Somnia and Escapes were linked because Pewter knew the original game, and the scene where Iris was murdered was based on an internet drama. \n\nThen, Boss slipped up and revealed that the organizer of the escape game was Mizuki. Date drove to Mizuki's place. However, just as he arrived, he received a call from Iris...",
+    "yax": "Псинхронизация была нужна просто для того, чтобы снять обвинение с Пьютера.\n\n\"Сонливость\" и \"Побег\" были связаны, потому что Пьютер знал оригинальную игру, а сцена убийства Айрис была основана на интернет-драме. \n\nЗатем Босс оступился и рассказал, что организатором игры в побег была Мизуки. Дейт поехал к Мизуки домой. Однако, как только он прибыл, ему позвонила Айрис...",
+    "trx": "☯️Псинхронизация была нужна просто для того, чтобы снять обвинение с Пьютера.\n\n\"Сонливость\" и \"Побег\" были связаны, потому что Пьютер знал оригинальную игру, а сцена убийства Айрис была основана на интернет-драме. \n\nЗатем Босс оступился и рассказал, что организатором игры в побег была Мизуки. Дейт поехал к Мизуки домой. Однако, как только он прибыл, ему позвонила Айрис..."
+  },
+  "flowchart_font_options_047": {
+    "src": "With Ota's help, Iris escaped death within the accursed box!\nSearching for a way out, they arrived at a mysterious space with a starry sky above!\nBut no sooner was Iris free than Ota ended up trapped!\nWarping space, the smell of gunpowder...\nWhat's going to happen to them?!\n \nEscape 3: Escape From the \"Invitation to An Otherworld\"\n \nLook forward to it!",
+    "yax": "С помощью Оты Айрис избежала смерти в проклятом ящике!\nВ поисках выхода они оказались в таинственном пространстве со звездным небом над головой!\nНо не успела Айрис освободиться, как Ота оказался в ловушке!\nИскривление пространства, запах пороха...\nЧто с ними будет?!\n \nПобег 3: Уклонение от \"Приглашения в иной мир\"\n \nС нетерпением ждем этого!",
+    "trx": "☯️С помощью Оты Айрис избежала смерти в проклятом ящике!\nВ поисках выхода они оказались в таинственном пространстве со звездным небом над головой!\nНо не успела Айрис освободиться, как Ота оказался в ловушке!\nИскривление пространства, запах пороха...\nЧто с ними будет?!\n \nПобег 3: Уклонение от \"Приглашения в иной мир\"\n \nС нетерпением ждем этого!"
+  },
+  "flowchart_font_options_048": {
+    "src": "Despite being the prime suspect for Iris's kidnapping, it turned out Moma was also stuck within the Escape Game.",
+    "yax": "Несмотря на то, что Мома был главным подозреваемым в похищении Айрис, оказалось, что он тоже застрял в игре \"Побег\".",
+    "trx": "☯️Несмотря на то, что Мома был главным подозреваемым в похищении Айрис, оказалось, что он тоже застрял в игре \"Побег\"."
+  },
+  "flowchart_font_options_049": {
+    "src": "Though they solved the Escape Game together, Iris ended up separated from Ota and Moma.\n\nThe Escape Game had been Mizuki's plan, but Iris's disappearance certainly was not. The mysterious \"Asahi\" was responsible, but even Aiba couldn't uncover much.\nThankfully, Moma knew where the Escape Game was: the abandoned station in the Kabasaki District. Date called Ryuki for backup, which proved fortunate as they were soon attacked.\n\nAs Date prepared to enter the Escape Game, he recalled a memory of Hina there from six years ago...",
+    "yax": "Несмотря на то, что они вместе разгадали игру \"Побег\", Айрис в итоге рассталась с Отой и Момой.\n\nИгра \"Побег\" была планом Мизуки, но исчезновение Айрис, конечно, не входило в его планы. Таинственный \"Асахи\" был ответственен за это, но даже Айба не смог многого раскрыть.\nК счастью, Мома знал, где находится игра-побег: на заброшенной станции в районе Кабасаки. Дейт вызвал Рюки на подмогу, что оказалось удачным, поскольку вскоре на них напали.\n\nКогда Дейт готовился вступить в игру-побег, он вспомнил, что Хина была там шесть лет назад...",
+    "trx": "☯️Несмотря на то, что они вместе разгадали игру \"Побег\", Айрис в итоге рассталась с Отой и Момой.\n\nИгра \"Побег\" была планом Мизуки, но исчезновение Айрис, конечно, не входило в его планы. Таинственный \"Асахи\" был ответственен за это, но даже Айба не смог многого раскрыть.\nК счастью, Мома знал, где находится игра-побег: на заброшенной станции в районе Кабасаки. Дейт вызвал Рюки на подмогу, что оказалось удачным, поскольку вскоре на них напали.\n\nКогда Дейт готовился вступить в игру-побег, он вспомнил, что Хина была там шесть лет назад..."
+  },
+  "flowchart_font_options_050": {
+    "src": "Nobody knows where Iris went! Again!\nDate himself steps up to the challenge!\nBut would joining forces with Ota and Moma really be enough?\n \nEscape 4: Escape From the \"Non-Existent Station.\"\n \nPlease look forward to it!",
+    "yax": "Никто не знает, куда подевалась Айрис! Снова!\nДейт сам принимает вызов!\nНо будет ли достаточно объединить усилия с Отой и Мома?\n \nПобег 4: Побег с \"Несуществующей станции\".\n \nПожалуйста, ждите этого с нетерпением!",
+    "trx": "☯️Никто не знает, куда подевалась Айрис! Снова!\nДейт сам принимает вызов!\nНо будет ли достаточно объединить усилия с Отой и Мома?\n \nПобег 4: Побег с \"Несуществующей станции\".\n \nПожалуйста, ждите этого с нетерпением!"
+  },
+  "flowchart_font_options_051": {
+    "src": "Date, Ota, and Moma successfully escape but find another pod...",
+    "yax": "Дэйт, Ота и Мома успешно сбегают, но находят другую капсулу...",
+    "trx": "☯️Дэйт, Ота и Мома успешно сбегают, но находят другую капсулу..."
+  },
+  "flowchart_font_options_052": {
+    "src": "A following police investigation yielded evidence that Iris was taken away somewhere else, and that both Hina and Sakura Asahi's fingerprints were somehow present on the scene.\n\nDate tracked Hina to Ikume Shrine, but he and Ryuki were then attacked again. But, thanks to their skills and Mizuki's help, they made it out in one piece.\n\nHina was brought back to ABIS, but she refused to talk. However, it was clear that she knew who was inside the pod.\n\nDate, convinced that the person inside held all the keys, chose to Psync again...",
+    "yax": "Последующее полицейское расследование показало, что Айрис увезли в другое место, и что на месте преступления каким-то образом оказались отпечатки пальцев Хины и Сакуры Асахи.\n\nДейт проследил за Хиной до храма Икуме, но затем на него и Рюки снова напали. Но, благодаря своим навыкам и помощи Мизуки, они выбрались целыми и невредимыми.\n\nХину вернули в АБИС, но она отказалась разговаривать. Однако было ясно, что она знала, кто находится внутри капсулы.\n\nДейт, убедившись, что все ключи находятся у человека, находящегося внутри, снова включил Psync...",
+    "trx": "☯️Последующее полицейское расследование показало, что Айрис увезли в другое место, и что на месте преступления каким-то образом оказались отпечатки пальцев Хины и Сакуры Асахи.\n\nДейт проследил за Хиной до храма Икуме, но затем на него и Рюки снова напали. Но, благодаря своим навыкам и помощи Мизуки, они выбрались целыми и невредимыми.\n\nХину вернули в АБИС, но она отказалась разговаривать. Однако было ясно, что она знала, кто находится внутри капсулы.\n\nДейт, убедившись, что все ключи находятся у человека, находящегося внутри, снова включил Psync..."
+  },
+  "flowchart_font_options_053": {
+    "src": "Target: Person of Interest J\nObjective: Find out Person of Interest J's identity and the truth behind it all!\n\nThe darkness of this case is within the pod...\nThe plans and plotting of the mysterious person...\nFind the keys to solve it all.",
+    "yax": "Цель:\nПодозреваемый J. Цель: Выяснить личность подозреваемого J и правду, стоящую за всем этим!\n\nТемная сторона этого дела скрыта внутри капсулы...\nПланы и интриги таинственного человека...\nНайдите ключи, чтобы раскрыть все это.",
+    "trx": "☯️Цель:\nПодозреваемый J. Цель: Выяснить личность подозреваемого J и правду, стоящую за всем этим!\n\nТемная сторона этого дела скрыта внутри капсулы...\nПланы и интриги таинственного человека...\nНайдите ключи, чтобы раскрыть все это."
+  },
+  "flowchart_font_options_054": {
+    "src": "Date and Aiba discovered the person in the pod was Sakura Asahi, who had disappeared six years ago. Stranger still, there was also an AI based on her yet who existed independently.",
+    "yax": "Дейт и Айба обнаружили, что человеком в капсуле была Сакура Асахи, которая исчезла шесть лет назад. Что еще более странно, там был ИИ, основанный на ней, но существовавший независимо.",
+    "trx": "☯️Дейт и Айба обнаружили, что человеком в капсуле была Сакура Асахи, которая исчезла шесть лет назад. Что еще более странно, там был ИИ, основанный на ней, но существовавший независимо."
+  },
+  "flowchart_font_options_055": {
+    "src": "Simply destroying the pod was not an option. Though it would also destroy the AI, the pod acted as Sakura Asahi's life support and contained Iris. Brute force could not solve this problem.\n\nThrough investigation, Date and Hina determined Iris was held in Bloom Park, where they were faced with the AI's final puzzle...\n\nDate appealed to the AI's human-like behavior and got a hint, which he used to save Iris.\n\nFinally, with all said and done, Date went to sleep.",
+    "yax": "Просто уничтожить капсулу было невозможно. Хотя это также уничтожило бы ИИ, капсула выполняла функцию жизнеобеспечения Сакуры Асахи и содержала Айрис. Грубая сила не могла решить эту проблему.\n\nПроведя расследование, Дейт и Хина выяснили, что Айрис держали в Блум-парке, где они столкнулись с последней загадкой ИИ...\n\nДейту понравилось поведение ИИ, похожее на человеческое, и он получил подсказку, которую использовал, чтобы спасти Айрис.\n\nНаконец, когда все было сказано и сделано, Дейт отправился спать.",
+    "trx": "☯️Просто уничтожить капсулу было невозможно. Хотя это также уничтожило бы ИИ, капсула выполняла функцию жизнеобеспечения Сакуры Асахи и содержала Айрис. Грубая сила не могла решить эту проблему.\n\nПроведя расследование, Дейт и Хина выяснили, что Айрис держали в Блум-парке, где они столкнулись с последней загадкой ИИ...\n\nДейту понравилось поведение ИИ, похожее на человеческое, и он получил подсказку, которую использовал, чтобы спасти Айрис.\n\nНаконец, когда все было сказано и сделано, Дейт отправился спать."
+  },
+  "flowchart_font_options_056": {
+    "src": "A few days later, Boss called Date to go over the case file...",
+    "yax": "Через несколько дней босс позвонил Дэйту, чтобы ознакомиться с материалами дела...",
+    "trx": "☯️Через несколько дней босс позвонил Дэйту, чтобы ознакомиться с материалами дела..."
+  },
+  "flowchart_font_options_057": {
+    "src": "While the report itself was fine, Date hadn't taken any comments from those involved in the case. He begrudgingly bent to Boss's command and went to do some interviews.\n\nThey talked not just about the case, but also about AI, Iris, the future, and many other things.\n\nSakura Asahi was able to recover and reunite with Hina.\n\nFinally, Iris danced, hopped, and frolicked onto the stage of her future, like a rabbit that escaped its cage and leaped to the moon.\n\nDaring, bold, and free...",
+    "yax": "Несмотря на то, что сам отчет был в порядке, Дэйт не получил никаких комментариев от участников дела. Он неохотно подчинился приказу Босса и пошел давать интервью.\n\nОни говорили не только о деле, но и об искусственном интеллекте, Iris, будущем и многом другом.\n\nСакура Асахи смогла восстановиться и воссоединиться с Хиной.\n\nНаконец, Айрис танцевала, прыгала и резвилась на сцене своего будущего, как кролик, который вырвался из клетки и прыгнул на Луну.\n\nСмелая, дерзновенная и свободная...",
+    "trx": "☯️Несмотря на то, что сам отчет был в порядке, Дэйт не получил никаких комментариев от участников дела. Он неохотно подчинился приказу Босса и пошел давать интервью.\n\nОни говорили не только о деле, но и об искусственном интеллекте, Iris, будущем и многом другом.\n\nСакура Асахи смогла восстановиться и воссоединиться с Хиной.\n\nНаконец, Айрис танцевала, прыгала и резвилась на сцене своего будущего, как кролик, который вырвался из клетки и прыгнул на Луну.\n\nСмелая, дерзновенная и свободная..."
+  },
+  "flowchart_font_options_058": {
+    "src": "----",
+    "yax": "----",
+    "trx": "☯️----"
+  },
+  "flowchart_font_options_059": {
+    "src": "----",
+    "yax": "----",
+    "trx": "☯️----"
+  },
+  "flowchart_font_options_158": {
+    "src": "Date's Car",
+    "yax": "Машина свидания",
+    "trx": "☯️Машина свидания"
+  },
+  "flowchart_font_options_159": {
+    "src": "Golden Yokocho",
+    "yax": "Золотистый Екочо",
+    "trx": "☯️Золотистый Екочо"
+  },
+  "flowchart_font_options_160": {
+    "src": "Sagan Residence",
+    "yax": "Резиденция Сагана",
+    "trx": "☯️Резиденция Сагана"
+  },
+  "flowchart_font_options_161": {
+    "src": "Lemniscate Talent Agency",
+    "yax": "Агентство по подбору талантов Lemniscate",
+    "trx": "☯️Агентство по подбору талантов Lemniscate"
+  },
+  "flowchart_font_options_162": {
+    "src": "Sunfish Pocket",
+    "yax": "Карман для рыбы-солнца",
+    "trx": "☯️Карман для рыбы-солнца"
+  },
+  "flowchart_font_options_163": {
+    "src": "Matsushita Diner",
+    "yax": "Закусочная \"Мацусита\"",
+    "trx": "☯️Закусочная \"Мацусита\""
+  },
+  "flowchart_font_options_164": {
+    "src": "Date's Car",
+    "yax": "Машина свидания",
+    "trx": "☯️Машина свидания"
+  },
+  "flowchart_font_options_165": {
+    "src": "Harbor Warehouse District",
+    "yax": "Портовый складской район",
+    "trx": "☯️Портовый складской район"
+  },
+  "flowchart_font_options_166": {
+    "src": "Okiura Fisheries Cold Storage",
+    "yax": "Холодильное хранилище рыбных запасов Окиура",
+    "trx": "☯️Холодильное хранилище рыбных запасов Окиура"
+  },
+  "flowchart_font_options_167": {
+    "src": "ABIS HQ, Psync Control Room",
+    "yax": "Штаб-квартира ABIS, диспетчерская Psync",
+    "trx": "☯️Штаб-квартира ABIS, диспетчерская Psync"
+  },
+  "flowchart_font_options_168": {
+    "src": "ABIS HQ, Psync Room",
+    "yax": "Штаб-квартира ABIS, комната синхронизации данных",
+    "trx": "☯️Штаб-квартира ABIS, комната синхронизации данных"
+  },
+  "flowchart_font_options_169": {
+    "src": "ABIS HQ, Psync Control Room",
+    "yax": "Штаб-квартира ABIS, диспетчерская Psync",
+    "trx": "☯️Штаб-квартира ABIS, диспетчерская Psync"
+  },
+  "flowchart_font_options_170": {
+    "src": "ABIS HQ, Psync Control Room",
+    "yax": "Штаб-квартира ABIS, диспетчерская Psync",
+    "trx": "☯️Штаб-квартира ABIS, диспетчерская Psync"
+  },
+  "flowchart_font_options_171": {
+    "src": "Kumakura Office",
+    "yax": "Офис в Кумакуре",
+    "trx": "☯️Офис в Кумакуре"
+  },
+  "flowchart_font_options_172": {
+    "src": "Date's Car",
+    "yax": "Машина свидания",
+    "trx": "☯️Машина свидания"
+  },
+  "flowchart_font_options_173": {
+    "src": "Yoyagi Park",
+    "yax": "Парк Йояги",
+    "trx": "☯️Парк Йояги"
+  },
+  "flowchart_font_options_174": {
+    "src": "Marble Bar",
+    "yax": "Мраморный бар",
+    "trx": "☯️Мраморный бар"
+  },
+  "flowchart_font_options_175": {
+    "src": "Bloom Park",
+    "yax": "Цветущий парк",
+    "trx": "☯️Цветущий парк"
+  },
+  "flowchart_font_options_176": {
+    "src": "Abandoned Factory",
+    "yax": "Заброшенный завод",
+    "trx": "☯️Заброшенный завод"
+  },
+  "flowchart_font_options_177": {
+    "src": "Abandoned Factory, Strange Room",
+    "yax": "Заброшенная фабрика, Странная комната",
+    "trx": "☯️Заброшенная фабрика, Странная комната"
+  },
+  "flowchart_font_options_178": {
+    "src": "ABIS HQ, Boss's Office",
+    "yax": "Штаб-квартира ABIS, кабинет босса",
+    "trx": "☯️Штаб-квартира ABIS, кабинет босса"
+  },
+  "flowchart_font_options_179": {
+    "src": "Lemniscate Talent Agency",
+    "yax": "Агентство по подбору талантов Lemniscate",
+    "trx": "☯️Агентство по подбору талантов Lemniscate"
+  },
+  "flowchart_font_options_180": {
+    "src": "Brahman World Cuisine",
+    "yax": "Кухня мира брахманов",
+    "trx": "☯️Кухня мира брахманов"
+  },
+  "flowchart_font_options_181": {
+    "src": "Misetan General Store, Rooftop Amusement Park",
+    "yax": "Универсальный магазин Мисетан, Парк развлечений на крыше",
+    "trx": "☯️Универсальный магазин Мисетан, Парк развлечений на крыше"
+  },
+  "flowchart_font_options_182": {
+    "src": "Date's Car",
+    "yax": "Машина свидания",
+    "trx": "☯️Машина свидания"
+  },
+  "flowchart_font_options_183": {
+    "src": "ABIS HQ, Psync Control Room",
+    "yax": "Штаб-квартира ABIS, диспетчерская Psync",
+    "trx": "☯️Штаб-квартира ABIS, диспетчерская Psync"
+  },
+  "flowchart_font_options_184": {
+    "src": "ABIS HQ, Psync Room",
+    "yax": "Штаб-квартира ABIS, комната синхронизации данных",
+    "trx": "☯️Штаб-квартира ABIS, комната синхронизации данных"
+  },
+  "flowchart_font_options_092": {
+    "src": "ABIS HQ, Psync Room",
+    "yax": "Штаб-квартира ABIS, комната синхронизации данных",
+    "trx": "☯️Штаб-квартира ABIS, комната синхронизации данных"
+  },
+  "flowchart_font_options_093": {
+    "src": "ABIS HQ, Interrogation Room",
+    "yax": "Штаб-квартира АБИС, Комната для допросов",
+    "trx": "☯️Штаб-квартира АБИС, Комната для допросов"
+  },
+  "flowchart_font_options_094": {
+    "src": "ABIS HQ, Psync Control Room",
+    "yax": "Штаб-квартира ABIS, диспетчерская Psync",
+    "trx": "☯️Штаб-квартира ABIS, диспетчерская Psync"
+  },
+  "flowchart_font_options_095": {
+    "src": "Date's Car",
+    "yax": "Машина свидания",
+    "trx": "☯️Машина свидания"
+  },
+  "flowchart_font_options_096": {
+    "src": "Date Residence",
+    "yax": "Дата проживания",
+    "trx": "☯️Дата проживания"
+  },
+  "flowchart_font_options_185": {
+    "src": "Date Residence",
+    "yax": "Дата проживания",
+    "trx": "☯️Дата проживания"
+  },
+  "flowchart_font_options_186": {
+    "src": "Old Kabasaki District, Abandoned Station",
+    "yax": "Старый район Кабасаки, Заброшенная станция",
+    "trx": "☯️Старый район Кабасаки, Заброшенная станция"
+  },
+  "flowchart_font_options_120": {
+    "src": "Old Kabasaki District, Abandoned Station",
+    "yax": "Старый район Кабасаки, Заброшенная станция",
+    "trx": "☯️Старый район Кабасаки, Заброшенная станция"
+  },
+  "flowchart_font_options_121": {
+    "src": "Ikume Shrine",
+    "yax": "Святилище Икуме",
+    "trx": "☯️Святилище Икуме"
+  },
+  "flowchart_font_options_187": {
+    "src": "ABIS HQ, Interrogation Room",
+    "yax": "Штаб-квартира АБИС, Комната для допросов",
+    "trx": "☯️Штаб-квартира АБИС, Комната для допросов"
+  },
+  "flowchart_font_options_188": {
+    "src": "ABIS HQ, Psync Control Room",
+    "yax": "Штаб-квартира ABIS, диспетчерская Psync",
+    "trx": "☯️Штаб-квартира ABIS, диспетчерская Psync"
+  },
+  "flowchart_font_options_189": {
+    "src": "ABIS HQ, Psync Room",
+    "yax": "Штаб-квартира ABIS, комната синхронизации данных",
+    "trx": "☯️Штаб-квартира ABIS, комната синхронизации данных"
+  },
+  "flowchart_font_options_122": {
+    "src": "ABIS HQ, Psync Control Room",
+    "yax": "Штаб-квартира ABIS, диспетчерская Psync",
+    "trx": "☯️Штаб-квартира ABIS, диспетчерская Psync"
+  },
+  "flowchart_font_options_123": {
+    "src": "Date's Car",
+    "yax": "Машина свидания",
+    "trx": "☯️Машина свидания"
+  },
+  "flowchart_font_options_190": {
+    "src": "Bloom Park",
+    "yax": "Цветущий парк",
+    "trx": "☯️Цветущий парк"
+  },
+  "flowchart_font_options_124": {
+    "src": "ABIS HQ, Boss's Office",
+    "yax": "Штаб-квартира ABIS, кабинет босса",
+    "trx": "☯️Штаб-квартира ABIS, кабинет босса"
+  },
+  "flowchart_font_options_125": {
+    "src": "ABIS HQ, Psync Control Room",
+    "yax": "Штаб-квартира ABIS, диспетчерская Psync",
+    "trx": "☯️Штаб-квартира ABIS, диспетчерская Psync"
+  },
+  "flowchart_font_options_126": {
+    "src": "Brahman World Cuisine",
+    "yax": "Кухня мира брахманов",
+    "trx": "☯️Кухня мира брахманов"
+  },
+  "flowchart_font_options_127": {
+    "src": "Marble",
+    "yax": "Мрамор",
+    "trx": "☯️Мрамор"
+  },
+  "flowchart_font_options_191": {
+    "src": "Sunfish Pocket",
+    "yax": "Карман для рыбы-солнца",
+    "trx": "☯️Карман для рыбы-солнца"
+  },
+  "flowchart_font_options_192": {
+    "src": "Lemniscate Talent Agency",
+    "yax": "Агентство по подбору талантов Lemniscate",
+    "trx": "☯️Агентство по подбору талантов Lemniscate"
+  },
+  "flowchart_font_options_193": {
+    "src": "Kumakura Office",
+    "yax": "Офис в Кумакуре",
+    "trx": "☯️Офис в Кумакуре"
+  },
+  "flowchart_font_options_194": {
+    "src": "Sagan Residence",
+    "yax": "Резиденция Сагана",
+    "trx": "☯️Резиденция Сагана"
+  },
+  "flowchart_font_options_195": {
+    "src": "Date's Car",
+    "yax": "Машина свидания",
+    "trx": "☯️Машина свидания"
+  },
+  "flowchart_font_options_196": {
+    "src": "Studio Dvaita",
+    "yax": "Студия Dvaita",
+    "trx": "☯️Студия Dvaita"
+  },
+  "flowchart_font_options_129": {
+    "src": "",
+    "yax": "",
+    "trx": "☯️"
+  },
+  "flowchart_font_options_130": {
+    "src": "Free Move",
+    "yax": "Свободный ход",
+    "trx": "☯️Свободный ход"
+  },
+  "flowchart_font_options_131": {
+    "src": "Done",
+    "yax": "Сделано",
+    "trx": "☯️Сделано"
+  },
+  "flowchart_font_options_132": {
+    "src": "--:--",
+    "yax": "--:--",
+    "trx": "☯️--:--"
+  },
+  "flowchart_other_message_window_001": {
+    "src": "This will end the current Investigation and start\n [title],\n Investigation.\n Continue?",
+    "yax": "На этом текущее расследование завершится и начнется\n [название],\n Расследование.\n Продолжать?",
+    "trx": "☯️На этом текущее расследование завершится и начнется\n [название],\n Расследование.\n Продолжать?"
+  },
+  "flowchart_other_message_window_002": {
+    "src": "This will end the current Psync and start\n [title],\n Investigation.\n Continue?",
+    "yax": "Это завершит текущую синхронизацию данных и запустит\n [название],\n Расследование.\n Продолжать?",
+    "trx": "☯️Это завершит текущую синхронизацию данных и запустит\n [название],\n Расследование.\n Продолжать?"
+  },
+  "flowchart_other_message_window_003": {
+    "src": "This will start\n [title],\n Investigation.\n Continue?",
+    "yax": "Это начнется\n [название],\n Расследование.\n Продолжать?",
+    "trx": "☯️Это начнется\n [название],\n Расследование.\n Продолжать?"
+  },
+  "flowchart_other_message_window_004": {
+    "src": "This will end the current Escape and start\n [title],\n Investigation.\n Continue?",
+    "yax": "Это завершит текущее экранирование и запустит\n [название],\n Расследование.\n Продолжать?",
+    "trx": "☯️Это завершит текущее экранирование и запустит\n [название],\n Расследование.\n Продолжать?"
+  },
+  "flowchart_other_message_window_005": {
+    "src": "This will end the current Investigation and start\n [title],\n Psync.\n Continue?",
+    "yax": "На этом текущее расследование завершится и начнется\n [название],\nPsync.\n Продолжить?",
+    "trx": "☯️На этом текущее расследование завершится и начнется\n [название],\nPsync.\n Продолжить?"
+  },
+  "flowchart_other_message_window_006": {
+    "src": "This will end the current Psync and start\n [title],\n Psync.\n Continue?",
+    "yax": "Это завершит текущую Psync и запустит\n [название],\nPsync.\n Продолжить?",
+    "trx": "☯️Это завершит текущую Psync и запустит\n [название],\nPsync.\n Продолжить?"
+  },
+  "flowchart_other_message_window_007": {
+    "src": "This will start\n [title],\n Psync.\n Continue?",
+    "yax": "После этого начнется\n [название],\nPsync.\n Продолжить?",
+    "trx": "☯️После этого начнется\n [название],\nPsync.\n Продолжить?"
+  },
+  "flowchart_other_message_window_008": {
+    "src": "This will end the current Escape and start\n [title],\n Psync.\n Continue?",
+    "yax": "Это завершит текущий Escape-процесс и запустит\n [название],\nPsync.\n Продолжить?",
+    "trx": "☯️Это завершит текущий Escape-процесс и запустит\n [название],\nPsync.\n Продолжить?"
+  },
+  "flowchart_other_message_window_009": {
+    "src": "This will end the current Investigation and start\n [title],\n Psync without a time limit.\n <color=red>-Rewards for completing the Psync within the time limit cannot be acquired.</color>\n Continue?",
+    "yax": "На этом текущее расследование завершится и начнется\n [название],\nPsync без ограничения по времени.\n <color=red> - Награды за прохождение Psync в установленные сроки получить нельзя.</color>\n Продолжить?",
+    "trx": "☯️На этом текущее расследование завершится и начнется\n [название],\nPsync без ограничения по времени.\n <color=red> - Награды за прохождение Psync в установленные сроки получить нельзя.</color>\n Продолжить?"
+  },
+  "flowchart_other_message_window_010": {
+    "src": "This will end the current Psync and start\n [title],\n Psync without a time limit.\n <color=red>-Rewards for completing the Psync within the time limit cannot be acquired.</color>\n Continue?",
+    "yax": "Это завершит текущую Psync и запустит\n [название],\nPsync без ограничения по времени.\n <color=red> - Награды за выполнение Psync в установленные сроки получить невозможно.</color>\n Продолжить?",
+    "trx": "☯️Это завершит текущую Psync и запустит\n [название],\nPsync без ограничения по времени.\n <color=red> - Награды за выполнение Psync в установленные сроки получить невозможно.</color>\n Продолжить?"
+  },
+  "flowchart_other_message_window_011": {
+    "src": "This will start\n [title],\n Psync without a time limit.\n <color=red>-Rewards for completing the Psync within the time limit cannot be acquired.</color>\n Continue?",
+    "yax": "Начнется\n [название],\nPsync без ограничения по времени.\n <color=red> - Награды за прохождение Psync в установленные сроки получить нельзя.</color>\n Продолжить?",
+    "trx": "☯️Начнется\n [название],\nPsync без ограничения по времени.\n <color=red> - Награды за прохождение Psync в установленные сроки получить нельзя.</color>\n Продолжить?"
+  },
+  "flowchart_other_message_window_012": {
+    "src": "This will end the current Escape and start\n [title],\n Psync without a time limit.\n <color=red>-Rewards for completing the Psync within the time limit cannot be acquired.</color>\n Continue?",
+    "yax": "Это положит конец текущему побегу и запустит\n [название],\nPsync без ограничения по времени.\n <color=red> - Награды за выполнение Psync в установленные сроки получить нельзя.</color>\n Продолжить?",
+    "trx": "☯️Это положит конец текущему побегу и запустит\n [название],\nPsync без ограничения по времени.\n <color=red> - Награды за выполнение Psync в установленные сроки получить нельзя.</color>\n Продолжить?"
+  },
+  "flowchart_other_message_window_017": {
+    "src": "This will end the current Investigation and start\n [title],\n Psync without a time limit.\n Continue?",
+    "yax": "На этом текущее расследование завершится и начнется\n [название],\nPsync без ограничения по времени.\n Продолжить?",
+    "trx": "☯️На этом текущее расследование завершится и начнется\n [название],\nPsync без ограничения по времени.\n Продолжить?"
+  },
+  "flowchart_other_message_window_018": {
+    "src": "This will end the current Psync and start\n [title],\n Psync without a time limit.\n Continue?",
+    "yax": "Это завершит текущую Psync и запустит\n [название],\nPsync без ограничения по времени.\n Продолжить?",
+    "trx": "☯️Это завершит текущую Psync и запустит\n [название],\nPsync без ограничения по времени.\n Продолжить?"
+  },
+  "flowchart_other_message_window_038": {
+    "src": "This will start\n [title],\n Psync without a time limit.\n Continue?",
+    "yax": "После этого начнется\n [название],\nсинхронизация без ограничения по времени.\n Продолжить?",
+    "trx": "☯️После этого начнется\n [название],\nсинхронизация без ограничения по времени.\n Продолжить?"
+  },
+  "flowchart_other_message_window_039": {
+    "src": "This will end the current Escape and start\n [title],\n Psync without a time limit.\n Continue?",
+    "yax": "Это завершит текущий Escape-процесс и запустит\n [название],\nPsync без ограничения по времени.\n Продолжить?",
+    "trx": "☯️Это завершит текущий Escape-процесс и запустит\n [название],\nPsync без ограничения по времени.\n Продолжить?"
+  },
+  "flowchart_other_message_window_013": {
+    "src": "This will end the current Investigation and start\n [title],\n Escape.\n Continue?",
+    "yax": "На этом текущее расследование завершится и начнется\n [название]\nПобег.\n Продолжить?",
+    "trx": "☯️На этом текущее расследование завершится и начнется\n [название]\nПобег.\n Продолжить?"
+  },
+  "flowchart_other_message_window_014": {
+    "src": "This will end the current Psync and start\n [title],\n Escape.\n Continue?",
+    "yax": "Это завершит текущую синхронизацию и запустит\n [название],\nEscape.\n Продолжить?",
+    "trx": "☯️Это завершит текущую синхронизацию и запустит\n [название],\nEscape.\n Продолжить?"
+  },
+  "flowchart_other_message_window_015": {
+    "src": "This will start\n [title],\n Escape.\n Continue?",
+    "yax": "Это приведет к запуску\n [название],\nэкранирование.\n Продолжить?",
+    "trx": "☯️Это приведет к запуску\n [название],\nэкранирование.\n Продолжить?"
+  },
+  "flowchart_other_message_window_016": {
+    "src": "This will end the current Escape and start\n [title],\n Escape.\n Continue?",
+    "yax": "Это завершит текущее экранирование и запустит\n [название],\nЭкранирование.\n Продолжить?",
+    "trx": "☯️Это завершит текущее экранирование и запустит\n [название],\nЭкранирование.\n Продолжить?"
+  },
+  "flowchart_other_message_window_019": {
+    "src": "This will end the game and take you back to the main menu.\n Continue?",
+    "yax": "После этого игра завершится, и вы вернетесь в главное меню.\n Продолжить?",
+    "trx": "☯️После этого игра завершится, и вы вернетесь в главное меню.\n Продолжить?"
+  },
+  "flowchart_other_message_window_020": {
+    "src": "If you want to play using Traditional Chinese,\nplease set your keyboard's input language to \"Chinese (System).\"",
+    "yax": "Если вы хотите играть на традиционном китайском,\nпожалуйста, установите язык ввода с вашей клавиатуры на \"Китайский (системный)\".",
+    "trx": "☯️Если вы хотите играть на традиционном китайском,\nпожалуйста, установите язык ввода с вашей клавиатуры на \"Китайский (системный)\"."
+  },
+  "flowchart_other_message_window_021": {
+    "src": "If you want to play using Traditional Chinese,\nplease go to Language > Keyboard and Dictionary, and set it to \"Chinese (System) (Taiwan).\"",
+    "yax": "Если вы хотите играть на традиционном китайском,\nпожалуйста, перейдите в меню Язык > Клавиатура и словарь и установите значение \"Китайский (системный) (Тайвань)\".",
+    "trx": "☯️Если вы хотите играть на традиционном китайском,\nпожалуйста, перейдите в меню Язык > Клавиатура и словарь и установите значение \"Китайский (системный) (Тайвань)\"."
+  },
+  "flowchart_other_message_window_040": {
+    "src": "Skip the Escape till \"After entering the total number of viewers for the stream\"?",
+    "yax": "Пропустить переход до \"После ввода общего количества зрителей трансляции\"?",
+    "trx": "☯️Пропустить переход до \"После ввода общего количества зрителей трансляции\"?"
+  },
+  "flowchart_other_message_window_041": {
+    "src": "Start at the beginning of the Escape",
+    "yax": "Начните с самого начала побега",
+    "trx": "☯️Начните с самого начала побега"
+  },
+  "flowchart_other_message_window_022": {
+    "src": "CHAPTER 1",
+    "yax": "ГЛАВА 1",
+    "trx": "☯️ГЛАВА 1"
+  },
+  "flowchart_other_message_window_023": {
+    "src": "CHAPTER 1",
+    "yax": "ГЛАВА 1",
+    "trx": "☯️ГЛАВА 1"
+  },
+  "flowchart_other_message_window_024": {
+    "src": "CHAPTER 2",
+    "yax": "глава 2",
+    "trx": "☯️глава 2"
+  },
+  "flowchart_other_message_window_025": {
+    "src": "CHAPTER 2",
+    "yax": "глава 2",
+    "trx": "☯️глава 2"
+  },
+  "flowchart_other_message_window_026": {
+    "src": "CHAPTER 2",
+    "yax": "глава 2",
+    "trx": "☯️глава 2"
+  },
+  "flowchart_other_message_window_027": {
+    "src": "CHAPTER 2",
+    "yax": "глава 2",
+    "trx": "☯️глава 2"
+  },
+  "flowchart_other_message_window_028": {
+    "src": "CHAPTER 3",
+    "yax": "ГЛАВА 3",
+    "trx": "☯️ГЛАВА 3"
+  },
+  "flowchart_other_message_window_029": {
+    "src": "CHAPTER 3",
+    "yax": "ГЛАВА 3",
+    "trx": "☯️ГЛАВА 3"
+  },
+  "flowchart_other_message_window_030": {
+    "src": "CHAPTER 3",
+    "yax": "ГЛАВА 3",
+    "trx": "☯️ГЛАВА 3"
+  },
+  "flowchart_other_message_window_031": {
+    "src": "CHAPTER 3",
+    "yax": "ГЛАВА 3",
+    "trx": "☯️ГЛАВА 3"
+  },
+  "flowchart_other_message_window_032": {
+    "src": "CHAPTER 4",
+    "yax": "ГЛАВА 4",
+    "trx": "☯️ГЛАВА 4"
+  },
+  "flowchart_other_message_window_033": {
+    "src": "CHAPTER 4",
+    "yax": "ГЛАВА 4",
+    "trx": "☯️ГЛАВА 4"
+  },
+  "flowchart_other_message_window_034": {
+    "src": "CHAPTER 5",
+    "yax": "ГЛАВА 5",
+    "trx": "☯️ГЛАВА 5"
+  },
+  "flowchart_other_message_window_035": {
+    "src": "CHAPTER 5",
+    "yax": "ГЛАВА 5",
+    "trx": "☯️ГЛАВА 5"
+  },
+  "flowchart_other_message_window_036": {
+    "src": "CHAPTER 5",
+    "yax": "ГЛАВА 5",
+    "trx": "☯️ГЛАВА 5"
+  },
+  "flowchart_other_message_window_037": {
+    "src": "EPILOGUE",
+    "yax": "ЭПИЛОГ",
+    "trx": "☯️ЭПИЛОГ"
+  },
+  "flowchart_font_options_133": {
+    "src": "Start Investigation",
+    "yax": "Начать расследование",
+    "trx": "☯️Начать расследование"
+  },
+  "flowchart_font_options_134": {
+    "src": "Summary",
+    "yax": "Резюме",
+    "trx": "☯️Резюме"
+  },
+  "flowchart_font_options_135": {
+    "src": "Start Psync",
+    "yax": "Запустить Psync",
+    "trx": "☯️Запустить Psync"
+  },
+  "flowchart_font_options_136": {
+    "src": "Unlimited Psync",
+    "yax": "Неограниченная синхронизация данных",
+    "trx": "☯️Неограниченная синхронизация данных"
+  },
+  "flowchart_font_options_137": {
+    "src": "Start Escape",
+    "yax": "Начать побег",
+    "trx": "☯️Начать побег"
+  },
+  "flowchart_font_options_138": {
+    "src": "#Incomplete",
+    "yax": "#Неполный",
+    "trx": "☯️#Неполный"
+  },
+  "flowchart_font_options_142": {
+    "src": "#Investigation",
+    "yax": "#Расследование",
+    "trx": "☯️#Расследование"
+  },
+  "flowchart_font_options_143": {
+    "src": "#Somnium",
+    "yax": "#Сонливость",
+    "trx": "☯️#Сонливость"
+  },
+  "flowchart_font_options_144": {
+    "src": "#Escape",
+    "yax": "#Побег",
+    "trx": "☯️#Побег"
+  },
+  "flowchart_font_options_145": {
+    "src": "#Another End",
+    "yax": "#Еще один конец",
+    "trx": "☯️#Еще один конец"
+  },
+  "flowchart_font_options_146": {
+    "src": "Summary",
+    "yax": "Резюме",
+    "trx": "☯️Резюме"
+  },
+  "flowchart_font_options_147": {
+    "src": "Start investigation from the selected location.",
+    "yax": "Начните расследование с выбранного местоположения.",
+    "trx": "☯️Начните расследование с выбранного местоположения."
+  },
+  "flowchart_font_options_148": {
+    "src": "See the chapter summary.",
+    "yax": "Смотрите краткое содержание главы.",
+    "trx": "☯️Смотрите краткое содержание главы."
+  },
+  "flowchart_font_options_149": {
+    "src": "Start Psyncing with the target.",
+    "yax": "Начните синхронизацию с целью.",
+    "trx": "☯️Начните синхронизацию с целью."
+  },
+  "flowchart_font_options_150": {
+    "src": "Start Psyncing without time limit.",
+    "yax": "Начните синхронизацию без ограничения по времени.",
+    "trx": "☯️Начните синхронизацию без ограничения по времени."
+  },
+  "flowchart_font_options_151": {
+    "src": "Start Escape from a certain location",
+    "yax": "Начните побег из определенного места",
+    "trx": "☯️Начните побег из определенного места"
+  },
+  "flowchart_font_options_152": {
+    "src": "123456789",
+    "yax": "123456789",
+    "trx": "☯️123456789"
+  },
+  "flowchart_font_options_153": {
+    "src": "Hidden Eyeballs",
+    "yax": "Скрытые глазные яблоки",
+    "trx": "☯️Скрытые глазные яблоки"
+  },
+  "flowchart_font_options_154": {
+    "src": "Cleared in Time",
+    "yax": "Очищенный вовремя",
+    "trx": "☯️Очищенный вовремя"
+  },
+  "flowchart_font_options_155": {
+    "src": "Investigation Report",
+    "yax": "Отчет о расследовании",
+    "trx": "☯️Отчет о расследовании"
+  },
+  "flowchart_font_options_156": {
+    "src": "Complete",
+    "yax": "Полный",
+    "trx": "☯️Полный"
+  },
+  "flowchart_font_options_197": {
+    "src": "Time",
+    "yax": "Время",
+    "trx": "☯️Время"
+  },
+  "flowchart_font_options_198": {
+    "src": "Destination",
+    "yax": "Место назначения",
+    "trx": "☯️Место назначения"
+  },
+  "flowchart_font_options_199": {
+    "src": "Remarks",
+    "yax": "Замечания",
+    "trx": "☯️Замечания"
+  },
+  "flowchart_font_options_157": {
+    "src": "Select location to jump to.",
+    "yax": "Выберите место для перехода.",
+    "trx": "☯️Выберите место для перехода."
+  },
+  "flowchart_font_message_001": {
+    "src": "Current Location",
+    "yax": "Текущее местоположение",
+    "trx": "☯️Текущее местоположение"
+  },
+  "flowchart_font_message_002": {
+    "src": "Current Location",
+    "yax": "Текущее местоположение",
+    "trx": "☯️Текущее местоположение"
+  },
+  "flowchart_font_message_003": {
+    "src": "Enlarge",
+    "yax": "Увеличивать",
+    "trx": "☯️Увеличивать"
+  },
+  "flowchart_font_operationguide_001": {
+    "src": "Move Cursor",
+    "yax": "Переместить курсор",
+    "trx": "☯️Переместить курсор"
+  },
+  "flowchart_font_operationguide_002": {
+    "src": "Enlarge",
+    "yax": "Увеличивать",
+    "trx": "☯️Увеличивать"
+  },
+  "flowchart_font_operationguide_003": {
+    "src": "Move Chapters",
+    "yax": "Перемещать главы",
+    "trx": "☯️Перемещать главы"
+  },
+  "flowchart_font_operationguide_004": {
+    "src": "Shrink",
+    "yax": "Сокращаться",
+    "trx": "☯️Сокращаться"
+  },
+  "flowchart_font_options_200": {
+    "src": "C",
+    "yax": "C",
+    "trx": "☯️C"
+  },
+  "flowchart_font_options_201": {
+    "src": "U",
+    "yax": "U",
+    "trx": "☯️U"
+  },
+  "flowchart_font_options_202": {
+    "src": "L",
+    "yax": "L",
+    "trx": "☯️L"
+  },
+  "flowchart_font_options_203": {
+    "src": "M",
+    "yax": "M",
+    "trx": "☯️M"
+  },
+  "flowchart_font_options_204": {
+    "src": "I",
+    "yax": "Я",
+    "trx": "☯️Я"
+  },
+  "flowchart_font_options_205": {
+    "src": "N",
+    "yax": "N",
+    "trx": "☯️N"
+  },
+  "flowchart_font_options_206": {
+    "src": "A",
+    "yax": "A",
+    "trx": "☯️A"
+  },
+  "flowchart_font_options_207": {
+    "src": "T",
+    "yax": "T",
+    "trx": "☯️T"
+  },
+  "flowchart_font_options_208": {
+    "src": "E",
+    "yax": "E",
+    "trx": "☯️E"
+  },
+  "flowchart_font_options_209": {
+    "src": "X",
+    "yax": "X",
+    "trx": "☯️X"
+  }
+}

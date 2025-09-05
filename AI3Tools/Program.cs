@@ -148,6 +148,7 @@ SetInvokeAction(importCommand, context =>
     var force = context.ParseResult.GetValue(forceOption);
     var forceObjects = force || context.ParseResult.GetValue(forceObjectsOption);
     var forceTargets = force || context.ParseResult.GetValue(forceTargetsOption);
+    var debug = context.ParseResult.GetValue(debugOption);
     var bc7Compression = context.ParseResult.GetValue(bc7CompressionOption);
     var bundleCompression = context.ParseResult.GetValue(bundleCompressionOption);
 
@@ -156,6 +157,7 @@ SetInvokeAction(importCommand, context =>
         ObjectDirectory: objectDirectory.FullName,
         ForceObjects: forceObjects,
         ForceTargets: forceTargets,
+        Debug: debug,
         BC7Compression: bc7Compression,
         BundleCompression: bundleCompression));
 });

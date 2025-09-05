@@ -1,0 +1,117 @@
+{
+  "qtebutton_001": {
+    "src": "Jump-kick from the top of the container",
+    "yax": "Прыжок-удар ногой с верхней части контейнера",
+    "trx": "☯️Прыжок-удар ногой с верхней части контейнера"
+  },
+  "qtebutton_002": {
+    "src": "Frontal charge",
+    "yax": "Лобовая атака",
+    "trx": "☯️Лобовая атака"
+  },
+  "qtebutton_003": {
+    "src": "Throw the drum",
+    "yax": "Бросьте барабан",
+    "trx": "☯️Бросьте барабан"
+  },
+  "qtebutton_006": {
+    "src": "Deliver DT-Praying Mantis Fist",
+    "yax": "Доставить DT-Кулак богомола",
+    "trx": "☯️Доставить DT-Кулак богомола"
+  },
+  "qtebutton_007": {
+    "src": "Deliver DT-Hundred Kick",
+    "yax": "Нанести удар ДТ-сотней",
+    "trx": "☯️Нанести удар ДТ-сотней"
+  },
+  "qtebutton_008": {
+    "src": "Deliver DT-Eros",
+    "yax": "Доставлять DT-Eros",
+    "trx": "☯️Доставлять DT-Eros"
+  },
+  "qtebutton_009": {
+    "src": "Jump back",
+    "yax": "Прыгай назад",
+    "trx": "☯️Прыгай назад"
+  },
+  "qtebutton_010": {
+    "src": "Hide behind a nearby drum",
+    "yax": "Спрячьтесь за ближайшим барабаном",
+    "trx": "☯️Спрячьтесь за ближайшим барабаном"
+  },
+  "qtebutton_011": {
+    "src": "Roll forward",
+    "yax": "Перекат вперед",
+    "trx": "☯️Перекат вперед"
+  },
+  "qtebutton_004": {
+    "src": "Shoot the window glass!",
+    "yax": "Стреляй в оконное стекло!",
+    "trx": "☯️Стреляй в оконное стекло!"
+  },
+  "qtebutton_005": {
+    "src": "Shoot the light bulb!",
+    "yax": "Стреляй в лампочку!",
+    "trx": "☯️Стреляй в лампочку!"
+  },
+  "qtebutton_024": {
+    "src": "Shoot the monitor!",
+    "yax": "Стреляй в монитор!",
+    "trx": "☯️Стреляй в монитор!"
+  },
+  "qtebutton_012": {
+    "src": "Hide behind a lantern",
+    "yax": "Спрячься за фонарем",
+    "trx": "☯️Спрячься за фонарем"
+  },
+  "qtebutton_013": {
+    "src": "Hide behind the chozuya",
+    "yax": "Спрячься за чозуйей",
+    "trx": "☯️Спрячься за чозуйей"
+  },
+  "qtebutton_014": {
+    "src": "Do the loach catcher",
+    "yax": "Займитесь ловлей гольца",
+    "trx": "☯️Займитесь ловлей гольца"
+  },
+  "qtebutton_015": {
+    "src": "Scratch with DJ desk",
+    "yax": "Скретч с диджейским столом",
+    "trx": "☯️Скретч с диджейским столом"
+  },
+  "qtebutton_016": {
+    "src": "Blow up the power grid",
+    "yax": "Взорвать энергосистему",
+    "trx": "☯️Взорвать энергосистему"
+  },
+  "qtebutton_017": {
+    "src": "Defuse the bomb in Ota's train",
+    "yax": "Обезвредить бомбу в поезде Оты",
+    "trx": "☯️Обезвредить бомбу в поезде Оты"
+  },
+  "qtebutton_018": {
+    "src": "Defuse the bomb in Moma's train",
+    "yax": "Обезвредить бомбу в поезде Музея современного искусства",
+    "trx": "☯️Обезвредить бомбу в поезде Музея современного искусства"
+  },
+  "qtebutton_019": {
+    "src": "Make Date's train move",
+    "yax": "Заставьте поезд свидания двигаться",
+    "trx": "☯️Заставьте поезд свидания двигаться"
+  },
+  "qtebutton_020": {
+    "src": "Drive Date's car",
+    "yax": "Водить машину знакомого",
+    "trx": "☯️Водить машину знакомого"
+  },
+  "qtebutton_021": {
+    "src": "Destroy the large monitor",
+    "yax": "Уничтожьте большой монитор",
+    "trx": "☯️Уничтожьте большой монитор"
+  },
+  "qtebutton_022": {
+    "src": "Beg the moon for help",
+    "yax": "Моли луну о помощи",
+    "trx": "☯️Моли луну о помощи"
+  }
+}

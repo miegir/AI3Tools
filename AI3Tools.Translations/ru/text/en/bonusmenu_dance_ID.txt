@@ -1,0 +1,7 @@
+{
+  "bonusmenu_top_message_001": {
+    "src": "Escape Bunny Moon Shot",
+    "yax": "Побег Зайчика-Лунного стрелка",
+    "trx": "☯️Побег Зайчика-Лунного стрелка"
+  }
+}

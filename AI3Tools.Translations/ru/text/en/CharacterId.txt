@@ -1,0 +1,592 @@
+{
+  "character_001": {
+    "src": "?",
+    "yax": "?",
+    "trx": null
+  },
+  "character_002": {
+    "src": "Date",
+    "yax": "Дата",
+    "trx": "Датэ"
+  },
+  "character_009": {
+    "src": "Aiba",
+    "yax": "Aiba",
+    "trx": "Айба"
+  },
+  "character_011": {
+    "src": "Aiba",
+    "yax": "Aiba",
+    "trx": "Айба"
+  },
+  "character_012": {
+    "src": "Aiba",
+    "yax": "Aiba",
+    "trx": "Айба"
+  },
+  "character_013": {
+    "src": "Aiba",
+    "yax": "Aiba",
+    "trx": "Айба"
+  },
+  "character_014": {
+    "src": "Aiba",
+    "yax": "Aiba",
+    "trx": "Айба"
+  },
+  "character_015": {
+    "src": "Hitomi",
+    "yax": "Хитоми",
+    "trx": "Хитоми"
+  },
+  "character_018": {
+    "src": "Iris",
+    "yax": "Ирис",
+    "trx": "Айрис"
+  },
+  "character_033": {
+    "src": "Ota",
+    "yax": "Ota",
+    "trx": "Ота"
+  },
+  "character_037": {
+    "src": "Mizuki",
+    "yax": "Мизуки",
+    "trx": "☯️Мизуки"
+  },
+  "character_042": {
+    "src": "Boss",
+    "yax": "Босс",
+    "trx": "☯️Босс"
+  },
+  "character_043": {
+    "src": "Okiura",
+    "yax": "Окиура",
+    "trx": "☯️Окиура"
+  },
+  "character_044": {
+    "src": "Ryuki",
+    "yax": "Рюки",
+    "trx": "☯️Рюки"
+  },
+  "character_045": {
+    "src": "Tama",
+    "yax": "Тама",
+    "trx": "☯️Тама"
+  },
+  "character_279": {
+    "src": "Tama",
+    "yax": "Тама",
+    "trx": "☯️Тама"
+  },
+  "character_046": {
+    "src": "Tama",
+    "yax": "Тама",
+    "trx": "☯️Тама"
+  },
+  "character_049": {
+    "src": "Amame",
+    "yax": "Амаме",
+    "trx": "☯️Амаме"
+  },
+  "character_064": {
+    "src": "Pewter",
+    "yax": "Оловянный",
+    "trx": "☯️Оловянный"
+  },
+  "character_066": {
+    "src": "Shoko",
+    "yax": "Шоко",
+    "trx": "☯️Шоко"
+  },
+  "character_067": {
+    "src": "Mama",
+    "yax": "Мама",
+    "trx": "☯️Мама"
+  },
+  "character_068": {
+    "src": "Moma",
+    "yax": "Мома",
+    "trx": "☯️Мома"
+  },
+  "character_069": {
+    "src": "?",
+    "yax": "?",
+    "trx": "☯️?"
+  },
+  "character_070": {
+    "src": "Inspector",
+    "yax": "Инспектор",
+    "trx": "Инспектор"
+  },
+  "character_072": {
+    "src": "Inspector",
+    "yax": "Инспектор",
+    "trx": "☯️Инспектор"
+  },
+  "character_073": {
+    "src": "Officer",
+    "yax": "Офицер",
+    "trx": "☯️Офицер"
+  },
+  "character_074": {
+    "src": "Officer 1",
+    "yax": "Офицер 1",
+    "trx": "☯️Офицер 1"
+  },
+  "character_079": {
+    "src": "Receptionist",
+    "yax": "Секретарь",
+    "trx": "☯️Секретарь"
+  },
+  "character_091": {
+    "src": "Yakuza",
+    "yax": "Якудза",
+    "trx": "☯️Якудза"
+  },
+  "character_094": {
+    "src": "Bodyguard",
+    "yax": "Телохранитель",
+    "trx": "Телохранитель"
+  },
+  "character_193": {
+    "src": "Mermaid",
+    "yax": "Русалка",
+    "trx": "☯️Русалка"
+  },
+  "character_127": {
+    "src": "?",
+    "yax": "?",
+    "trx": "☯️?"
+  },
+  "character_128": {
+    "src": "?",
+    "yax": "?",
+    "trx": "☯️?"
+  },
+  "character_131": {
+    "src": "Customer A",
+    "yax": "Клиент А",
+    "trx": "☯️Клиент А"
+  },
+  "character_132": {
+    "src": "Customer B",
+    "yax": "Клиент B",
+    "trx": "☯️Клиент B"
+  },
+  "character_149": {
+    "src": "?",
+    "yax": "?",
+    "trx": "☯️?"
+  },
+  "character_151": {
+    "src": "Aiba",
+    "yax": "Айба",
+    "trx": "☯️Айба"
+  },
+  "character_159": {
+    "src": "?",
+    "yax": "?",
+    "trx": "☯️?"
+  },
+  "character_160": {
+    "src": "Lien",
+    "yax": "Залог",
+    "trx": "☯️Залог"
+  },
+  "character_164": {
+    "src": "Gen",
+    "yax": "Поколения",
+    "trx": "☯️Поколения"
+  },
+  "character_171": {
+    "src": "Blue Person",
+    "yax": "Синий Человек",
+    "trx": "Синий человек"
+  },
+  "character_175": {
+    "src": "Mizuki",
+    "yax": "Мизуки",
+    "trx": "☯️Мизуки"
+  },
+  "character_178": {
+    "src": "Iris",
+    "yax": "Ирис",
+    "trx": "☯️Ирис"
+  },
+  "character_181": {
+    "src": "Amame",
+    "yax": "Амаме",
+    "trx": "☯️Амаме"
+  },
+  "character_182": {
+    "src": "Chinpei",
+    "yax": "Чинпей",
+    "trx": "☯️Чинпей"
+  },
+  "character_195": {
+    "src": "Customer A1",
+    "yax": "Клиент A1",
+    "trx": "☯️Клиент A1"
+  },
+  "character_224": {
+    "src": "Yakuza",
+    "yax": "Якудза",
+    "trx": "☯️Якудза"
+  },
+  "character_225": {
+    "src": "NAIX Army",
+    "yax": "Армия НАЙКСА",
+    "trx": "☯️Армия НАЙКСА"
+  },
+  "character_240": {
+    "src": "?",
+    "yax": "?",
+    "trx": "☯️?"
+  },
+  "character_246": {
+    "src": "Security",
+    "yax": "Безопасность",
+    "trx": "☯️Безопасность"
+  },
+  "character_252": {
+    "src": "Announcement",
+    "yax": "Объявление",
+    "trx": "☯️Объявление"
+  },
+  "character_253": {
+    "src": "Tiger Rug",
+    "yax": "Тигровый ковер",
+    "trx": "☯️Тигровый ковер"
+  },
+  "character_255": {
+    "src": "?",
+    "yax": "?",
+    "trx": "☯️?"
+  },
+  "character_321": {
+    "src": "?",
+    "yax": "?",
+    "trx": "☯️?"
+  },
+  "character_331": {
+    "src": "Aiba",
+    "yax": "Айба",
+    "trx": "☯️Айба"
+  },
+  "character_332": {
+    "src": "Tama",
+    "yax": "Тама",
+    "trx": "☯️Тама"
+  },
+  "character_347": {
+    "src": "Aiba",
+    "yax": "Айба",
+    "trx": "☯️Айба"
+  },
+  "character_359": {
+    "src": "Hina",
+    "yax": "Хина",
+    "trx": "☯️Хина"
+  },
+  "character_360": {
+    "src": "Akemi",
+    "yax": "Акеми",
+    "trx": "☯️Акеми"
+  },
+  "character_361": {
+    "src": "Sakura",
+    "yax": "Сакура",
+    "trx": "☯️Сакура"
+  },
+  "character_362": {
+    "src": "Bodyguards",
+    "yax": "Телохранители",
+    "trx": "☯️Телохранители"
+  },
+  "character_363": {
+    "src": "Aiba and Tama",
+    "yax": "Айба и Тама",
+    "trx": "☯️Айба и Тама"
+  },
+  "character_364": {
+    "src": "Aiba and Tama",
+    "yax": "Айба и Тама",
+    "trx": "☯️Айба и Тама"
+  },
+  "character_366": {
+    "src": "Iris?",
+    "yax": "Ирис?",
+    "trx": "☯️Ирис?"
+  },
+  "character_367": {
+    "src": "Irises",
+    "yax": "Ирисы",
+    "trx": "☯️Ирисы"
+  },
+  "character_368": {
+    "src": "Iris",
+    "yax": "Ирис",
+    "trx": "☯️Ирис"
+  },
+  "character_369": {
+    "src": "Iris",
+    "yax": "Ирис",
+    "trx": "☯️Ирис"
+  },
+  "character_370": {
+    "src": "Hina",
+    "yax": "Хина",
+    "trx": "☯️Хина"
+  },
+  "character_371": {
+    "src": "?",
+    "yax": "?",
+    "trx": "☯️?"
+  },
+  "character_372": {
+    "src": "?",
+    "yax": "?",
+    "trx": "☯️?"
+  },
+  "character_373": {
+    "src": "Voice",
+    "yax": "Голос",
+    "trx": "☯️Голос"
+  },
+  "character_374": {
+    "src": "Announcement",
+    "yax": "Объявление",
+    "trx": "☯️Объявление"
+  },
+  "character_375": {
+    "src": "Dog",
+    "yax": "Собака",
+    "trx": "☯️Собака"
+  },
+  "character_376": {
+    "src": "Dog?",
+    "yax": "Собака?",
+    "trx": "☯️Собака?"
+  },
+  "character_377": {
+    "src": "Aiba",
+    "yax": "Айба",
+    "trx": "☯️Айба"
+  },
+  "character_378": {
+    "src": "Watch",
+    "yax": "Часы",
+    "trx": "☯️Часы"
+  },
+  "character_379": {
+    "src": "Adorabbit",
+    "yax": "Обожаемый кусочек",
+    "trx": "☯️Обожаемый кусочек"
+  },
+  "character_380": {
+    "src": "MC",
+    "yax": "ведущий",
+    "trx": "☯️ведущий"
+  },
+  "character_381": {
+    "src": "MC Assistant",
+    "yax": "Ассистент ведущего",
+    "trx": "☯️Ассистент ведущего"
+  },
+  "character_382": {
+    "src": "Flirty Girl",
+    "yax": "Кокетливая Девушка",
+    "trx": "☯️Кокетливая Девушка"
+  },
+  "character_383": {
+    "src": "Police Radio",
+    "yax": "Полицейское радио",
+    "trx": "☯️Полицейское радио"
+  },
+  "character_384": {
+    "src": "OS",
+    "yax": "ос",
+    "trx": "☯️ос"
+  },
+  "character_385": {
+    "src": "News",
+    "yax": "Новости",
+    "trx": "☯️Новости"
+  },
+  "character_386": {
+    "src": "Reporter",
+    "yax": "Репортер",
+    "trx": "☯️Репортер"
+  },
+  "character_387": {
+    "src": "?",
+    "yax": "?",
+    "trx": "☯️?"
+  },
+  "character_388": {
+    "src": "?",
+    "yax": "?",
+    "trx": "☯️?"
+  },
+  "character_389": {
+    "src": "?",
+    "yax": "?",
+    "trx": "☯️?"
+  },
+  "character_390": {
+    "src": "?",
+    "yax": "?",
+    "trx": "☯️?"
+  },
+  "character_391": {
+    "src": "?",
+    "yax": "?",
+    "trx": "☯️?"
+  },
+  "character_392": {
+    "src": "?",
+    "yax": "?",
+    "trx": "☯️?"
+  },
+  "character_393": {
+    "src": "Date and Hina",
+    "yax": "Финик и Хина",
+    "trx": "☯️Финик и Хина"
+  },
+  "character_394": {
+    "src": "Date and Ryuki",
+    "yax": "Свидание и Рюки",
+    "trx": "☯️Свидание и Рюки"
+  },
+  "character_395": {
+    "src": "Announcement",
+    "yax": "Объявление",
+    "trx": "☯️Объявление"
+  },
+  "character_396": {
+    "src": "?",
+    "yax": "?",
+    "trx": "☯️?"
+  },
+  "character_397": {
+    "src": "?",
+    "yax": "?",
+    "trx": "☯️?"
+  },
+  "character_398": {
+    "src": "?",
+    "yax": "?",
+    "trx": "☯️?"
+  },
+  "character_399": {
+    "src": "Announcement",
+    "yax": "Объявление",
+    "trx": "☯️Объявление"
+  },
+  "character_400": {
+    "src": "Innkeeper",
+    "yax": "Трактирщик",
+    "trx": "☯️Трактирщик"
+  },
+  "character_401": {
+    "src": "Akemi",
+    "yax": "Акеми",
+    "trx": "☯️Акеми"
+  },
+  "character_402": {
+    "src": "Legendary Collector",
+    "yax": "Легендарный коллекционер",
+    "trx": "☯️Легендарный коллекционер"
+  },
+  "character_403": {
+    "src": "Host",
+    "yax": "Хозяин",
+    "trx": "☯️Хозяин"
+  },
+  "character_404": {
+    "src": "Burglar",
+    "yax": "Взломщик",
+    "trx": "☯️Взломщик"
+  },
+  "character_406": {
+    "src": "Gen and Lien",
+    "yax": "Право собственности и удержание",
+    "trx": "☯️Право собственности и удержание"
+  },
+  "character_407": {
+    "src": "Ota and Moma",
+    "yax": "Ота и Мома",
+    "trx": "☯️Ота и Мома"
+  },
+  "character_408": {
+    "src": "?",
+    "yax": "?",
+    "trx": "☯️?"
+  },
+  "character_409": {
+    "src": "?",
+    "yax": "?",
+    "trx": "☯️?"
+  },
+  "character_410": {
+    "src": "Moma",
+    "yax": "Мома",
+    "trx": "☯️Мома"
+  },
+  "character_411": {
+    "src": "Ota",
+    "yax": "Ота",
+    "trx": "☯️Ота"
+  },
+  "character_412": {
+    "src": "Date",
+    "yax": "Дата",
+    "trx": "☯️Дата"
+  },
+  "character_413": {
+    "src": "Ota",
+    "yax": "Ота",
+    "trx": "☯️Ота"
+  },
+  "character_414": {
+    "src": "Moma",
+    "yax": "Мома",
+    "trx": "☯️Мома"
+  },
+  "character_100": {
+    "src": "Iris",
+    "yax": "Ирис",
+    "trx": "☯️Ирис"
+  },
+  "character_415": {
+    "src": "Pewter",
+    "yax": "Оловянный",
+    "trx": "☯️Оловянный"
+  },
+  "character_416": {
+    "src": "Pewter",
+    "yax": "Оловянный",
+    "trx": "☯️Оловянный"
+  },
+  "character_417": {
+    "src": "?",
+    "yax": "?",
+    "trx": "☯️?"
+  },
+  "character_418": {
+    "src": "Aiba's Trivia",
+    "yax": "Мелочи Aiba",
+    "trx": "☯️Мелочи Aiba"
+  },
+  "character_419": {
+    "src": "Tama's Trivia",
+    "yax": "Мелочи Тамы",
+    "trx": "☯️Мелочи Тамы"
+  },
+  "character_003": {
+    "src": "Mafia",
+    "yax": "Мафия",
+    "trx": "☯️Мафия"
+  }
+}

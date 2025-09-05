@@ -1,0 +1,492 @@
+{
+  "switch_voice_001": {
+    "src": "Ota, how're things over there?",
+    "yax": "Ота, как там дела?",
+    "trx": "☯️Ота, как там дела?"
+  },
+  "switch_voice_002": {
+    "src": "It's all good! Got it under control! I hope...",
+    "yax": "Все хорошо! У меня все под контролем! Я надеюсь...",
+    "trx": "☯️Все хорошо! У меня все под контролем! Я надеюсь..."
+  },
+  "switch_voice_003": {
+    "src": "I'll leave it to you for now!",
+    "yax": "Пока я оставляю это на твое усмотрение!",
+    "trx": "☯️Пока я оставляю это на твое усмотрение!"
+  },
+  "switch_voice_004": {
+    "src": "Heh... You can trust my grey matter.",
+    "yax": "Хех... Вы можете доверять моему серому веществу.",
+    "trx": "☯️Хех... Вы можете доверять моему серому веществу."
+  },
+  "switch_voice_005": {
+    "src": "Ota, did you figure something out?",
+    "yax": "Ота, ты что-нибудь придумал?",
+    "trx": "☯️Ота, ты что-нибудь придумал?"
+  },
+  "switch_voice_006": {
+    "src": "It's all clear to me.\nI mean, I think I know what I'm doing...",
+    "yax": "Мне все ясно.\nВ смысле, я думаю, я знаю, что делаю...",
+    "trx": "☯️Мне все ясно.\nВ смысле, я думаю, я знаю, что делаю..."
+  },
+  "switch_voice_007": {
+    "src": "It's your turn now!",
+    "yax": "Теперь твоя очередь!",
+    "trx": "☯️Теперь твоя очередь!"
+  },
+  "switch_voice_008": {
+    "src": "It's always my turn!",
+    "yax": "Всегда моя очередь!",
+    "trx": "☯️Всегда моя очередь!"
+  },
+  "switch_voice_009": {
+    "src": "Water!",
+    "yax": "Вода!",
+    "trx": "☯️Вода!"
+  },
+  "switch_voice_010": {
+    "src": "Wet, sweat, A-set!",
+    "yax": "Мокрый, вспотевший, в полном порядке!",
+    "trx": "☯️Мокрый, вспотевший, в полном порядке!"
+  },
+  "switch_voice_011": {
+    "src": "Momaaa! How are things there?",
+    "yax": "Момааа! Как там дела?",
+    "trx": "☯️Момааа! Как там дела?"
+  },
+  "switch_voice_012": {
+    "src": "I don't really get it, but things seem good to me.",
+    "yax": "Я действительно этого не понимаю, но мне кажется, что все идет хорошо.",
+    "trx": "☯️Я действительно этого не понимаю, но мне кажется, что все идет хорошо."
+  },
+  "switch_voice_013": {
+    "src": "Moma! Help me ouuut!",
+    "yax": "Мома! Помоги мне!",
+    "trx": "☯️Мома! Помоги мне!"
+  },
+  "switch_voice_014": {
+    "src": "Wait for me, Tesa. I'll be more useful than Ota...",
+    "yax": "Подожди меня, Теза. Я буду полезнее, чем Ота...",
+    "trx": "☯️Подожди меня, Теза. Я буду полезнее, чем Ота..."
+  },
+  "switch_voice_015": {
+    "src": "Moma, are you solving your puzzles?",
+    "yax": "Мома, ты решаешь свои головоломки?",
+    "trx": "☯️Мома, ты решаешь свои головоломки?"
+  },
+  "switch_voice_016": {
+    "src": "Yeah. I'll do it by force if I have to.",
+    "yax": "Да. Я сделаю это силой, если понадобится.",
+    "trx": "☯️Да. Я сделаю это силой, если понадобится."
+  },
+  "switch_voice_017": {
+    "src": "Passing it to you, underworld boss!",
+    "yax": "Передаю это тебе, босс преступного мира!",
+    "trx": "☯️Передаю это тебе, босс преступного мира!"
+  },
+  "switch_voice_018": {
+    "src": "Just and intellectual, I'm a yakuza you can trust!",
+    "yax": "Справедливый и интеллигентный, я якудза, которому вы можете доверять!",
+    "trx": "☯️Справедливый и интеллигентный, я якудза, которому вы можете доверять!"
+  },
+  "switch_voice_019": {
+    "src": "Fears!",
+    "yax": "Страхи!",
+    "trx": "☯️Страхи!"
+  },
+  "switch_voice_020": {
+    "src": "Upset, regret, A-set!",
+    "yax": "Расстроен, сожалею, в восторге!",
+    "trx": "☯️Расстроен, сожалею, в восторге!"
+  },
+  "switch_voice_021": {
+    "src": "Tesa, how are things there?",
+    "yax": "Теза, как там дела?",
+    "trx": "☯️Теза, как там дела?"
+  },
+  "switch_voice_022": {
+    "src": "My brain juices are overflowing with insights!",
+    "yax": "Мои мозговые соки переполнены озарениями!",
+    "trx": "☯️Мои мозговые соки переполнены озарениями!"
+  },
+  "switch_voice_023": {
+    "src": "Did you figure something out?",
+    "yax": "Ты что-нибудь придумал?",
+    "trx": "☯️Ты что-нибудь придумал?"
+  },
+  "switch_voice_024": {
+    "src": "I see all and know all! Bring it ooon!",
+    "yax": "Я все вижу и все знаю! Выкладывай!",
+    "trx": "☯️Я все вижу и все знаю! Выкладывай!"
+  },
+  "switch_voice_025": {
+    "src": "Do you need my help, Tesa?",
+    "yax": "Тебе нужна моя помощь, Теза?",
+    "trx": "☯️Тебе нужна моя помощь, Теза?"
+  },
+  "switch_voice_026": {
+    "src": "Hmm... Kinda. Gimme a moment to think...",
+    "yax": "Хм... Вроде. Дай мне минутку подумать...",
+    "trx": "☯️Хм... Вроде. Дай мне минутку подумать..."
+  },
+  "switch_voice_027": {
+    "src": "Tesaaa. Sing somethiiing!",
+    "yax": "Тесааа. Спой что-нибудь!",
+    "trx": "☯️Тесааа. Спой что-нибудь!"
+  },
+  "switch_voice_028": {
+    "src": "I love riddles, I love puzzles, I love games!",
+    "yax": "Я люблю загадки, я люблю пазлы, я люблю игры!",
+    "trx": "☯️Я люблю загадки, я люблю пазлы, я люблю игры!"
+  },
+  "switch_voice_029": {
+    "src": "Tesa, you're inspiring!",
+    "yax": "Теза, ты вдохновляешь!",
+    "trx": "☯️Теза, ты вдохновляешь!"
+  },
+  "switch_voice_030": {
+    "src": "Rise of the Inspirational Idol!",
+    "yax": "Возвышение вдохновляющего идола!",
+    "trx": "☯️Возвышение вдохновляющего идола!"
+  },
+  "switch_voice_031": {
+    "src": "Moma, are things okay over there?",
+    "yax": "Мома, у тебя там все в порядке?",
+    "trx": "☯️Мома, у тебя там все в порядке?"
+  },
+  "switch_voice_032": {
+    "src": "I don't need you worrying about me.",
+    "yax": "Мне не нужно, чтобы ты беспокоился обо мне.",
+    "trx": "☯️Мне не нужно, чтобы ты беспокоился обо мне."
+  },
+  "switch_voice_033": {
+    "src": "Hmm... I'll let Moma work for now.",
+    "yax": "Хм... Я пока оставлю Мома работать.",
+    "trx": "☯️Хм... Я пока оставлю Мома работать."
+  },
+  "switch_voice_034": {
+    "src": "Fine by me. I'll get it done.",
+    "yax": "Я не против. Я сделаю это.",
+    "trx": "☯️Я не против. Я сделаю это."
+  },
+  "switch_voice_035": {
+    "src": "Hey, do you need my help?",
+    "yax": "Эй, тебе нужна моя помощь?",
+    "trx": "☯️Эй, тебе нужна моя помощь?"
+  },
+  "switch_voice_036": {
+    "src": "Not at all. This is way easier than real combat.",
+    "yax": "Нисколько. Это намного проще, чем в реальном бою.",
+    "trx": "☯️Нисколько. Это намного проще, чем в реальном бою."
+  },
+  "switch_voice_037": {
+    "src": "You got any ideas, Moma?",
+    "yax": "У тебя есть какие-нибудь идеи, Мома?",
+    "trx": "☯️У тебя есть какие-нибудь идеи, Мома?"
+  },
+  "switch_voice_038": {
+    "src": "Yeah... I feel like I'll think of some good ways to kill time.",
+    "yax": "Да... Я думаю, что придумаю несколько хороших способов убить время.",
+    "trx": "☯️Да... Я думаю, что придумаю несколько хороших способов убить время."
+  },
+  "switch_voice_039": {
+    "src": "Shadows!",
+    "yax": "Тени!",
+    "trx": "☯️Тени!"
+  },
+  "switch_voice_040": {
+    "src": "Threat, silhouette, A-set!",
+    "yax": "Угроза, силуэт, атака!",
+    "trx": "☯️Угроза, силуэт, атака!"
+  },
+  "switch_voice_041": {
+    "src": "Date, Date. Did you find something out? Hey, c'mon, tell me.",
+    "yax": "Свидание, свидание. Ты что-нибудь выяснил? Эй, давай, расскажи мне.",
+    "trx": "☯️Свидание, свидание. Ты что-нибудь выяснил? Эй, давай, расскажи мне."
+  },
+  "switch_voice_042": {
+    "src": "Shut up! I'm trying to focus!",
+    "yax": "Замолчи! Я пытаюсь сосредоточиться!",
+    "trx": "☯️Замолчи! Я пытаюсь сосредоточиться!"
+  },
+  "switch_voice_045": {
+    "src": "Date, I'm so worried about you I can't focus.",
+    "yax": "Дейт, я так волнуюсь за тебя, что не могу сосредоточиться.",
+    "trx": "☯️Дейт, я так волнуюсь за тебя, что не могу сосредоточиться."
+  },
+  "switch_voice_046": {
+    "src": "Forget about me. Worry about yourself.",
+    "yax": "Забудь обо мне. Побеспокойся о себе.",
+    "trx": "☯️Забудь обо мне. Побеспокойся о себе."
+  },
+  "switch_voice_047": {
+    "src": "Date, we gotta hurry up and save Tesa!",
+    "yax": "Дейт, мы должны поторопиться и спасти Тесу!",
+    "trx": "☯️Дейт, мы должны поторопиться и спасти Тесу!"
+  },
+  "switch_voice_048": {
+    "src": "I know. The three of us gotta work together.",
+    "yax": "Я знаю. Мы трое должны работать вместе.",
+    "trx": "☯️Я знаю. Мы трое должны работать вместе."
+  },
+  "switch_voice_049": {
+    "src": "Tell me if you find out anything about Tesa!",
+    "yax": "Скажи мне, если узнаешь что-нибудь о Тесе!",
+    "trx": "☯️Скажи мне, если узнаешь что-нибудь о Тесе!"
+  },
+  "switch_voice_050": {
+    "src": "I get it. Now shut up for a moment.",
+    "yax": "Я понял. А теперь заткнись на минутку.",
+    "trx": "☯️Я понял. А теперь заткнись на минутку."
+  },
+  "switch_voice_051": {
+    "src": "How are things there, Tesa?",
+    "yax": "Как там дела, Теза?",
+    "trx": "☯️Как там дела, Теза?"
+  },
+  "switch_voice_052": {
+    "src": "My brain is shaking with excitement, Moma!",
+    "yax": "Мой мозг дрожит от возбуждения, Мома!",
+    "trx": "☯️Мой мозг дрожит от возбуждения, Мома!"
+  },
+  "switch_voice_053": {
+    "src": "I could use a flash of inspiration right now.",
+    "yax": "Прямо сейчас мне не помешала бы вспышка вдохновения.",
+    "trx": "☯️Прямо сейчас мне не помешала бы вспышка вдохновения."
+  },
+  "switch_voice_054": {
+    "src": "The acetylcholine is flowiiing!",
+    "yax": "Ацетилхолин вырабатывается!",
+    "trx": "☯️Ацетилхолин вырабатывается!"
+  },
+  "switch_voice_055": {
+    "src": "I'm passing it to you for now, Tesa.",
+    "yax": "Пока что я передаю это тебе, Теза.",
+    "trx": "☯️Пока что я передаю это тебе, Теза."
+  },
+  "switch_voice_056": {
+    "src": "Hehehe... Leave it to me, Moma!",
+    "yax": "Хехехе... Предоставь это мне, Мома!",
+    "trx": "☯️Хехехе... Предоставь это мне, Мома!"
+  },
+  "switch_voice_057": {
+    "src": "I reaaally wanna hear you siiing.",
+    "yax": "Я действительно хочу услышать, как ты говоришь.",
+    "trx": "☯️Я действительно хочу услышать, как ты говоришь."
+  },
+  "switch_voice_058": {
+    "src": "I'm a riddle-solving master! I'm a puzzle-solving pro!",
+    "yax": "Я мастер разгадывать загадки! Я профессионал в решении головоломок!",
+    "trx": "☯️Я мастер разгадывать загадки! Я профессионал в решении головоломок!"
+  },
+  "switch_voice_059": {
+    "src": "Tesa, is everything good?",
+    "yax": "Теза, все хорошо?",
+    "trx": "☯️Теза, все хорошо?"
+  },
+  "switch_voice_060": {
+    "src": "It's coming... An idea is coming!",
+    "yax": "Это происходит... У меня появляется идея!",
+    "trx": "☯️Это происходит... У меня появляется идея!"
+  },
+  "switch_voice_061": {
+    "src": "Hey! Ota! Passing it to you for now!",
+    "yax": "Эй!” Ота! Передаю это пока вам!",
+    "trx": "☯️Эй!” Ота! Передаю это пока вам!"
+  },
+  "switch_voice_062": {
+    "src": "Ah! You made me lose my train of thought...",
+    "yax": "Ах! Из-за тебя я потерял ход мыслей...",
+    "trx": "☯️Ах! Из-за тебя я потерял ход мыслей..."
+  },
+  "switch_voice_063": {
+    "src": "Ota, you okay there?",
+    "yax": "Ота, ты там в порядке?",
+    "trx": "☯️Ота, ты там в порядке?"
+  },
+  "switch_voice_064": {
+    "src": "It's all good. We're gettin' outta here!",
+    "yax": "Все хорошо. Мы уходим отсюда!",
+    "trx": "☯️Все хорошо. Мы уходим отсюда!"
+  },
+  "switch_voice_065": {
+    "src": "Hey, take this seriously or you're goin' into Tokyo Bay...",
+    "yax": "Эй, отнесись к этому серьезно, или ты отправишься в Токийский залив...",
+    "trx": "☯️Эй, отнесись к этому серьезно, или ты отправишься в Токийский залив..."
+  },
+  "switch_voice_066": {
+    "src": "Police! We got a yakuza here!",
+    "yax": "Полиция! У нас тут якудза!",
+    "trx": "☯️Полиция! У нас тут якудза!"
+  },
+  "switch_voice_067": {
+    "src": "What do you see from there, Ota?",
+    "yax": "Что ты видишь оттуда, Ота?",
+    "trx": "☯️Что ты видишь оттуда, Ота?"
+  },
+  "switch_voice_068": {
+    "src": "I see... I see... I see the answer!",
+    "yax": "Я понимаю... Я понимаю... Я вижу ответ!",
+    "trx": "☯️Я понимаю... Я понимаю... Я вижу ответ!"
+  },
+  "switch_voice_069": {
+    "src": "Fluffy!",
+    "yax": "Пушистый!",
+    "trx": "☯️Пушистый!"
+  },
+  "switch_voice_070": {
+    "src": "Mittens, kittens, A-set you bet!",
+    "yax": "Варежки, котята, еще бы!",
+    "trx": "☯️Варежки, котята, еще бы!"
+  },
+  "switch_voice_071": {
+    "src": "Hey! Date! Solve somethin' already!",
+    "yax": "Эй!” Свидание! Реши уже что-нибудь!",
+    "trx": "☯️Эй!” Свидание! Реши уже что-нибудь!"
+  },
+  "switch_voice_072": {
+    "src": "I'm working, damn it! Sheesh...",
+    "yax": "Я работаю, черт возьми! Шиш...",
+    "trx": "☯️Я работаю, черт возьми! Шиш..."
+  },
+  "switch_voice_073": {
+    "src": "You got any hints, Date?",
+    "yax": "У тебя есть какие-нибудь намеки, Дейт?",
+    "trx": "☯️У тебя есть какие-нибудь намеки, Дейт?"
+  },
+  "switch_voice_074": {
+    "src": "No. I do have porno mags, though...",
+    "yax": "Нет. Хотя у меня есть порножурналы...",
+    "trx": "☯️Нет. Хотя у меня есть порножурналы..."
+  },
+  "switch_voice_075": {
+    "src": "Hey, Date. Did ya figure somethin' out?",
+    "yax": "Привет, парень. Ты что-нибудь придумал?",
+    "trx": "☯️Привет, парень. Ты что-нибудь придумал?"
+  },
+  "switch_voice_076": {
+    "src": "Hmm. I got an idea coming, but...",
+    "yax": "Хм. У меня появилась идея, но...",
+    "trx": "☯️Хм. У меня появилась идея, но..."
+  },
+  "switch_voice_077": {
+    "src": "Date, take the lead.",
+    "yax": "Встречайся, бери инициативу в свои руки.",
+    "trx": "☯️Встречайся, бери инициативу в свои руки."
+  },
+  "switch_voice_078": {
+    "src": "Leave it to me, Moma.",
+    "yax": "Предоставь это мне, Мома.",
+    "trx": "☯️Предоставь это мне, Мома."
+  },
+  "switch_voice_079": {
+    "src": "If Tesa gets hurt, I'll see you in hell!",
+    "yax": "Если Теза пострадает, увидимся в аду!",
+    "trx": "☯️Если Теза пострадает, увидимся в аду!"
+  },
+  "switch_voice_080": {
+    "src": "I get it. Now shut up for a moment.",
+    "yax": "Я понял. А теперь заткнись на минутку.",
+    "trx": "☯️Я понял. А теперь заткнись на минутку."
+  },
+  "switch_voice_081": {
+    "src": "Ota, your time has come. You ready?",
+    "yax": "Ота, твое время пришло. Ты готов?",
+    "trx": "☯️Ота, твое время пришло. Ты готов?"
+  },
+  "switch_voice_082": {
+    "src": "Aaall right. Time for me to go all out!",
+    "yax": "Все в порядке. Пришло время мне выложиться по полной!",
+    "trx": "☯️Все в порядке. Пришло время мне выложиться по полной!"
+  },
+  "switch_voice_083": {
+    "src": "Ota, I need your info.",
+    "yax": "Ота, мне нужна твоя информация.",
+    "trx": "☯️Ота, мне нужна твоя информация."
+  },
+  "switch_voice_084": {
+    "src": "Hehe. Date actually needs my help.",
+    "yax": "Хе-хе. Парню действительно нужна моя помощь.",
+    "trx": "☯️Хе-хе. Парню действительно нужна моя помощь."
+  },
+  "switch_voice_085": {
+    "src": "You got any ideas, Ota?",
+    "yax": "У тебя есть какие-нибудь идеи, Ота?",
+    "trx": "☯️У тебя есть какие-нибудь идеи, Ота?"
+  },
+  "switch_voice_086": {
+    "src": "Just some light novel plots and that's it...",
+    "yax": "Просто несколько легких новеллистических сюжетов, и все...",
+    "trx": "☯️Просто несколько легких новеллистических сюжетов, и все..."
+  },
+  "switch_voice_087": {
+    "src": "Ota, tell me the sitch on your side.",
+    "yax": "Ота, расскажи мне, в чем дело с твоей стороны.",
+    "trx": "☯️Ота, расскажи мне, в чем дело с твоей стороны."
+  },
+  "switch_voice_088": {
+    "src": "Umm, it's uhhh...",
+    "yax": "Э-э-э, это... э-э-э.....",
+    "trx": "☯️Э-э-э, это... э-э-э....."
+  },
+  "switch_voice_089": {
+    "src": "Iris is waiting for you. Do your best.",
+    "yax": "Айрис ждет тебя. Сделай все возможное.",
+    "trx": "☯️Айрис ждет тебя. Сделай все возможное."
+  },
+  "switch_voice_090": {
+    "src": "Right... I gotta do it for her!",
+    "yax": "Верно... Я должен сделать это ради нее!",
+    "trx": "☯️Верно... Я должен сделать это ради нее!"
+  },
+  "switch_voice_091": {
+    "src": "Moma. We need you. You good to go?",
+    "yax": "Мома. Ты нам нужен. Ты готов идти?",
+    "trx": "☯️Мома. Ты нам нужен. Ты готов идти?"
+  },
+  "switch_voice_092": {
+    "src": "Funny hearin' a cop want help from a yakuza.",
+    "yax": "Забавно слышать, что копу нужна помощь якудзы.",
+    "trx": "☯️Забавно слышать, что копу нужна помощь якудзы."
+  },
+  "switch_voice_093": {
+    "src": "Moma, what do you have over there?",
+    "yax": "Мома, что у тебя там?",
+    "trx": "☯️Мома, что у тебя там?"
+  },
+  "switch_voice_094": {
+    "src": "All right. I'll look around. Gimme a sec!",
+    "yax": "Все в порядке. Я осмотрюсь. Подожди секунду!",
+    "trx": "☯️Все в порядке. Я осмотрюсь. Подожди секунду!"
+  },
+  "switch_voice_095": {
+    "src": "It's all you now, Moma.",
+    "yax": "Теперь это все для тебя, Мома.",
+    "trx": "☯️Теперь это все для тебя, Мома."
+  },
+  "switch_voice_096": {
+    "src": "Sure thing... I'll solve this if it's the last thing I do.",
+    "yax": "Конечно... Я разберусь с этим, даже если это будет последнее, что я сделаю.",
+    "trx": "☯️Конечно... Я разберусь с этим, даже если это будет последнее, что я сделаю."
+  },
+  "switch_voice_097": {
+    "src": "Moma, did you figure something out?",
+    "yax": "Мома, ты что-нибудь придумала?",
+    "trx": "☯️Мома, ты что-нибудь придумала?"
+  },
+  "switch_voice_098": {
+    "src": "Hmm... What I found out is...",
+    "yax": "Хм... Вот что я выяснил...",
+    "trx": "☯️Хм... Вот что я выяснил..."
+  },
+  "switch_voice_099": {
+    "src": "We gotta save Iris, Moma.",
+    "yax": "Мы должны спасти Айрис, Мома.",
+    "trx": "☯️Мы должны спасти Айрис, Мома."
+  },
+  "switch_voice_100": {
+    "src": "I know that!\nPlease be okay, Tesa.",
+    "yax": "Я знаю это!\nПожалуйста, будь в порядке, Теза.",
+    "trx": "☯️Я знаю это!\nПожалуйста, будь в порядке, Теза."
+  }
+}

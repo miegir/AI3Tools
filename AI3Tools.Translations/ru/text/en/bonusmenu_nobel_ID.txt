@@ -1,0 +1,27 @@
+{
+  "bonusmenu_top_message_001": {
+    "src": "Atami For Two",
+    "yax": "Атами На Двоих",
+    "trx": "☯️Атами На Двоих"
+  },
+  "bonusmenu_top_message_002": {
+    "src": "Solve the Serial Host Bathroom Theft Case!",
+    "yax": "Раскройте дело о серийной краже ванной комнаты хозяина!",
+    "trx": "☯️Раскройте дело о серийной краже ванной комнаты хозяина!"
+  },
+  "bonusmenu_top_message_003": {
+    "src": "Porno Mag Quest - The Legendary Mag",
+    "yax": "Порно-журнал Quest - Легендарный журнал",
+    "trx": "☯️Порно-журнал Quest - Легендарный журнал"
+  },
+  "bonusmenu_top_message_004": {
+    "src": "What Happened That Night...",
+    "yax": "О том, Что произошло Той Ночью...",
+    "trx": "☯️О том, Что произошло Той Ночью..."
+  },
+  "bonusmenu_top_message_005": {
+    "src": " The Aonoyu Shakedown",
+    "yax": "Вымогательство Аоною",
+    "trx": "☯️Вымогательство Аоною"
+  }
+}

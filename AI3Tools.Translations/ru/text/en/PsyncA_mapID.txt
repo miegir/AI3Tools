@@ -1,0 +1,237 @@
+{
+  "map_001": {
+    "src": "ABIS HQ",
+    "yax": "ШТАБ-КВАРТИРА ABIS",
+    "trx": "☯️ШТАБ-КВАРТИРА ABIS"
+  },
+  "map_002": {
+    "src": "ABIS HQ",
+    "yax": "ШТАБ-КВАРТИРА ABIS",
+    "trx": "☯️ШТАБ-КВАРТИРА ABIS"
+  },
+  "map_003": {
+    "src": "Maid Cafe Sunfish Pocket",
+    "yax": "Горничная кафе Sunfish Pocket",
+    "trx": "☯️Горничная кафе Sunfish Pocket"
+  },
+  "map_004": {
+    "src": "Maid Cafe Sunfish Pocket",
+    "yax": "Горничная кафе Sunfish Pocket",
+    "trx": "☯️Горничная кафе Sunfish Pocket"
+  },
+  "map_005": {
+    "src": "Bloom Park",
+    "yax": "Цветущий парк",
+    "trx": "☯️Цветущий парк"
+  },
+  "map_006": {
+    "src": "Marble",
+    "yax": "Мрамор",
+    "trx": "☯️Мрамор"
+  },
+  "map_007": {
+    "src": "Kumakura Office",
+    "yax": "Офис в Кумакуре",
+    "trx": "☯️Офис в Кумакуре"
+  },
+  "map_008": {
+    "src": "Yoyagi Park",
+    "yax": "Парк Йояги",
+    "trx": "☯️Парк Йояги"
+  },
+  "map_009": {
+    "src": "Enda Residence",
+    "yax": "Резиденция Энда",
+    "trx": "☯️Резиденция Энда"
+  },
+  "map_010": {
+    "src": "Brahman World Cuisine",
+    "yax": "Кухня мира брахманов",
+    "trx": "☯️Кухня мира брахманов"
+  },
+  "map_011": {
+    "src": "Matsushita Diner",
+    "yax": "Закусочная \"Мацусита\"",
+    "trx": "☯️Закусочная \"Мацусита\""
+  },
+  "map_012": {
+    "src": "Central Hospital",
+    "yax": "Центральная больница",
+    "trx": "☯️Центральная больница"
+  },
+  "map_013": {
+    "src": "Sekiba High",
+    "yax": "Секиба Хай",
+    "trx": "☯️Секиба Хай"
+  },
+  "map_014": {
+    "src": "Brahman World Cuisine",
+    "yax": "Кухня мира брахманов",
+    "trx": "☯️Кухня мира брахманов"
+  },
+  "map_015": {
+    "src": "Enda Residence",
+    "yax": "Резиденция Энда",
+    "trx": "☯️Резиденция Энда"
+  },
+  "map_016": {
+    "src": "Naix Japan Branch",
+    "yax": "Филиал Naix в Японии",
+    "trx": "☯️Филиал Naix в Японии"
+  },
+  "map_017": {
+    "src": "Sekiba High",
+    "yax": "Секиба Хай",
+    "trx": "☯️Секиба Хай"
+  },
+  "map_018": {
+    "src": "Misetan Department Store",
+    "yax": "Универмаг \"Мисетан\"",
+    "trx": "☯️Универмаг \"Мисетан\""
+  },
+  "map_019": {
+    "src": "Matsushita Diner",
+    "yax": "Закусочная \"Мацусита\"",
+    "trx": "☯️Закусочная \"Мацусита\""
+  },
+  "map_020": {
+    "src": "Harbor Warehouse District",
+    "yax": "Портовый складской район",
+    "trx": "☯️Портовый складской район"
+  },
+  "map_021": {
+    "src": "Sagan Residence",
+    "yax": "Резиденция Сагана",
+    "trx": "☯️Резиденция Сагана"
+  },
+  "map_022": {
+    "src": "Aioen Garden",
+    "yax": "Воздушный сад",
+    "trx": "☯️Воздушный сад"
+  },
+  "map_023": {
+    "src": "Central Hospital",
+    "yax": "Центральная больница",
+    "trx": "☯️Центральная больница"
+  },
+  "map_024": {
+    "src": "Aioen Garden",
+    "yax": "Воздушный сад",
+    "trx": "☯️Воздушный сад"
+  },
+  "map_025": {
+    "src": "Talent Agency Lemniscate",
+    "yax": "Агентство по подбору талантов Lemniscate",
+    "trx": "☯️Агентство по подбору талантов Lemniscate"
+  },
+  "map_026": {
+    "src": "Kumakura Office",
+    "yax": "Офис в Кумакуре",
+    "trx": "☯️Офис в Кумакуре"
+  },
+  "map_027": {
+    "src": "Studio Dvaita",
+    "yax": "Студия Dvaita",
+    "trx": "☯️Студия Dvaita"
+  },
+  "map_028": {
+    "src": "Enda Residence",
+    "yax": "Резиденция Энда",
+    "trx": "☯️Резиденция Энда"
+  },
+  "map_029": {
+    "src": "Brahman World Cuisine",
+    "yax": "Кухня мира брахманов",
+    "trx": "☯️Кухня мира брахманов"
+  },
+  "map_030": {
+    "src": "Marble",
+    "yax": "Мрамор",
+    "trx": "☯️Мрамор"
+  },
+  "map_031": {
+    "src": "Ikume Shrine",
+    "yax": "Святилище Икуме",
+    "trx": "☯️Святилище Икуме"
+  },
+  "map_032": {
+    "src": "Golden Yokocho",
+    "yax": "Золотистый Екочо",
+    "trx": "☯️Золотистый Екочо"
+  },
+  "map_033": {
+    "src": "Golden Yokocho",
+    "yax": "Золотистый Екочо",
+    "trx": "☯️Золотистый Екочо"
+  },
+  "map_034": {
+    "src": "Studio Dvaita",
+    "yax": "Студия Dvaita",
+    "trx": "☯️Студия Dvaita"
+  },
+  "map_035": {
+    "src": "Horadori Institute of Genetics",
+    "yax": "Институт генетики Хорадори",
+    "trx": "☯️Институт генетики Хорадори"
+  },
+  "map_036": {
+    "src": "Talent Agency Lemniscate",
+    "yax": "Агентство по подбору талантов Lemniscate",
+    "trx": "☯️Агентство по подбору талантов Lemniscate"
+  },
+  "map_037": {
+    "src": "Stadium",
+    "yax": "Стадион",
+    "trx": "☯️Стадион"
+  },
+  "map_038": {
+    "src": "Department Store Misetan",
+    "yax": "Универмаг Misetan",
+    "trx": "☯️Универмаг Misetan"
+  },
+  "map_039": {
+    "src": "Date Residence",
+    "yax": "Дата проживания",
+    "trx": "☯️Дата проживания"
+  },
+  "map_040": {
+    "src": "Metropolitan Police Department",
+    "yax": "Столичное полицейское управление",
+    "trx": "☯️Столичное полицейское управление"
+  },
+  "map_041": {
+    "src": "Gigantic",
+    "yax": "Гигантский",
+    "trx": "☯️Гигантский"
+  },
+  "map_042": {
+    "src": "Boss Residence",
+    "yax": "Резиденция босса",
+    "trx": "☯️Резиденция босса"
+  },
+  "map_043": {
+    "src": "Bloom Park",
+    "yax": "Цветущий парк",
+    "trx": "☯️Цветущий парк"
+  },
+  "map_044": {
+    "src": "Abandoned Factory",
+    "yax": "Заброшенный завод",
+    "trx": "☯️Заброшенный завод"
+  },
+  "map_045": {
+    "src": "Boss's Room",
+    "yax": "Комната босса",
+    "trx": "☯️Комната босса"
+  },
+  "map_046": {
+    "src": "Lemniscate",
+    "yax": "Лемниската",
+    "trx": "☯️Лемниската"
+  },
+  "map_047": {
+    "src": "Old Kabasaki Subway Station",
+    "yax": "Старая станция метро Kabasaki",
+    "trx": "☯️Старая станция метро Kabasaki"
+  }
+}
