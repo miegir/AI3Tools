@@ -1,0 +1,8 @@
+EN:
+  Nibiru
+  Earth
+
+RU: ?
+
+TAGS:
+  [untranslated]

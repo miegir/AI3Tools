@@ -1,0 +1,8 @@
+EN:
+  VoiceMemo
+  Now Playing
+
+RU: ?
+
+TAGS:
+  [untranslated]

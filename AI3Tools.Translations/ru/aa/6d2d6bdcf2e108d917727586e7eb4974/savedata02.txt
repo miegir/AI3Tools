@@ -1,0 +1,5 @@
+EN: AUTO SAVE
+RU: юбрн януп.
+
+TAGS:
+  [AI2]

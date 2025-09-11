@@ -1,0 +1,6 @@
+EN: Space
+RU: ?
+
+TAGS:
+  [untranslated]
+  [keyboard]

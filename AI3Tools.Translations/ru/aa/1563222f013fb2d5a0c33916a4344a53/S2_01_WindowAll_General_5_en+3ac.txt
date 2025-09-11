@@ -1,0 +1,8 @@
+EN:
+  System Message
+  Restoring previous state.
+
+RU: ?
+
+TAGS:
+  [untranslated]

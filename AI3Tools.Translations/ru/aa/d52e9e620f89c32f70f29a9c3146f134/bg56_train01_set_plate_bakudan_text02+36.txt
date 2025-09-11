@@ -1,0 +1,10 @@
+EN:
+  CUT WIRE
+  EXPLOSIVE
+  CUT WIRE
+  CAUTION
+
+RU: ?
+
+TAGS:
+  [untranslated]

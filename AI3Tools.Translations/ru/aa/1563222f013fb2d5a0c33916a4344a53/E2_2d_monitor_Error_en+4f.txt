@@ -1,0 +1,9 @@
+EN:
+  ERROR!
+  There are mementos that have not been set.
+  Please set all mementos.
+
+RU: ?
+
+TAGS:
+  [untranslated]

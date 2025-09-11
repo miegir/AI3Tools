@@ -1,0 +1,8 @@
+EN:
+  Incoming Call
+  Answer Decline
+
+RU: ?
+
+TAGS:
+  [untranslated]

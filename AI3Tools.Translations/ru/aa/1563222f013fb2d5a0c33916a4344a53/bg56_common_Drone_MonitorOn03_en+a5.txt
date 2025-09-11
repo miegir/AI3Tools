@@ -1,0 +1,5 @@
+EN: To Ota's Hologram
+RU: ?
+
+TAGS:
+  [untranslated]

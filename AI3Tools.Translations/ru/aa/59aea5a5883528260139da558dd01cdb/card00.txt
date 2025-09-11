@@ -1,0 +1,9 @@
+EN:
+  Special Agent
+  Kaname Date
+  CLASS
+
+RU: ?
+
+TAGS:
+  [untranslated]

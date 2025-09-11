@@ -1,0 +1,7 @@
+EN:
+  Memento Appraisal System
+
+RU: ?
+
+TAGS:
+  [untranslated]

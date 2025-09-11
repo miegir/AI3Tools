@@ -1,0 +1,10 @@
+EN:
+  NIGHT CLUB
+  THEATER
+  SPA
+  MUSEUM
+
+RU: ?
+
+TAGS:
+  [untranslated]

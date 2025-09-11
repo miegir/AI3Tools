@@ -1,0 +1,24 @@
+EN:
+  NORMAL REVERSE
+  NORMAL REVERSE
+  NORMAL REVERSE
+  NORMAL REVERSE
+  ON OFF
+  ON OFF
+  ON OFF
+  ON OFF
+  ON OFF
+
+RU:
+  нашвмюъ напюрмюъ
+  нашвмюъ напюрмюъ
+  нашвмюъ напюрмюъ
+  нашвмюъ напюрмюъ
+  бйк бшйк
+  бйк бшйк
+  бйк бшйк
+  бйк бшйк
+  бйк бшйк
+
+TAGS:
+  [AI2]

@@ -1,0 +1,8 @@
+EN:
+  A-Set
+  THE THOUSAND GAZE
+
+RU: ?
+
+TAGS:
+  [untranslated]

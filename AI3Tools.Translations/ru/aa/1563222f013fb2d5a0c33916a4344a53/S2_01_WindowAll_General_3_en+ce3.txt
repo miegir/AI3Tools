@@ -1,0 +1,8 @@
+EN:
+  System Message
+  Installation complete.
+
+RU: ?
+
+TAGS:
+  [untranslated]

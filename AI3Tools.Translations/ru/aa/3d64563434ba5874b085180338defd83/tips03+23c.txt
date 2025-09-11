@@ -1,0 +1,5 @@
+EN: Tips
+RU: ?
+
+TAGS:
+  [untranslated]

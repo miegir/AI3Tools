@@ -1,0 +1,8 @@
+EN:
+  SLIP MODE VINYL
+  SYNC BEAT SYNC MASTER
+
+RU: ?
+
+TAGS:
+  [untranslated]

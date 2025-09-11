@@ -1,0 +1,7 @@
+EN: Sagan
+RU: Саган
+
+FONT: Trebuchet MS (жирный)
+
+TAGS:
+  []

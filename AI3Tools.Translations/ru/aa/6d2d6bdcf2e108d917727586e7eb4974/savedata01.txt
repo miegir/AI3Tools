@@ -1,0 +1,5 @@
+EN: MANUAL SAVE
+RU: псвмне януп.
+
+TAGS:
+  [AI2]

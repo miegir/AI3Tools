@@ -1,0 +1,5 @@
+EN: Mafia
+RU: ?
+
+TAGS:
+  [untranslated]

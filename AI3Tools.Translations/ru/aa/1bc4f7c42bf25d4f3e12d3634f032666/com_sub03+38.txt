@@ -1,0 +1,6 @@
+EN: FLOWCHART
+RU: ?
+
+TAGS:
+  [untranslated]
+  [menu]

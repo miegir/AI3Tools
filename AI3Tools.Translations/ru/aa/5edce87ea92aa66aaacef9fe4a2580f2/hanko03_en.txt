@@ -1,0 +1,7 @@
+EN: Matsushita
+RU: Мацусита
+
+FONT: Trebuchet MS (жирный)
+
+TAGS:
+  []

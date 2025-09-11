@@ -1,0 +1,8 @@
+EN:
+  Menu Exit
+  List Info Text Sub
+
+RU: ?
+
+TAGS:
+  [untranslated]

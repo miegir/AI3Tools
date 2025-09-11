@@ -1,0 +1,8 @@
+EN:
+  System Message
+  Moving painfulmemory.dat to Trash...
+
+RU: ?
+
+TAGS:
+  [untranslated]

@@ -1,0 +1,9 @@
+EN:
+  System Message
+  Installing
+  Super Positive Software...
+
+RU: ?
+
+TAGS:
+  [untranslated]

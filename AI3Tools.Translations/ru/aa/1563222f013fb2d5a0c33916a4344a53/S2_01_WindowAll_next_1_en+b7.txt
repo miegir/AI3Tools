@@ -1,0 +1,9 @@
+EN:
+  System Message
+  Would you like to move on to the next world?
+  OK CANCEL
+
+RU: ?
+
+TAGS:
+  [untranslated]

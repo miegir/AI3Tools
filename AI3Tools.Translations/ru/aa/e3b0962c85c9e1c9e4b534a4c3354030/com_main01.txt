@@ -1,0 +1,7 @@
+EN: FILE
+RU: ‘¿…À
+
+FONT: Bahnschrift 62
+
+TAGS:
+  []

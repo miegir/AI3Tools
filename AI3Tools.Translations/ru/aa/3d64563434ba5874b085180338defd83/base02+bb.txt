@@ -1,0 +1,5 @@
+EN: Find The Third Eye
+RU: ?
+
+TAGS:
+  [untranslated]

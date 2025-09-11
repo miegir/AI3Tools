@@ -1,0 +1,7 @@
+EN: OPTIONS
+RU: ПАРАМЕТРЫ
+
+FONT: Trebuchet MS (жирный)
+
+TAGS:
+  []

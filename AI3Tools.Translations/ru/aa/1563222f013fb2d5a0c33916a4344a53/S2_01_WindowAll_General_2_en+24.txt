@@ -1,0 +1,9 @@
+EN:
+  System Message
+  Running as administrator.
+  Original data restored.
+
+RU: ?
+
+TAGS:
+  [untranslated]

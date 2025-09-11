@@ -1,0 +1,5 @@
+EN: DELIVERY
+RU: ?
+
+TAGS:
+  [untranslated]

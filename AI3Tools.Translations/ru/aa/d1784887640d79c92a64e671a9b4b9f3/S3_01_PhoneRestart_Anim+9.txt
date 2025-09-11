@@ -1,0 +1,5 @@
+EN: Reboot
+RU: ?
+
+TAGS:
+  [untranslated]

@@ -1,0 +1,8 @@
+EN:
+  Murder in Ninja Village
+  ~Ninja Sword for Your Health Right Between the Eyebrows~
+
+RU: ?
+
+TAGS:
+  [untranslated]

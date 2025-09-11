@@ -1,0 +1,8 @@
+EN:
+  A-Set Fan Club
+  CLASS
+
+RU: ?
+
+TAGS:
+  [untranslated]

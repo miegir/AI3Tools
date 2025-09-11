@@ -1,0 +1,9 @@
+EN:
+  STOP HOLOGRAM
+  ICE
+  PASS = BLANK
+
+RU: ?
+
+TAGS:
+  [untranslated]

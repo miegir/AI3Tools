@@ -1,0 +1,10 @@
+EN:
+  SUPER MYSTERY CLUB
+  CLASS
+  No. 666
+  Iris Sagan
+
+RU: ?
+
+TAGS:
+  [untranslated]

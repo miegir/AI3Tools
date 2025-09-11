@@ -1,0 +1,8 @@
+EN:
+  ICE
+  PASS = BLANK
+
+RU: ?
+
+TAGS:
+  [untranslated]

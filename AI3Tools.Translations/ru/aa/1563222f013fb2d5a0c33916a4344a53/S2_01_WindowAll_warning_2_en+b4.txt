@@ -1,0 +1,8 @@
+EN:
+  System Message
+  A SERIOUS ERROR OCCURED
+
+RU: ?
+
+TAGS:
+  [untranslated]

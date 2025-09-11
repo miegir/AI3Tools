@@ -1,0 +1,9 @@
+EN:
+  System Message
+  Program Error
+  Would you like to recover?
+
+RU: ?
+
+TAGS:
+  [untranslated]

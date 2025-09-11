@@ -1,0 +1,6 @@
+EN: RESET OK
+RU: ?
+
+TAGS:
+  [untranslated]
+  [keyboard]

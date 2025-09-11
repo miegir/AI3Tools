@@ -1,0 +1,5 @@
+EN: Murder in Ninja Village
+RU: ?
+
+TAGS:
+  [untranslated]

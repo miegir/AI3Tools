@@ -1,0 +1,8 @@
+EN:
+  COMPLETED
+  Verification
+
+RU: ?
+
+TAGS:
+  [untranslated]

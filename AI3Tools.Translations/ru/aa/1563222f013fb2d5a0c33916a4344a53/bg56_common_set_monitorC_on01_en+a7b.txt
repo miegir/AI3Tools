@@ -1,0 +1,10 @@
+EN:
+  Enjoy music in your
+  designated seat
+  MOMA = MOMA BLUE x OTA PINK
+  OTA = OTA RED x MOMA GREEN
+
+RU: ?
+
+TAGS:
+  [untranslated]

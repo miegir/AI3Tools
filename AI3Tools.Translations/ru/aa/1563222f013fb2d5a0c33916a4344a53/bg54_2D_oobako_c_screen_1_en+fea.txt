@@ -1,0 +1,8 @@
+EN:
+  Memento Appraisal System
+  Enter password
+
+RU: ?
+
+TAGS:
+  [untranslated]

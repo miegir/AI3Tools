@@ -1,0 +1,7 @@
+EN: Kumakura
+RU: Кумакура
+
+FONT: Trebuchet MS (жирный)
+
+TAGS:
+  []

@@ -1,0 +1,11 @@
+EN:
+  earth
+  nibiru
+  moon
+  Deep Space
+  ERROR
+
+RU: ?
+
+TAGS:
+  [untranslated]

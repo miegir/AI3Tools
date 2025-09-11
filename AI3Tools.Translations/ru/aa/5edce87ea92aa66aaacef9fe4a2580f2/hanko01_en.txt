@@ -1,0 +1,7 @@
+EN: Date
+RU: Датэ
+
+FONT: Trebuchet MS (жирный)
+
+TAGS:
+  []

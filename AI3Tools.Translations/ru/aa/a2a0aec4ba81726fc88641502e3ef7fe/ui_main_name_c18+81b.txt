@@ -1,0 +1,5 @@
+EN: Mama
+RU: ?
+
+TAGS:
+  [untranslated]

@@ -1,0 +1,5 @@
+EN: TAMA's Trivia
+RU: ?
+
+TAGS:
+  [untranslated]

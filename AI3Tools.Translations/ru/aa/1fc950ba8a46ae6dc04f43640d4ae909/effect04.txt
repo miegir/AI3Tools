@@ -1,0 +1,5 @@
+EN: AMAZING
+RU: ?
+
+TAGS:
+  [untranslated]

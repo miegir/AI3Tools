@@ -1,0 +1,9 @@
+EN:
+  System Message
+  Warning
+  Program Error
+
+RU: ?
+
+TAGS:
+  [untranslated]

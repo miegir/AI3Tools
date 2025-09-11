@@ -1,0 +1,10 @@
+EN:
+  System Message
+  Positive!
+  Positive!
+  Positive!
+
+RU: ?
+
+TAGS:
+  [untranslated]

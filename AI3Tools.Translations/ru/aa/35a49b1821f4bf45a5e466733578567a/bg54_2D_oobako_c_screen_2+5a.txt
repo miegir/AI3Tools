@@ -1,0 +1,10 @@
+EN:
+  TOKIGAWA Partial
+  HAYASHINO Perfect
+  WARAZU None
+  Verification
+
+RU: ?
+
+TAGS:
+  [untranslated]
