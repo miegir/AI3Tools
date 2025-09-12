@@ -2,32 +2,32 @@
   "bonusmenu_top_message_001": {
     "src": "Dream Album",
     "yax": "Альбом мечты",
-    "trx": "☯️Альбом мечты"
+    "trx": "<size=80%>Альбом сновидений"
   },
   "bonusmenu_top_message_002": {
     "src": "Dances",
     "yax": "Танцы",
-    "trx": "☯️Танцы"
+    "trx": "<size=80%>Танцы"
   },
   "bonusmenu_top_message_003": {
     "src": "Novels",
     "yax": "Романы",
-    "trx": "☯️Романы"
+    "trx": "<size=80%>Новеллы"
   },
   "bonusmenu_top_message_004": {
     "src": "Alternate Alternate End",
     "yax": "Альтернативный Конец",
-    "trx": "☯️Альтернативный Конец"
+    "trx": "<size=80%><line-height=24>Альтернативные альтер-\nнативные развязки" //spell-ignore:альтер
   },
   "bonusmenu_top_message_013": {
     "src": "???",
     "yax": "???",
-    "trx": "☯️???"
+    "trx": null
   },
   "bonusmenu_kakugo_l_001": {
     "src": "???",
     "yax": "???",
-    "trx": "☯️???"
+    "trx": null
   },
   "bonusmenu_top_message_005": {
     "src": "Eyeballs Owned:",

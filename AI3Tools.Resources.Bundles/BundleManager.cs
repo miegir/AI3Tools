@@ -1,4 +1,4 @@
-﻿using AssetsTools.NET;
+using AssetsTools.NET;
 using AssetsTools.NET.Extra;
 using AssetsTools.NET.Texture;
 using Microsoft.Extensions.Logging;
@@ -52,7 +52,7 @@ internal class BundleManager(ILogger logger, FileSource source)
                         continue;
                     }
 
-                    var gameObject = bundleFile.ResolveGameObject(gameObjectPPtr);
+                    var gameObject = bundleFile.ResolveGameObject(asset, gameObjectPPtr);
                     if (gameObject == null)
                     {
                         continue;

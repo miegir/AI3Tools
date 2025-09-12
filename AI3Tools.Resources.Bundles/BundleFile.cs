@@ -1,4 +1,4 @@
-﻿using AssetsTools.NET;
+using AssetsTools.NET;
 using AssetsTools.NET.Extra;
 using AssetsTools.NET.Texture;
 using Microsoft.Extensions.Logging;
@@ -102,7 +102,7 @@ internal class BundleFile : IDisposable
     {
         foreach (var data in parent.Field["m_Component.Array"].Children)
         {
-            var component = ResolveGameObject(data[0]);
+            var component = ResolveGameObject(parent.Asset, data[0]);
             if (component != null)
             {
                 yield return component;
@@ -110,14 +110,16 @@ internal class BundleFile : IDisposable
         }
     }
 
-    public GameObject? ResolveGameObject(AssetTypeValueField pointer)
+    public GameObject? ResolveGameObject(AssetFileInfo relativeTo, AssetTypeValueField pointer)
     {
         if (pointer.IsDummy) return default;
-        var fileId = pointer["m_FileID"].AsInt;
+        if (pointer["m_FileID"].AsInt != 0) return default;
         var pathId = pointer["m_PathID"].AsLong;
         if (gameObjectMap.TryGetValue(pathId, out var gameObject)) return gameObject;
-        var asset = assetsManager.GetExtAsset(assetsFileInstances[fileId], fileId, pathId);
+        var asset = assetsManager.GetExtAsset(LookupAssetsFileInstance(relativeTo), 0, pathId);
         if (asset.file == null || asset.baseField == null) return default;
+        assetFileInstanceByAssetLookup[asset.info] = asset.file;
+        assetFileInstanceByFieldLookup[asset.baseField] = asset.file;
         gameObject = new GameObject(asset.info, asset.baseField);
         gameObjectMap.Add(pathId, gameObject);
         return gameObject;
@@ -543,19 +545,19 @@ internal class BundleFile : IDisposable
 
             foreach (var data in baseField["m_Component.Array"].Children)
             {
-                var component = ResolveGameObject(data[0]);
+                var component = ResolveGameObject(inf, data[0]);
                 if (component == null || !IsTransform(component.TypeId))
                 {
                     continue;
                 }
 
-                var father = ResolveGameObject(component.Field["m_Father"]);
+                var father = ResolveGameObject(component.Asset, component.Field["m_Father"]);
                 if (father == null)
                 {
                     continue;
                 }
 
-                var gameObject = ResolveGameObject(father.Field["m_GameObject"]);
+                var gameObject = ResolveGameObject(father.Asset, father.Field["m_GameObject"]);
                 if (gameObject == null)
                 {
                     continue;

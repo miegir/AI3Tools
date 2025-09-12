@@ -17,7 +17,7 @@
   "optionmenu_options_004": {
     "src": "BGM Volume\n \nSFX Volume\n \nVoice Volume\n \nCursor Speed\n \nFirst-Person Vertical Camera\nFirst-Person Horizontal Camera\nFirst-Person Camera Speed\n \nThird-Person Vertical Camera\nThird-Person Horizontal Camera\nThird-Person Camera Speed\n \nFont Size\nDisplay Type\nSkip Type\nSkip First-time Scene\nBrightness\n \nVoice\nInvestigation\nSomnium\nEscape",
     "yax": "Громкость BGM\n \nГромкость SFX\n \nГромкость голоса\n \nСкорость движения курсора\n \nВертикальная камера от первого лица\nГоризонтальная камера от первого лица\nСкорость камеры от первого лица\n \nВертикальная камера от третьего лица\nГоризонтальная камера от третьего лица\nСкорость камеры от третьего лица\n \nразмер шрифта\nТип отображения\nТип пропуска\nПропустить сцену в первый раз\nЯркость\n \nГолос\nРасследование\nСомниум\nПобег",
-    "trx": "Музыка\n \nЭффекты\n \nОзвучка\n \nСкорость курсора\n \nОт 1-го лица: вертикальная ось\nОт 1-го лица: <cspace=-0.3>горизонтальная ось</cspace>\nОт 1-го лица: скорость\n \nОт 3-го лица: вертикальная ось\nОт 3-го лица: <cspace=-0.3>горизонтальная ось</cspace>\nОт 3-го лица: скорость\n \nРазмер шрифта\nПоявление текста\nПоявление текста при пропуске\nПропускать в первый раз\nЯркость\n \nОзвучка\nРасследование\nСомниум\nПоиск выхода"
+    "trx": "Музыка\n \nЭффекты\n \nОзвучка\n \nСкорость курсора\n \nОт 1-го лица: вертикальная ось\nОт 1-го лица: <cspace=-0.3>горизонтальная ось</cspace>\nОт 1-го лица: скорость\n \nОт 3-го лица: вертикальная ось\nОт 3-го лица: <cspace=-0.3>горизонтальная ось</cspace>\nОт 3-го лица: скорость\n \nРазмер шрифта\nПоявление текста\nПоявление текста при пропуске\nПропускать в первый раз\nЯркость\n \nОзвучка\nРасследование\nСомниум\nПобег"
   },
   "optionmenu_options_005": {
     "src": "Slow Text\nFast Text\n \n \n \nEnglish",
@@ -52,7 +52,7 @@
   "optionmenu_options_011": {
     "src": "Investigation (QTE)\n \n \n \n \n \n \nSomnium\n \n \n \n \n \n \n \n \nEscape",
     "yax": "Исследование (QTE)\n \n \n \n \n \n \nСомниум\n \n \n \n \n \n \n \n \nПобег",
-    "trx": "Расследование\n(QTE)\n \n \n \n \n \nСомниум\n \n \n \n \n \n \n \n \nПоиск выхода"
+    "trx": "Расследование\n(QTE)\n \n \n \n \n \nСомниум\n \n \n \n \n \n \n \n \nПобег"
   },
   "optionmenu_options_012": {
     "src": "Standard\n \nEasy\n \nStory\n \n \nStandard\n \n \nEasy\n \n \nStory\n \n \nHard\n \n \nStandard\n \n \nEasy\n \n \nStory\n\n \nReset to Default",
@@ -82,7 +82,7 @@
   "optionmenu_options_017": {
     "src": "Investigation\nSomnium\nEscape",
     "yax": "Расследование\nСомниум\nПобег",
-    "trx": "Расследование\nСомниум\nПоиск выхода"
+    "trx": "Расследование\nСомниум\nПобег"
   },
   "optionmenu_options_operationguide_001": {
     "src": "Change Difficulty",
@@ -187,7 +187,7 @@
   "optionmenu_options_message_019": {
     "src": "Display tutorial text during Escape\n\nSome necessary information may still be shown even if it is OFF.",
     "yax": "Отображать обучающий текст во время Escape\n\nНекоторая необходимая информация может по-прежнему отображаться, даже если она выключена.",
-    "trx": "Отображение обучения во время поиска выхода\n\nНекоторая необходимая информация может по-прежнему отображаться, даже если она выключена."
+    "trx": "Отображение обучения во время побега\n\nНекоторая необходимая информация может по-прежнему отображаться, даже если она выключена."
   },
   "optionmenu_options_message_020": {
     "src": "Display Aiba's Trivia",
@@ -227,22 +227,22 @@
   "optionmenu_options_message_032": {
     "src": "Escape Difficulty\n Hard\n For experienced puzzle solvers.\n Should provide a tense experience and challenging puzzles.",
     "yax": "Избежать трудностей\n Трудный\n Для опытных любителей решать головоломки.\n Игра должна обеспечить увлекательный опыт и сложные головоломки.",
-    "trx": "Сложность поиска выхода:\nТяжелая\n\nДля профессионалов в поиске выхода. Обеспечивается достаточный уровень напряжения и сложности головоломок."
+    "trx": "Сложность побега:\nТяжелая\n\nДля профессионалов в решении головоломок. Обеспечивается достаточный уровень напряжения и сложности головоломок."
   },
   "optionmenu_options_message_033": {
     "src": "Escape Difficulty\n Standard\n This is the recommended setting.\n You will occasionally receive hints to help solve puzzles.",
     "yax": "Избежать трудностей\n Стандарт\n Это рекомендуемая настройка.\n Время от времени вы будете получать подсказки, которые помогут решить головоломки.",
-    "trx": "Сложность поиска выхода:\nОбычная\n\nЭто рекомендуемая сложность. Иногда вы будете получать подсказки, помогающие решить головоломки."
+    "trx": "Сложность побега:\nОбычная\n\nЭто рекомендуемая сложность. Иногда вы будете получать подсказки, помогающие решить головоломки."
   },
   "optionmenu_options_message_034": {
     "src": "Escape Difficulty\n Easy\n Makes it easier to progress.\n You will receive additional help solving puzzles.",
     "yax": "Избежать трудностей\n Легко\n Это облегчает прогресс.\n Вы получите дополнительную помощь в решении головоломок.",
-    "trx": "Сложность поиска выхода:\nЛегкая\n\nНайти выход становится легче. Вы будете получать дополнительные подсказки, помогающие решить головоломки."
+    "trx": "Сложность побега:\nЛегкая\n\nНайти выход становится легче. Вы будете получать дополнительные подсказки, помогающие решить головоломки."
   },
   "optionmenu_options_message_035": {
     "src": "Escape Difficulty\n Story\n For players who want to focus on the story.\n You will receive all the answers you need to progress without trouble.",
     "yax": "Избежать трудностей\n История\n Для игроков, которые хотят сосредоточиться на сюжете.\n Вы получите все ответы, необходимые для успешного прохождения.",
-    "trx": "Сложность поиска выхода:\nИстория\n\nДля игроков, желающих сфокусироваться на истории. Вы получите все ответы, необходимые для успешного прохождения."
+    "trx": "Сложность побега:\nИстория\n\nДля игроков, желающих сфокусироваться на истории. Вы получите все ответы, необходимые для успешного прохождения."
   },
   "optionmenu_options_message_024": {
     "src": "Reset all Settings to Default",
