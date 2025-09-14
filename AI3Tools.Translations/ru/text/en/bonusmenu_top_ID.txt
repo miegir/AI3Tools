@@ -7,17 +7,17 @@
   "bonusmenu_top_message_002": {
     "src": "Dances",
     "yax": "Танцы",
-    "trx": "<size=80%>Танцы"
+    "trx": "Танцы"
   },
   "bonusmenu_top_message_003": {
     "src": "Novels",
     "yax": "Романы",
-    "trx": "<size=80%>Новеллы"
+    "trx": "Новеллы"
   },
   "bonusmenu_top_message_004": {
     "src": "Alternate Alternate End",
     "yax": "Альтернативный Конец",
-    "trx": "<size=80%><line-height=24>Альтернативные альтер-\nнативные развязки" //spell-ignore:альтер
+    "trx": "АльтАльт Развязки" //spell-ignore:альтер
   },
   "bonusmenu_top_message_013": {
     "src": "???",

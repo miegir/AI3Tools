@@ -97,7 +97,7 @@
   "dialog_019": {
     "src": "<color=#CCCC00><size=80%>Investigation (QTE)</size></color>\n{0}<line-height=80%>\n―――――――――――――――――――\n</line-height><color=#0644B9><size=80%>Somnium</size></color>\n{1}<line-height=80%>\n―――――――――――――――――――\n</line-height><color=#cc0000><size=80%>Escape</size></color>\n{2}<line-height=80%>\n―――――――――――――――――――\n</line-height>Starting the game with this difficulty.\nContinue?\n<size=80%>(These settings can be changed in the Options menu at any time.)</size>",
     "yax": "<color=#CCCC00><размер=80%>Исследование (QTE)</size></color>\n{0}<высота строки=80%>\n―――――――――――――――――――\n</высота строки><color=#0644B9><размер=80%>Сомниум</размер></цвет>\n{1}<высота строки=80%>\n―――――――――――――――――――\n</line-height><color=#cc0000><size=80%>Побег</size></color>\n{2}<line-height=80%>\n―――――――――――――――――――\n</line-height>Начинаем игру с этой сложности.\nПродолжить?\n<размер=80%> (Эти настройки можно изменить в меню настроек в любое время.)</размер>",
-    "trx": "<color=#CCCC00><size=80%>Расследование (QTE)</size></color>\n{0}<line-height=80%>\n―――――――――――――――――――\n</line-height><color=#0644B9><size=80%>Сомниум</size></color>\n{1}<line-height=80%>\n―――――――――――――――――――\n</line-height><color=#cc0000><size=80%>Побег</size></color>\n{2}<line-height=80%>\n―――――――――――――――――――\n</line-height>Игра начнется на этой сложности.\nПродолжить?\n<size=80%> (Сложность можно изменить в настройках в любое время.)</size>"
+    "trx": "<color=#CCCC00><size=80%>Расследование (QTE)</size></color>\n{0}<line-height=80%>\n―――――――――――――――――――\n</line-height><color=#0644B9><size=80%>Сомниум</size></color>\n{1}<line-height=80%>\n―――――――――――――――――――\n</line-height><color=#cc0000><size=80%>Побег</size></color>\n{2}<line-height=80%>\n―――――――――――――――――――\n</line-height>Игра начнется на этой сложности.\nПродолжить?\n<size=80%> (Сложность можно изменить в разделе «Параметры» в любое время.)</size>"
   },
   "dialog_020": {
     "src": "3rd Class Cabin has been unlocked in BONUS!",
@@ -107,7 +107,7 @@
   "dialog_021": {
     "src": "\"Dance\"\n \"Novel\"\n \"Alternate Alternate Ending\"\n has been unlocked in Bonus.",
     "yax": "\"Танец\"\n \"Роман\"\n \"Альтернативный финал\"\n был разблокирован в качестве бонуса.",
-    "trx": "☯️В бонусах были разблокированы:\n\"Танцы\"\n\"Новеллы\"\n\"Альтернативные альтернативные концовки\""
+    "trx": "☯️В бонусах были разблокированы:\n\"Танцы\"\n\"Новеллы\"\n\"АльтАльт Развязки\""
   },
   "dialog_022": {
     "src": "Unlocked Eyeballies function!\n《Wait time for question is now 0 seconds》\n《In picture book, \"Play with Eyeballies that you met in the past\" function》\nGive answers to the questions from now on too!",
@@ -872,7 +872,7 @@
   "fiction_001": {
     "src": "This story is a work of fiction. \nAny resemblance to actual people, organizations, product names, and locations are coincidental.",
     "yax": "Эта история является художественным произведением. \nЛюбое сходство с реальными людьми, организациями, названиями продуктов и местоположениями является случайным.",
-    "trx": "Это вымышленная история. \nЛюбое сходство с реальными людьми, организациями, названиями продуктов и местоположениями является случайным."
+    "trx": "Это вымышленная история. \nЛюбое сходство с реальными людьми, организациями, \nназваниями продуктов и местоположениями является случайным."
   },
   "cautionautosave_001": {
     "src": "This game features autosave. \nWhen the save icon is displayed on the bottom right, please do not exit the game.",

@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.0.31f1
-CRC: 840673678
+CRC: 1207117692
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1f031d5994bce2d90b364c4cd62e2418
+    Hash: e582132bb7231513662f9a48f1639a9e
   TypeTreeHash:
     serializedVersion: 2
     Hash: 3a073a3a4f9d01eb357ee21dbd053b8f
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: a4af4651afc5d583a80a985fc1c43a10
+    Hash: 738e66832e7080c1e86b37d81e9ec72f
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -102,5 +102,6 @@ Assets:
 - Assets/Fonts/Build/somnium_guide#en-font.asset
 - Assets/Fonts/Build/information#en-font.asset
 - Assets/Fonts/Build/map_target#en-font.asset
+- Assets/Fonts/Build/options#ja-font.asset
 - Assets/Fonts/Build/term#en-font.asset
 Dependencies: []
