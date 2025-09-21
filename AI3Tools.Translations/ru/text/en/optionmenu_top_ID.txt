@@ -47,7 +47,7 @@
   "optionmenu_top_medama_001": {
     "src": "Eyes:",
     "yax": "Глаза:",
-    "trx": "Глазных яблок:"
+    "trx": "Собрано глаз:"
   },
   "optionmenu_top_medama_002": {
     "src": "0123456789",

@@ -257,6 +257,6 @@
   "optionmenu_options_message_021": {
     "src": "While the limit counter is active, you cannot change the Difficulty from OPTIONS.",
     "yax": "Пока счетчик лимитов активен, вы не можете изменить уровень сложности с помощью опций.",
-    "trx": "Пока активен счетчик, уровень сложности изменить нельзя."
+    "trx": "Пока активен отсчет времени, уровень сложности изменить нельзя."
   }
 }

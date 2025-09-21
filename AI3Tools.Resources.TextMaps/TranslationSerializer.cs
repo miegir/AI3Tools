@@ -1,4 +1,4 @@
-﻿using System.Text.Encodings.Web;
+using System.Text.Encodings.Web;
 using System.Text.Json;
 
 namespace AI3Tools;
@@ -14,7 +14,7 @@ internal static class TranslationSerializer
 
     public static Dictionary<string, TextMapTranslation> Deserialize(Stream stream)
     {
-        return JsonSerializer.Deserialize<Dictionary<string, TextMapTranslation>>(stream, JsonOptions) ?? new();
+        return JsonSerializer.Deserialize<Dictionary<string, TextMapTranslation>>(stream, JsonOptions) ?? [];
     }
 
     public static void Serialize(Stream stream, Dictionary<string, TextMapTranslation> value)
