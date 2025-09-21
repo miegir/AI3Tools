@@ -32,86 +32,86 @@
   "bonusmenu_top_message_005": {
     "src": "Eyeballs Owned:",
     "yax": "Принадлежащие глазным яблокам:",
-    "trx": "☯️Принадлежащие глазным яблокам:"
+    "trx": "Доступно глаз:"
   },
   "bonusmenu_top_message_006": {
     "src": "Unrevealed",
     "yax": "Нераскрытый",
-    "trx": "☯️Нераскрытый"
+    "trx": "Скрыто"
   },
   "bonusmenu_top_message_007": {
     "src": "Eyeballs Needed:",
     "yax": "Нужны глазные яблоки:",
-    "trx": "☯️Нужны глазные яблоки:"
+    "trx": "Требуется глаз:"
   },
   "bonusmenu_top_message_008": {
     "src": "Bought",
     "yax": "Купил",
-    "trx": "☯️Купил"
+    "trx": "Приобретено"
   },
   "bonusmenu_top_operationguide_001": {
     "src": "Buy",
     "yax": "Купить",
-    "trx": "☯️Купить"
+    "trx": "Приобрести"
   },
   "bonusmenu_top_message_009": {
     "src": "Enlarge",
     "yax": "Увеличивать",
-    "trx": "☯️Увеличивать"
+    "trx": "Увеличить"
   },
   "bonusmenu_top_message_010": {
     "src": "Dance",
     "yax": "Танец",
-    "trx": "☯️Танец"
+    "trx": "Танец"
   },
   "bonusmenu_top_message_011": {
     "src": "Read",
     "yax": "Прочитай",
-    "trx": "☯️Прочитай"
+    "trx": "Прочитать"
   },
   "bonusmenu_top_message_012": {
     "src": "Watch",
     "yax": "Часы",
-    "trx": "☯️Часы"
+    "trx": "Смотреть"
   },
   "bonusmenu_caption_001": {
     "src": "BONUS",
     "yax": "бонус",
-    "trx": "☯️бонус"
+    "trx": "Бонус"
   },
   "bonusmenu_other_message_window_001": {
     "src": "Not enough eyeballs",
     "yax": "Не хватает глазных яблок",
-    "trx": "☯️Не хватает глазных яблок"
+    "trx": "Не хватает глаз"
   },
   "bonusmenu_other_message_window_003": {
     "src": "Cost: ",
     "yax": "Стоимость:",
-    "trx": "☯️Стоимость:"
+    "trx": "Стоимость: "
   },
   "bonusmenu_other_message_window_004": {
     "src": "Buy?",
     "yax": "Покупать?",
-    "trx": "☯️Покупать?"
+    "trx": "Приобрести?"
   },
   "bonusmenu_other_message_window_005": {
     "src": "Cannot buy unrevealed content.\nProceed through the story to reveal this.",
     "yax": "Нельзя покупать нераскрытый контент.\nПрочитайте историю, чтобы узнать об этом.",
-    "trx": "☯️Нельзя покупать нераскрытый контент.\nПрочитайте историю, чтобы узнать об этом."
+    "trx": "Нельзя приобрести скрытый контент.\nПродвиньтесь по истории, чтобы раскрыть его."
   },
   "bonusmenu_other_message_window_006": {
     "src": "Cannot buy unrevealed content.\nEither complete a Somnium with at least 1 second or more remaining, or find all hidden items to reveal this.",
     "yax": "Невозможно купить нераскрытый контент.\nЛибо завершите Сомниум, имея в запасе не менее 1 секунды, либо найдите все спрятанные предметы, чтобы раскрыть это.",
-    "trx": "☯️Невозможно купить нераскрытый контент.\nЛибо завершите Сомниум, имея в запасе не менее 1 секунды, либо найдите все спрятанные предметы, чтобы раскрыть это."
+    "trx": "Нельзя приобрести скрытый контент.\nЗавершите сомниум с запасом не менее 1 секунды, либо найдите все спрятанные предметы, чтобы раскрыть его."
   },
   "bonusmenu_top_operationguide_002": {
     "src": "Switch Entry",
     "yax": "Ввод переключателя",
-    "trx": "☯️Ввод переключателя"
+    "trx": "Выбор элемента"
   },
   "bonusmenu_top_operationguide_003": {
     "src": "BONUS Hint",
     "yax": "БОНУСНАЯ подсказка",
-    "trx": "☯️БОНУСНАЯ подсказка"
+    "trx": "БОНУСЫ: обучение"
   }
 }

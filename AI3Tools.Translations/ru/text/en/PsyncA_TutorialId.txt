@@ -232,57 +232,57 @@
   "tutorial_title_018": {
     "src": "Bonus",
     "yax": "Бонус",
-    "trx": "☯️Бонус"
+    "trx": "Бонусы"
   },
   "tutorial_030": {
     "src": "Here, you can spend <color=yellow>Eyes</color>, \nto unlock additional content.",
     "yax": "Здесь вы можете потратить <color=желтый>на глаза</color>,\nчтобы разблокировать дополнительный контент.",
-    "trx": "☯️Здесь вы можете потратить <color=желтый>на глаза</color>,\nчтобы разблокировать дополнительный контент."
+    "trx": "В этом разделе можно потратить собранные <color=yellow>глаза</color>,\nчтобы разблокировать дополнительный контент."
   },
   "tutorial_031": {
     "src": "Additional content is added \nas you progress through the story.",
     "yax": "Дополнительный контент добавляется\nпо мере прохождения истории.",
-    "trx": "☯️Дополнительный контент добавляется\nпо мере прохождения истории."
+    "trx": "Дополнительный контент добавляется по мере\nпрохождения истории."
   },
   "tutorial_title_019": {
     "src": "What Are Bonuses?",
     "yax": "Что такое Бонусы?",
-    "trx": "☯️Что такое Бонусы?"
+    "trx": "Что такое Бонусы?"
   },
   "tutorial_title_020": {
     "src": "Acquiring Eyes",
     "yax": "Обретающие глаза",
-    "trx": "☯️Обретающие глаза"
+    "trx": "Как добыть глаза"
   },
   "tutorial_title_021": {
     "src": "Unlocking Content",
     "yax": "Разблокировка содержимого",
-    "trx": "☯️Разблокировка содержимого"
+    "trx": "Разблокировка содержимого"
   },
   "tutorial_title_022": {
     "src": "Unlocking Content",
     "yax": "Разблокировка содержимого",
-    "trx": "☯️Разблокировка содержимого"
+    "trx": "Разблокировка содержимого"
   },
   "tutorial_032": {
     "src": "・This is the menu where you can unlock and view additional content.\n・Unlock content by spending <color=yellow>Eyes</color>.",
     "yax": "・Это меню, в котором вы можете разблокировать и просмотреть дополнительный контент.\n・Разблокируйте контент, проведя <color=желтый>глазами</color>.",
-    "trx": "☯️・Это меню, в котором вы можете разблокировать и просмотреть дополнительный контент.\n・Разблокируйте контент, проведя <color=желтый>глазами</color>."
+    "trx": "・Это меню, в котором можно разблокировать и\nпросмотреть дополнительный контент.\n・Разблокируйте контент, потратив <color=yellow>глаза</color>."
   },
   "tutorial_033": {
     "src": "・While in Somnium sections, <color=yellow>select choices you've yet to make</color>.\n・While in Somnium sections, <color=yellow>finish with at least 1 second left</color>.\n・While in Somnium sections, <color=yellow>discover hidden items</color>.\n・<color=yellow>Raise your rank (complete achievements)</color> for Evaluation.",
     "yax": "・Находясь в разделах Somnium, <color=yellow>выберите варианты, которые вам еще предстоит сделать</color>.\n・Находясь в разделах Somnium, <color=yellow>завершите, оставив как минимум 1 секунду</color>.\n・Находясь в разделах Somnium, <color=yellow>находите скрытые предметы</color>.\n・<color=yellow>Повышайте свой ранг (выполняйте достижения)</color> для оценки.",
-    "trx": "☯️・Находясь в разделах Somnium, <color=yellow>выберите варианты, которые вам еще предстоит сделать</color>.\n・Находясь в разделах Somnium, <color=yellow>завершите, оставив как минимум 1 секунду</color>.\n・Находясь в разделах Somnium, <color=yellow>находите скрытые предметы</color>.\n・<color=yellow>Повышайте свой ранг (выполняйте достижения)</color> для оценки."
+    "trx": "・Находясь в сомниумах, <color=yellow>выбирайте ранее не выбранные варианты</color>.\n・Находясь в сомниумах, <color=yellow>завершайте их с запасом не менее 1 секунды</color>.\n・Находясь в сомниумах, <color=yellow>ищите спрятанные глаза</color>.\n・<color=yellow>Повышайте свой ранг (получайте достижения)</color> в разделе эффективности."
   },
   "tutorial_034": {
     "src": "・Dream Album A: While in Somnium sections, <color=yellow>finish with at least 1 second left</color>.\n・Dream Album B: While in Somnium sections, <color=yellow>discover 3 hidden items</color>.",
     "yax": "・Альбом сновидений A: Пока вы находитесь в разделах Somnium, <color=yellow> завершите просмотр, оставив как минимум 1 секунду</color>.\n・Альбом сновидений B: Пока вы находитесь в разделах Somnium, <color=yellow> найдите 3 скрытых предмета</color>.",
-    "trx": "☯️・Альбом сновидений A: Пока вы находитесь в разделах Somnium, <color=yellow> завершите просмотр, оставив как минимум 1 секунду</color>.\n・Альбом сновидений B: Пока вы находитесь в разделах Somnium, <color=yellow> найдите 3 скрытых предмета</color>."
+    "trx": "・Альбом сновидений A: Находясь в сомниумах,\n<color=yellow>завершайте их с запасом не менее 1 секунды</color>.\n・Альбом сновидений B: Находясь в сомниумах,\n<color=yellow>обнаружьте 3 спрятанных глаза</color>."
   },
   "tutorial_035": {
     "src": "Content that appears as <color=yellow>???</color> will be <color=yellow>revealed when you reach the end of the story</color>.\nTry and unlock everything!",
     "yax": "Содержимое, отображаемое как <color=желтый>???</color>, будет <color=желтый> открыто, когда вы дойдете до конца истории</color>.\nПопробуйте и разблокируйте все!",
-    "trx": "☯️Содержимое, отображаемое как <color=желтый>???</color>, будет <color=желтый> открыто, когда вы дойдете до конца истории</color>.\nПопробуйте и разблокируйте все!"
+    "trx": "Содержимое, отображаемое как <color=yellow>???</color>, будет\n<color=yellow>открыто, когда вы достигнете конца истории</color>.\nПопробуйте разблокировать всё!"
   },
   "tutorial_title_023": {
     "src": "Evaluation",

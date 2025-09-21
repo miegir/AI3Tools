@@ -1,5 +1,10 @@
 EN: Tutorial
-RU: ?
+RU: Обучение
+
+FONT: Trebuchet MS 52
+
+SEE ALSO:
+  - 83d53cd77a9b021ca1aa909dcabf9a73/tutorial03+c.png
 
 TAGS:
-  [untranslated]
+  []
