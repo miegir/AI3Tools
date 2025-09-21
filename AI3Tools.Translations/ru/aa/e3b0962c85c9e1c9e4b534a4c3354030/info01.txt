@@ -1,7 +1,10 @@
 EN: Information
-RU: Информация
+RU: РРЅС„РѕСЂРјР°С†РёСЏ
 
 FONT: Bahnschrift 62
+
+SEE ALSO:
+  - 34193e2ae8c7ee19ed829feaba70ede8/info_jump01.png
 
 TAGS:
   []

@@ -1,6 +1,13 @@
 EN: OPTIONS
-RU: ?
+RU: ПАРАМЕТРЫ
+
+FONT: Bahnschrift SemiBold Condensed 22
+
+EFFECTS:
+	- Outline Object by pyrochild
+		- Width: 2
+		- Softness: 250
+		- Color: R=90 G=70 B=0
 
 TAGS:
-  [untranslated]
   [menu]

@@ -1,6 +1,13 @@
 EN: EVALUATION
-RU: ?
+RU: ЭФФЕКТИВНОСТЬ
+
+FONT: Bahnschrift SemiBold Condensed 23
+
+EFFECTS:
+	- Outline Object by pyrochild
+		- Width: 2
+		- Softness: 250
+		- Color: R=0 G=80 B=0
 
 TAGS:
-  [untranslated]
   [menu]

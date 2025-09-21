@@ -1,6 +1,13 @@
 EN: FILE
-RU: ?
+RU: ФАЙЛ
+
+FONT: Bahnschrift 28
+
+EFFECTS:
+	- Outline Object by pyrochild
+		- Width: 2
+		- Softness: 250
+		- Color: R=92 G=0 B=10
 
 TAGS:
-  [untranslated]
   [menu]

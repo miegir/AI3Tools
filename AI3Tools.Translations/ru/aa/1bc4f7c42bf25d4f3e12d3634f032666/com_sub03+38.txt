@@ -1,6 +1,13 @@
 EN: FLOWCHART
-RU: ?
+RU: ХРОНОЛОГИЯ
+
+FONT: Bahnschrift 23
+
+EFFECTS:
+	- Outline Object by pyrochild
+		- Width: 2
+		- Softness: 250
+		- Color: R=0 G=80 B=90
 
 TAGS:
-  [untranslated]
   [menu]

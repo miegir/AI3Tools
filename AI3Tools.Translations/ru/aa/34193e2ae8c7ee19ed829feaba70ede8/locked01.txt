@@ -1,5 +1,19 @@
 EN: LOCKED
-RU: ?
+RU: БЛОКИРОВАНО
+
+FONT: Bahnschrift Light Condensed 136
+
+EFFECTS:
+	- Падающая тень
+		- радиус тени: 3
+		- расстояние: 0
+
+SEE ALSO: locked01.png
+
+LEFT  : 288x160 [РАЗ]
+RIGHT : 864x160 [БЛОКИРОВАНО]
+COMMON SIZE: 1152x160
 
 TAGS:
-  [untranslated]
+  [locked]
+  [unlocked]

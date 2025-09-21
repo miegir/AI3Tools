@@ -1,6 +1,7 @@
 EN: FLOWCHART
-RU: ?
+RU: ХРОНОЛОГИЯ
+
+FONT: Trebuchet MS (жирный) 60
 
 TAGS:
-  [untranslated]
   [menu]
