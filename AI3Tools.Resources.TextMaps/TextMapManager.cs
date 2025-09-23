@@ -1,4 +1,4 @@
-﻿using MessagePack;
+using MessagePack;
 using Microsoft.Extensions.Logging;
 
 namespace AI3Tools;
@@ -28,7 +28,7 @@ internal class TextMapManager
         }
     }
 
-    public bool IsEmpty => messages.Count == 0;
+    public bool IsEmpty => messages.All(e => string.IsNullOrEmpty(e.Value));
     public bool HasWarnings { get; private set; }
 
     public void Save(Stream stream)
@@ -42,6 +42,11 @@ internal class TextMapManager
 
         foreach (var (key, msg) in messages)
         {
+            if (string.IsNullOrEmpty(msg))
+            {
+                continue;
+            }
+
             if (translations.TryGetValue(key, out var obj))
             {
                 translations.Remove(key);
@@ -92,7 +97,7 @@ internal class TextMapManager
 
     public void Export(Stream stream)
     {
-        var translations = messages.ToDictionary(
+        var translations = messages.Where(e => !string.IsNullOrEmpty(e.Value)).ToDictionary(
             e => e.Key,
             e => new TextMapTranslation
             {
@@ -105,6 +110,6 @@ internal class TextMapManager
 
     public static void BuildObject(ObjectBuilder builder)
     {
-        builder.Build(stream => TranslationSerializer.Deserialize(stream));
+        builder.Build(TranslationSerializer.Deserialize);
     }
 }

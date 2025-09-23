@@ -1,4 +1,4 @@
-﻿using Microsoft.Extensions.Logging;
+using Microsoft.Extensions.Logging;
 using System.Text.Json;
 
 namespace AI3Tools;
@@ -22,6 +22,12 @@ public class TextMapResource : IResource
 
     public IEnumerable<Action> BeginExport(ExportArguments arguments)
     {
+        var manager = new TextMapManager(logger, source);
+        if (manager.IsEmpty)
+        {
+            yield break;
+        }
+
         var path = Path.Combine(arguments.ExportDirectory, "Text", languageName, name + ".txt");
         if (!arguments.Force && File.Exists(path))
         {
@@ -32,7 +38,6 @@ public class TextMapResource : IResource
         {
             logger.LogInformation("Exporting text map {name}...", fullName);
 
-            var manager = new TextMapManager(logger, source);
             using var target = new FileTarget(path);
             manager.Export(target.Stream);
             target.Commit();
