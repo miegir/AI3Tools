@@ -42,17 +42,17 @@
   "dialog_008": {
     "src": "This will end the event and open the Flowchart.\nContinue?",
     "yax": "На этом мероприятие завершится, и откроется блок-схема.\nПродолжить?",
-    "trx": "При этом событие завершится и откроется хронология.\nПродолжить?"
+    "trx": "Событие будет завершено и откроется экран хронологии.\nПродолжить?"
   },
   "dialog_009": {
     "src": "This will bring you back to the Bonus menu.\nContinue?",
     "yax": "После этого вы вернетесь в меню бонусов.\nПродолжить?",
-    "trx": "При этом вы вернетесь в меню бонусов.\nПродолжить?"
+    "trx": "Будет выполнен возврат в меню бонусов.\nПродолжить?"
   },
   "dialog_010": {
     "src": "This will end the game.\nContinue?",
     "yax": "На этом игра закончится.\nПродолжить?",
-    "trx": "При этом игра завершится.\nПродолжить?"
+    "trx": "Игра будет завершена.\nПродолжить?"
   },
   "dialog_011": {
     "src": "Reduce difficulty and restart from the checkpoint.",
@@ -77,12 +77,12 @@
   "dialog_015": {
     "src": "This will restart from the beginning of this Somnium.\nContinue?",
     "yax": "Программа перезапустится с начала этого периода.\nПродолжить?",
-    "trx": "При этом сомниум перезапустится с начала.\nПродолжить?"
+    "trx": "Сомниум будет перезапущен с начала.\nПродолжить?"
   },
   "dialog_016": {
     "src": "This will end the Psync and open the Flowchart.\nContinue?",
     "yax": "Это завершит синхронизацию данных и откроет блок-схему.\nПродолжить?",
-    "trx": "При этом сомниум завершится и откроется хронология.\nПродолжить?"
+    "trx": "Сомниум будет завершен и откроется экран хронологии.\nПродолжить?"
   },
   "dialog_017": {
     "src": "This will carry out the action without using TIMIES.\nContinue?",
@@ -92,7 +92,7 @@
   "dialog_018": {
     "src": "Starting the game in this text language.\nIt cannot be changed later.\nContinue?",
     "yax": "Запускаем игру на этом языке текста.\nЭто не может быть изменено позже.\nПродолжить?",
-    "trx": "Игра начнется на выбранном языке.\nЯзык нельзя изменить позже.\nПродолжить?"
+    "trx": "Игра начнется на выбранном языке.\nЯзык нельзя изменить после начала игры.\nПродолжить?"
   },
   "dialog_019": {
     "src": "<color=#CCCC00><size=80%>Investigation (QTE)</size></color>\n{0}<line-height=80%>\n―――――――――――――――――――\n</line-height><color=#0644B9><size=80%>Somnium</size></color>\n{1}<line-height=80%>\n―――――――――――――――――――\n</line-height><color=#cc0000><size=80%>Escape</size></color>\n{2}<line-height=80%>\n―――――――――――――――――――\n</line-height>Starting the game with this difficulty.\nContinue?\n<size=80%>(These settings can be changed in the Options menu at any time.)</size>",
@@ -157,7 +157,7 @@
   "dialog_031": {
     "src": "This will bring you back to the Bonus menu.\nContinue?",
     "yax": "После этого вы вернетесь в меню бонусов.\nПродолжить?",
-    "trx": "При этом вы вернетесь в меню бонусов.\nПродолжить?"
+    "trx": "Будет выполнен возврат в меню бонусов.\nПродолжить?"
   },
   "dialog_076": {
     "src": "Disable this message?",
@@ -257,7 +257,7 @@
   "dialog_049": {
     "src": "This will end the Escape and open the Flowchart.\nContinue?",
     "yax": "Это завершит поиск и откроет блок-схему.\nПродолжить?",
-    "trx": "При этом побег завершится и откроется хронология.\nПродолжить?"
+    "trx": "Побег будет завершен и откроется экран хронологии.\nПродолжить?"
   },
   "dialog_077": {
     "src": "<align=\"left\">Change QTE difficulty from {0} to {1}?\n \n ▼Detailed Changes\n・Time Limit: {2} -> <color=red>{3}</color>\n・Repeat Count: {4} -> <color=red>{5}</color>",
@@ -482,7 +482,7 @@
   "dialog_075": {
     "src": "This will end the Escape and open the Flowchart.\nContinue?",
     "yax": "Это завершит поиск и откроет блок-схему.\nПродолжить?",
-    "trx": "При этом побег завершится и откроется хронология.\nПродолжить?"
+    "trx": "Побег будет завершен и откроется экран хронологии.\nПродолжить?"
   },
   "r15_dialog_001": {
     "src": "Kusemon Team is full.\nWhich Kusemon would you like to replace  {1} {0} with?",
@@ -1407,7 +1407,7 @@
   "difficulty_info_010": {
     "src": "This setting is for people who focus on the story.\nYou will receive all the answers you need and progress without issue.",
     "yax": "Эта настройка предназначена для людей, которые сосредоточены на сюжете.\nВы получите все необходимые ответы и будете продвигаться вперед без проблем.",
-    "trx": "Эта сложность рекомендуется для игроков, желающих сфокусироваться на истории. Вы получите все необходимые ответы и будете легко двигаться вперед."
+    "trx": "Эта сложность рекомендуется для игроков, желающих сфокусироваться на истории. Вы получите все необходимые ответы и будете легко продвигаться по сюжету."
   },
   "difficulty_info_011": {
     "src": "・Time Limit: Normal\n・Repeat Count: Normal",
@@ -1617,7 +1617,7 @@
   "explanation_001": {
     "src": "Select Language\nThis cannot be changed later.",
     "yax": "Выберите язык\nЭто не может быть изменено позже.",
-    "trx": "Выберите язык\nЕго нельзя изменить позже."
+    "trx": "Выберите язык\nЕго нельзя изменить после начала игры."
   },
   "underwater_001": {
     "src": "Descend",

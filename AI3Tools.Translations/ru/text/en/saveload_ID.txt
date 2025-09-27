@@ -72,7 +72,7 @@
   "saveload_common_024": {
     "src": "Data is not saved\nOpen BONUS?\nUnsaved content will be discarded",
     "yax": "Данные не сохраняются\nОткрыть БОНУС?\nНесохраненный контент будет удален",
-    "trx": "Сохранение не выполнено\nОткрыть БОНУСЫ?\nНесохраненные данные будут потеряны"
+    "trx": "Сохранение не выполнено\nОткрыть меню бонусов?\nНесохраненные данные будут потеряны"
   },
   "saveload_common_008": {
     "src": "Not enough storage\nCould not Auto Save\nRetry?",

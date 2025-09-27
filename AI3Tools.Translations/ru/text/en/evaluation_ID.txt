@@ -317,7 +317,7 @@
   "evaluation_summary_032": {
     "src": "Completed everything in the \"Dream Album\" bonus menu.",
     "yax": "Завершено все в бонусном меню \"Альбом мечты\".",
-    "trx": "Получены все элементы раздела \"Альбом сновидений\" из меню Бонусы."
+    "trx": "Получены все элементы раздела \"Альбом сновидений\" из меню бонусов."
   },
   "evaluation_title_033": {
     "src": "Novel Collector",
@@ -327,7 +327,7 @@
   "evaluation_summary_033": {
     "src": "Completed everything in the \"Novel\" bonus menu.",
     "yax": "Выполнил все, что указано в бонусном меню \"Роман\".",
-    "trx": "Завершены все истории раздела \"Новеллы\" из меню Бонусы."
+    "trx": "Завершены все истории раздела \"Новеллы\" из меню бонусов."
   },
   "evaluation_title_034": {
     "src": "Alternate Alternate Ending Collector",
@@ -337,7 +337,7 @@
   "evaluation_summary_034": {
     "src": "Completed everything in the \"Alternate Alternate Ending\"\nbonus menu.",
     "yax": "Выполнил все действия в \"Альтернативной концовке\"\nбонусное меню.",
-    "trx": "Завершены все истории раздела \"Альт-альт-развязки\" из меню Бонусы."
+    "trx": "Завершены все истории раздела \"Альт-альт-развязки\" из меню бонусов."
   },
   "evaluation_title_035": {
     "src": "I remember it now. His name is Kaniza.",
@@ -407,57 +407,57 @@
   "evaluation_rankup_001": {
     "src": "Class has risen to <color=red>C2</color> !\n\n<color=red>100 eyeballs</color> have been added to Bonus.<color=#808080><size=24> \n\nEyeballs can be exchanged for Bonus Content in BONUS. </size></color>",
     "yax": "Класс повышен до <color=red>C2</color> !\n\n<color=red>в качестве бонуса добавлено 100 глазных яблок.<color=#808080><размер=24> \n\nГлазные яблоки можно обменять на бонусный контент в разделе \"БОНУС\". </размер></цвет>",
-    "trx": "Класс повышен до <color=red>C2</color> !\n\nПолучено <color=red>100 глаз</color>.<color=#808080><size=24> \n\nГлаза можно обменять на дополнительный контент в разделе Бонусы. </size></color>"
+    "trx": "Класс повышен до <color=red>C2</color> !\n\nПолучено <color=red>100 глаз</color>.<color=#808080><size=24> \n\nГлаза можно обменять на дополнительный контент в меню бонусов. </size></color>"
   },
   "evaluation_rankup_002": {
     "src": "Class has risen to <color=red>C1</color> !\n\n<color=red>150 eyeballs</color> have been added to Bonus.<color=#808080><size=24> \n\nEyeballs can be exchanged for Bonus Content in BONUS. </size></color>",
     "yax": "Класс повышен до <color=red>C1</color> !\n\n<color=red>в качестве бонуса добавлено 150 глазных яблок.<color=#808080><размер=24> \n\nГлазные яблоки можно обменять на бонусный контент в разделе \"БОНУС\". </размер></цвет>",
-    "trx": "Класс повышен до <color=red>C1</color> !\n\nПолучено <color=red>150 глаз</color>.<color=#808080><size=24> \n\nГлаза можно обменять на дополнительный контент в разделе Бонусы. </size></color>"
+    "trx": "Класс повышен до <color=red>C1</color> !\n\nПолучено <color=red>150 глаз</color>.<color=#808080><size=24> \n\nГлаза можно обменять на дополнительный контент в меню бонусов. </size></color>"
   },
   "evaluation_rankup_003": {
     "src": "Class has risen to <color=red>B3</color> !\n\n<color=red>200 eyeballs</color> have been added to Bonus.<color=#808080><size=24> \n\nEyeballs can be exchanged for Bonus Content in BONUS. </size></color>",
     "yax": "Класс повышен до <color=red>B3 !\n\n<color=red>в качестве бонуса добавлено 200 глазных яблок.<color=#808080><размер=24> \n\nГлазные яблоки можно обменять на бонусный контент в разделе \"БОНУС\". </размер></цвет>",
-    "trx": "Класс повышен до <color=red>B3</color> !\n\nПолучено <color=red>200 глаз</color>.<color=#808080><size=24> \n\nГлаза можно обменять на дополнительный контент в разделе Бонусы. </size></color>"
+    "trx": "Класс повышен до <color=red>B3</color> !\n\nПолучено <color=red>200 глаз</color>.<color=#808080><size=24> \n\nГлаза можно обменять на дополнительный контент в меню бонусов. </size></color>"
   },
   "evaluation_rankup_004": {
     "src": "Class has risen to <color=red>B2</color> !\n\n<color=red>250 eyeballs</color> have been added to Bonus.<color=#808080><size=24> \n\nEyeballs can be exchanged for Bonus Content in BONUS. </size></color>",
     "yax": "Класс повышен до <color=red>B2 !\n\n<color=red>в качестве бонуса добавлено 250 глазных яблок.<color=#808080><размер=24> \n\nГлазные яблоки можно обменять на бонусный контент в разделе \"БОНУС\". </размер></цвет>",
-    "trx": "Класс повышен до <color=red>B2</color> !\n\nПолучено <color=red>250 глаз</color>.<color=#808080><size=24> \n\nГлаза можно обменять на дополнительный контент в разделе Бонусы. </size></color>"
+    "trx": "Класс повышен до <color=red>B2</color> !\n\nПолучено <color=red>250 глаз</color>.<color=#808080><size=24> \n\nГлаза можно обменять на дополнительный контент в меню бонусов. </size></color>"
   },
   "evaluation_rankup_005": {
     "src": "Class has risen to <color=red>B1</color> !\n\n<color=red>300 eyeballs</color> have been added to Bonus.<color=#808080><size=24> \n\nEyeballs can be exchanged for Bonus Content in BONUS. </size></color>",
     "yax": "Класс повышен до <color=red>B1</color> !\n\n<color=red>в качестве бонуса добавлено 300 глазных яблок.<color=#808080><размер=24> \n\nГлазные яблоки можно обменять на бонусный контент в разделе \"БОНУС\". </размер></цвет>",
-    "trx": "Класс повышен до <color=red>B1</color> !\n\nПолучено <color=red>300 глаз</color>.<color=#808080><size=24> \n\nГлаза можно обменять на дополнительный контент в разделе Бонусы. </size></color>"
+    "trx": "Класс повышен до <color=red>B1</color> !\n\nПолучено <color=red>300 глаз</color>.<color=#808080><size=24> \n\nГлаза можно обменять на дополнительный контент в меню бонусов. </size></color>"
   },
   "evaluation_rankup_006": {
     "src": "Class has risen to <color=red>A3</color> !\n\n<color=red>350 eyeballs</color> have been added to Bonus.<color=#808080><size=24> \n\nEyeballs can be exchanged for Bonus Content in BONUS. </size></color>",
     "yax": "Класс повышен до <color=red>A3 !\n\n<color=red>в качестве бонуса добавлено 350 глазных яблок.<color=#808080><размер=24> \n\nГлазные яблоки можно обменять на бонусный контент в разделе \"БОНУС\". </размер></цвет>",
-    "trx": "Класс повышен до <color=red>A3</color> !\n\nПолучено <color=red>350 глаз</color>.<color=#808080><size=24> \n\nГлаза можно обменять на дополнительный контент в разделе Бонусы. </size></color>"
+    "trx": "Класс повышен до <color=red>A3</color> !\n\nПолучено <color=red>350 глаз</color>.<color=#808080><size=24> \n\nГлаза можно обменять на дополнительный контент в меню бонусов. </size></color>"
   },
   "evaluation_rankup_007": {
     "src": "Class has risen to <color=red>A2</color> !\n\n<color=red>400 eyeballs</color> have been added to Bonus.<color=#808080><size=24> \n\nEyeballs can be exchanged for Bonus Content in BONUS. </size></color>",
     "yax": "Класс повышен до <color=red>A2 !\n\n<color=red>в качестве бонуса добавлено 400 глазных яблок.<color=#808080><размер=24> \n\nГлазные яблоки можно обменять на бонусный контент в разделе \"БОНУС\". </размер></цвет>",
-    "trx": "Класс повышен до <color=red>A2</color> !\n\nПолучено <color=red>400 глаз</color>.<color=#808080><size=24> \n\nГлаза можно обменять на дополнительный контент в разделе Бонусы. </size></color>"
+    "trx": "Класс повышен до <color=red>A2</color> !\n\nПолучено <color=red>400 глаз</color>.<color=#808080><size=24> \n\nГлаза можно обменять на дополнительный контент в меню бонусов. </size></color>"
   },
   "evaluation_rankup_008": {
     "src": "Class has risen to <color=red>A1</color> !\n\n<color=red>450 eyeballs</color> have been added to Bonus.<color=#808080><size=24> \n\nEyeballs can be exchanged for Bonus Content in BONUS. </size></color>",
     "yax": "Класс повышен до <color=red>A1 !\n\n<color=red> в качестве бонуса добавлено 450 глазных яблок.<color=#808080><размер=24> \n\nГлазные яблоки можно обменять на бонусный контент в разделе \"БОНУС\". </размер></цвет>",
-    "trx": "Класс повышен до <color=red>A1</color> !\n\nПолучено <color=red>450 глаз</color>.<color=#808080><size=24> \n\nГлаза можно обменять на дополнительный контент в разделе Бонусы. </size></color>"
+    "trx": "Класс повышен до <color=red>A1</color> !\n\nПолучено <color=red>450 глаз</color>.<color=#808080><size=24> \n\nГлаза можно обменять на дополнительный контент в меню бонусов. </size></color>"
   },
   "evaluation_rankup_009": {
     "src": "Class has risen to <color=red>S3</color> !\n\n<color=red>500 eyeballs</color> have been added to Bonus.<color=#808080><size=24> \n\nEyeballs can be exchanged for Bonus Content in BONUS. </size></color>",
     "yax": "Класс повышен до <color=red>S3</color> !\n\n<color=red>в качестве бонуса добавлено 500 глазных яблок.<color=#808080><размер=24> \n\nГлазные яблоки можно обменять на бонусный контент в разделе \"БОНУС\". </размер></цвет>",
-    "trx": "Класс повышен до <color=red>S3</color> !\n\nПолучено <color=red>500 глаз</color>.<color=#808080><size=24> \n\nГлаза можно обменять на дополнительный контент в разделе Бонусы. </size></color>"
+    "trx": "Класс повышен до <color=red>S3</color> !\n\nПолучено <color=red>500 глаз</color>.<color=#808080><size=24> \n\nГлаза можно обменять на дополнительный контент в меню бонусов. </size></color>"
   },
   "evaluation_rankup_010": {
     "src": "Class has risen to <color=red>S2</color> !\n\n<color=red>600 eyeballs</color> have been added to Bonus.<color=#808080><size=24> \n\nEyeballs can be exchanged for Bonus Content in BONUS. </size></color>",
     "yax": "Класс повышен до <color=red>S2</color> !\n\n<color=red>в качестве бонуса добавлено 600 глазных яблок.<color=#808080><размер=24> \n\nГлазные яблоки можно обменять на бонусный контент в разделе \"БОНУС\". </размер></цвет>",
-    "trx": "Класс повышен до <color=red>S2</color> !\n\nПолучено <color=red>600 глаз</color>.<color=#808080><size=24> \n\nГлаза можно обменять на дополнительный контент в разделе Бонусы. </size></color>"
+    "trx": "Класс повышен до <color=red>S2</color> !\n\nПолучено <color=red>600 глаз</color>.<color=#808080><size=24> \n\nГлаза можно обменять на дополнительный контент в меню бонусов. </size></color>"
   },
   "evaluation_rankup_011": {
     "src": "Class has risen to <color=red>S1</color> !\n\n<color=red>1000 eyeballs</color> have been added to Bonus.<color=#808080><size=24> \n\nEyeballs can be exchanged for Bonus Content in BONUS. </size></color>",
     "yax": "Класс повышен до <color=red>S1</color> !\n\n<color=red>в качестве бонуса добавлено 1000 глазных яблок.<color=#808080><размер=24> \n\nГлазные яблоки можно обменять на бонусный контент в разделе \"БОНУС\". </размер></цвет>",
-    "trx": "Класс повышен до <color=red>S1</color> !\n\nПолучено <color=red>1000 глаз</color>.<color=#808080><size=24> \n\nГлаза можно обменять на дополнительный контент в разделе Бонусы. </size></color>"
+    "trx": "Класс повышен до <color=red>S1</color> !\n\nПолучено <color=red>1000 глаз</color>.<color=#808080><size=24> \n\nГлаза можно обменять на дополнительный контент в меню бонусов. </size></color>"
   },
   "evaluation_name_001": {
     "src": "C3",
