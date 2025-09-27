@@ -7,12 +7,12 @@
   "escape_title_001": {
     "src": "Escape From the \"Invitation to An Otherworld\"",
     "yax": "Побег от \"Приглашения в Потусторонний мир\"",
-    "trx": "☯️Побег от \"Приглашения в Потусторонний мир\""
+    "trx": "Побег от \"Приглашения в иной мир\""
   },
   "escape_room_001": {
     "src": "Where the Otherworld is closest",
     "yax": "Где Потусторонний мир ближе всего",
-    "trx": "☯️Где Потусторонний мир ближе всего"
+    "trx": "Где иной мир ближе всего"
   },
   "choice_001": {
     "src": "Aim at the sky",

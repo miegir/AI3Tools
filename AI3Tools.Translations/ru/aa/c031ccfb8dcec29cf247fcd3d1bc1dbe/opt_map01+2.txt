@@ -1,5 +1,7 @@
 EN: Map
-RU: ?
+RU: Карта
+
+FONT: Trebuchet MS (жирный) 28
 
 TAGS:
-  [untranslated]
+  [AI2]

@@ -2,7 +2,9 @@ EN:
   A-Set Fan Club
   CLASS
 
-RU: ?
+RU:
+  A-Set Fan Club
+  КЛАСС
 
 TAGS:
-  [untranslated]
+  []

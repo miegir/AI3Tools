@@ -1,5 +1,5 @@
 EN: No.
-RU: ?
+RU: №
 
 TAGS:
-  [untranslated]
+  []

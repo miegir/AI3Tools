@@ -1,5 +1,7 @@
 EN: EVALUATION
-RU: ?
+RU: ЭФФЕКТИВНОСТЬ
+
+FONT: Trebuchet MS (жирный) 60
 
 TAGS:
-  [untranslated]
+  []

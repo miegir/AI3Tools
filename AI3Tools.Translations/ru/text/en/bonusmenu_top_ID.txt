@@ -17,7 +17,7 @@
   "bonusmenu_top_message_004": {
     "src": "Alternate Alternate End",
     "yax": "Альтернативный Конец",
-    "trx": "АльтАльт Развязки" //spell-ignore:альтер
+    "trx": "Альт-альт-развязки"
   },
   "bonusmenu_top_message_013": {
     "src": "???",

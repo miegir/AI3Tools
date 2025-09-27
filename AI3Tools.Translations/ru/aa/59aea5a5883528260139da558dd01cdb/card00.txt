@@ -3,7 +3,14 @@ EN:
   Kaname Date
   CLASS
 
-RU: ?
+RU:
+  Специальный агент
+  Канаме Дате
+  КЛАСС
+
+FONT: Trebuchet MS
+  должность, имя: 16
+  класс: 46
 
 TAGS:
-  [untranslated]
+  []

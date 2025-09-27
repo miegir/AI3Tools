@@ -242,12 +242,12 @@
   "title_049": {
     "src": "Police Officer",
     "yax": "офицер полиции",
-    "trx": "☯️офицер полиции"
+    "trx": "Офицер полиции"
   },
   "title_050": {
     "src": "Detective",
     "yax": "Детектив",
-    "trx": "☯️Детектив"
+    "trx": "Детектив"
   },
   "title_051": {
     "src": "Forensic Officer",

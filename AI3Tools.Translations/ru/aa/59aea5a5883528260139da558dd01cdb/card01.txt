@@ -4,7 +4,11 @@ EN:
   No. 666
   Iris Sagan
 
-RU: ?
+RU:
+  SUPER MYSTERY CLUB
+  КЛАСС
+  № 666
+  Айрис Саган
 
 TAGS:
-  [untranslated]
+  []

@@ -137,7 +137,7 @@
   "flowchart_font_kakugo_l_010": {
     "src": "CHAPTER 3 19:30 Escape From the \"Invitation to An Otherworld\"",
     "yax": "ГЛАВА 3 19:30 Побег из \"Приглашения в Иной мир\"",
-    "trx": "ГЛАВА 3 19:30 Побег от \"Приглашения в другой мир\""
+    "trx": "ГЛАВА 3 19:30 Побег от \"Приглашения в иной мир\""
   },
   "flowchart_font_options_019": {
     "src": "CHAPTER 3 19:30",
@@ -147,12 +147,12 @@
   "flowchart_font_options_020": {
     "src": "Escape From the \"Invitation to An Otherworld\"",
     "yax": "Побег от \"Приглашения в Потусторонний мир\"",
-    "trx": "Побег от \"Приглашения в другой мир\""
+    "trx": "Побег от \"Приглашения в иной мир\""
   },
   "flowchart_font_kakugo_l_011": {
     "src": "CHAPTER 4 20:00 Nensai Getsuou -Modulation-",
     "yax": "ГЛАВА 4 20:00 Ненсай Гетсуо -Модуляция-",
-    "trx": "ГЛАВА 4 20:00 Ненсай Гетсуо -Модуляция-" //spell-ignore:Ненсай //spell-ignore:Гетсуо
+    "trx": "ГЛАВА 4 20:00 Ненсай Гэцуо -Модуляция-" //spell-ignore:Ненсай //spell-ignore:Гэцуо
   },
   "flowchart_font_options_021": {
     "src": "CHAPTER 4 20:00",
@@ -162,7 +162,7 @@
   "flowchart_font_options_022": {
     "src": "Nensai Getsuou -Modulation-",
     "yax": "Ненсай Гетсуо -Модуляция-",
-    "trx": "Ненсай Гетсуо -Модуляция-" //spell-ignore:Ненсай //spell-ignore:Гетсуо
+    "trx": "Ненсай Гэцуо -Модуляция-" //spell-ignore:Ненсай //spell-ignore:Гэцуо
   },
   "flowchart_font_kakugo_l_012": {
     "src": "CHAPTER 4 20:40 Escape From the \"Non-Existent Station\"",
@@ -312,7 +312,7 @@
   "flowchart_font_options_047": {
     "src": "With Ota's help, Iris escaped death within the accursed box!\nSearching for a way out, they arrived at a mysterious space with a starry sky above!\nBut no sooner was Iris free than Ota ended up trapped!\nWarping space, the smell of gunpowder...\nWhat's going to happen to them?!\n \nEscape 3: Escape From the \"Invitation to An Otherworld\"\n \nLook forward to it!",
     "yax": "С помощью Оты Айрис избежала смерти в проклятом ящике!\nВ поисках выхода они оказались в таинственном пространстве со звездным небом над головой!\nНо не успела Айрис освободиться, как Ота оказался в ловушке!\nИскривление пространства, запах пороха...\nЧто с ними будет?!\n \nПобег 3: Уклонение от \"Приглашения в иной мир\"\n \nС нетерпением ждем этого!",
-    "trx": "При помощи Оты Айрис смогла избежать смерти в проклятом ящике! В поисках выхода они оказались в загадочном помещении со звездным небом наверху! Но стоило Айрис освободиться, как в ловушке оказался Ота!\n\nИскривление пространства, запах пороха...\nЧто же случится с ними?!\n \nПобег 3: Побег от \"Приглашения в другой мир\"\n \nС нетерпением ждем продолжения!"
+    "trx": "При помощи Оты Айрис смогла избежать смерти в проклятом ящике! В поисках выхода они оказались в загадочном помещении со звездным небом наверху! Но стоило Айрис освободиться, как в ловушке оказался Ота!\n\nИскривление пространства, запах пороха...\nЧто же случится с ними?!\n \nПобег 3: Побег от \"Приглашения в иной мир\"\n \nС нетерпением ждем продолжения!"
   },
   "flowchart_font_options_048": {
     "src": "Despite being the prime suspect for Iris's kidnapping, it turned out Moma was also stuck within the Escape Game.",
@@ -902,7 +902,7 @@
   "flowchart_font_options_145": {
     "src": "#Another End",
     "yax": "#Еще один конец",
-    "trx": "<size=95%>#АльтРазвязка"
+    "trx": "<size=95%>#Альт-развязка"
   },
   "flowchart_font_options_146": {
     "src": "Summary",

@@ -107,7 +107,7 @@
   "dialog_021": {
     "src": "\"Dance\"\n \"Novel\"\n \"Alternate Alternate Ending\"\n has been unlocked in Bonus.",
     "yax": "\"Танец\"\n \"Роман\"\n \"Альтернативный финал\"\n был разблокирован в качестве бонуса.",
-    "trx": "☯️В бонусах были разблокированы:\n\"Танцы\"\n\"Новеллы\"\n\"АльтАльт Развязки\""
+    "trx": "В бонусах были разблокированы:\n\"Танцы\"\n\"Новеллы\"\n\"Альт-альт-развязки\""
   },
   "dialog_022": {
     "src": "Unlocked Eyeballies function!\n《Wait time for question is now 0 seconds》\n《In picture book, \"Play with Eyeballies that you met in the past\" function》\nGive answers to the questions from now on too!",
@@ -1112,7 +1112,7 @@
   "operation_guide_032": {
     "src": "Open Dial",
     "yax": "Открытый циферблат",
-    "trx": "☯️Открыть панель"
+    "trx": "Открыть панель"
   },
   "operation_guide_033": {
     "src": "Move Cursor",

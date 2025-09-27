@@ -1,7 +1,7 @@
 EN: OPTIONS
-RU: ÏÀÐÀÌÅÒÐÛ
+RU: ÐŸÐÐ ÐÐœÐ•Ð¢Ð Ð«
 
-FONT: Trebuchet MS (æèðíûé)
+FONT: Trebuchet MS (Ð¶Ð¸Ñ€Ð½Ñ‹Ð¹) 60
 
 TAGS:
   []

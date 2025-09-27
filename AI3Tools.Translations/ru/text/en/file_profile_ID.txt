@@ -77,7 +77,7 @@
   "file_profile_005": {
     "src": "ABIS Officer",
     "yax": "Сотрудник ABIS",
-    "trx": "<size=75%>Сотрудник ABIS"
+    "trx": "<size=75%>Офицер ABIS"
   },
   "file_profile_006": {
     "src": "Classic Cars, Curry, Bonito, Pelvises, Family",
@@ -591,7 +591,7 @@
   },
   "file_profile_108": {
     "src": "ABIS Officer",
-    "yax": "Сотрудник ABIS",
+    "yax": "Офицер ABIS",
     "trx": "<size=75%>Сотрудник ABIS"
   },
   "file_profile_109": {

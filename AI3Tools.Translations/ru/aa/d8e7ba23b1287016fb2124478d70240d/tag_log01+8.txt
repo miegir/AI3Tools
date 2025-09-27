@@ -1,5 +1,7 @@
 EN: Log
-RU: ?
+RU: Журнал
+
+FONT: Trebuchet MS (жирный) 41
 
 TAGS:
-  [untranslated]
+  []
