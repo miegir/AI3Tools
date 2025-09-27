@@ -7,7 +7,7 @@
   "bonusmenu_top_message_002": {
     "src": "Solve the Serial Host Bathroom Theft Case!",
     "yax": "Раскройте дело о серийной краже ванной комнаты хозяина!",
-    "trx": "Дело о серийном туалетном воре из хост-бара"
+    "trx": "Дело о серийном туалетном воре из хост-клуба"
   },
   "bonusmenu_top_message_003": {
     "src": "Porno Mag Quest - The Legendary Mag",
