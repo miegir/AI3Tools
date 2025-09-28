@@ -1,5 +1,5 @@
 EN: Zoom X-ray
-RU: ?
+RU: Зум Рентген //spell-ignore:Зум
 
 TAGS:
-  [untranslated]
+  [AI2]

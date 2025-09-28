@@ -1017,7 +1017,7 @@
   "operation_guide_013": {
     "src": "Close",
     "yax": "Закрывать",
-    "trx": "Закрыть"
+    "trx": "<size=90%>Закрыть"
   },
   "operation_guide_014": {
     "src": "Skip Page",
@@ -1027,12 +1027,12 @@
   "operation_guide_015": {
     "src": "Enlarge",
     "yax": "Увеличивать",
-    "trx": "Увеличить"
+    "trx": "<size=90%>Крупнее"
   },
   "operation_guide_016": {
     "src": "Shrink",
     "yax": "Сокращаться",
-    "trx": "Уменьшить"
+    "trx": "<size=90%>Мельче"
   },
   "operation_guide_017": {
     "src": "Move",

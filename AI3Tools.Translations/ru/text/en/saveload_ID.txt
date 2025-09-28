@@ -42,12 +42,12 @@
   "saveload_common_002": {
     "src": "Data is being saved\nDo not turn off the game",
     "yax": "Данные сохраняются\r\nНе выключайте игру",
-    "trx": "Выполняется сохранение\nНе завершайте игру"
+    "trx": "Выполняется сохранение\nНе закрывайте игру"
   },
   "saveload_common_003": {
     "src": "Data is being saved\nDo not turn off the game",
     "yax": "Данные сохраняются\r\nНе выключайте игру",
-    "trx": "Выполняется сохранение\nНе завершайте игру"
+    "trx": "Выполняется сохранение\nНе закрывайте игру"
   },
   "saveload_common_004": {
     "src": "Data is saved",
@@ -87,12 +87,12 @@
   "saveload_common_010": {
     "src": "Loading\nDo not turn off the game",
     "yax": "Погрузка\r\nНе выключайте игру",
-    "trx": "Идет загрузка\nНе завершайте игру"
+    "trx": "Идет загрузка\nНе закрывайте игру"
   },
   "saveload_common_011": {
     "src": "Loading\nDo not turn off the game",
     "yax": "Погрузка\r\nНе выключайте игру",
-    "trx": "Идет загрузка\nНе завершайте игру"
+    "trx": "Идет загрузка\nНе закрывайте игру"
   },
   "saveload_common_012": {
     "src": "Data loaded",

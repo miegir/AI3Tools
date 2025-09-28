@@ -1,5 +1,5 @@
 EN: Zoom NV
-RU: ?
+RU: Зум НВ //spell-ignore:Зум
 
 TAGS:
-  [untranslated]
+  [AI2]

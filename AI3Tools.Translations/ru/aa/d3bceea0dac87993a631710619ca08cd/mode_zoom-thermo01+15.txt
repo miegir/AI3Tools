@@ -1,5 +1,5 @@
 EN: Zoom Thermo
-RU: ?
+RU: Зум Термо //spell-ignore:Зум //spell-ignore:Термо
 
 TAGS:
-  [untranslated]
+  [AI2]

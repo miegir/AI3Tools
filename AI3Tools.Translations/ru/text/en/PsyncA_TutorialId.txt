@@ -17,7 +17,7 @@
   "tutorial_003": {
     "src": "Start by looking around. Investigate things by taking your cursor to <color=yellow>whatever stands out</color>.",
     "yax": "Начните с того, что осмотритесь вокруг. Исследуйте предметы, наведя курсор на <color=желтый> все, что выделяется</color>.",
-    "trx": "Начните с того, чтобы осмотреться.\nИсследуйте объекты, наводя курсор на <color=yellow>всё, что бросается в глаза</color>."
+    "trx": "Для начала попробуйте осмотреться.\nИсследуйте объекты, наводя курсор на <color=yellow>всё, что бросается в глаза</color>."
   },
   "tutorial_title_002": {
     "src": "Examination Options",
@@ -27,7 +27,7 @@
   "tutorial_004": {
     "src": "When examining something, you may be presented with the options of <color=yellow>Selections</color> and <color=yellow>Look</color>.",
     "yax": "При изучении чего-либо вам могут быть предложены варианты выбора <color=yellow> и <color=yellow> внешнего вида</color>.",
-    "trx": "При исследовании будут доступны <color=yellow>Варианты</color> и <color=yellow>Осмотр</color>."
+    "trx": "При исследовании вам доступны <color=yellow>Варианты</color> и <color=yellow>Осмотр</color>."
   },
   "tutorial_005": {
     "src": "Choosing a <color=yellow>Selection</color> will make the protagonist talk \nor think about the thing in question.",

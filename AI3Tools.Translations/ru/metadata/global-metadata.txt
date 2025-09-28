@@ -2,7 +2,6 @@
   " LOCK": " БЛОКИРОВАНО",
   "#{0}\nUNLOCKED": "#{0}\nОТКРЫТО",
   "Aiba's Trivia": "Факты Айбы",
-  "Language": "Язык",
   "Mental Lock": "Ментальный замок",
   "Mental Lock #{0}": "Ментальный замок #{0}",
   "Play in English": "Играть на русском",
