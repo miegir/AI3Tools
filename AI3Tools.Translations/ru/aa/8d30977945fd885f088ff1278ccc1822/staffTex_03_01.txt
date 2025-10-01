@@ -1,5 +1,5 @@
 EN: KEISUKE ITO
-RU: ?
+RU: КЕЙСУКЕ  ИТО
 
 TAGS:
-  [untranslated]
+  []

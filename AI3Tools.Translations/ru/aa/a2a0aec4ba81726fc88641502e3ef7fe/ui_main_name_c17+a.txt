@@ -1,5 +1,5 @@
 EN: Ota
-RU: ?
+RU: Ота
 
 TAGS:
-  [untranslated]
+  []

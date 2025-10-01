@@ -1,5 +1,5 @@
 EN: Mama
-RU: ?
+RU: Мама
 
 TAGS:
-  [untranslated]
+  []

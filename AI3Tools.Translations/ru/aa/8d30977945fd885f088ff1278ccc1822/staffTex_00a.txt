@@ -1,5 +1,5 @@
 EN: TEAM ZERO ESCAPE
-RU: ?
+RU: КОМАНДА ZERO ESCAPE
 
 TAGS:
-  [untranslated]
+  []

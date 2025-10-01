@@ -2,4 +2,4 @@ EN: ?
 RU: ?
 
 TAGS:
-  [untranslated]
+  []

@@ -1,5 +1,5 @@
 EN: Doll
-RU: ?
+RU: Кукла
 
 TAGS:
-  [untranslated]
+  []

@@ -1,5 +1,5 @@
 EN: Pewter
-RU: ?
+RU: Пьютер
 
 TAGS:
-  [untranslated]
+  []

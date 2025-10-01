@@ -1,5 +1,5 @@
 EN: YASU IIZUKA
-RU: ?
+RU: ЯСУ  ИИДЗУКА
 
 TAGS:
-  [untranslated]
+  []

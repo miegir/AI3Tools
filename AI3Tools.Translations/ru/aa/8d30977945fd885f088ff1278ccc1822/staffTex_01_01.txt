@@ -1,5 +1,5 @@
 EN: KOTARO UCHIKOSHI
-RU: ?
+RU: КОТАРО  УЧИКОШИ
 
 TAGS:
-  [untranslated]
+  []

@@ -1,5 +1,5 @@
 EN: CHARACTER DESIGNER
-RU: ?
+RU: ДИЗАЙНЕР ПЕРСОНАЖЕЙ
 
 TAGS:
-  [untranslated]
+  []

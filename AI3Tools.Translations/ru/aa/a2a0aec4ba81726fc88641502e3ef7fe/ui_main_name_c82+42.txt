@@ -1,5 +1,5 @@
 EN: Flirty Girl
-RU: ?
+RU: Кокетливая девушка
 
 TAGS:
-  [untranslated]
+  []
