@@ -1,3 +1,5 @@
+using System.Collections.Immutable;
+using System.Text;
 using AssetsTools.NET;
 using AssetsTools.NET.Extra;
 using AssetsTools.NET.Texture;
@@ -6,7 +8,6 @@ using SixLabors.ImageSharp;
 using SixLabors.ImageSharp.Formats.Png;
 using SixLabors.ImageSharp.PixelFormats;
 using SixLabors.ImageSharp.Processing;
-using System.Text;
 
 namespace AI3Tools;
 
@@ -34,33 +35,41 @@ internal class BundleManager(ILogger logger, FileSource source)
                 {
                     var baseField = bundleFile.GetBaseField(asset);
 
-                    var textField = baseField["m_text"];
-                    if (textField.IsDummy)
+                    foreach (var field in baseField.Children)
                     {
-                        continue;
+                        if (field.TypeName != "string")
+                        {
+                            continue;
+                        }
+
+                        var text = field.AsString;
+                        if (string.IsNullOrEmpty(text))
+                        {
+                            continue;
+                        }
+
+                        var gameObjectPPtr = baseField["m_GameObject"];
+                        if (gameObjectPPtr.IsDummy)
+                        {
+                            continue;
+                        }
+
+                        var gameObject = bundleFile.ResolveGameObject(asset, gameObjectPPtr);
+                        if (gameObject == null)
+                        {
+                            continue;
+                        }
+
+                        var path = gameObject.GetPath();
+
+                        var index = bundleFile
+                            .GetMonoBehaviorIndex(gameObject, asset);
+
+                        if (index != -1)
+                        {
+                            scenesManager.AddText(path, index, field.FieldName, text);
+                        }
                     }
-
-                    var text = textField.AsString;
-                    if (string.IsNullOrEmpty(text))
-                    {
-                        continue;
-                    }
-
-                    var gameObjectPPtr = baseField["m_GameObject"];
-                    if (gameObjectPPtr.IsDummy)
-                    {
-                        continue;
-                    }
-
-                    var gameObject = bundleFile.ResolveGameObject(asset, gameObjectPPtr);
-                    if (gameObject == null)
-                    {
-                        continue;
-                    }
-
-                    var path = gameObject.GetPath();
-
-                    scenesManager.AddText(path, text);
                 }
 
                 if (!scenesManager.IsEmpty)
@@ -224,25 +233,19 @@ internal class BundleManager(ILogger logger, FileSource source)
                     };
                 }
 
-                if (entry.Text is string text)
+                foreach (var (index, text) in entry.Text)
                 {
-                    foreach (var component in bundleFile.GetComponents(gameObject))
+                    var textValuesData = new TextValuesData(text);
+                    if (!textValuesData.values.IsEmpty)
                     {
-                        if (component.TypeId != AssetClassID.MonoBehaviour)
-                        {
-                            continue;
-                        }
-
-                        var scriptName = bundleFile.ReadScriptName(bundleResolver, component.Field);
-                        if (scriptName?.FullName != "TMPro.TextMeshProUGUI")
-                        {
-                            continue;
-                        }
-
+                        var component = bundleFile.GetMonoBehaviorAtIndex(gameObject, index);
                         yield return () =>
                         {
-                            logger.LogInformation("importing text mesh pro {name}...", entry.Path);
-                            bundleFile.Replace(component.Asset, BuildTextMeshProUGUIData(text));
+                            logger.LogInformation("importing text values {name} [{index}]...", entry.Path, index);
+                            using (logger.BeginScope("text values {name} [{index}]", entry.Path, index))
+                            {
+                                bundleFile.Replace(component.Asset, textValuesData);
+                            }
                         };
                     }
                 }
@@ -342,7 +345,6 @@ internal class BundleManager(ILogger logger, FileSource source)
                     {
                         var name = bundleFile.ReadAssetName(asset, DefaultAssetExtension);
                         logger.LogInformation("import font {name}...", name);
-                        //asset.SetNewData(assetSource.Deserialize());
                         bundleFile.Replace(asset, assetSource);
                     };
                 }
@@ -387,29 +389,21 @@ internal class BundleManager(ILogger logger, FileSource source)
                     };
                 }
 
-                if (entry.Text is string text)
+                foreach (var (index, text) in entry.Text)
                 {
-                    foreach (var component in bundleFile.GetComponents(gameObject))
+                    var textValuesData = new TextValuesData(text);
+                    if (!textValuesData.values.IsEmpty)
                     {
-                        if (component.TypeId != AssetClassID.MonoBehaviour)
-                        {
-                            continue;
-                        }
-
-                        var scriptName = bundleFile.ReadScriptName(bundleResolver, component.Field);
-                        if (scriptName?.FullName != "TMPro.TextMeshProUGUI")
-                        {
-                            continue;
-                        }
+                        var component = bundleFile.GetMonoBehaviorAtIndex(gameObject, index);
 
                         yield return () =>
                         {
-                            var name = bundleFile.ReadAssetName(component.Asset, DefaultAssetExtension) + ".TMProUGUI.pak";
+                            var name = entry.Path + $".{index}.txt";
                             var objectPath = Path.Combine(arguments.ObjectDirectory, name);
                             var builder = new ObjectBuilder(
                                 gameObjectSource.Destination, objectPath, arguments.ForceObjects);
 
-                            builder.Build(_ => BuildTextMeshProUGUIData(text));
+                            builder.Build(_ => textValuesData);
 
                             arguments.Sink.ReportObject(root.Append(name), objectPath);
                         };
@@ -555,6 +549,30 @@ internal class BundleManager(ILogger logger, FileSource source)
                         bundleFile.Replace(gameObject.Asset, entry.AsObjectSource<GameObjectData>());
                     };
                 }
+
+                var index = 0;
+
+                foreach (var component in bundleFile.GetComponents(gameObject))
+                {
+                    if (component.TypeId != AssetClassID.MonoBehaviour)
+                    {
+                        continue;
+                    }
+
+                    var localIndex = index++;
+
+                    if (arguments.Container.TryGetEntry(root.Append(name + $".{localIndex}.txt"), out var tmpEntry))
+                    {
+                        yield return () =>
+                        {
+                            logger.LogInformation("importing text values {name} [{index}]...", name, index);
+                            using (logger.BeginScope("text values {name} [{index}]", name, index))
+                            {
+                                bundleFile.Replace(component.Asset, tmpEntry.AsObjectSource<TextValuesData>());
+                            }
+                        };
+                    }
+                }
             }
 
             foreach (var asset in bundleFile.GetAssets(AssetClassID.Texture2D))
@@ -593,15 +611,6 @@ internal class BundleManager(ILogger logger, FileSource source)
                     {
                         logger.LogInformation("importing font {name}...", name);
                         bundleFile.Replace(asset, fntEntry.AsObjectSource<FontAssetData>());
-                    };
-                }
-
-                if (arguments.Container.TryGetEntry(root.Append(name + ".TMProUGUI.pak"), out var tmpEntry))
-                {
-                    yield return () =>
-                    {
-                        logger.LogInformation("importing text mesh pro {name}...", name);
-                        bundleFile.Replace(asset, tmpEntry.AsObjectSource<TextMeshProUGUIData>());
                     };
                 }
             }
@@ -684,11 +693,6 @@ internal class BundleManager(ILogger logger, FileSource source)
         });
     }
 
-    private static TextMeshProUGUIData BuildTextMeshProUGUIData(string text)
-    {
-        return new TextMeshProUGUIData(TextCompressor.Compress(text));
-    }
-
     private static AssetBundleCompressionType GetCompressionType(IFileStreamSource source)
     {
         using var stream = source.OpenRead();
@@ -714,4 +718,8 @@ internal class BundleManager(ILogger logger, FileSource source)
 
         return name;
     }
+
+    private static ImmutableDictionary<string, string> CreateTextValues(ImmutableDictionary<string, string> text) => text
+        .Where(e => !string.IsNullOrEmpty(e.Value))
+        .ToImmutableDictionary(e => e.Key, e => TextCompressor.Compress(e.Value));
 }

@@ -7,7 +7,7 @@
   "announcement_002": {
     "src": "Less than four minutes to go.\nYou've got this.",
     "yax": "Осталось меньше четырех минут.\nУ тебя получилось.",
-    "trx": "☯️Осталось меньше четырех минут.\nУ тебя получилось."
+    "trx": "☯️Осталось меньше четырёх минут.\nУ тебя получилось."
   },
   "announcement_003": {
     "src": "Three minutes left, Date.\nKeep at it.",
@@ -37,7 +37,7 @@
   "announcement_008": {
     "src": "Date, you've got five minutes.\nYou better take this seriously.",
     "yax": "Свидание, у тебя есть пять минут.\nТебе лучше отнестись к этому серьезно.",
-    "trx": "☯️Свидание, у тебя есть пять минут.\nТебе лучше отнестись к этому серьезно."
+    "trx": "☯️Свидание, у тебя есть пять минут.\nТебе лучше отнестись к этому серьёзно."
   },
   "announcement_009": {
     "src": "You got four minutes left, Date.\nGet this over with, will ya?",

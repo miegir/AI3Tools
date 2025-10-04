@@ -12,7 +12,7 @@
   "swap_actors_ID_a020_003": {
     "src": "Huh? Seriously, who is that?",
     "yax": "А? Серьезно, кто это?",
-    "trx": "☯️А? Серьезно, кто это?"
+    "trx": "☯️А? Серьёзно, кто это?"
   },
   "swap_actors_ID_a180_001": {
     "src": "DATEEEEEEEE!",
@@ -92,7 +92,7 @@
   "swap_actors_ID_a345_007": {
     "src": "Though, wasted as you are...",
     "yax": "Хотя, такой же опустошенный, как и ты...",
-    "trx": "☯️Хотя, такой же опустошенный, как и ты..."
+    "trx": "☯️Хотя, такой же опустошённый, как и ты..."
   },
   "swap_actors_ID_a345_008": {
     "src": "You won't listen to me, and you'll refuse to go on a date.",
@@ -132,7 +132,7 @@
   "swap_actors_ID_a390_004": {
     "src": "More importantly...",
     "yax": "Что еще более важно...",
-    "trx": "☯️Что еще более важно..."
+    "trx": "☯️Что ещё более важно..."
   },
   "swap_actors_ID_a390_005": {
     "src": "Oh. Give me a moment.",
@@ -352,7 +352,7 @@
   "swap_actors_ID_c580_020": {
     "src": "...?!",
     "yax": "...?!",
-    "trx": "☯️...?!"
+    "trx": "☯️?..!"
   },
   "swap_actors_ID_c580_021": {
     "src": "AAAHHH!",

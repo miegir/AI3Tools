@@ -1,0 +1,146 @@
+[
+  {
+    "path": "escape_gameover/escape_gameovermenu Variant/adjust/info/text_notfoundit (TMP)",
+    "text": {
+      "0": {
+        "m_text": "<size=94%>Выход не найден"
+      }
+    }
+  },
+  {
+    "path": "escape_gameover/escape_gameovermenu Variant/adjust/buttons/button01 Variant/text_menu (TMP)",
+    "text": {
+      "0": {
+        "m_text": "Повтор (легче)"
+      }
+    }
+  },
+  {
+    "path": "escape_gameover/escape_gameovermenu Variant/adjust/buttons/button02 Variant/text_menu (TMP)",
+    "text": {
+      "0": {
+        "m_text": "Повтор"
+      }
+    }
+  },
+  {
+    "path": "escape_gameover/escape_gameovermenu Variant/adjust/buttons/button04 Variant/text_menu (TMP)",
+    "text": {
+      "0": {
+        "m_text": "Завершение"
+      }
+    }
+  },
+  {
+    "path": "escape_gameover/escape_gameovermenu Variant/adjust/buttons/button03 Variant/text_menu (TMP)",
+    "text": {
+      "0": {
+        "m_text": "Перезапуск"
+      }
+    }
+  },
+  {
+    "path": "escape_gameover/escape_gameovermenu Variant/adjust/retry/tag_button02/text_menu (TMP)",
+    "text": {
+      "0": {
+        "m_text": "Повтор"
+      }
+    }
+  },
+  {
+    "path": "escape_gameover/escape_gameovermenu Variant/adjust/retry_moreeasy/tag_button01/text_menu (TMP)",
+    "text": {
+      "0": {
+        "m_text": "Повтор (легче)"
+      }
+    }
+  },
+  {
+    "path": "escape_high/GameObject/escape_thirdeye_start3 Variant/adjust/third/text_b/text_action3 (TMP)",
+    "text": {
+      "0": {
+        "m_text": "Найти Третий глаз"
+      }
+    }
+  },
+  {
+    "path": "escape_high/GameObject/escape_thirdeye_open Variant/adjust/third/text_b/text_action3 (TMP)",
+    "text": {
+      "0": {
+        "m_text": "Найти Третий глаз"
+      }
+    }
+  },
+  {
+    "path": "escape_minigame/escape_minigame/escape_minigame_failed Variant/adjust/text/text_failed (TMP)",
+    "text": {
+      "0": {
+        "m_text": "ПОРАЖЕНИЕ"
+      }
+    }
+  },
+  {
+    "path": "escape_minigame/escape_minigame/escape_minigame_completed Variant/adjust/text/text_completed (TMP)",
+    "text": {
+      "0": {
+        "m_text": "ПОБЕДА"
+      }
+    }
+  },
+  {
+    "path": "escape_low/escape_itemlist Variant/adjust/item_list/Scroll View/Viewport/Content/item_list00 Variant/inhand/base01/Text (TMP)",
+    "text": {
+      "0": {
+        "m_text": "<size=85%>В руках"
+      }
+    }
+  },
+  {
+    "path": "escape_high/switch_transition/escape_changepanel_01 Variant/adjust/rotate/baseimage02/name (TMP)",
+    "text": {
+      "0": {
+        "m_text": "Вид Датэ"
+      }
+    }
+  },
+  {
+    "path": "escape_high/switch_transition/escape_changepanel_02 Variant/adjust/rotate/baseimage02/name (TMP)",
+    "text": {
+      "0": {
+        "m_text": "Вид Айрис"
+      }
+    }
+  },
+  {
+    "path": "escape_high/switch_transition/escape_changepanel_03 Variant/adjust/rotate/baseimage02/name (TMP)",
+    "text": {
+      "0": {
+        "m_text": "Вид Оты"
+      }
+    }
+  },
+  {
+    "path": "escape_high/switch_transition/escape_changepanel_05 Variant/adjust/rotate/baseimage02/name (TMP)",
+    "text": {
+      "0": {
+        "m_text": "Вид Датэ"
+      }
+    }
+  },
+  {
+    "path": "escape_high/GameObject/escape_thirdeye_open Variant/adjust/third_b/text_c/text_action5 (TMP)",
+    "text": {
+      "0": {
+        "m_text": "<size=95%>Открыть Третий глаз"
+      }
+    }
+  },
+  {
+    "path": "escape_high/switch_transition/escape_changepanel_04 Variant/adjust/rotate/baseimage02/name (TMP)",
+    "text": {
+      "0": {
+        "m_text": "Вид Момы"
+      }
+    }
+  }
+ ]

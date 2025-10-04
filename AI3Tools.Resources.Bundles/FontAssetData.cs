@@ -1,4 +1,4 @@
-﻿using AssetsTools.NET;
+using AssetsTools.NET;
 using MessagePack;
 
 namespace AI3Tools;
@@ -178,9 +178,9 @@ public partial class FontAssetData : IWriteTo
         return data;
     }
 
-    public void WriteTo(AssetTypeValueField baseField) => WriteTo(baseField, this);
+    void IWriteTo.WriteTo(AssetFieldWriter baseField) => WriteTo(baseField, this);
 
-    private static void WriteTo(AssetTypeValueField baseField, FontAssetData data)
+    private static void WriteTo(AssetFieldWriter baseField, FontAssetData data)
     {
         baseField["m_FaceInfo"].Write(data.m_FaceInfo, WriteTo);
         baseField["m_GlyphTable"].Write(data.m_GlyphTable, WriteTo);
@@ -199,7 +199,7 @@ public partial class FontAssetData : IWriteTo
         baseField["tabSize"].Write(data.tabSize);
     }
 
-    private static void WriteTo(AssetTypeValueField baseField, FaceInfo data)
+    private static void WriteTo(AssetFieldWriter baseField, FaceInfo data)
     {
         baseField["m_FaceIndex"].Write(data.m_FaceIndex);
         baseField["m_FamilyName"].Write(data.m_FamilyName);
@@ -223,7 +223,7 @@ public partial class FontAssetData : IWriteTo
         baseField["m_TabWidth"].Write(data.m_TabWidth);
     }
 
-    private static void WriteTo(AssetTypeValueField baseField, Glyph data)
+    private static void WriteTo(AssetFieldWriter baseField, Glyph data)
     {
         baseField["m_Index"].Write(data.m_Index);
         baseField["m_Metrics"].Write(data.m_Metrics, WriteTo);
@@ -233,7 +233,7 @@ public partial class FontAssetData : IWriteTo
         baseField["m_ClassDefinitionType"].Write(data.m_ClassDefinitionType);
     }
 
-    private static void WriteTo(AssetTypeValueField baseField, GlyphMetrics data)
+    private static void WriteTo(AssetFieldWriter baseField, GlyphMetrics data)
     {
         baseField["m_Width"].Write(data.m_Width);
         baseField["m_Height"].Write(data.m_Height);
@@ -242,7 +242,7 @@ public partial class FontAssetData : IWriteTo
         baseField["m_HorizontalAdvance"].Write(data.m_HorizontalAdvance);
     }
 
-    private static void WriteTo(AssetTypeValueField baseField, GlyphRect data)
+    private static void WriteTo(AssetFieldWriter baseField, GlyphRect data)
     {
         baseField["m_X"].Write(data.m_X);
         baseField["m_Y"].Write(data.m_Y);
@@ -250,7 +250,7 @@ public partial class FontAssetData : IWriteTo
         baseField["m_Height"].Write(data.m_Height);
     }
 
-    private static void WriteTo(AssetTypeValueField baseField, Character data)
+    private static void WriteTo(AssetFieldWriter baseField, Character data)
     {
         baseField["m_ElementType"].Write(data.m_ElementType);
         baseField["m_Unicode"].Write(data.m_Unicode);

@@ -1,5 +1,5 @@
 EN: Search
-RU: ?
+RU: Поиск
 
 TAGS:
-  [untranslated]
+  []

@@ -370,4 +370,5 @@ launchSettings.json
 *.zip
 *.code.txt
 *.mp4
+*.vproj.bak
 aa_png/

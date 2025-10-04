@@ -282,7 +282,7 @@
   "staffroll_joke_099": {
     "src": "Didn't Get The Hint",
     "yax": "Не Понял Намека",
-    "trx": "☯️Не Понял Намека"
+    "trx": "☯️Не Понял Намёка"
   },
   "staffroll_joke_100": {
     "src": "Hina Tsukiyono",
@@ -332,7 +332,7 @@
   "staffroll_joke_109": {
     "src": "Lemme Sleep For Just 1 More Minute",
     "yax": "Дай Мне Поспать Еще Хотя Бы 1 Минуту.",
-    "trx": "☯️Дай Мне Поспать Еще Хотя Бы 1 Минуту."
+    "trx": "☯️Дай Мне Поспать Ещё Хотя Бы 1 Минуту."
   },
   "staffroll_joke_110": {
     "src": "Kazuya Yamada",
@@ -542,7 +542,7 @@
   "staffroll_joke_151": {
     "src": "How About We Add Some Zombies?",
     "yax": "Как Насчет Того, Чтобы Добавить Немного Зомби?",
-    "trx": "☯️Как Насчет Того, Чтобы Добавить Немного Зомби?"
+    "trx": "☯️Как Насчёт Того, Чтобы Добавить Немного Зомби?"
   },
   "staffroll_joke_152": {
     "src": "Yasu Iizuka",

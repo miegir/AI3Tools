@@ -1,54 +1,106 @@
 [
   {
     "path": "_root/Canvas UI/ScreenScaler/menu_flowchart Variant/flowchart/whitebord/chapter/chapter_a501 Variant/zoom_in/add_scale/another_end/base03/text_another_end (TMP)",
-    "text": "<size=95%>#Альт-развязка"
+    "text": {
+      "0": {
+        "m_text": "<size=95%>#Альт-развязка"
+      }
+    }
   },
   {
     "path": "_root/Canvas UI/ScreenScaler/menu_flowchart Variant/flowchart/whitebord/chapter/chapter_e400 Variant/zoom_in/add_scale/another_end/base03/text_another_end (TMP)",
-    "text": "<size=95%>#Альт-развязка"
+    "text": {
+      "0": {
+        "m_text": "<size=95%>#Альт-развязка"
+      }
+    }
   },
   {
     "path": "_root/Canvas UI/ScreenScaler/menu_flowchart Variant/flowchart/whitebord/chapter/chapter_e200 Variant/zoom_in/add_scale/another_end/base03/text_another_end (TMP)",
-    "text": "<size=95%>#Альт-развязка"
+    "text": {
+      "0": {
+        "m_text": "<size=95%>#Альт-развязка"
+      }
+    }
   },
   {
     "path": "_root/Canvas UI/ScreenScaler/menu_flowchart Variant/flowchart/whitebord/chapter/chapter_a401 Variant/zoom_in/add_scale/another_end/base03/text_another_end (TMP)",
-    "text": "<size=95%>#Альт-развязка"
+    "text": {
+      "0": {
+        "m_text": "<size=95%>#Альт-развязка"
+      }
+    }
   },
   {
     "path": "_root/Canvas UI/ScreenScaler/menu_flowchart Variant/flowchart/whitebord/chapter/chapter_a502 Variant/zoom_in/add_scale/another_end/base03/text_another_end (TMP)",
-    "text": "<size=95%>#Альт-развязка"
+    "text": {
+      "0": {
+        "m_text": "<size=95%>#Альт-развязка"
+      }
+    }
   },
   {
     "path": "_root/Canvas UI/ScreenScaler/menu_flowchart Variant/flowchart/whitebord/chapter/chapter_a601 Variant/zoom_in/add_scale/another_end/base03/text_another_end (TMP)",
-    "text": "<size=95%>#Альт-развязка"
+    "text": {
+      "0": {
+        "m_text": "<size=95%>#Альт-развязка"
+      }
+    }
   },
   {
     "path": "_root/Canvas UI/ScreenScaler/menu_flowchart Variant/flowchart/whitebord/chapter/chapter_e100 Variant/zoom_in/add_scale/another_end/base03/text_another_end (TMP)",
-    "text": "<size=95%>#Альт-развязка"
+    "text": {
+      "0": {
+        "m_text": "<size=95%>#Альт-развязка"
+      }
+    }
   },
   {
     "path": "_root/Canvas UI/ScreenScaler/menu_flowchart Variant/flowchart/whitebord/chapter/chapter_a301 Variant/zoom_in/add_scale/another_end/base03/text_another_end (TMP)",
-    "text": "<size=95%>#Альт-развязка"
+    "text": {
+      "0": {
+        "m_text": "<size=95%>#Альт-развязка"
+      }
+    }
   },
   {
     "path": "_root/Canvas UI/ScreenScaler/menu_flowchart Variant/flowchart/whitebord/chapter/chapter_a101 Variant/zoom_in/add_scale/another_end/base03/text_another_end (TMP)",
-    "text": "<size=95%>#Альт-развязка"
+    "text": {
+      "0": {
+        "m_text": "<size=95%>#Альт-развязка"
+      }
+    }
   },
   {
     "path": "_root/Canvas UI/ScreenScaler/menu_flowchart Variant/flowchart/whitebord/chapter/chapter_a202 Variant/zoom_in/add_scale/another_end/base03/text_another_end (TMP)",
-    "text": "<size=95%>#Альт-развязка"
+    "text": {
+      "0": {
+        "m_text": "<size=95%>#Альт-развязка"
+      }
+    }
   },
   {
     "path": "_root/Canvas UI/ScreenScaler/menu_flowchart Variant/flowchart/whitebord/chapter/chapter_a201 Variant/zoom_in/add_scale/another_end/base03/text_another_end (TMP)",
-    "text": "<size=95%>#Альт-развязка"
+    "text": {
+      "0": {
+        "m_text": "<size=95%>#Альт-развязка"
+      }
+    }
   },
   {
     "path": "_root/Canvas UI/ScreenScaler/menu_flowchart Variant/flowchart/whitebord/chapter/chapter_a302 Variant/zoom_in/add_scale/another_end/base03/text_another_end (TMP)",
-    "text": "<size=95%>#Альт-развязка"
+    "text": {
+      "0": {
+        "m_text": "<size=95%>#Альт-развязка"
+      }
+    }
   },
   {
     "path": "_root/Canvas UI/ScreenScaler/menu_flowchart Variant/flowchart/whitebord/chapter/chapter_e300 Variant/zoom_in/add_scale/another_end/base03/text_another_end (TMP)",
-    "text": "<size=95%>#Альт-развязка"
+    "text": {
+      "0": {
+        "m_text": "<size=95%>#Альт-развязка"
+      }
+    }
   }
 ]

@@ -62,7 +62,7 @@
   "005_002": {
     "src": "Unlike Ota's diner, the meal variety grows every time I come here.",
     "yax": "В отличие от Ota's diner, разнообразие блюд растет с каждым моим приходом.",
-    "trx": "☯️В отличие от Ota's diner, разнообразие блюд растет с каждым моим приходом."
+    "trx": "☯️В отличие от Ota's diner, разнообразие блюд растёт с каждым моим приходом."
   },
   "005_003": {
     "src": "The menu.",
@@ -172,7 +172,7 @@
   "015_004": {
     "src": "Huh? Seriously?",
     "yax": "А? Серьезно?",
-    "trx": "☯️А? Серьезно?"
+    "trx": "☯️А? Серьёзно?"
   },
   "015_005": {
     "src": "Obviously not. I'm just joking.",

@@ -57,7 +57,7 @@
   "optionmenu_font_common_001": {
     "src": "This will end the game and take you to the title screen. Are you sure?\nUnsaved progress will be lost.",
     "yax": "На этом игра завершится, и вы перейдете к главному экрану. Вы уверены?\nНесохраненный прогресс будет потерян.",
-    "trx": "При этом игра завершится и будет выполнен переход в главное меню. Вы уверены?\nНесохраненный прогресс будет потерян."
+    "trx": "При этом игра завершится и будет выполнен переход в главное меню. Вы уверены?\nНесохранённый прогресс будет потерян."
   },
   "optionmenu_font_common_002": {
     "src": "This will save the current state and open the Bonus menu from the title screen. Are you sure?",

@@ -1,0 +1,42 @@
+[
+  {
+    "path": "_root/game/Canvas2/[0]/GameObject/optionbutton Variant/adjust/background/[1]/text_date (TMP)",
+    "text": {
+      "0": {
+        "m_text": "Вид Датэ"
+      }
+    }
+  },
+  {
+    "path": "_root/game/Canvas2/[0]/GameObject/optionbutton Variant/adjust/background/[0]/text_moma (TMP)",
+    "text": {
+      "0": {
+        "m_text": "Вид Момы"
+      }
+    }
+  },
+  {
+    "path": "_root/game/Canvas2/[0]/GameObject/optionbutton Variant/adjust/background/color02/text_iris (TMP)",
+    "text": {
+      "0": {
+        "m_text": "Вид Айрис"
+      }
+    }
+  },
+  {
+    "path": "_root/game/Canvas2/[0]/GameObject/optionbutton Variant/adjust/background/color03/text_ota (TMP)",
+    "text": {
+      "0": {
+        "m_text": "Вид Оты"
+      }
+    }
+  },
+  {
+    "path": "_root/game/Canvas2/[0]/GameObject/optionbutton Variant/adjust/background/color01/text_date (TMP)",
+    "text": {
+      "0": {
+        "m_text": "Вид Датэ"
+      }
+    }
+  }
+]

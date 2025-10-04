@@ -1,11 +1,11 @@
-﻿using System.Collections.Immutable;
+using System.Collections.Immutable;
 using System.Text.Json;
 
 namespace AI3Tools;
 
 internal class GameObjectSource
 {
-    public record Entry(string Path, string Text, GameObjectData? Data);
+    public record Entry(string Path, ImmutableDictionary<int, ImmutableDictionary<string, string>> Text, GameObjectData? Data);
 
     private static readonly JsonSerializerOptions JsonOptions =
         new(JsonSerializerDefaults.Web)

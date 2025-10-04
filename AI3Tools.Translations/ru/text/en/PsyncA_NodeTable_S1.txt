@@ -162,7 +162,7 @@
   "object_name_016": {
     "src": "Paper Airplane",
     "yax": "Бумажный самолетик",
-    "trx": "☯️Бумажный самолетик"
+    "trx": "☯️Бумажный самолётик"
   },
   "target_019": {
     "src": "Take and Throw",

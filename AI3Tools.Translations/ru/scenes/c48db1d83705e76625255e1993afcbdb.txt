@@ -1,0 +1,50 @@
+[
+  {
+    "path": "somnium_high/purposeupdate Variant/purpose_old/completed01/text_completed01 (TMP)",
+    "text": {
+      "0": {
+        "m_text": "ЗАВЕРШЕНО"
+      }
+    }
+  },
+  {
+    "path": "somnium_gameover Variant Variant/buttons/retry_moreeasy/text_key (TMP)",
+    "text": {
+      "0": {
+        "m_text": "Повтор (легче)"
+      }
+    }
+  },
+  {
+    "path": "somnium_gameover Variant Variant/buttons/out/text_key (TMP)",
+    "text": {
+      "0": {
+        "m_text": "Выход"
+      }
+    }
+  },
+  {
+    "path": "somnium_gameover Variant Variant/buttons/retry/text_key (TMP)",
+    "text": {
+      "0": {
+        "m_text": "Повтор"
+      }
+    }
+  },
+  {
+    "path": "somnium_gameover Variant Variant/buttons/restart/text_key (TMP)",
+    "text": {
+      "0": {
+        "m_text": "Перезапуск"
+      }
+    }
+  },
+  {
+    "path": "somnium_gameover Variant Variant/buttons/out/text_key (TMP)",
+    "text": {
+      "0": {
+        "m_text": "Завершение"
+      }
+    }
+  }
+]

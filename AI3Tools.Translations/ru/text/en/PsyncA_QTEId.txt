@@ -42,7 +42,7 @@
   "qtebutton_011": {
     "src": "Roll forward",
     "yax": "Перекат вперед",
-    "trx": "☯️Перекат вперед"
+    "trx": "☯️Перекат вперёд"
   },
   "qtebutton_004": {
     "src": "Shoot the window glass!",
@@ -62,7 +62,7 @@
   "qtebutton_012": {
     "src": "Hide behind a lantern",
     "yax": "Спрячься за фонарем",
-    "trx": "☯️Спрячься за фонарем"
+    "trx": "☯️Спрячься за фонарём"
   },
   "qtebutton_013": {
     "src": "Hide behind the chozuya",

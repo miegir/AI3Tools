@@ -1,5 +1,5 @@
 EN: LIMIT
-RU: ?
+RU: ОГРАНИЧЕНИЕ
 
 TAGS:
-  [untranslated]
+  []

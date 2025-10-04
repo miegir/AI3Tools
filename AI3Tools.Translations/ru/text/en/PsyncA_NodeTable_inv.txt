@@ -1107,7 +1107,7 @@
   "target_219": {
     "src": "Tiger Rug",
     "yax": "Тигровый ковер",
-    "trx": "Тигровый ковер"
+    "trx": "Тигровый ковёр"
   },
   "target_220": {
     "src": "Locker",
@@ -1712,7 +1712,7 @@
   "target_341": {
     "src": "Rug",
     "yax": "Коврик",
-    "trx": "Ковер"
+    "trx": "Ковёр"
   },
   "target_342": {
     "src": "Mystery Mask (Left)",
@@ -1732,7 +1732,7 @@
   "target_345": {
     "src": "Matryoshka",
     "yax": "Матрешка",
-    "trx": "Матрешка"
+    "trx": "Матрёшка"
   },
   "target_346": {
     "src": "Big Key",
@@ -1787,12 +1787,12 @@
   "target_356": {
     "src": "Stationary Bike",
     "yax": "Велотренажер",
-    "trx": "Велотренажер"
+    "trx": "Велотренажёр"
   },
   "target_357": {
     "src": "Christmas Tree",
     "yax": "рождественская елка",
-    "trx": "Рождественская елка"
+    "trx": "Рождественская ёлка"
   },
   "target_358": {
     "src": "Coat Hanger",
@@ -2167,7 +2167,7 @@
   "target_431": {
     "src": "Airplane",
     "yax": "Самолет",
-    "trx": "Самолет"
+    "trx": "Самолёт"
   },
   "target_432": {
     "src": "Office",
@@ -2572,7 +2572,7 @@
   "target_511": {
     "src": "Three-Seat Sofa",
     "yax": "Трехместный диван",
-    "trx": "Трехместный диван"
+    "trx": "Трёхместный диван"
   },
   "target_512": {
     "src": "Cushion",
@@ -2587,7 +2587,7 @@
   "target_514": {
     "src": "Carpet",
     "yax": "Ковер",
-    "trx": "Ковер"
+    "trx": "Ковёр"
   },
   "target_515": {
     "src": "Bed",
@@ -3152,7 +3152,7 @@
   "target_626": {
     "src": "Rug",
     "yax": "Коврик",
-    "trx": "Ковер"
+    "trx": "Ковёр"
   },
   "target_627": {
     "src": "Mystery Mask (Left)",
@@ -3172,7 +3172,7 @@
   "target_630": {
     "src": "Matryoshka",
     "yax": "Матрешка",
-    "trx": "Матрешка"
+    "trx": "Матрёшка"
   },
   "target_631": {
     "src": "Big Key",
@@ -3227,12 +3227,12 @@
   "target_641": {
     "src": "Stationary Bike",
     "yax": "Велотренажер",
-    "trx": "Велотренажер"
+    "trx": "Велотренажёр"
   },
   "target_642": {
     "src": "Christmas Tree",
     "yax": "рождественская елка",
-    "trx": "Рождественская елка"
+    "trx": "Рождественская ёлка"
   },
   "target_643": {
     "src": "Coat Hanger",
@@ -3927,7 +3927,7 @@
   "target_781": {
     "src": "Tiger Rug",
     "yax": "Тигровый ковер",
-    "trx": "Тигровый ковер"
+    "trx": "Тигровый ковёр"
   },
   "target_782": {
     "src": "Locker",

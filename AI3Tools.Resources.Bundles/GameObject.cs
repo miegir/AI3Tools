@@ -1,4 +1,4 @@
-﻿using AssetsTools.NET;
+using AssetsTools.NET;
 using AssetsTools.NET.Extra;
 using System.Diagnostics;
 
@@ -25,7 +25,7 @@ internal class GameObject
 
     public AssetFileInfo Asset { get; }
     public AssetTypeValueField Field { get; }
-    public string Name { get; }
+    public string Name { get; set; }
     public GameObjectCollection Children { get; } = new();
     public GameObject? Parent { get; set; }
     public AssetClassID TypeId => (AssetClassID)Asset.TypeId;

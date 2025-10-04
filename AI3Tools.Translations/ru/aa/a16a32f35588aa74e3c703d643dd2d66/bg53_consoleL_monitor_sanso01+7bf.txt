@@ -1,8 +1,12 @@
 EN:
   WARNING
   OXYGEN
+  3%
 
-RU: ?
+RU:
+  ВНИМАНИЕ
+  КИСЛОРОД
+  3%
 
 TAGS:
-  [untranslated]
+  []

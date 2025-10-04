@@ -97,12 +97,12 @@
   "file_profile_009": {
     "src": "Reaction time increases 3.6 times under certain conditions",
     "yax": "При определенных условиях время реакции увеличивается в 3,6 раза",
-    "trx": "<size=75%>При определенных условиях время реакции увеличивается в 3,6 раза"
+    "trx": "<size=75%>При определённых условиях время реакции увеличивается в 3,6 раза"
   },
   "file_profile_010": {
     "src": "An ABIS investigator and Mizuki's foster father. He's also close to Iris and Ota. One of his biggest concerns recently is how to deal with excessive sweating on his face and neck.",
     "yax": "Следователь ABIS и приемный отец Мизуки. Он также близок с Айрис и Отой. В последнее время его больше всего беспокоит, как справиться с повышенной потливостью лица и шеи.",
-    "trx": "<size=75%>Следователь ABIS и приемный отец Мизуки. Также близок с Айрис и Отой. В последнее время его больше всего беспокоит, как справиться с повышенной потливостью лица и шеи."
+    "trx": "<size=75%>Следователь ABIS и приёмный отец Мизуки. Также близок с Айрис и Отой. В последнее время его больше всего беспокоит, как справиться с повышенной потливостью лица и шеи."
   },
   "file_profile_011": {
     "src": "Aiba",
@@ -202,7 +202,7 @@
   "file_profile_030": {
     "src": "Iris is an internet idol under the entertainment agency Lemniscate. Her stage name is A-Set, but fans call her Tesa. She is friends with Mizuki, Amame, Ota, and many others.",
     "yax": "Айрис - интернет-кумир развлекательного агентства Lemniscate. Ее сценическое имя - A-Set, но поклонники зовут ее Теза. Она дружит с Мизуки, Амаме, Отой и многими другими.",
-    "trx": "<size=75%>Айрис — интернет-идол в развлекательном агентстве Лемнискейт. Ее сценическое имя - Эй-сет (A-Set), но поклонники зовут ее Теса. Она дружит с Мизуки, Амаме, Отой и многими другими."
+    "trx": "<size=75%>Айрис — интернет-идол в развлекательном агентстве Лемнискейт. Её сценическое имя - Эй-сет (A-Set), но поклонники зовут её Теса (Tesa). Она дружит с Мизуки, Амаме, Отой и многими другими."
   },
   "file_profile_031": {
     "src": "Ota Matsushita",
@@ -227,7 +227,7 @@
   "file_profile_035": {
     "src": "Cook at Matsushita Diner, Light Novel Author (Self-Declared)",
     "yax": "Повар в закусочной Matsushita, автор легких романов (самопровозглашенный)",
-    "trx": "<size=75%>Повар в закусочной Мацуситы, Автор легких романов (самопровозглашенный)"
+    "trx": "<size=75%>Повар в закусочной Мацуситы, Автор лёгких романов (самопровозглашённый)"
   },
   "file_profile_036": {
     "src": "A-set (Tesa), Chocolate",
@@ -252,7 +252,7 @@
   "file_profile_040": {
     "src": "Though unemployed until recently, he inherited and took charge of his late father's diner. Tesa's love for the occult made him become well-versed in it, as well. He's also close to Mizuki and Amame.",
     "yax": "Несмотря на то, что до недавнего времени он был безработным, он унаследовал закусочную своего покойного отца и возглавил ее. Любовь Тесы к оккультизму помогла ему стать хорошим знатоком в этой области. Он также близок с Мизуки и Амаме.",
-    "trx": "<size=75%>До недавнего времени безработный, он унаследовал закусочную своего покойного отца и возглавил ее. Благодаря любви Тесы к оккультизму также стал хорошим знатоком в этой области. Также близок с Мизуки и Амаме."
+    "trx": "<size=75%>До недавнего времени безработный, он унаследовал закусочную своего покойного отца и возглавил её. Благодаря любви Тесы к оккультизму также стал хорошим знатоком в этой области. Также близок с Мизуки и Амаме."
   },
   "file_profile_041": {
     "src": "Moma Kumakura",
@@ -352,7 +352,7 @@
   "file_profile_060": {
     "src": "She was commissioned to provide engineering support for the Psync device, but recent circumstances led to her becoming the operator.",
     "yax": "Ей было поручено обеспечить инженерную поддержку устройства Psync, но недавние обстоятельства привели к тому, что она стала оператором.",
-    "trx": "<size=75%>Ее поручением было обслуживание псинк-машины, но из-за недавних обстоятельств она стала ее оператором."
+    "trx": "<size=75%>Её поручением было обслуживание псинк-машины, но из-за недавних обстоятельств она стала её оператором."
   },
   "file_profile_061": {
     "src": "Akemi, \"Lizard Woman\"",
@@ -407,12 +407,12 @@
   "file_profile_071": {
     "src": "Instantly finding Hina's location and leading her wherever she wants",
     "yax": "Мгновенно определяя местоположение Хины и ведя ее туда, куда она захочет",
-    "trx": "<size=75%>Мгновенное определение местоположения Хины и направление ее туда, куда она желает"
+    "trx": "<size=75%>Мгновенное определение местоположения Хины и направление её туда, куда она желает"
   },
   "file_profile_072": {
     "src": "A Reptilian and hostess of the Third Eye Games. She's trapped Iris, presenting the rules and progress of the game from behind a monitor.",
     "yax": "Рептилия и ведущая игр \"Третий глаз\". Она поймала Айрис в ловушку и рассказывает о правилах и ходе игры из-за монитора.",
-    "trx": "<size=75%>Рептилия и ведущая игры \"Третий глаз\". Она удерживает Айрис и рассказывает о правилах и ходе игры, появляясь в мониторе."
+    "trx": "<size=75%>Рептилия и ведущая игры \"Третий Глаз\". Она удерживает Айрис и рассказывает о правилах и ходе игры, появляясь в мониторе."
   },
   "file_profile_073": {
     "src": "In actuality, she is an AI which Hina created by copying Sakura Asahi's personality and thoughts.",
@@ -497,7 +497,7 @@
   "file_profile_089": {
     "src": "Wine, Gourd dolls, Anything Shiny or Black",
     "yax": "Вино, Тыквенные куклы, Что-нибудь блестящее или черное",
-    "trx": "<size=75%>Вино, Тыквенные куклы, Всё блестящее и черное"
+    "trx": "<size=75%>Вино, Тыквенные куклы, Всё блестящее и чёрное"
   },
   "file_profile_090": {
     "src": "Decluttering, Happy Families, Ex-Boyfriends, MPD's Director",
@@ -567,7 +567,7 @@
   "file_profile_103": {
     "src": "An ABIS engineer, mechanic, and all around a capable scientist. Though he was in charge of managing and optimizing the Psync machine, a crime he committed got him discharged and taken into detention.",
     "yax": "Инженер ABIS, механик и, по сути, способный ученый. Хотя он отвечал за управление и оптимизацию машины Psync, из-за совершенного им преступления его уволили и поместили под стражу.",
-    "trx": "<size=75%>Инженер ABIS, механик и, по сути, способный ученый. Ранее отвечал за управление псинк-машиной и ее оптимизацию, но из-за совершенного преступления был уволен и помещен под стражу."
+    "trx": "<size=75%>Инженер ABIS, механик и, по сути, способный учёный. Ранее отвечал за управление псинк-машиной и её оптимизацию, но из-за совершенного преступления был уволен и помещён под стражу."
   },
   "file_profile_104": {
     "src": "Kuruto Ryuki",
@@ -617,7 +617,7 @@
   "file_profile_113": {
     "src": "A highly educated rich boy hired right out of school. He is another Psyncer with an AI-Ball in his left eye.",
     "yax": "Высокообразованный богатый мальчик, принятый на работу сразу после окончания школы. Он еще один псайнер с ИИ-шаром в левом глазу.",
-    "trx": "<size=75%>Хорошо образованный богатый парень, нанятый сразу после школы. Еще один псинкер с глазным роботом в левой глазнице."
+    "trx": "<size=75%>Хорошо образованный богатый парень, нанятый сразу после школы. Ещё один псинкер с глазным роботом в левой глазнице."
   },
   "file_profile_114": {
     "src": "Tama",
@@ -717,7 +717,7 @@
   "file_profile_133": {
     "src": "The adoptive daughter of Kaname Date after her parents, Renju Okiura and Shoko Nadami, passed away. She sometimes assists Date when he needs the extra muscle power. Gets along well with Iris and Amame.",
     "yax": "Приемная дочь Канаме Датэ после смерти ее родителей, Рэндзю Окиуры и Секо Надами. Иногда она помогает Датэ, когда ему нужна дополнительная мышечная сила. Хорошо ладит с Айрис и Амаме.",
-    "trx": "<size=75%>Приемная дочь Канаме Датэ после смерти ее родителей, Рэндзю Окиуры и Сёко Надами. Иногда помогает Датэ, если ему нужна боевая мощь. Хорошо ладит с Айрис и Амаме."
+    "trx": "<size=75%>Приёмная дочь Канаме Датэ после смерти её родителей, Рэндзю Окиуры и Сёко Надами. Иногда помогает Датэ, если ему нужна боевая мощь. Хорошо ладит с Айрис и Амаме."
   },
   "file_profile_134": {
     "src": "Gen Ishiyagane",
@@ -807,7 +807,7 @@
   "file_profile_151": {
     "src": "Building Model Planes and Spaceships",
     "yax": "Создание моделей самолетов и космических кораблей",
-    "trx": "<size=75%>Изготовление моделей самолетов и космических кораблей"
+    "trx": "<size=75%>Изготовление моделей самолётов и космических кораблей"
   },
   "file_profile_152": {
     "src": "Extraordinary Lockpicking Ability",
@@ -992,7 +992,7 @@
   "file_profile_188": {
     "src": "Lemniscate's receptionist",
     "yax": "Секретарша Лемнискаты в приемной",
-    "trx": "<size=75%>Секретарша в приемной Лемнискейт"
+    "trx": "<size=75%>Секретарша в приёмной Лемнискейт"
   },
   "file_profile_189": {
     "src": "Yellow-spotted river turtles, Atami",
@@ -1017,7 +1017,7 @@
   "file_profile_193": {
     "src": "She is Lemniscate's receptionist. She LOVES a man with a deep, gravelly voice, y'know? She's totally in love with that shiz. Kinda has an upset stomach lately, which sucks.",
     "yax": "Она секретарша в приемной Лемнискейта. Ей НРАВИТСЯ мужчина с глубоким, сиплым голосом, понимаете? Она по уши влюблена в этого придурка. В последнее время у нее что-то вроде расстройства желудка, и это паршиво.",
-    "trx": "<size=75%>Секретарша в приемной Лемнискейт. Знаете, она ЛЮБИТ мужчину с глубоким, серьезным голосом. Она по уши влюблена в этого шизика. С недавних пор страдает расстройством желудка, и это отстой."
+    "trx": "<size=75%>Секретарша в приёмной Лемнискейт. Знаете, она ЛЮБИТ мужчину с глубоким, серьёзным голосом. Она по уши влюблена в этого шизика. С недавних пор страдает расстройством желудка, и это отстой."
   },
   "file_profile_194": {
     "src": "Araya Kagami",
@@ -1062,7 +1062,7 @@
   "file_profile_202": {
     "src": "Pretending to be dead",
     "yax": "Притворяясь мертвым",
-    "trx": "<size=75%>Притворяться мертвым"
+    "trx": "<size=75%>Притворяться мёртвым"
   },
   "file_profile_203": {
     "src": "A talented inspector. Due to his impressive skills, he was personally assigned to assist with the investigation of a cold case. Apparently, his mask hides quite the handsome face.",
@@ -1167,7 +1167,7 @@
   "file_profile_223": {
     "src": "He was a member of the Kumakura gang until recently, but he quit and got a more respectable job in video production.",
     "yax": "До недавнего времени он был членом банды Кумакура, но уволился и нашел более респектабельную работу в сфере видеопроизводства.",
-    "trx": "<size=75%>До недавнего времени был членом банды Кумакура, но покинул ее и нашел порядочную работу в сфере видеопроизводства."
+    "trx": "<size=75%>До недавнего времени был членом банды Кумакура, но покинул её и нашёл порядочную работу в сфере видеопроизводства."
   },
   "file_profile_title_001": {
     "src": "Date",

@@ -197,7 +197,7 @@
   "flowchart_font_kakugo_l_014": {
     "src": "CHAPTER 5 23:20 Distortional Knighthood",
     "yax": "ГЛАВА 5 23:20 Искаженное посвящение в рыцари",
-    "trx": "ГЛАВА 5 23:20 Искаженное рыцарство"
+    "trx": "ГЛАВА 5 23:20 Искажённое рыцарство"
   },
   "flowchart_font_options_027": {
     "src": "CHAPTER 5 23:20",
@@ -207,7 +207,7 @@
   "flowchart_font_options_028": {
     "src": "Distortional Knighthood",
     "yax": "Искаженное рыцарство",
-    "trx": "Искаженное рыцарство"
+    "trx": "Искажённое рыцарство"
   },
   "flowchart_font_kakugo_l_015": {
     "src": "CHAPTER 5 23:30 Fugetsu Gentaku -Shout Chorus-",
@@ -247,12 +247,12 @@
   "flowchart_font_options_034": {
     "src": "Date briefly lost his pursuers, but they caught up to him soon after he arrived at Golden Yokocho.\n\nIt looked like he was done for, but suddenly, aliens appeared and abducted the pursuers. For a moment, it seemed like he was saved, but then he saw Iris among the abducted.\n\nDespite his confusion, Date himself leaped after Iris...",
     "yax": "Дэйт ненадолго оторвался от преследователей, но они настигли его вскоре после того, как он прибыл в Голден Йокочо.\n\nКазалось, что ему конец, но внезапно появились инопланетяне и похитили преследователей. На мгновение ему показалось, что он спасен, но затем он увидел Айрис среди похищенных.\n\nНесмотря на свое замешательство, Дейт сам бросился за Айрис...",
-    "trx": "Датэ ненадолго оторвался от преследователей, но они настигли его, как только он добрался до Голден Йокотё.\n\nЕму бы, вероятно, пришел конец, если бы внезапно появившаяся летающая тарелка не похитила его преследователей. Уже казалось, что он спасен, но тут среди похищенных он заметил Айрис.\n\nОправившись от шока, Датэ бросился за ней..."
+    "trx": "Датэ ненадолго оторвался от преследователей, но они настигли его, как только он добрался до Голден Йокотё.\n\nЕму бы, вероятно, пришёл конец, если бы внезапно появившаяся летающая тарелка не похитила его преследователей. Уже казалось, что он спасён, но тут среди похищенных он заметил Айрис.\n\nОправившись от шока, Датэ бросился ей на помощь..."
   },
   "flowchart_font_options_035": {
     "src": "Iris has been abducted by a mysterious UFO, which appears to be the creation of an advanced ancient civilization! Do they plan to whisk her away across the galaxy?!\n \nEscape 1: Escape From the \"Ancient Civilization\"\n \nLook forward to it!",
     "yax": "Айрис была похищена таинственным НЛО, которое, по-видимому, является созданием высокоразвитой древней цивилизации! Они планируют увезти ее через всю галактику?!\n \nПобег 1: Побег от \"Древней цивилизации\"\n \nС нетерпением ждем этого!",
-    "trx": "Айрис была похищена таинственным НЛО, вероятно, созданным высокоразвитой древней цивилизацией! Планируют ли они увезти ее на другой конец галактики?!\n \nПобег 1: Побег от \"Древней цивилизации\"\n \nС нетерпением ждем продолжения!"
+    "trx": "Айрис была похищена таинственным НЛО, вероятно, созданным высокоразвитой древней цивилизацией! Планируют ли они увезти её на другой конец галактики?!\n \nПобег 1: Побег от \"Древней цивилизации\"\n \nС нетерпением ждём продолжения!"
   },
   "flowchart_font_options_036": {
     "src": "Running for his life, UFOs... It all seemed like a weird dream, but it turned out that Iris really was missing...",
@@ -262,7 +262,7 @@
   "flowchart_font_options_037": {
     "src": "Tracing Iris's phone GPS didn't lead to any useful information.\nWhile investigating her disappearance, Date looks for Mizuki and arrives at the Warehouse District, only to find a mysterious pod. For some reason, the pod had \"Psync me\" written on it.\n\nAfter bringing the pod back to ABIS, they find out that it can indeed be connected to the Psync machine, and Date Psyncs with whoever is inside.",
     "yax": "Поиск по GPS-навигатору телефона Айрис не дал никакой полезной информации.\nРасследуя ее исчезновение, Дейт ищет Мизуки и прибывает в район Складов, где находит таинственный контейнер. По какой-то причине на контейнере было написано \"Psync me\".\n\nПосле того, как они вернули модуль ABIS, они выяснили, что его действительно можно подключить к компьютеру Psync, и назначать Psyncs свидания с теми, кто находится внутри.",
-    "trx": "Отслеживание датчика GPS в телефоне Айрис не дало никакой полезной информации. Расследуя ее исчезновение, Датэ ищет Мизуки и попадает в район портовых складов, где обнаруживает таинственную капсулу. На капсуле почему-то написано \"Псинхронизируйся со мной\".\n\nПосле возвращения капсулы в ABIS выясняется, что ее действительно можно подключить к псинк-машине, и Датэ начинает псинхронизацию с тем, кто находится внутри."
+    "trx": "Отслеживание датчика GPS в телефоне Айрис не дало никакой полезной информации. Расследуя её исчезновение, Датэ ищет Мизуки и попадает в район портовых складов, где обнаруживает таинственную капсулу. На капсуле почему-то написано \"Псинхронизируйся со мной\".\n\nПосле возвращения капсулы в ABIS выясняется, что её действительно можно подключить к псинк-машине, и Датэ начинает псинхронизацию с тем, кто находится внутри."
   },
   "flowchart_font_options_038": {
     "src": "Target: Person of Interest I\nObjective: Find out the identity of Person of Interest I!\n\nA pod that can't be opened and a Psync target that can't be known...\n\nDelve into their dreams and look for clues that could reveal their identity.",
@@ -277,12 +277,12 @@
   "flowchart_font_options_040": {
     "src": "Date and Aiba were unable to confirm if there was a connection between the Somnium and the escape game. The scene of Iris's murder they saw within Somnium was suddenly uploaded to ViewQube in real life.\n\nDate feared Iris might've actually been killed, but ended up more confused as she suddenly contacted him.\n\nThe Escape Game was not over yet...",
     "yax": "Дэйт и Aiba не смогли подтвердить, есть ли связь между Somnium и игрой escape. Сцена убийства Айрис, которую они видели в Somnium, внезапно была загружена на ViewQube в реальной жизни.\n\nДейт испугался, что Айрис действительно могла быть убита, но еще больше запутался, когда она внезапно связалась с ним.\n\nИгра в побег еще не закончилась...",
-    "trx": "Датэ и Айба не смогли найти связь между сомниумом и игрой-побегом. Сцена убийства Айрис, которую они увидели в сомниуме, внезапно оказалась загружена на ViewQube в реальной жизни.\n\nДатэ испугался, что Айрис в самом деле могла быть убита, но еще больше запутался, когда она внезапно связалась с ним.\n\nИгра-побег еще не завершена..."
+    "trx": "Датэ и Айба не смогли найти связь между сомниумом и игрой-побегом. Сцена убийства Айрис, которую они увидели в сомниуме, внезапно оказалась загружена на ViewQube в реальной жизни.\n\nДатэ испугался, что Айрис в самом деле могла быть убита, но ещё больше запутался, когда она внезапно связалась с ним.\n\nИгра-побег ещё не завершена..."
   },
   "flowchart_font_options_041": {
     "src": "Iris was locked within a mysterious box!\nThe water flowing in made it a dangerous race against time!\nWithout any help, Iris would drown!\nBut then, a certain someone showed up!\n \nEscape 2: Escape From the \"Curse\"\n \nLook forward to it!",
     "yax": "Айрис была заперта в таинственном ящике!\nВода, хлынувшая внутрь, превратила это путешествие в опасную гонку со временем!\nБез посторонней помощи Айрис бы утонула!\nНо тут появился кое-кто еще!\n \nПобег 2: Избавление от \"Проклятия\"\n \nС нетерпением ждем этого!",
-    "trx": "Айрис заперта в таинственном ящике!\nХлынувшая внутрь вода превращает эту игру в опасную гонку со временем!\n\nБез посторонней помощи Айрис может утонуть!\nНо тут появляется еще кое-кто!\n \nПобег 2: Побег от \"Проклятия\"\n \nС нетерпением ждем продолжения!"
+    "trx": "Айрис заперта в таинственном ящике!\nХлынувшая внутрь вода превращает эту игру в опасную гонку со временем!\n\nБез посторонней помощи Айрис может утонуть!\nНо тут появляется ещё кое-кто!\n \nПобег 2: Побег от \"Проклятия\"\n \nС нетерпением ждём продолжения!"
   },
   "flowchart_font_options_042": {
     "src": "Ota was not present at Matsushita Diner, due to being trapped in the same Escape Game as Iris. Unfortunately, he didn't know the game's location either, so there were still no leads to follow.",
@@ -292,17 +292,17 @@
   "flowchart_font_options_043": {
     "src": "Date, joined by Hina, the new Psync operator, decided to track down Moma, a prime suspect. However, the trail promptly ran cold.\nThey encountered Lien, who recommended they go to Marble and ask Mama for help. She had gotten into fortune telling, though following her predictions didn't yield anything useful. They only got a strange clue that suggested Iris may have been in two places at once.\n\nHaving reached a dead end in his investigation, Date chose to Psync with Person of Interest I once more...",
     "yax": "Дэйт, к которому присоединилась Хина, новый оператор Psync, решили разыскать Мому, главного подозреваемого. Однако след быстро затерялся.\nОни встретили Лин, которая порекомендовала им отправиться в Марбл и попросить маму о помощи. Она занялась гаданием, хотя следование ее предсказаниям не принесло ничего полезного. Они получили только странную подсказку, которая предполагала, что Айрис могла находиться в двух местах одновременно.\n\nЗайдя в тупик в своем расследовании, Дейт решил еще раз связаться с интересующим его лицом...",
-    "trx": "Датэ и примкнувшая к нему Хина, новый оператор псинк-машины, решили разыскать Мому — основного подозреваемого, — однако быстро потеряли его след. Они встретили Лиена, который рекомендовал им обратиться к Маме из Марбл. Она занялась предсказаниями, но следование им не принесло никакой пользы. Они получили лишь странную зацепку, согласно которой Айрис могла находиться в двух местах одновременно.\n\nЗайдя в тупик в своем расследовании, Датэ решил еще раз псинхронизироваться с Фигурантом I..."
+    "trx": "Датэ и примкнувшая к нему Хина, новый оператор псинк-машины, решили разыскать Мому — основного подозреваемого, — однако быстро потеряли его след. Они встретили Лиена, который рекомендовал им обратиться к Маме из Марбл. Она занялась предсказаниями, но следование им не принесло никакой пользы. Они получили лишь странную зацепку, согласно которой Айрис могла находиться в двух местах одновременно.\n\nЗайдя в тупик в своём расследовании, Датэ решил ещё раз псинхронизироваться с Фигурантом I..."
   },
   "flowchart_font_options_044": {
     "src": "Target: Person of Interest I\nObjective: Find out the truth behind Person of Interest I!\n\nReach the lower depths of this Psync subject and expose them to find more information about The Third Eye Game.",
     "yax": "Цель: Заинтересованное лицо I.\nЦель: Выяснить правду о заинтересованном лице I!\n\nДоберитесь до самых глубин этого предмета Psync и раскройте его, чтобы найти больше информации об игре Third Eye.",
-    "trx": "Субъект: Фигурант I.\nЦель: Выяснить правду о Фигуранте I!\n\nДоберитесь до самых глубин этого сомниума и определите личность субъекта, чтобы добыть больше информации об игре \"Третий глаз\"."
+    "trx": "Субъект: Фигурант I.\nЦель: Выяснить правду о Фигуранте I!\n\nДоберитесь до самых глубин этого сомниума и определите личность субъекта, чтобы добыть больше информации об игре \"Третий Глаз\"."
   },
   "flowchart_font_options_045": {
     "src": "Person of Interest I was Pewter. Very strange, as certain circumstances had led him to being locked up in a detention center...",
     "yax": "Интересующим меня лицом был Пьютер. Очень странно, поскольку определенные обстоятельства привели к тому, что он был заключен в центр временного содержания...",
-    "trx": "Фигурантом I оказался Пьютер. Что очень странно, поскольку из-за определенных обстоятельств он должен быть заперт в следственном изоляторе..."
+    "trx": "Фигурантом I оказался Пьютер. Что очень странно, поскольку из-за определённых обстоятельств он должен быть заперт в следственном изоляторе..."
   },
   "flowchart_font_options_046": {
     "src": "The Psync was simply to get the indictment against Pewter dropped.\n\nThe Somnia and Escapes were linked because Pewter knew the original game, and the scene where Iris was murdered was based on an internet drama. \n\nThen, Boss slipped up and revealed that the organizer of the escape game was Mizuki. Date drove to Mizuki's place. However, just as he arrived, he received a call from Iris...",
@@ -312,7 +312,7 @@
   "flowchart_font_options_047": {
     "src": "With Ota's help, Iris escaped death within the accursed box!\nSearching for a way out, they arrived at a mysterious space with a starry sky above!\nBut no sooner was Iris free than Ota ended up trapped!\nWarping space, the smell of gunpowder...\nWhat's going to happen to them?!\n \nEscape 3: Escape From the \"Invitation to An Otherworld\"\n \nLook forward to it!",
     "yax": "С помощью Оты Айрис избежала смерти в проклятом ящике!\nВ поисках выхода они оказались в таинственном пространстве со звездным небом над головой!\nНо не успела Айрис освободиться, как Ота оказался в ловушке!\nИскривление пространства, запах пороха...\nЧто с ними будет?!\n \nПобег 3: Уклонение от \"Приглашения в иной мир\"\n \nС нетерпением ждем этого!",
-    "trx": "При помощи Оты Айрис смогла избежать смерти в проклятом ящике! В поисках выхода они оказались в загадочном помещении со звездным небом наверху! Но стоило Айрис освободиться, как в ловушке оказался Ота!\n\nИскривление пространства, запах пороха...\nЧто же случится с ними?!\n \nПобег 3: Побег от \"Приглашения в иной мир\"\n \nС нетерпением ждем продолжения!"
+    "trx": "При помощи Оты Айрис смогла избежать смерти в проклятом ящике! В поисках выхода они оказались в загадочном помещении со звёздным небом наверху! Но стоило Айрис освободиться, как в ловушке оказался Ота!\n\nИскривление пространства, запах пороха...\nЧто же случится с ними?!\n \nПобег 3: Побег от \"Приглашения в иной мир\"\n \nС нетерпением ждём продолжения!"
   },
   "flowchart_font_options_048": {
     "src": "Despite being the prime suspect for Iris's kidnapping, it turned out Moma was also stuck within the Escape Game.",
@@ -322,12 +322,12 @@
   "flowchart_font_options_049": {
     "src": "Though they solved the Escape Game together, Iris ended up separated from Ota and Moma.\n\nThe Escape Game had been Mizuki's plan, but Iris's disappearance certainly was not. The mysterious \"Asahi\" was responsible, but even Aiba couldn't uncover much.\nThankfully, Moma knew where the Escape Game was: the abandoned station in the Kabasaki District. Date called Ryuki for backup, which proved fortunate as they were soon attacked.\n\nAs Date prepared to enter the Escape Game, he recalled a memory of Hina there from six years ago...",
     "yax": "Несмотря на то, что они вместе разгадали игру \"Побег\", Айрис в итоге рассталась с Отой и Момой.\n\nИгра \"Побег\" была планом Мизуки, но исчезновение Айрис, конечно, не входило в его планы. Таинственный \"Асахи\" был ответственен за это, но даже Айба не смог многого раскрыть.\nК счастью, Мома знал, где находится игра-побег: на заброшенной станции в районе Кабасаки. Дейт вызвал Рюки на подмогу, что оказалось удачным, поскольку вскоре на них напали.\n\nКогда Дейт готовился вступить в игру-побег, он вспомнил, что Хина была там шесть лет назад...",
-    "trx": "Несмотря на то, что они закончили игру-побег вместе, Айрис в итоге оказалась разделена с Отой и Момой.\n\nХоть Мизуки и организовала игру-побег, исчезновение Айрис, естественно, не входило в ее планы. Ответственной за это оказалась некая Асахи, но даже Айбе не удалось почти ничего узнать. К счастью, Мома знал, где проводилась игра-побег: на заброшенной станции в районе Кабасаки. Датэ вызвал на подмогу Рюки, что пришлось очень кстати, поскольку вскоре на них напали.\n\nГотовясь проникнуть в игру-побег, Датэ вдруг вспомнил, что Хина была там шесть лет назад..."
+    "trx": "Несмотря на то, что они закончили игру-побег вместе, Айрис в итоге оказалась разделена с Отой и Момой.\n\nХоть Мизуки и организовала игру-побег, исчезновение Айрис, естественно, не входило в её планы. Ответственной за это оказалась некая Асахи, но даже Айбе не удалось почти ничего узнать. К счастью, Мома знал, где проводилась игра-побег: на заброшенной станции в районе Кабасаки. Датэ вызвал на подмогу Рюки, что пришлось очень кстати, поскольку вскоре на них напали.\n\nГотовясь проникнуть в игру-побег, Датэ вдруг вспомнил, что Хина была там шесть лет назад..."
   },
   "flowchart_font_options_050": {
     "src": "Nobody knows where Iris went! Again!\nDate himself steps up to the challenge!\nBut would joining forces with Ota and Moma really be enough?\n \nEscape 4: Escape From the \"Non-Existent Station.\"\n \nPlease look forward to it!",
     "yax": "Никто не знает, куда подевалась Айрис! Снова!\nДейт сам принимает вызов!\nНо будет ли достаточно объединить усилия с Отой и Мома?\n \nПобег 4: Побег с \"Несуществующей станции\".\n \nПожалуйста, ждите этого с нетерпением!",
-    "trx": "Никто не знает, куда делась Айрис! Опять!\nДатэ лично вступает в игру!\nНо достаточно ли ему будет объединить усилия с Отой и Момой?\n \nПобег 4: Побег с \"Несуществующей станции\".\n \nС нетерпением ждем продолжения!"
+    "trx": "Никто не знает, куда делась Айрис! Опять!\nДатэ лично вступает в игру!\nНо достаточно ли ему будет объединить усилия с Отой и Момой?\n \nПобег 4: Побег с \"Несуществующей станции\".\n \nС нетерпением ждём продолжения!"
   },
   "flowchart_font_options_051": {
     "src": "Date, Ota, and Moma successfully escape but find another pod...",
@@ -337,7 +337,7 @@
   "flowchart_font_options_052": {
     "src": "A following police investigation yielded evidence that Iris was taken away somewhere else, and that both Hina and Sakura Asahi's fingerprints were somehow present on the scene.\n\nDate tracked Hina to Ikume Shrine, but he and Ryuki were then attacked again. But, thanks to their skills and Mizuki's help, they made it out in one piece.\n\nHina was brought back to ABIS, but she refused to talk. However, it was clear that she knew who was inside the pod.\n\nDate, convinced that the person inside held all the keys, chose to Psync again...",
     "yax": "Последующее полицейское расследование показало, что Айрис увезли в другое место, и что на месте преступления каким-то образом оказались отпечатки пальцев Хины и Сакуры Асахи.\n\nДейт проследил за Хиной до храма Икуме, но затем на него и Рюки снова напали. Но, благодаря своим навыкам и помощи Мизуки, они выбрались целыми и невредимыми.\n\nХину вернули в АБИС, но она отказалась разговаривать. Однако было ясно, что она знала, кто находится внутри капсулы.\n\nДейт, убедившись, что все ключи находятся у человека, находящегося внутри, снова включил Psync...",
-    "trx": "В последовавшем полицейском расследовании было установлено, что Айрис перевезли куда-то еще, а на месте преступления по какой-то причине были найдены отпечатки пальцев Хины и Сакуры Асахи. Датэ отследил Хину до храма Икуме, но там на него и Рюки снова напали. Благодаря своим навыкам и помощи Мизуки они выбрались из передряги невредимыми.\n\nХину доставили в ABIS, но она отказалась отвечать. Однако было ясно, что она знала, кто находится внутри капсулы. Датэ, уверенный, что тот, кто находится внутри, владеет необходимой информацией, решается на новую псинхронизацию..."
+    "trx": "В последовавшем полицейском расследовании было установлено, что Айрис перевезли куда-то ещё, а на месте преступления по какой-то причине были найдены отпечатки пальцев Хины и Сакуры Асахи. Датэ отследил Хину до храма Икуме, но там на него и Рюки снова напали. Благодаря своим навыкам и помощи Мизуки они выбрались из передряги невредимыми.\n\nХину доставили в ABIS, но она отказалась отвечать. Однако было ясно, что она знала, кто находится внутри капсулы. Датэ, уверенный, что тот, кто находится внутри, владеет необходимой информацией, решается на новую псинхронизацию..."
   },
   "flowchart_font_options_053": {
     "src": "Target: Person of Interest J\nObjective: Find out Person of Interest J's identity and the truth behind it all!\n\nThe darkness of this case is within the pod...\nThe plans and plotting of the mysterious person...\nFind the keys to solve it all.",
@@ -347,7 +347,7 @@
   "flowchart_font_options_054": {
     "src": "Date and Aiba discovered the person in the pod was Sakura Asahi, who had disappeared six years ago. Stranger still, there was also an AI based on her yet who existed independently.",
     "yax": "Дейт и Айба обнаружили, что человеком в капсуле была Сакура Асахи, которая исчезла шесть лет назад. Что еще более странно, там был ИИ, основанный на ней, но существовавший независимо.",
-    "trx": "Датэ и Айба обнаружили, что в капсуле находилась исчезнувшая шесть лет назад Сакура Асахи. Что еще более странно, в капсуле также находился ИИ, основанный на ее личности, но существующий независимо."
+    "trx": "Датэ и Айба обнаружили, что в капсуле находилась исчезнувшая шесть лет назад Сакура Асахи. Что ещё более странно, в капсуле также находился ИИ, основанный на её личности, но существующий независимо."
   },
   "flowchart_font_options_055": {
     "src": "Simply destroying the pod was not an option. Though it would also destroy the AI, the pod acted as Sakura Asahi's life support and contained Iris. Brute force could not solve this problem.\n\nThrough investigation, Date and Hina determined Iris was held in Bloom Park, where they were faced with the AI's final puzzle...\n\nDate appealed to the AI's human-like behavior and got a hint, which he used to save Iris.\n\nFinally, with all said and done, Date went to sleep.",
@@ -362,7 +362,7 @@
   "flowchart_font_options_057": {
     "src": "While the report itself was fine, Date hadn't taken any comments from those involved in the case. He begrudgingly bent to Boss's command and went to do some interviews.\n\nThey talked not just about the case, but also about AI, Iris, the future, and many other things.\n\nSakura Asahi was able to recover and reunite with Hina.\n\nFinally, Iris danced, hopped, and frolicked onto the stage of her future, like a rabbit that escaped its cage and leaped to the moon.\n\nDaring, bold, and free...",
     "yax": "Несмотря на то, что сам отчет был в порядке, Дэйт не получил никаких комментариев от участников дела. Он неохотно подчинился приказу Босса и пошел давать интервью.\n\nОни говорили не только о деле, но и об искусственном интеллекте, Iris, будущем и многом другом.\n\nСакура Асахи смогла восстановиться и воссоединиться с Хиной.\n\nНаконец, Айрис танцевала, прыгала и резвилась на сцене своего будущего, как кролик, который вырвался из клетки и прыгнул на Луну.\n\nСмелая, дерзновенная и свободная...",
-    "trx": "Хоть сам отчет и был в порядке, Датэ пока не получил комментариев от участников дела. Он неохотно подчинился приказу Босса и отправился опрашивать свидетелей.\n\nОни говорили не только о деле, но также об искусственном интеллекте, о будущем, об Айрис и многом другом.\n\nСакура Асахи поправилась и воссоединилась с Хиной.\n\nА Айрис танцевала, скакала и резвилась на сцене своего будущего, как кролик, сбежавший из клетки и сумевший допрыгнуть до Луны. Смелая, дерзкая и свободная..."
+    "trx": "Хоть сам отчёт и был в порядке, Датэ пока не получил комментариев от участников дела. Он неохотно подчинился приказу Босса и отправился опрашивать свидетелей.\n\nОни говорили не только о деле, но также об искусственном интеллекте, о будущем, об Айрис и многом другом.\n\nСакура Асахи поправилась и воссоединилась с Хиной.\n\nА Айрис танцевала, скакала и резвилась на сцене своего будущего, как кролик, сбежавший из клетки и сумевший допрыгнуть до Луны. Смелая, дерзкая и свободная..."
   },
   "flowchart_font_options_058": {
     "src": "----",
@@ -657,7 +657,7 @@
   "flowchart_other_message_window_002": {
     "src": "This will end the current Psync and start\n [title],\n Investigation.\n Continue?",
     "yax": "Это завершит текущую синхронизацию данных и запустит\n [название],\n Расследование.\n Продолжать?",
-    "trx": "Будет завершен текущий сомниум\nи запущено выбранное расследование:\n<line-height=75%>\n</line-height>[title].\n<line-height=75%>\n</line-height>Продолжить?<line-height=50%>\n "
+    "trx": "Будет завершён текущий сомниум\nи запущено выбранное расследование:\n<line-height=75%>\n</line-height>[title].\n<line-height=75%>\n</line-height>Продолжить?<line-height=50%>\n "
   },
   "flowchart_other_message_window_003": {
     "src": "This will start\n [title],\n Investigation.\n Continue?",
@@ -667,7 +667,7 @@
   "flowchart_other_message_window_004": {
     "src": "This will end the current Escape and start\n [title],\n Investigation.\n Continue?",
     "yax": "Это завершит текущее экранирование и запустит\n [название],\n Расследование.\n Продолжать?",
-    "trx": "Будет завершен текущий побег\nи запущено выбранное расследование:\n<line-height=75%>\n</line-height>[title].\n<line-height=75%>\n</line-height>Продолжить?<line-height=50%>\n "
+    "trx": "Будет завершён текущий побег\nи запущено выбранное расследование:\n<line-height=75%>\n</line-height>[title].\n<line-height=75%>\n</line-height>Продолжить?<line-height=50%>\n "
   },
   "flowchart_other_message_window_005": {
     "src": "This will end the current Investigation and start\n [title],\n Psync.\n Continue?",
@@ -677,7 +677,7 @@
   "flowchart_other_message_window_006": {
     "src": "This will end the current Psync and start\n [title],\n Psync.\n Continue?",
     "yax": "Это завершит текущую Psync и запустит\n [название],\nPsync.\n Продолжить?",
-    "trx": "Будет завершен текущий сомниум\nи запущен выбранный сомниум:\n<line-height=75%>\n</line-height>[title].\n<line-height=75%>\n</line-height>Продолжить?<line-height=50%>\n "
+    "trx": "Будет завершён текущий сомниум\nи запущен выбранный сомниум:\n<line-height=75%>\n</line-height>[title].\n<line-height=75%>\n</line-height>Продолжить?<line-height=50%>\n "
   },
   "flowchart_other_message_window_007": {
     "src": "This will start\n [title],\n Psync.\n Continue?",
@@ -687,7 +687,7 @@
   "flowchart_other_message_window_008": {
     "src": "This will end the current Escape and start\n [title],\n Psync.\n Continue?",
     "yax": "Это завершит текущий Escape-процесс и запустит\n [название],\nPsync.\n Продолжить?",
-    "trx": "Будет завершен текущий побег\nи запущен выбранный сомниум:\n<line-height=75%>\n</line-height>[title].\n<line-height=75%>\n</line-height>Продолжить?<line-height=50%>\n "
+    "trx": "Будет завершён текущий побег\nи запущен выбранный сомниум:\n<line-height=75%>\n</line-height>[title].\n<line-height=75%>\n</line-height>Продолжить?<line-height=50%>\n "
   },
   "flowchart_other_message_window_009": {
     "src": "This will end the current Investigation and start\n [title],\n Psync without a time limit.\n <color=red>-Rewards for completing the Psync within the time limit cannot be acquired.</color>\n Continue?",
@@ -697,7 +697,7 @@
   "flowchart_other_message_window_010": {
     "src": "This will end the current Psync and start\n [title],\n Psync without a time limit.\n <color=red>-Rewards for completing the Psync within the time limit cannot be acquired.</color>\n Continue?",
     "yax": "Это завершит текущую Psync и запустит\n [название],\nPsync без ограничения по времени.\n <color=red> - Награды за выполнение Psync в установленные сроки получить невозможно.</color>\n Продолжить?",
-    "trx": "Будет завершен текущий сомниум\nи запущен выбранный сомниум без ограничения времени:\n<line-height=75%>\n</line-height>[title].\n<line-height=75%>\n</line-height><color=red>Награды за завершение сомниума без ограничения времени не выдаются.</color>\n<line-height=75%>\n</line-height>Продолжить?<line-height=50%>\n "
+    "trx": "Будет завершён текущий сомниум\nи запущен выбранный сомниум без ограничения времени:\n<line-height=75%>\n</line-height>[title].\n<line-height=75%>\n</line-height><color=red>Награды за завершение сомниума без ограничения времени не выдаются.</color>\n<line-height=75%>\n</line-height>Продолжить?<line-height=50%>\n "
   },
   "flowchart_other_message_window_011": {
     "src": "This will start\n [title],\n Psync without a time limit.\n <color=red>-Rewards for completing the Psync within the time limit cannot be acquired.</color>\n Continue?",
@@ -707,7 +707,7 @@
   "flowchart_other_message_window_012": {
     "src": "This will end the current Escape and start\n [title],\n Psync without a time limit.\n <color=red>-Rewards for completing the Psync within the time limit cannot be acquired.</color>\n Continue?",
     "yax": "Это положит конец текущему побегу и запустит\n [название],\nPsync без ограничения по времени.\n <color=red> - Награды за выполнение Psync в установленные сроки получить нельзя.</color>\n Продолжить?",
-    "trx": "Будет завершен текущий побег\nи запущен выбранный сомниум без ограничения времени:\n<line-height=75%>\n</line-height>[title].\n<line-height=75%>\n</line-height><color=red>Награды за завершение сомниума без ограничения времени не выдаются.</color>\n<line-height=75%>\n</line-height>Продолжить?<line-height=50%>\n "
+    "trx": "Будет завершён текущий побег\nи запущен выбранный сомниум без ограничения времени:\n<line-height=75%>\n</line-height>[title].\n<line-height=75%>\n</line-height><color=red>Награды за завершение сомниума без ограничения времени не выдаются.</color>\n<line-height=75%>\n</line-height>Продолжить?<line-height=50%>\n "
   },
   "flowchart_other_message_window_017": {
     "src": "This will end the current Investigation and start\n [title],\n Psync without a time limit.\n Continue?",
@@ -717,7 +717,7 @@
   "flowchart_other_message_window_018": {
     "src": "This will end the current Psync and start\n [title],\n Psync without a time limit.\n Continue?",
     "yax": "Это завершит текущую Psync и запустит\n [название],\nPsync без ограничения по времени.\n Продолжить?",
-    "trx": "Будет завершен текущий сомниум\nи запущен выбранный сомниум без ограничения времени:\n<line-height=75%>\n</line-height>[title].\n<line-height=75%>\n</line-height>Продолжить?<line-height=50%>\n "
+    "trx": "Будет завершён текущий сомниум\nи запущен выбранный сомниум без ограничения времени:\n<line-height=75%>\n</line-height>[title].\n<line-height=75%>\n</line-height>Продолжить?<line-height=50%>\n "
   },
   "flowchart_other_message_window_038": {
     "src": "This will start\n [title],\n Psync without a time limit.\n Continue?",
@@ -727,7 +727,7 @@
   "flowchart_other_message_window_039": {
     "src": "This will end the current Escape and start\n [title],\n Psync without a time limit.\n Continue?",
     "yax": "Это завершит текущий Escape-процесс и запустит\n [название],\nPsync без ограничения по времени.\n Продолжить?",
-    "trx": "Будет завершен текущий побег\nи запущен выбранный сомниум без ограничения времени:\n<line-height=75%>\n</line-height>[title].\n<line-height=75%>\n</line-height>Продолжить?<line-height=50%>\n "
+    "trx": "Будет завершён текущий побег\nи запущен выбранный сомниум без ограничения времени:\n<line-height=75%>\n</line-height>[title].\n<line-height=75%>\n</line-height>Продолжить?<line-height=50%>\n "
   },
   "flowchart_other_message_window_013": {
     "src": "This will end the current Investigation and start\n [title],\n Escape.\n Continue?",
@@ -737,7 +737,7 @@
   "flowchart_other_message_window_014": {
     "src": "This will end the current Psync and start\n [title],\n Escape.\n Continue?",
     "yax": "Это завершит текущую синхронизацию и запустит\n [название],\nEscape.\n Продолжить?",
-    "trx": "Будет завершен текущий сомниум\nи запущен выбранный побег:\n<line-height=75%>\n</line-height>[title].\n<line-height=75%>\n</line-height>Продолжить?<line-height=50%>\n "
+    "trx": "Будет завершён текущий сомниум\nи запущен выбранный побег:\n<line-height=75%>\n</line-height>[title].\n<line-height=75%>\n</line-height>Продолжить?<line-height=50%>\n "
   },
   "flowchart_other_message_window_015": {
     "src": "This will start\n [title],\n Escape.\n Continue?",
@@ -747,12 +747,12 @@
   "flowchart_other_message_window_016": {
     "src": "This will end the current Escape and start\n [title],\n Escape.\n Continue?",
     "yax": "Это завершит текущее экранирование и запустит\n [название],\nЭкранирование.\n Продолжить?",
-    "trx": "Будет завершен текущий побег\nи запущен выбранный побег:\n<line-height=75%>\n</line-height>[title].\n<line-height=75%>\n</line-height>Продолжить?<line-height=50%>\n "
+    "trx": "Будет завершён текущий побег\nи запущен выбранный побег:\n<line-height=75%>\n</line-height>[title].\n<line-height=75%>\n</line-height>Продолжить?<line-height=50%>\n "
   },
   "flowchart_other_message_window_019": {
     "src": "This will end the game and take you back to the main menu.\n Continue?",
     "yax": "После этого игра завершится, и вы вернетесь в главное меню.\n Продолжить?",
-    "trx": "При этом игра завершится и вы вернетесь в главное меню.\nПродолжить?"
+    "trx": "При этом игра завершится и вы вернётесь в главное меню.\nПродолжить?"
   },
   "flowchart_other_message_window_020": {
     "src": "If you want to play using Traditional Chinese,\nplease set your keyboard's input language to \"Chinese (System).\"",
@@ -882,7 +882,7 @@
   "flowchart_font_options_138": {
     "src": "#Incomplete",
     "yax": "#Неполный",
-    "trx": "#Не завершен"
+    "trx": "#Не завершён"
   },
   "flowchart_font_options_142": {
     "src": "#Investigation",
@@ -932,7 +932,7 @@
   "flowchart_font_options_151": {
     "src": "Start Escape from a certain location",
     "yax": "Начните побег из определенного места",
-    "trx": "Начать побег с определенного места"
+    "trx": "Начать побег с определённого места"
   },
   "flowchart_font_options_152": {
     "src": "123456789",
@@ -952,7 +952,7 @@
   "flowchart_font_options_155": {
     "src": "Investigation Report",
     "yax": "Отчет о расследовании",
-    "trx": "Отчет о расследовании"
+    "trx": "Отчёт о расследовании"
   },
   "flowchart_font_options_156": {
     "src": "Complete",

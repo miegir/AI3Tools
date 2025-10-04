@@ -110,6 +110,36 @@ internal class BundleFile : IDisposable
         }
     }
 
+    public int GetMonoBehaviorIndex(GameObject parent, AssetFileInfo asset)
+    {
+        var index = 0;
+
+        foreach (var component in GetComponents(parent))
+        {
+            if (component.TypeId != AssetClassID.MonoBehaviour)
+            {
+                continue;
+            }
+
+            if (component.Asset == asset)
+            {
+                return index;
+            }
+
+            index++;
+        }
+
+        return -1;
+    }
+
+    public GameObject GetMonoBehaviorAtIndex(GameObject parent, int index)
+    {
+        return GetComponents(parent)
+            .Where(c => c.TypeId == AssetClassID.MonoBehaviour)
+            .Skip(index)
+            .First();
+    }
+
     public GameObject? ResolveGameObject(AssetFileInfo relativeTo, AssetTypeValueField pointer)
     {
         if (pointer.IsDummy) return default;
@@ -325,7 +355,8 @@ internal class BundleFile : IDisposable
     public void Replace<TData>(AssetFileInfo asset, IObjectSource<TData> source) where TData : IWriteTo
     {
         var baseField = GetBaseField(asset);
-        source.Deserialize().WriteTo(baseField);
+        var writer = new AssetFieldWriter(logger, baseField);
+        source.Deserialize().WriteTo(writer);
         asset.SetNewData(baseField);
     }
 
@@ -571,7 +602,14 @@ internal class BundleFile : IDisposable
         {
             var child = gameObjectMap[childId];
             var parent = gameObjectMap[parentId];
+
             child.Parent = parent;
+            
+            if (child.Name.Length == 0)
+            {
+                child.Name = $"[{parent.Children.Count}]";
+            }
+
             parent.Children.Add(child);
         }
 

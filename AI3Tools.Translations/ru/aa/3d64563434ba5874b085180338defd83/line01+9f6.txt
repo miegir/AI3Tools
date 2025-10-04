@@ -1,5 +1,5 @@
 EN: CANCELED
-RU: ?
+RU: ОТМЕНЕНО
 
 TAGS:
-  [untranslated]
+  []

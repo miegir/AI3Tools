@@ -1,5 +1,5 @@
 EN: Item
-RU: ?
+RU: Предмет
 
 TAGS:
-  [untranslated]
+  []

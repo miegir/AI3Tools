@@ -1,5 +1,5 @@
 EN: Look
-RU: ?
+RU: Осмотр
 
 TAGS:
-  [untranslated]
+  []

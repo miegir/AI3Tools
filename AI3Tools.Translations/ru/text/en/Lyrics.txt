@@ -22,7 +22,7 @@
   "HalfToOneSolo_022": {
     "src": "Trace along the lemniscate and never letting go",
     "yax": "Проследи за лемнискатой и никогда не отпускай ее.",
-    "trx": "☯️Проследи за лемнискатой и никогда не отпускай ее."
+    "trx": "☯️Проследи за лемнискатой и никогда не отпускай её."
   },
   "HalfToOneSolo_023": {
     "src": "Our time is running out, so I'll say what should be said",
@@ -62,7 +62,7 @@
   "HalfToOneSolo_030": {
     "src": "Strawberry revolver to shoot your heart out free",
     "yax": "Клубничный револьвер, который прострелит твое сердце бесплатно",
-    "trx": "☯️Клубничный револьвер, который прострелит твое сердце бесплатно"
+    "trx": "☯️Клубничный револьвер, который прострелит твоё сердце бесплатно"
   },
   "HalfToOneSolo_031": {
     "src": "In sync, daring, and bold, as long as I have you",
@@ -77,7 +77,7 @@
   "HalfToOneSolo_033": {
     "src": "Kept my presents past 'cuz the future's coming even faster",
     "yax": "Оставил свои подарки в прошлом, потому что будущее наступает еще быстрее.",
-    "trx": "☯️Оставил свои подарки в прошлом, потому что будущее наступает еще быстрее."
+    "trx": "☯️Оставил свои подарки в прошлом, потому что будущее наступает ещё быстрее."
   },
   "HalfToOneSolo_034": {
     "src": "Couldn't bear to see them break, didn't dare make a mistake, heartache",
@@ -87,17 +87,17 @@
   "HalfToOneSolo_035": {
     "src": "And then I got to thinking pawns of time can not be queens, only halcyon dreams are pristine",
     "yax": "И тогда я пришел к мысли, что пешки времени не могут быть ферзями, только безмятежные мечты остаются нетронутыми.",
-    "trx": "☯️И тогда я пришел к мысли, что пешки времени не могут быть ферзями, только безмятежные мечты остаются нетронутыми."
+    "trx": "☯️И тогда я пришёл к мысли, что пешки времени не могут быть ферзями, только безмятежные мечты остаются нетронутыми."
   },
   "HalfToOneSolo_036": {
     "src": "Memories are lost to time, but we can make some more",
     "yax": "Воспоминания утрачены со временем, но мы можем создать еще что-то",
-    "trx": "☯️Воспоминания утрачены со временем, но мы можем создать еще что-то"
+    "trx": "☯️Воспоминания утрачены со временем, но мы можем создать ещё что-то"
   },
   "HalfToOneSolo_037": {
     "src": "I don't let it bother me, I got plenty left in me still",
     "yax": "Я не позволяю этому беспокоить меня, во мне еще много чего осталось.",
-    "trx": "☯️Я не позволяю этому беспокоить меня, во мне еще много чего осталось."
+    "trx": "☯️Я не позволяю этому беспокоить меня, во мне ещё много чего осталось."
   },
   "HalfToOneSolo_038": {
     "src": "And together we can always rebuild anything that breaks",
@@ -147,7 +147,7 @@
   "HalfToOneSolo_047": {
     "src": "I'm shouting \"I am right here!\" Hear my message ringing in the night",
     "yax": "Я кричу: \"Я здесь!\" Слышу, как в ночи раздается мое сообщение.",
-    "trx": "☯️Я кричу: \"Я здесь!\" Слышу, как в ночи раздается мое сообщение."
+    "trx": "☯️Я кричу: \"Я здесь!\" Слышу, как в ночи раздаётся моё сообщение."
   },
   "HalfToOneSolo_048": {
     "src": "Let me hear you out there! Jump with me!",
@@ -157,7 +157,7 @@
   "HalfToOneSolo_049": {
     "src": "Take my hand, escape with me, we'll make it to the end (Flying, rising, A-set you bet!)",
     "yax": "Возьми меня за руку, убегай со мной, мы дойдем до конца (Полет, взлет, победа, не сомневайся!)",
-    "trx": "☯️Возьми меня за руку, убегай со мной, мы дойдем до конца (Полет, взлет, победа, не сомневайся!)"
+    "trx": "☯️Возьми меня за руку, убегай со мной, мы дойдём до конца (Полет, взлёт, победа, не сомневайся!)"
   },
   "HalfToOneSolo_050": {
     "src": "I'll take you to the future on the dream you can depend (Photon, proton, A-set you bet!)",

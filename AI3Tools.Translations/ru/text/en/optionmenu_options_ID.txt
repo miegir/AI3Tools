@@ -7,7 +7,7 @@
   "optionmenu_options_002": {
     "src": "Please check off your requested categories below and submit to your superior.",
     "yax": "Пожалуйста, отметьте желаемые категории ниже и отправьте их своему начальнику.",
-    "trx": "Заполните приведенную ниже ведомость настроек и отправьте ее своему руководителю."
+    "trx": "Заполните приведённую ниже ведомость настроек и отправьте её своему руководителю."
   },
   "optionmenu_options_003": {
     "src": "Sound\n \n \n \n \n \nControls\n \n \n \n \n \n \n \n \n \nText\n \n \n \nScreen\n \nLanguage\nTutorial\n \n \nTrivia",
@@ -47,7 +47,7 @@
   "optionmenu_options_010": {
     "src": "Please check off your requested categories below and submit to your superior.",
     "yax": "Пожалуйста, отметьте желаемые категории ниже и отправьте их своему начальнику.",
-    "trx": "Заполните приведенную ниже ведомость сложности и отправьте ее своему руководителю."
+    "trx": "Заполните приведённую ниже ведомость сложности и отправьте её своему руководителю."
   },
   "optionmenu_options_011": {
     "src": "Investigation (QTE)\n \n \n \n \n \n \nSomnium\n \n \n \n \n \n \n \n \nEscape",
@@ -57,7 +57,7 @@
   "optionmenu_options_012": {
     "src": "Standard\n \nEasy\n \nStory\n \n \nStandard\n \n \nEasy\n \n \nStory\n \n \nHard\n \n \nStandard\n \n \nEasy\n \n \nStory\n\n \nReset to Default",
     "yax": "Стандарт\n \nЛегко\n \nИстория\n \n \nСтандарт\n \n \nЛегко\n \n \nИстория\n \n \nТрудный\n \n \nСтандарт\n \n \nЛегко\n \n \nИстория\n\n \nСброс к значению по умолчанию",
-    "trx": "Обычная\n \nЛегкая\n \nИстория\n \n \nОбычная\n \n \nЛегкая\n \n \nИстория\n \n \nТяжелая\n \n \nОбычная\n \n \nЛегкая\n \n \nИстория\n\n \nСброс параметров"
+    "trx": "Обычная\n \nЛёгкая\n \nИстория\n \n \nОбычная\n \n \nЛёгкая\n \n \nИстория\n \n \nТяжёлая\n \n \nОбычная\n \n \nЛёгкая\n \n \nИстория\n\n \nСброс параметров"
   },
   "optionmenu_options_013": {
     "src": "・Time Limit: Normal\n・Repeat Count: Normal\n・Time Limit: Double\n・Repeat Count: 1/2\n・Time Limit: Infinite\n・Repeat Count: Always 3\n・No failures for mistakes\n・Countdown Speed: Normal\n・Choice Time Cost: Normal\n・Retry Count: 3\n・Countdown Speed: 1/2\n・Choice Time Cost: 1/2\n・Retry Count: 6\n・Countdown Speed: 1/4\n・Choice Time Cost: 1/4\n・Retry Count: Infinite\n・Crisis Time: 0.8\n・Search Limit: 0\n・Hints: Few\n・Crisis Time: Normal\n・Search Limit: 10\n・Hints: Many\n・Crisis Time: Double\n・Search Limit: Infinite\n・Hints: Many\n・Crisis Time: 4x\n・Search Limit: Infinite\n・Hints: Until Solved",
@@ -202,7 +202,7 @@
   "optionmenu_options_message_027": {
     "src": "QTE Difficulty\n Easy\n Makes it relatively easier to progress.",
     "yax": "Сложность QTE\n Легко\n Это относительно облегчает прогресс.",
-    "trx": "Сложность QTE:\nЛегкая\n\nВыполнение последовательностей QTE становится легче."
+    "trx": "Сложность QTE:\nЛёгкая\n\nВыполнение последовательностей QTE становится легче."
   },
   "optionmenu_options_message_028": {
     "src": "QTE Difficulty\n Story\n For players who want to focus on the story.",
@@ -212,12 +212,12 @@
   "optionmenu_options_message_029": {
     "src": "Somnium Time Limit\n Standard\n This is the recommended setting.\n Should provide a tense experience you can sink your teeth into.",
     "yax": "Ограничение по времени сна\n Стандарт\n Это рекомендуемая настройка.\n Она должна создавать ощущение напряжения, от которого можно впиться зубами.",
-    "trx": "Сложность сомниумов:\nОбычная\n\nЭто рекомендуемая сложность. Должна создавать ощущение напряжения, от которого вам придется стиснуть зубы."
+    "trx": "Сложность сомниумов:\nОбычная\n\nЭто рекомендуемая сложность. Должна создавать ощущение напряжения, от которого вам придётся стиснуть зубы."
   },
   "optionmenu_options_message_030": {
     "src": "Somnium Time Limit\n Easy\n Makes it easier to progress.\n You will have more time to explore the Somniums.",
     "yax": "Ограничение по времени сна\n Легко\n Это облегчает прогресс.\n У вас будет больше времени для изучения сомниумов.",
-    "trx": "Сложность сомниумов:\nЛегкая\n\nОблегчает прохождение сомниумов. У вас будет больше времени на их изучение."
+    "trx": "Сложность сомниумов:\nЛёгкая\n\nОблегчает прохождение сомниумов. У вас будет больше времени на их изучение."
   },
   "optionmenu_options_message_031": {
     "src": "Somnium Time Limit\n Story\n For players who want to focus on the story.\n You will have ample time to explore the Somniums.",
@@ -227,7 +227,7 @@
   "optionmenu_options_message_032": {
     "src": "Escape Difficulty\n Hard\n For experienced puzzle solvers.\n Should provide a tense experience and challenging puzzles.",
     "yax": "Избежать трудностей\n Трудный\n Для опытных любителей решать головоломки.\n Игра должна обеспечить увлекательный опыт и сложные головоломки.",
-    "trx": "Сложность побега:\nТяжелая\n\nДля профессионалов в решении головоломок. Обеспечивается достаточный уровень напряжения и сложности головоломок."
+    "trx": "Сложность побега:\nТяжёлая\n\nДля профессионалов в решении головоломок. Обеспечивается достаточный уровень напряжения и сложности головоломок."
   },
   "optionmenu_options_message_033": {
     "src": "Escape Difficulty\n Standard\n This is the recommended setting.\n You will occasionally receive hints to help solve puzzles.",
@@ -237,7 +237,7 @@
   "optionmenu_options_message_034": {
     "src": "Escape Difficulty\n Easy\n Makes it easier to progress.\n You will receive additional help solving puzzles.",
     "yax": "Избежать трудностей\n Легко\n Это облегчает прогресс.\n Вы получите дополнительную помощь в решении головоломок.",
-    "trx": "Сложность побега:\nЛегкая\n\nНайти выход становится легче. Вы будете получать дополнительные подсказки, помогающие решить головоломки."
+    "trx": "Сложность побега:\nЛёгкая\n\nНайти выход становится легче. Вы будете получать дополнительные подсказки, помогающие решить головоломки."
   },
   "optionmenu_options_message_035": {
     "src": "Escape Difficulty\n Story\n For players who want to focus on the story.\n You will receive all the answers you need to progress without trouble.",
@@ -257,6 +257,6 @@
   "optionmenu_options_message_021": {
     "src": "While the limit counter is active, you cannot change the Difficulty from OPTIONS.",
     "yax": "Пока счетчик лимитов активен, вы не можете изменить уровень сложности с помощью опций.",
-    "trx": "Пока активен отсчет времени, уровень сложности изменить нельзя."
+    "trx": "Пока активен отсчёт времени,\nуровень сложности изменить нельзя."
   }
 }

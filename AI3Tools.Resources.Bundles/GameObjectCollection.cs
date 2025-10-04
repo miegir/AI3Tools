@@ -1,4 +1,4 @@
-﻿using System.Diagnostics.CodeAnalysis;
+using System.Diagnostics.CodeAnalysis;
 
 namespace AI3Tools;
 
@@ -6,6 +6,8 @@ internal class GameObjectCollection
 {
     private readonly List<GameObject> items = [];
     private ILookup<string, GameObject>? lookupTable;
+
+    public int Count => items.Count;
 
     public bool TryGetValue(string name, [NotNullWhen(true)] out GameObject? value)
     {

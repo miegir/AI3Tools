@@ -1,6 +1,10 @@
 [
   {
     "path": "_root/Canvas/ScreenScaler/select_language Variant/tag/base/text_language (TMP)",
-    "text": "Язык"
+    "text": {
+      "0": {
+        "m_text": "Язык"
+      }
+    }
   }
 ]

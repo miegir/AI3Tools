@@ -1,5 +1,5 @@
 EN: SEEK A WAY OUT!
-RU: ?
+RU: НАЙДИТЕ ВЫХОД!
 
 TAGS:
-  [untranslated]
+  []

@@ -1,0 +1,26 @@
+[
+  {
+    "path": "_root/Item/LIVE",
+    "text": {
+      "0": {
+        "_text": "<size=0.65><c=red>▶ЭФИР"
+      }
+    }
+  },
+  {
+    "path": "_root/Object Cameras/車輪の壁画_camera/Canvas/UI/e1_minigame_main Variant/adjust/base/button_reset/frame/text/text_reset (TMP)",
+    "text": {
+      "0": {
+        "m_text": "СБРОС"
+      }
+    }
+  },
+  {
+    "path": "_root/Object Cameras/車輪の壁画_camera/Canvas/UI/e1_minigame_main Variant/adjust/base/button_play/frame/text/text_play (TMP)",
+    "text": {
+      "0": {
+        "m_text": "ИГРАТЬ"
+      }
+    }
+  }
+]

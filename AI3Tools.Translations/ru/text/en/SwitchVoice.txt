@@ -12,7 +12,7 @@
   "switch_voice_003": {
     "src": "I'll leave it to you for now!",
     "yax": "Пока я оставляю это на твое усмотрение!",
-    "trx": "☯️Пока я оставляю это на твое усмотрение!"
+    "trx": "☯️Пока я оставляю это на твоё усмотрение!"
   },
   "switch_voice_004": {
     "src": "Heh... You can trust my grey matter.",
@@ -57,7 +57,7 @@
   "switch_voice_012": {
     "src": "I don't really get it, but things seem good to me.",
     "yax": "Я действительно этого не понимаю, но мне кажется, что все идет хорошо.",
-    "trx": "☯️Я действительно этого не понимаю, но мне кажется, что все идет хорошо."
+    "trx": "☯️Я действительно этого не понимаю, но мне кажется, что все идёт хорошо."
   },
   "switch_voice_013": {
     "src": "Moma! Help me ouuut!",
@@ -222,7 +222,7 @@
   "switch_voice_047": {
     "src": "Date, we gotta hurry up and save Tesa!",
     "yax": "Дейт, мы должны поторопиться и спасти Тесу!",
-    "trx": "☯️Дейт, мы должны поторопиться и спасти Тесу!"
+    "trx": "☯️Дейт, мы должны поторопиться и спасти Тёсу!"
   },
   "switch_voice_048": {
     "src": "I know. The three of us gotta work together.",
@@ -232,7 +232,7 @@
   "switch_voice_049": {
     "src": "Tell me if you find out anything about Tesa!",
     "yax": "Скажи мне, если узнаешь что-нибудь о Тесе!",
-    "trx": "☯️Скажи мне, если узнаешь что-нибудь о Тесе!"
+    "trx": "☯️Скажи мне, если узнаешь что-нибудь о Тёсе!"
   },
   "switch_voice_050": {
     "src": "I get it. Now shut up for a moment.",
@@ -312,7 +312,7 @@
   "switch_voice_065": {
     "src": "Hey, take this seriously or you're goin' into Tokyo Bay...",
     "yax": "Эй, отнесись к этому серьезно, или ты отправишься в Токийский залив...",
-    "trx": "☯️Эй, отнесись к этому серьезно, или ты отправишься в Токийский залив..."
+    "trx": "☯️Эй, отнесись к этому серьёзно, или ты отправишься в Токийский залив..."
   },
   "switch_voice_066": {
     "src": "Police! We got a yakuza here!",
@@ -337,7 +337,7 @@
   "switch_voice_070": {
     "src": "Mittens, kittens, A-set you bet!",
     "yax": "Варежки, котята, еще бы!",
-    "trx": "☯️Варежки, котята, еще бы!"
+    "trx": "☯️Варежки, котята, ещё бы!"
   },
   "switch_voice_071": {
     "src": "Hey! Date! Solve somethin' already!",
@@ -347,12 +347,12 @@
   "switch_voice_072": {
     "src": "I'm working, damn it! Sheesh...",
     "yax": "Я работаю, черт возьми! Шиш...",
-    "trx": "☯️Я работаю, черт возьми! Шиш..."
+    "trx": "☯️Я работаю, чёрт возьми! Шиш..."
   },
   "switch_voice_073": {
     "src": "You got any hints, Date?",
     "yax": "У тебя есть какие-нибудь намеки, Дейт?",
-    "trx": "☯️У тебя есть какие-нибудь намеки, Дейт?"
+    "trx": "☯️У тебя есть какие-нибудь намёки, Дейт?"
   },
   "switch_voice_074": {
     "src": "No. I do have porno mags, though...",
@@ -392,7 +392,7 @@
   "switch_voice_081": {
     "src": "Ota, your time has come. You ready?",
     "yax": "Ота, твое время пришло. Ты готов?",
-    "trx": "☯️Ота, твое время пришло. Ты готов?"
+    "trx": "☯️Ота, твоё время пришло. Ты готов?"
   },
   "switch_voice_082": {
     "src": "Aaall right. Time for me to go all out!",
@@ -417,7 +417,7 @@
   "switch_voice_086": {
     "src": "Just some light novel plots and that's it...",
     "yax": "Просто несколько легких новеллистических сюжетов, и все...",
-    "trx": "☯️Просто несколько легких новеллистических сюжетов, и все..."
+    "trx": "☯️Просто несколько лёгких новеллистических сюжетов, и все..."
   },
   "switch_voice_087": {
     "src": "Ota, tell me the sitch on your side.",
@@ -432,12 +432,12 @@
   "switch_voice_089": {
     "src": "Iris is waiting for you. Do your best.",
     "yax": "Айрис ждет тебя. Сделай все возможное.",
-    "trx": "☯️Айрис ждет тебя. Сделай все возможное."
+    "trx": "☯️Айрис ждёт тебя. Сделай все возможное."
   },
   "switch_voice_090": {
     "src": "Right... I gotta do it for her!",
     "yax": "Верно... Я должен сделать это ради нее!",
-    "trx": "☯️Верно... Я должен сделать это ради нее!"
+    "trx": "☯️Верно... Я должен сделать это ради неё!"
   },
   "switch_voice_091": {
     "src": "Moma. We need you. You good to go?",

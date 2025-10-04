@@ -2,7 +2,9 @@ EN:
   Nibiru
   Earth
 
-RU: ?
+RU:
+  Нибиру
+  Земля
 
 TAGS:
-  [untranslated]
+  []

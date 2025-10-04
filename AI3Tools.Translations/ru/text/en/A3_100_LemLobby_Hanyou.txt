@@ -77,7 +77,7 @@
   "009_008": {
     "src": "Yaaay! Ah...?",
     "yax": "Даааай! Ах...?",
-    "trx": "☯️Даааай! Ах...?"
+    "trx": "☯️Даааай! Ах?.."
   },
   "009_009": {
     "src": "My precious little pleasing fungus beetle... It... It's gone!",
@@ -107,7 +107,7 @@
   "011_001": {
     "src": "High stools surround the table.",
     "yax": "Стол окружен высокими табуретами.",
-    "trx": "☯️Стол окружен высокими табуретами."
+    "trx": "☯️Стол окружён высокими табуретами."
   },
   "012_001": {
     "src": "A door that leads to the office.",

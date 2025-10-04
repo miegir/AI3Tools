@@ -5,7 +5,12 @@ EN:
   Deep Space
   ERROR
 
-RU: ?
+RU:
+  Земля
+  Нибиру
+  Луна
+  Открытый космос
+  ОШИБКА
 
 TAGS:
-  [untranslated]
+  []
