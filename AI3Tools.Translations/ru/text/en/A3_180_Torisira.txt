@@ -472,7 +472,7 @@
   "012_001": {
     "src": "Escape game? What are you talking about?",
     "yax": "Игра в побег? О чем ты говоришь?",
-    "trx": "☯️Игра в побег? О чем ты говоришь?"
+    "trx": "☯️Игра в побег? О чём ты говоришь?"
   },
   "012_002": {
     "src": "Since the charges against you are off the table, you can quit keeping secrets now.",

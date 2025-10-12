@@ -117,7 +117,7 @@
   "003_008": {
     "src": "Well, what are you talking about?",
     "yax": "Ну, так о чем ты говоришь?",
-    "trx": "☯️Ну, так о чем ты говоришь?"
+    "trx": "☯️Ну, так о чём ты говоришь?"
   },
   "003_009": {
     "src": "This is workplace harassment, you know!",

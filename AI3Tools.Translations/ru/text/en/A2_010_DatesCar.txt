@@ -182,7 +182,7 @@
   "003_004": {
     "src": "No luck tracing the comms to the source, huh?",
     "yax": "Не удалось отследить источник связи, да?",
-    "trx": "Не удалось отследить источник сигнала, значит?"
+    "trx": "Значит, тебе не удалось отследить источник сигнала?"
   },
   "003_005": {
     "src": "It passed multiple anonymous proxies, and all the traffic was encrypted.",

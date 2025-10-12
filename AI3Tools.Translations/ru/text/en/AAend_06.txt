@@ -192,7 +192,7 @@
   "001_038": {
     "src": "I can probably guess, but... What are you three talking about?",
     "yax": "Я, наверное, могу догадаться, но... О чем вы трое говорите?",
-    "trx": "☯️Я, наверное, могу догадаться, но... О чем вы трое говорите?"
+    "trx": "☯️Я, наверное, могу догадаться, но... О чём вы трое говорите?"
   },
   "001_039": {
     "src": "In this meeting, we are discussing scenarios we would enjoy being explored in pornography.",

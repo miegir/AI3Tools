@@ -1032,7 +1032,7 @@
   "054_004": {
     "src": "What are you talking about?",
     "yax": "О чем ты говоришь?",
-    "trx": "☯️О чем ты говоришь?"
+    "trx": "☯️О чём ты говоришь?"
   },
   "054_001": {
     "src": "There's a temari-like AI-Ball prototype.",

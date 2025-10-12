@@ -267,7 +267,7 @@
   "006_006": {
     "src": "Her core system's operated by the Wadjet System. We're all the same there.",
     "yax": "Ее основная система управляется системой Wadjet. В этом мы все одинаковы.",
-    "trx": "☯️Ее основная система управляется системой Wadjet. В этом мы все одинаковы."
+    "trx": "☯️Её основная система управляется системой Wadjet. В этом мы все одинаковы."
   },
   "006_007": {
     "src": "Add with the repurposed Psync technology, she can interfere with the Ego Algorithm.",

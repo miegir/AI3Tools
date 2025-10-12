@@ -122,7 +122,7 @@
   "map_025": {
     "src": "Talent Agency Lemniscate",
     "yax": "Агентство по подбору талантов Lemniscate",
-    "trx": "Агентство талантов Лемнискейт"
+    "trx": "<size=90%>Агентство талантов Лемнискейт"
   },
   "map_026": {
     "src": "Kumakura Office",
@@ -177,7 +177,7 @@
   "map_036": {
     "src": "Talent Agency Lemniscate",
     "yax": "Агентство по подбору талантов Lemniscate",
-    "trx": "Агентство талантов Лемнискейт"
+    "trx": "<size=90%>Агентство талантов Лемнискейт"
   },
   "map_037": {
     "src": "Stadium",

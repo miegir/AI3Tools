@@ -3367,7 +3367,7 @@
   "074_007": {
     "src": "What are you all saying? That is clearly #000080.",
     "yax": "О чем вы все говорите? Это явно #000080.",
-    "trx": "☯️О чем вы все говорите? Это явно #000080."
+    "trx": "☯️О чём вы все говорите? Это явно #000080."
   },
   "074_008": {
     "src": "The suitably warm bath... Its water is \"indigo.\"",
@@ -4147,7 +4147,7 @@
   "103_005": {
     "src": "I see, I see... This is what the \"rite of the edge\" scroll was referring to...",
     "yax": "Я понимаю, я понимаю... Вот о чем говорилось в свитке \"обряд на грани\"...",
-    "trx": "☯️Я понимаю, я понимаю... Вот о чем говорилось в свитке \"обряд на грани\"..."
+    "trx": "☯️Я понимаю, я понимаю... Вот о чём говорилось в свитке \"обряд на грани\"..."
   },
   "103_006": {
     "src": "You have to change those \"colored frames\" to make them match \"the edges of the box.\"",

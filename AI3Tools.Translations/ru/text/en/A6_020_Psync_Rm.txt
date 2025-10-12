@@ -147,7 +147,7 @@
   "005_006": {
     "src": "No, I didn't think anything like that.",
     "yax": "Нет, я ни о чем таком не думал.",
-    "trx": "☯️Нет, я ни о чем таком не думал."
+    "trx": "☯️Нет, я ни о чём таком не думал."
   },
   "005_007": {
     "src": "Though I do recall that she was in very low spirits.",

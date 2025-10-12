@@ -62,7 +62,7 @@
   "003_002": {
     "src": "She was kidnapped?! Whaddya mean?!",
     "yax": "Ее похитили?! Что ты имеешь в виду?!",
-    "trx": "☯️Ее похитили?! Что ты имеешь в виду?!"
+    "trx": "☯️Её похитили?! Что ты имеешь в виду?!"
   },
   "003_003": {
     "src": "Well, if you don't know, then whatever.",
@@ -217,7 +217,7 @@
   "005_004": {
     "src": "Or \"out of it,\" I guess? It's like he was barely paying attention to what we were sayin'.",
     "yax": "Или \"не в себе\", я полагаю? Похоже, он едва обращал внимание на то, о чем мы говорили.",
-    "trx": "☯️Или \"не в себе\", я полагаю? Похоже, он едва обращал внимание на то, о чем мы говорили."
+    "trx": "☯️Или \"не в себе\", я полагаю? Похоже, он едва обращал внимание на то, о чём мы говорили."
   },
   "005_005": {
     "src": "Knowing Moma, he might've been thinking about Iris...",
@@ -312,7 +312,7 @@
   "008_006": {
     "src": "Her heart rate is slightly elevated.",
     "yax": "Ее сердцебиение слегка учащено.",
-    "trx": "☯️Ее сердцебиение слегка учащено."
+    "trx": "☯️Её сердцебиение слегка учащено."
   },
   "008_007": {
     "src": "I guess she's nervous being in a place like this.",

@@ -62,7 +62,7 @@
   "001_012": {
     "src": "There's nothing to worry about if I'm with Aiba, right?",
     "yax": "Тебе ведь не о чем беспокоиться, если я буду с Aiba, верно?",
-    "trx": "☯️Тебе ведь не о чем беспокоиться, если я буду с Aiba, верно?"
+    "trx": "☯️Тебе ведь не о чём беспокоиться, если я буду с Aiba, верно?"
   },
   "001_013": {
     "src": "I have no idea where you're planning to go, but there's no way a kid can rent a room.",

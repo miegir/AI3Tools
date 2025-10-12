@@ -1902,7 +1902,7 @@
   "035_008": {
     "src": "What's he talking about?",
     "yax": "О чем он говорит?",
-    "trx": "☯️О чем он говорит?"
+    "trx": "☯️О чём он говорит?"
   },
   "035_009": {
     "src": "This is Pewter when he is fatigued beyond his limits. Poor thing...",
@@ -2217,7 +2217,7 @@
   "043_005": {
     "src": "What is he talking about?",
     "yax": "О чем он говорит?",
-    "trx": "☯️О чем он говорит?"
+    "trx": "☯️О чём он говорит?"
   },
   "043_006": {
     "src": "Real estate... It does not have much to do with campanula, though.",
@@ -3577,7 +3577,7 @@
   "074_001": {
     "src": "So that's what I'm thinking.",
     "yax": "Так вот о чем я думаю.",
-    "trx": "☯️Так вот о чем я думаю."
+    "trx": "☯️Так вот о чём я думаю."
   },
   "074_002": {
     "src": "That's a good plan...",

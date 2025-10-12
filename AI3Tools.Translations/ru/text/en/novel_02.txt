@@ -77,7 +77,7 @@
   "001_016": {
     "src": "Her confidence in me was still badly damaged, but I could easily kiss up to her and get back on her good side.",
     "yax": "Ее доверие ко мне все еще было сильно подорвано, но я легко мог подлизаться к ней и снова завоевать ее расположение.",
-    "trx": "☯️Ее доверие ко мне всё ещё было сильно подорвано, но я легко мог подлизаться к ней и снова завоевать её расположение."
+    "trx": "☯️Её доверие ко мне всё ещё было сильно подорвано, но я легко мог подлизаться к ней и снова завоевать её расположение."
   },
   "001_017": {
     "src": "<center>Ohh, Date. That is good. Very good.",
@@ -312,7 +312,7 @@
   "001_063": {
     "src": "Ryuki. Only he would squeal to you about something like that!",
     "yax": "Рюки. Только он мог бы рассказать тебе о чем-то подобном!",
-    "trx": "☯️Рюки. Только он мог бы рассказать тебе о чем-то подобном!"
+    "trx": "☯️Рюки. Только он мог бы рассказать тебе о чём-то подобном!"
   },
   "001_064": {
     "src": "Ex-Boss still ordered the newbie around like he was her maid.",
@@ -452,7 +452,7 @@
   "001_091": {
     "src": "Of course. About what?",
     "yax": "Конечно. О чем?",
-    "trx": "☯️Конечно. О чем?"
+    "trx": "☯️Конечно. О чём?"
   },
   "001_092": {
     "src": "I'll be straight with you: I want a raise. Right now.",

@@ -417,7 +417,7 @@
   "007_023": {
     "src": "What are you talking about? Of course not.",
     "yax": "О чем ты говоришь? Конечно, нет.",
-    "trx": "☯️О чем ты говоришь? Конечно, нет."
+    "trx": "☯️О чём ты говоришь? Конечно, нет."
   },
   "007_024": {
     "src": "Don't talk like you don't know the exact number of moles I have on my ass.",

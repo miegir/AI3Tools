@@ -517,7 +517,7 @@
   "006_014": {
     "src": "Well, duh! I already know what men are thinking!",
     "yax": "Ну да! Я и так знаю, о чем думают мужчины!",
-    "trx": "☯️Ну да! Я и так знаю, о чем думают мужчины!"
+    "trx": "☯️Ну да! Я и так знаю, о чём думают мужчины!"
   },
   "006_015": {
     "src": "Must you be so openly a pervert?!",

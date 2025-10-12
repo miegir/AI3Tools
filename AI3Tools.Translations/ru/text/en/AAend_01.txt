@@ -197,7 +197,7 @@
   "001_039": {
     "src": "What are they talking about...?",
     "yax": "О чем они говорят?..",
-    "trx": "☯️О чем они говорят?.."
+    "trx": "☯️О чём они говорят?.."
   },
   "001_040": {
     "src": "I don't think Ryuki's thinking with his big head right now...",

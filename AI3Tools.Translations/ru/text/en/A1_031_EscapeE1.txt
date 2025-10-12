@@ -232,7 +232,7 @@
   "001_047": {
     "src": "I still don't know what you're talking about!",
     "yax": "Я все еще не понимаю, о чем ты говоришь!",
-    "trx": "☯️Я всё ещё не понимаю, о чем ты говоришь!"
+    "trx": "☯️Я всё ещё не понимаю, о чём ты говоришь!"
   },
   "001_048": {
     "src": "You already know how to use your power... Now use it!",

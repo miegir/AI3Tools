@@ -792,7 +792,7 @@
   "032_065": {
     "src": "Her thought patterns are so fuzzy that it is difficult for her to come to form objectively correct conclusions.",
     "yax": "Ее образ мыслей настолько расплывчат, что ей трудно прийти к объективно правильным выводам.",
-    "trx": "☯️Ее образ мыслей настолько расплывчат, что ей трудно прийти к объективно правильным выводам."
+    "trx": "☯️Её образ мыслей настолько расплывчат, что ей трудно прийти к объективно правильным выводам."
   },
   "032_066": {
     "src": "She is exceedingly close to a human now...",

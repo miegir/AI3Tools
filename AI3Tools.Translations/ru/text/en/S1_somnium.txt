@@ -1352,7 +1352,7 @@
   "012_018": {
     "src": "I have no idea what you are talking about, but I would assume that we are supposed to act out the script.",
     "yax": "Я понятия не имею, о чем вы говорите, но я бы предположил, что мы должны действовать по сценарию.",
-    "trx": "☯️Я понятия не имею, о чем вы говорите, но я бы предположил, что мы должны действовать по сценарию."
+    "trx": "☯️Я понятия не имею, о чём вы говорите, но я бы предположил, что мы должны действовать по сценарию."
   },
   "012_019": {
     "src": "Yeah, to do what it says and show it to the person on the other side of the monitor.",
@@ -1367,7 +1367,7 @@
   "012_021": {
     "src": "Didn't they say something about some \"class-A syncline\" or whatever?",
     "yax": "Разве они не говорили что-то о какой-то \"синклинии класса А\" или о чем-то подобном?",
-    "trx": "☯️Разве они не говорили что-то о какой-то \"синклинии класса А\" или о чем-то подобном?"
+    "trx": "☯️Разве они не говорили что-то о какой-то \"синклинии класса А\" или о чём-то подобном?"
   },
   "012_022": {
     "src": "The classic line, you mean.",
@@ -2337,7 +2337,7 @@
   "029_006": {
     "src": "What are you talking about?!",
     "yax": "О чем ты говоришь?!",
-    "trx": "☯️О чем ты говоришь?!"
+    "trx": "☯️О чём ты говоришь?!"
   },
   "029_007": {
     "src": "I'm telling you that you're supposed to thrust with gratitude!",
@@ -2402,7 +2402,7 @@
   "030_003": {
     "src": "About what...?",
     "yax": "О чем?..",
-    "trx": "☯️О чем?.."
+    "trx": "☯️О чём?.."
   },
   "031_001": {
     "src": "Wanna go to Venkatanarasimharajuvaripeta?",
@@ -3302,7 +3302,7 @@
   "044_004": {
     "src": "So that's what I'm thinking.",
     "yax": "Так вот о чем я думаю.",
-    "trx": "☯️Так вот о чем я думаю."
+    "trx": "☯️Так вот о чём я думаю."
   },
   "044_005": {
     "src": "That's a good plan...",
@@ -3492,7 +3492,7 @@
   "048_006": {
     "src": "Does it say something?",
     "yax": "Это о чем-то говорит?",
-    "trx": "☯️Это о чем-то говорит?"
+    "trx": "☯️Это о чём-то говорит?"
   },
   "048_007": {
     "src": "\"The future...\"",

@@ -7,7 +7,7 @@
   "001_002": {
     "src": "Is that what you think, taking the train?",
     "yax": "Это то, о чем ты думаешь, садясь в поезд?",
-    "trx": "☯️Это то, о чем ты думаешь, садясь в поезд?"
+    "trx": "☯️Это то, о чём ты думаешь, садясь в поезд?"
   },
   "001_003": {
     "src": "I generally drive instead.",
@@ -37,7 +37,7 @@
   "003_002": {
     "src": "What are you talking about?",
     "yax": "О чем ты говоришь?",
-    "trx": "☯️О чем ты говоришь?"
+    "trx": "☯️О чём ты говоришь?"
   },
   "003_003": {
     "src": "The platform pillars, of course.",

@@ -102,7 +102,7 @@
   "001_021": {
     "src": "Her name is... Ritsuko Enshu, right?",
     "yax": "Ее зовут... Рицуко Эншу, верно?",
-    "trx": "☯️Ее зовут... Рицуко Эншу, верно?"
+    "trx": "☯️Её зовут... Рицуко Эншу, верно?"
   },
   "001_022": {
     "src": "She is 36 and single. Her birthday is on June 22nd.",
@@ -377,7 +377,7 @@
   "001_077": {
     "src": "I had no idea what he was talking about, but he seemed pretty proud about it.",
     "yax": "Я понятия не имел, о чем он говорит, но он, казалось, очень гордился этим.",
-    "trx": "☯️Я понятия не имел, о чем он говорит, но он, казалось, очень гордился этим."
+    "trx": "☯️Я понятия не имел, о чём он говорит, но он, казалось, очень гордился этим."
   },
   "001_078": {
     "src": "First-class orbs...? Must be referring to men. Y'know, the balls between our--",

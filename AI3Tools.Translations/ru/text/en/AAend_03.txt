@@ -247,7 +247,7 @@
   "001_049": {
     "src": "Huh? What are you talking about?",
     "yax": "А? О чем ты говоришь?",
-    "trx": "☯️А? О чем ты говоришь?"
+    "trx": "☯️А? О чём ты говоришь?"
   },
   "001_050": {
     "src": "You know... This and a bit of that... \"Oh, but you shouldn't... Please put that away...\"",

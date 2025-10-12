@@ -102,7 +102,7 @@
   "001_021": {
     "src": "What are you talking about?",
     "yax": "О чем ты говоришь?",
-    "trx": "☯️О чем ты говоришь?"
+    "trx": "☯️О чём ты говоришь?"
   },
   "001_022": {
     "src": "First it was Iris, then it was Mizuki...",
@@ -247,7 +247,7 @@
   "003_013": {
     "src": "What are you talking about?",
     "yax": "О чем ты говоришь?",
-    "trx": "☯️О чем ты говоришь?"
+    "trx": "☯️О чём ты говоришь?"
   },
   "003_014": {
     "src": "It takes balls to understand.",

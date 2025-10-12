@@ -57,7 +57,7 @@
   "tutorial_008": {
     "src": "When you are able to switch locations, \na <color=yellow>Map icon</color> appears at the bottom-right of the screen.",
     "yax": "Когда вы сможете переключаться между местоположениями,\nв правом нижнем углу экрана появится значок карты <color=желтый>.",
-    "trx": "Если доступно перемещение в другую область, в правом нижнем углу экрана появится значок <color=yellow>Карта</color>."
+    "trx": "Если доступно перемещение в другую область, в правом нижнем углу экрана появляется значок <color=yellow>Карта</color>."
   },
   "tutorial_009": {
     "src": "Select the <color=yellow>Map icon</color> to open the map, \nthen choose a destination to move there.",

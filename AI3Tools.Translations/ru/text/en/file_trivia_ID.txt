@@ -87,7 +87,7 @@
   "file_trivia_014": {
     "src": "Aiba:\nDate and I are aware of a certain possibility. There is something strange about some of the things that happened so far, and we have yet to unravel it. First of all, that pod definitely contains a human. That is clear from just Hina's reaction alone. The question now is who it is. I imagine that those bright enough already see the truth behind what we find so strange. I do not know what the person within the pod is thinking, but I am certain they will tie everything together.",
     "yax": "Айба:\nМы с Дэйтом подозреваем об определенной вероятности. В некоторых событиях, которые произошли до сих пор, есть что-то странное, и нам еще предстоит это разгадать. Прежде всего, в этой капсуле определенно находится человек. Это ясно из одной только реакции Хины. Теперь вопрос в том, кто это. Я полагаю, что те, кто достаточно сообразителен, уже видят правду, стоящую за тем, что мы считаем таким странным. Я не знаю, о чем думает человек в группе, но я уверен, что они свяжут все воедино.",
-    "trx": "☯️Айба:\nМы с Дэйтом подозреваем об определённой вероятности. В некоторых событиях, которые произошли до сих пор, есть что-то странное, и нам ещё предстоит это разгадать. Прежде всего, в этой капсуле определённо находится человек. Это ясно из одной только реакции Хины. Теперь вопрос в том, кто это. Я полагаю, что те, кто достаточно сообразителен, уже видят правду, стоящую за тем, что мы считаем таким странным. Я не знаю, о чем думает человек в группе, но я уверен, что они свяжут все воедино."
+    "trx": "☯️Айба:\nМы с Дэйтом подозреваем об определённой вероятности. В некоторых событиях, которые произошли до сих пор, есть что-то странное, и нам ещё предстоит это разгадать. Прежде всего, в этой капсуле определённо находится человек. Это ясно из одной только реакции Хины. Теперь вопрос в том, кто это. Я полагаю, что те, кто достаточно сообразителен, уже видят правду, стоящую за тем, что мы считаем таким странным. Я не знаю, о чём думает человек в группе, но я уверен, что они свяжут всё воедино."
   },
   "file_trivia_015": {
     "src": "Aiba:\nI will start by putting it all in order. First, the person inside the pod is Sakura Asahi, and she has been comatose this entire time. Second, the person behind the escape game and this entire case is an AI made by copying Sakura Asahi's personality. And that is Akemi, the Reptilian. She is the one we have to stop!",
@@ -197,7 +197,7 @@
   "file_trivia_title_014": {
     "src": "A Certain Possibility",
     "yax": "Определенная возможность",
-    "trx": "Определенная возможность"
+    "trx": "Определённая возможность"
   },
   "file_trivia_title_015": {
     "src": "Sakura Asahi and her AI",
