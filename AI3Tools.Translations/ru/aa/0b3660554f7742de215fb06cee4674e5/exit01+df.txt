@@ -1,5 +1,5 @@
 EN: Exit
-RU: ?
+RU: Выход
 
 TAGS:
-  [untranslated]
+  [AI2]

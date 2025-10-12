@@ -207,7 +207,7 @@
   "001_041": {
     "src": "Where is this going...?",
     "yax": "К чему все это ведет?..",
-    "trx": "☯️К чему все это ведёт?.."
+    "trx": "☯️К чему всё это ведёт?.."
   },
   "001_042": {
     "src": "He ran down to the first floor. Must've been real scared of me.",

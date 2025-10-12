@@ -57,7 +57,7 @@
   "file_profile_001": {
     "src": "Kaname Date",
     "yax": "Дата Канаме",
-    "trx": "<size=75%>Канаме Датэ"
+    "trx": "<size=75%>Канамэ Датэ"
   },
   "file_profile_002": {
     "src": "Male",
@@ -202,7 +202,7 @@
   "file_profile_030": {
     "src": "Iris is an internet idol under the entertainment agency Lemniscate. Her stage name is A-Set, but fans call her Tesa. She is friends with Mizuki, Amame, Ota, and many others.",
     "yax": "Айрис - интернет-кумир развлекательного агентства Lemniscate. Ее сценическое имя - A-Set, но поклонники зовут ее Теза. Она дружит с Мизуки, Амаме, Отой и многими другими.",
-    "trx": "<size=75%>Айрис — интернет-идол в развлекательном агентстве Лемнискейт. Её сценическое имя - Эй-сет (A-Set), но поклонники зовут её Теса (Tesa). Она дружит с Мизуки, Амаме, Отой и многими другими."
+    "trx": "<size=75%>Айрис — интернет-идол в развлекательном агентстве Лемнискейт. Её сценическое имя — Эй-сет (A-Set), но поклонники зовут её Теса (Tesa). Она дружит с Мизуки, Амаме, Отой и многими другими."
   },
   "file_profile_031": {
     "src": "Ota Matsushita",
@@ -367,7 +367,7 @@
   "file_profile_063": {
     "src": "29 (Self-Declared)",
     "yax": "29 (Самопровозглашенный)",
-    "trx": "<size=75%>29 (самопровозглашенный)"
+    "trx": "<size=75%>29 (самопровозглашённый)"
   },
   "file_profile_064": {
     "src": "July 16",
@@ -717,7 +717,7 @@
   "file_profile_133": {
     "src": "The adoptive daughter of Kaname Date after her parents, Renju Okiura and Shoko Nadami, passed away. She sometimes assists Date when he needs the extra muscle power. Gets along well with Iris and Amame.",
     "yax": "Приемная дочь Канаме Датэ после смерти ее родителей, Рэндзю Окиуры и Секо Надами. Иногда она помогает Датэ, когда ему нужна дополнительная мышечная сила. Хорошо ладит с Айрис и Амаме.",
-    "trx": "<size=75%>Приёмная дочь Канаме Датэ после смерти её родителей, Рэндзю Окиуры и Сёко Надами. Иногда помогает Датэ, если ему нужна боевая мощь. Хорошо ладит с Айрис и Амаме."
+    "trx": "<size=75%>Приёмная дочь Канамэ Датэ после смерти её родителей, Рэндзю Окиуры и Сёко Надами. Иногда помогает Датэ, если ему нужна боевая мощь. Хорошо ладит с Айрис и Амаме."
   },
   "file_profile_134": {
     "src": "Gen Ishiyagane",
@@ -967,7 +967,7 @@
   "file_profile_183": {
     "src": "Iris's single mother who raised the girl all by herself. A past injury left her unable to move her right arm.",
     "yax": "Мать-одиночка Айрис, которая в одиночку растила девочку. Из-за травмы, полученной в прошлом, она не могла двигать правой рукой.",
-    "trx": "<size=75%>Незамужняя мать Айрис, вырастившая свою дочь в одиночку. Из-за ранения в прошлом не может шевелить правой рукой."
+    "trx": "<size=75%>Незамужняя мать Айрис, вырастившая свою дочь в одиночку. Из-за травмы, полученной в прошлом, она не может двигать правой рукой."
   },
   "file_profile_184": {
     "src": "Ritsuko Enshu",
@@ -1172,111 +1172,111 @@
   "file_profile_title_001": {
     "src": "Date",
     "yax": "Дата",
-    "trx": "<size=75%>Датэ"
+    "trx": "Датэ"
   },
   "file_profile_title_002": {
     "src": "Aiba",
     "yax": "Aiba",
-    "trx": "<size=75%>Айба"
+    "trx": "Айба"
   },
   "file_profile_title_003": {
     "src": "Iris",
     "yax": "Ирис",
-    "trx": "<size=75%>Айрис"
+    "trx": "Айрис"
   },
   "file_profile_title_004": {
     "src": "Ota",
     "yax": "Ота",
-    "trx": "<size=75%>Ота"
+    "trx": "Ота"
   },
   "file_profile_title_005": {
     "src": "Moma",
     "yax": "Мома",
-    "trx": "<size=75%>Мома"
+    "trx": "Мома"
   },
   "file_profile_title_006": {
     "src": "Hina",
     "yax": "Хина",
-    "trx": "<size=75%>Хина"
+    "trx": "Хина"
   },
   "file_profile_title_007": {
     "src": "Hostess",
     "yax": "Хозяйка",
-    "trx": "<size=75%>Ведущая"
+    "trx": "Ведущая"
   },
   "file_profile_title_008": {
     "src": "Sakura",
     "yax": "Сакура",
-    "trx": "<size=75%>Сакура"
+    "trx": "Сакура"
   },
   "file_profile_title_009": {
     "src": "Boss",
     "yax": "Босс",
-    "trx": "<size=75%>Босс"
+    "trx": "Босс"
   },
   "file_profile_title_010": {
     "src": "Pewter",
     "yax": "Оловянный",
-    "trx": "<size=75%>Пьютер"
+    "trx": "Пьютер"
   },
   "file_profile_title_011": {
     "src": "Ryuki",
     "yax": "Рюки",
-    "trx": "<size=75%>Рюки"
+    "trx": "Рюки"
   },
   "file_profile_title_012": {
     "src": "Tama",
     "yax": "Тама",
-    "trx": "<size=75%>Тама"
+    "trx": "Тама"
   },
   "file_profile_title_013": {
     "src": "Mizuki",
     "yax": "Мизуки",
-    "trx": "<size=75%>Мизуки"
+    "trx": "Мизуки"
   },
   "file_profile_title_014": {
     "src": "Gen",
     "yax": "Поколения",
-    "trx": "<size=75%>Ген"
+    "trx": "Ген"
   },
   "file_profile_title_015": {
     "src": "Lien",
     "yax": "Залог",
-    "trx": "<size=75%>Лиен"
+    "trx": "Лиен"
   },
   "file_profile_title_016": {
     "src": "Amame",
     "yax": "Амаме",
-    "trx": "<size=75%>Амаме"
+    "trx": "Амаме"
   },
   "file_profile_title_017": {
     "src": "Mama",
     "yax": "Мама",
-    "trx": "<size=75%>Мама"
+    "trx": "Мама"
   },
   "file_profile_title_018": {
     "src": "Hitomi",
     "yax": "Хитоми",
-    "trx": "<size=75%>Хитоми"
+    "trx": "Хитоми"
   },
   "file_profile_title_019": {
     "src": "Receptionist",
     "yax": "Секретарь",
-    "trx": "<size=75%>Секретарша"
+    "trx": "Секретарша"
   },
   "file_profile_title_020": {
     "src": "Inspector",
     "yax": "Инспектор",
-    "trx": "<size=75%>Инспектор"
+    "trx": "Инспектор"
   },
   "file_profile_title_021": {
     "src": "Yakuza",
     "yax": "Якудза",
-    "trx": "<size=75%>Якудза"
+    "trx": "Якудза"
   },
   "file_profile_title_022": {
     "src": "Chinpei",
     "yax": "Чинпей",
-    "trx": "<size=75%>Чинпей"
+    "trx": "Чинпей"
   }
 }

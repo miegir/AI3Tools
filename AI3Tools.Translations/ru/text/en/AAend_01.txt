@@ -32,7 +32,7 @@
   "001_006": {
     "src": "Atami is Mother...",
     "yax": "Атами - это мать...",
-    "trx": "☯️Атами - это мать..."
+    "trx": "☯️Атами — это мать..."
   },
   "001_007": {
     "src": "That is quite the overstatement!",
@@ -62,7 +62,7 @@
   "001_012": {
     "src": "Stop! Atami is not that kind of place!",
     "yax": "Остановись! Атами - это не такое место!",
-    "trx": "☯️Остановись! Атами - это не такое место!"
+    "trx": "☯️Остановись! Атами — это не такое место!"
   },
   "001_013": {
     "src": "It is a wonderful tourist spot where you can experience hot springs, the arts, beautiful beaches, and the breath of nature!",
@@ -87,7 +87,7 @@
   "001_017": {
     "src": "I am telling you that Atami is not that kind of place!",
     "yax": "Я говорю вам, что Атами - это не такое место!",
-    "trx": "☯️Я говорю вам, что Атами - это не такое место!"
+    "trx": "☯️Я говорю вам, что Атами — это не такое место!"
   },
   "001_018": {
     "src": "Anyway, let's go to Atami!",
@@ -102,7 +102,7 @@
   "001_020": {
     "src": "But isn't Atami that place where you get fired out of a cannon...?",
     "yax": "Но разве Атами - это не то место, где в тебя стреляют из пушки?..",
-    "trx": "☯️Но разве Атами - это не то место, где в тебя стреляют из пушки?.."
+    "trx": "☯️Но разве Атами — это не то место, где в тебя стреляют из пушки?.."
   },
   "001_021": {
     "src": "Stop ruining it!",
@@ -167,7 +167,7 @@
   "001_033": {
     "src": "Atami is... a concept!",
     "yax": "Атами - это... концепция!",
-    "trx": "☯️Атами - это... концепция!"
+    "trx": "☯️Атами — это... концепция!"
   },
   "001_034": {
     "src": "It is an actual place. It exists...",

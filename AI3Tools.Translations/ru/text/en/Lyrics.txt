@@ -17,7 +17,7 @@
   "HalfToOneSolo_021": {
     "src": "Begin here at the end less is more is what they say, picture perfect naivete",
     "yax": "Начинай с конца, меньше значит больше - вот что они говорят, идеальная наивность.",
-    "trx": "☯️Начинай с конца, меньше значит больше - вот что они говорят, идеальная наивность."
+    "trx": "☯️Начинай с конца, меньше значит больше — вот что они говорят, идеальная наивность."
   },
   "HalfToOneSolo_022": {
     "src": "Trace along the lemniscate and never letting go",
@@ -67,7 +67,7 @@
   "HalfToOneSolo_031": {
     "src": "In sync, daring, and bold, as long as I have you",
     "yax": "Синхронно, дерзко и дерзко - до тех пор, пока у меня есть ты.",
-    "trx": "☯️Синхронно, дерзко и дерзко - до тех пор, пока у меня есть ты."
+    "trx": "☯️Синхронно, дерзко и дерзко — до тех пор, пока у меня есть ты."
   },
   "HalfToOneSolo_032": {
     "src": "All those things so dear to me, stowed away with lock and key",

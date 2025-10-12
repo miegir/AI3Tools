@@ -38,5 +38,21 @@
         "m_text": "Вид Датэ"
       }
     }
+  },
+  {
+    "path": "_root/game/Canvas2/[0]/GameObject (1)/window_folder/window/end/tab_root/timer/base01/Text_remaining (TMP)",
+    "text": {
+      "0": {
+        "m_text": "        Осталось : "
+      }
+    }
+  },
+  {
+    "path": "_root/game/Canvas2/[0]/GameObject (1)/window_folder/window/end/tab_root/timer/base01/Text_sec (TMP)",
+    "text": {
+      "0": {
+        "m_text": "сек"
+      }
+    }
   }
 ]

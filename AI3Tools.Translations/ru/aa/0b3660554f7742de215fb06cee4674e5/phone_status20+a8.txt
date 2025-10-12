@@ -1,5 +1,5 @@
 EN: Calling
-RU: ?
+RU: Вызов
 
 TAGS:
-  [untranslated]
+  [AI2]

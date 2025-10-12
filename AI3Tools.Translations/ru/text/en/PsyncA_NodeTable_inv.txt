@@ -152,42 +152,42 @@
   "target_031": {
     "src": "Entrance",
     "yax": "Вход",
-    "trx": "Вход"
+    "trx": "Входная дверь"
   },
   "target_032": {
     "src": "Shoe Box",
     "yax": "Обувная коробка",
-    "trx": "Обувная коробка"
+    "trx": "Обувной ящик"
   },
   "target_033": {
     "src": "Shelves",
     "yax": "Полки",
-    "trx": "Полки"
+    "trx": "Ящики"
   },
   "target_034": {
     "src": "Bookshelf",
     "yax": "Книжная полка",
-    "trx": "Книжная полка"
+    "trx": "Книжные полки"
   },
   "target_035": {
     "src": "Lamp",
     "yax": "Лампа",
-    "trx": "Лампа"
+    "trx": "Торшер"
   },
   "target_036": {
     "src": "Cupboard",
     "yax": "Шкаф",
-    "trx": "Шкаф"
+    "trx": "Сервант"
   },
   "target_037": {
     "src": "Dining Set",
     "yax": "Обеденный гарнитур",
-    "trx": "Столовый гарнитур"
+    "trx": "Обеденный стол"
   },
   "target_038": {
     "src": "Microwave",
     "yax": "Микроволновая печь",
-    "trx": "Микроволновая печь"
+    "trx": "Микроволновка"
   },
   "target_039": {
     "src": "Refrigerator",
@@ -212,7 +212,7 @@
   "target_043": {
     "src": "Picture",
     "yax": "Изображение",
-    "trx": "Картина"
+    "trx": "Рисунок"
   },
   "target_044": {
     "src": "Phone",
@@ -252,7 +252,7 @@
   "target_051": {
     "src": "Sofa",
     "yax": "Диван",
-    "trx": "Софа"
+    "trx": "Диван"
   },
   "target_052": {
     "src": "Teaching Materials",
@@ -272,7 +272,7 @@
   "target_055": {
     "src": "Mysterious Object",
     "yax": "Таинственный объект",
-    "trx": "Таинственный объект"
+    "trx": "Загадочный объект"
   },
   "target_056": {
     "src": "Clock",
@@ -302,7 +302,7 @@
   "target_061": {
     "src": "Sofa",
     "yax": "Диван",
-    "trx": "Софа"
+    "trx": "Диван"
   },
   "target_062": {
     "src": "Low Table",
@@ -1102,7 +1102,7 @@
   "target_218": {
     "src": "Sofa",
     "yax": "Диван",
-    "trx": "Софа"
+    "trx": "Диван"
   },
   "target_219": {
     "src": "Tiger Rug",
@@ -1352,7 +1352,7 @@
   "target_267": {
     "src": "Sofa",
     "yax": "Диван",
-    "trx": "Софа"
+    "trx": "Диван"
   },
   "target_268": {
     "src": "Table",
@@ -1952,7 +1952,7 @@
   "target_388": {
     "src": "Sofa",
     "yax": "Диван",
-    "trx": "Софа"
+    "trx": "Диван"
   },
   "target_389": {
     "src": "Low Table",
@@ -3612,7 +3612,7 @@
   "target_718": {
     "src": "Sofa",
     "yax": "Диван",
-    "trx": "Софа"
+    "trx": "Диван"
   },
   "target_719": {
     "src": "Table",
@@ -3787,7 +3787,7 @@
   "target_753": {
     "src": "Sofa",
     "yax": "Диван",
-    "trx": "Софа"
+    "trx": "Диван"
   },
   "target_754": {
     "src": "Low Table",
@@ -3922,7 +3922,7 @@
   "target_780": {
     "src": "Sofa",
     "yax": "Диван",
-    "trx": "Софа"
+    "trx": "Диван"
   },
   "target_781": {
     "src": "Tiger Rug",
@@ -3987,22 +3987,22 @@
   "target_793": {
     "src": "Entrance",
     "yax": "Вход",
-    "trx": "Вход"
+    "trx": "Входная дверь"
   },
   "target_794": {
     "src": "Shoe Box",
     "yax": "Обувная коробка",
-    "trx": "Обувная коробка"
+    "trx": "Обувной ящик"
   },
   "target_795": {
     "src": "Shelves",
     "yax": "Полки",
-    "trx": "Полки"
+    "trx": "Ящики"
   },
   "target_796": {
     "src": "Bookshelf",
     "yax": "Книжная полка",
-    "trx": "Книжная полка"
+    "trx": "Книжные полки"
   },
   "target_797": {
     "src": "Lamp",
@@ -4012,17 +4012,17 @@
   "target_798": {
     "src": "Cupboard",
     "yax": "Шкаф",
-    "trx": "Шкаф"
+    "trx": "Сервант"
   },
   "target_799": {
     "src": "Dining Set",
     "yax": "Обеденный гарнитур",
-    "trx": "Столовый гарнитур"
+    "trx": "Обеденный стол"
   },
   "target_800": {
     "src": "Microwave",
     "yax": "Микроволновая печь",
-    "trx": "Микроволновая печь"
+    "trx": "Микроволновка"
   },
   "target_801": {
     "src": "Refrigerator",
@@ -4047,7 +4047,7 @@
   "target_805": {
     "src": "Picture",
     "yax": "Изображение",
-    "trx": "Картина"
+    "trx": "Рисунок"
   },
   "target_806": {
     "src": "Phone",
@@ -4087,7 +4087,7 @@
   "target_813": {
     "src": "Sofa",
     "yax": "Диван",
-    "trx": "Софа"
+    "trx": "Диван"
   },
   "target_814": {
     "src": "Teaching Materials",
@@ -4107,7 +4107,7 @@
   "target_817": {
     "src": "Mysterious Object",
     "yax": "Таинственный объект",
-    "trx": "Таинственный объект"
+    "trx": "Загадочный объект"
   },
   "target_818": {
     "src": "Clock",

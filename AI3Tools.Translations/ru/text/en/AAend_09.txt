@@ -22,7 +22,7 @@
   "001_004": {
     "src": "Still, look at all this! Do you want ABIS to get shut down?!",
     "yax": "И все же, посмотрите на все это! Вы хотите, чтобы ABIS закрыли?!",
-    "trx": "☯️И все же, посмотрите на все это! Вы хотите, чтобы ABIS закрыли?!"
+    "trx": "☯️И всё же, посмотрите на всё это! Вы хотите, чтобы ABIS закрыли?!"
   },
   "001_005": {
     "src": "Obviously not, because like I said, I was trying to get you out of jail!",

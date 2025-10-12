@@ -267,7 +267,7 @@
   "choice_002": {
     "src": "About Project A-set Escape Thriller...",
     "yax": "О проекте \"А\" - триллере о побеге из тюрьмы...",
-    "trx": "☯️О проекте \"А\" - триллере о побеге из тюрьмы..."
+    "trx": "☯️О проекте \"А\" — триллере о побеге из тюрьмы..."
   },
   "003_039": {
     "src": "Does anyone besides Iris know about this project?",
@@ -317,7 +317,7 @@
   "003_048": {
     "src": "Crowdsourcing is the act of sending and receiving job orders through the internet.",
     "yax": "Краудсорсинг - это процесс отправки и получения заказов на выполнение работ через Интернет.",
-    "trx": "☯️Краудсорсинг - это процесс отправки и получения заказов на выполнение работ через Интернет."
+    "trx": "☯️Краудсорсинг — это процесс отправки и получения заказов на выполнение работ через Интернет."
   },
   "003_049": {
     "src": "Those making the orders benefit from cost reductions, while those taking them can get jobs even if they lack experience.",
@@ -417,7 +417,7 @@
   "003_068": {
     "src": "You could say that it is a challenge to get a hold of them...",
     "yax": "Вы могли бы сказать, что заполучить их - непростая задача...",
-    "trx": "☯️Вы могли бы сказать, что заполучить их - непростая задача..."
+    "trx": "☯️Вы могли бы сказать, что заполучить их — непростая задача..."
   },
   "003_069": {
     "src": "Or perhaps, they do not really exist at all.",
@@ -567,7 +567,7 @@
   "006_004": {
     "src": "How could this happen on my watch? Damn it!",
     "yax": "Как это могло произойти в мое дежурство? - черт возьми!",
-    "trx": "☯️Как это могло произойти в моё дежурство? - чёрт возьми!"
+    "trx": "☯️Как это могло произойти в моё дежурство? — чёрт возьми!"
   },
   "006_005": {
     "src": "Ota... Don't blame yourself...",
@@ -577,7 +577,7 @@
   "006_006": {
     "src": "No one expects anything of you anyway.",
     "yax": "Все равно от тебя никто ничего не ждет.",
-    "trx": "☯️Все равно от тебя никто ничего не ждёт."
+    "trx": "☯️Всё равно от тебя никто ничего не ждёт."
   },
   "006_007": {
     "src": "Hey! I'm not that useless!",

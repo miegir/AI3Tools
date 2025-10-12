@@ -62,7 +62,7 @@
   "003_002": {
     "src": "That brat knew all along and still played me for a fool...",
     "yax": "Этот сопляк все это время знал и все равно держал меня за дурака...",
-    "trx": "☯️Этот сопляк все это время знал и все равно держал меня за дурака..."
+    "trx": "☯️Этот сопляк всё это время знал и всё равно держал меня за дурака..."
   },
   "003_003": {
     "src": "She better be ready, 'cause I'm gonna make her spill everything when I get there.",

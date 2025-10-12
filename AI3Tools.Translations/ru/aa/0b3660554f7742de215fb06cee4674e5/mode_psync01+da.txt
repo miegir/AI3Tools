@@ -1,5 +1,5 @@
 EN: Wink Psync
-RU: ?
+RU: Винк-псинк
 
 TAGS:
-  [untranslated]
+  [AI2]

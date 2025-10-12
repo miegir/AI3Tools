@@ -1,0 +1,18 @@
+[
+  {
+    "path": "window/simplepsync Variant/adjust/timer/base01/Text_remaining (TMP)",
+    "text": {
+      "0": {
+        "m_text": "        Осталось : "
+      }
+    }
+  },
+  {
+    "path": "window/simplepsync Variant/adjust/timer/base01/Text_sec (TMP)",
+    "text": {
+      "0": {
+        "m_text": "сек"
+      }
+    }
+  }
+]

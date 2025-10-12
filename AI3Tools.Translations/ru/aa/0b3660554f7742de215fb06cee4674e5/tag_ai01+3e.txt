@@ -1,5 +1,5 @@
 EN: AI sight
-RU: ?
+RU: ИИ зрение
 
 TAGS:
-  [untranslated]
+  [AI2]

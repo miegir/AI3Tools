@@ -7,7 +7,7 @@
   "switch_voice_002": {
     "src": "It's all good! Got it under control! I hope...",
     "yax": "Все хорошо! У меня все под контролем! Я надеюсь...",
-    "trx": "☯️Все хорошо! У меня все под контролем! Я надеюсь..."
+    "trx": "☯️Всё хорошо! У меня все под контролем! Я надеюсь..."
   },
   "switch_voice_003": {
     "src": "I'll leave it to you for now!",
@@ -282,7 +282,7 @@
   "switch_voice_059": {
     "src": "Tesa, is everything good?",
     "yax": "Теза, все хорошо?",
-    "trx": "☯️Теза, все хорошо?"
+    "trx": "☯️Теза, всё хорошо?"
   },
   "switch_voice_060": {
     "src": "It's coming... An idea is coming!",
@@ -307,7 +307,7 @@
   "switch_voice_064": {
     "src": "It's all good. We're gettin' outta here!",
     "yax": "Все хорошо. Мы уходим отсюда!",
-    "trx": "☯️Все хорошо. Мы уходим отсюда!"
+    "trx": "☯️Всё хорошо. Мы уходим отсюда!"
   },
   "switch_voice_065": {
     "src": "Hey, take this seriously or you're goin' into Tokyo Bay...",

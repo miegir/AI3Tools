@@ -207,7 +207,7 @@
   "001_042": {
     "src": "The fugitive is a man with a medium build, somewhere in his 20s, and wearing a blue tracksuit. Should be easy to spot.",
     "yax": "Беглец - мужчина среднего телосложения, где-то за 20, одетый в синий спортивный костюм. Его должно быть легко обнаружить.",
-    "trx": "☯️Беглец - мужчина среднего телосложения, где-то за 20, одетый в синий спортивный костюм. Его должно быть легко обнаружить."
+    "trx": "☯️Беглец — мужчина среднего телосложения, где-то за 20, одетый в синий спортивный костюм. Его должно быть легко обнаружить."
   },
   "001_043": {
     "src": "Then I'll get him. A disguised search works best to catch a culprit off-guard.",
@@ -362,7 +362,7 @@
   "001_073": {
     "src": "He had swarthy skin—obviously from a tanning salon—and a golden necklace.",
     "yax": "У него была смуглая кожа — очевидно, из солярия - и золотое ожерелье.",
-    "trx": "☯️У него была смуглая кожа — очевидно, из солярия - и золотое ожерелье."
+    "trx": "☯️У него была смуглая кожа — очевидно, из солярия — и золотое ожерелье."
   },
   "001_074": {
     "src": "His hair was long and puffed up, so he looked like a host from the early aughts. Pretty out of fashion nowadays.",
@@ -522,7 +522,7 @@
   "001_105": {
     "src": "Thankfully, a guy like him didn't have X-ray vision, but I jabbed him in the head all the same.",
     "yax": "К счастью, у такого парня, как он, не было рентгеновского зрения, но я все равно ударил его по голове.",
-    "trx": "☯️К счастью, у такого парня, как он, не было рентгеновского зрения, но я все равно ударил его по голове."
+    "trx": "☯️К счастью, у такого парня, как он, не было рентгеновского зрения, но я всё равно ударил его по голове."
   },
   "001_106": {
     "src": "Ow! What was that for?",

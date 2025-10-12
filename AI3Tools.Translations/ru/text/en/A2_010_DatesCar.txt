@@ -57,7 +57,7 @@
   "001_012": {
     "src": "Then I suggest staying on my good side, Kaname Date.",
     "yax": "Тогда я предлагаю оставаться на моей стороне, Канаме Дейт.",
-    "trx": "Поэтому лучше тебе не злить меня, Канаме Датэ."
+    "trx": "Поэтому лучше тебе не злить меня, Канамэ Датэ."
   },
   "001_013": {
     "src": "Hey! I risked my life getting that! Don't touch it!",

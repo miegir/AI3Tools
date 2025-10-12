@@ -182,7 +182,7 @@
   "003_028": {
     "src": "Anyway, the whole thing totally sucked!",
     "yax": "В любом случае, все это полный отстой!",
-    "trx": "☯️В любом случае, все это полный отстой!"
+    "trx": "☯️В любом случае, всё это полный отстой!"
   },
   "003_029": {
     "src": "Hey, you came back in one piece. Couldn't have been that bad.",
@@ -242,7 +242,7 @@
   "003_039": {
     "src": "The fact that she invited me personally is all the proof you need!",
     "yax": "Тот факт, что она пригласила меня лично, - это все доказательства, которые вам нужны!",
-    "trx": "☯️Тот факт, что она пригласила меня лично, - это все доказательства, которые вам нужны!"
+    "trx": "☯️Тот факт, что она пригласила меня лично, — это все доказательства, которые вам нужны!"
   },
   "003_040": {
     "src": "And that was streamed to the world, right?",
@@ -337,7 +337,7 @@
   "003_058": {
     "src": "This kid's unbreakable spirit is probably the only thing I admire about him.",
     "yax": "Несгибаемый дух этого парня - пожалуй, единственное, чем я в нем восхищаюсь.",
-    "trx": "☯️Несгибаемый дух этого парня - пожалуй, единственное, чем я в нем восхищаюсь."
+    "trx": "☯️Несгибаемый дух этого парня — пожалуй, единственное, чем я в нем восхищаюсь."
   },
   "003_059": {
     "src": "I would go so far as to say that it is a necessary trait for being a long-time fan of Iris...",
@@ -417,7 +417,7 @@
   "006_005": {
     "src": "But you still saw my heroics, didn't yooou?",
     "yax": "Но ты все равно видел мой героизм, не так ли?",
-    "trx": "☯️Но ты все равно видел мой героизм, не так ли?"
+    "trx": "☯️Но ты всё равно видел мой героизм, не так ли?"
   },
   "006_006": {
     "src": "Yes! I saw you fight those thirteen grasshopper-men in the industrial area. You were sooo cool!",
@@ -442,12 +442,12 @@
   "006_010": {
     "src": "This conversation is a mess.",
     "yax": "Этот разговор - сплошная неразбериха.",
-    "trx": "☯️Этот разговор - сплошная неразбериха."
+    "trx": "☯️Этот разговор — сплошная неразбериха."
   },
   "006_011": {
     "src": "Yet Ota does not realize.",
     "yax": "И все же Ота этого не понимает.",
-    "trx": "☯️И все же Ота этого не понимает."
+    "trx": "☯️И всё же Ота этого не понимает."
   },
   "006_012": {
     "src": "Aiba... This is pathetic.",
@@ -492,7 +492,7 @@
   "006_020": {
     "src": "But I have a duty to watch over her and live by her side!",
     "yax": "Но мой долг - присматривать за ней и жить рядом с ней!",
-    "trx": "☯️Но мой долг - присматривать за ней и жить рядом с ней!"
+    "trx": "☯️Но мой долг — присматривать за ней и жить рядом с ней!"
   },
   "006_021": {
     "src": "Good luck with that.",

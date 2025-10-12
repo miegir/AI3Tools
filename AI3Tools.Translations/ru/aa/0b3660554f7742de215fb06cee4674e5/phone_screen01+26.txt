@@ -1,5 +1,5 @@
 EN: Voice Only
-RU: ?
+RU: Только голос
 
 TAGS:
-  [untranslated]
+  [AI2]

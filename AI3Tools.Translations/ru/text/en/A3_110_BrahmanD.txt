@@ -147,7 +147,7 @@
   "005_003": {
     "src": "Uh, \"Amame\" is a friend of mine...",
     "yax": "Э-э, \"Амаме\" - это моя подруга...",
-    "trx": "☯️Э-э, \"Амаме\" - это моя подруга..."
+    "trx": "☯️Э-э, \"Амаме\" — это моя подруга..."
   },
   "005_004": {
     "src": "She works as a mermaid at Sunfish Pocket, right?",
@@ -362,7 +362,7 @@
   "006_001": {
     "src": "If all that's true...",
     "yax": "Если все это правда...",
-    "trx": "☯️Если все это правда..."
+    "trx": "☯️Если всё это правда..."
   },
   "006_002": {
     "src": "That would mean it's possible that the pod contains Iris...",

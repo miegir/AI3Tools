@@ -67,7 +67,7 @@
   "001_014": {
     "src": "Still, I would say that all's well that ends well.",
     "yax": "И все же я бы сказал, что все хорошо, что хорошо кончается.",
-    "trx": "☯️И все же я бы сказал, что все хорошо, что хорошо кончается."
+    "trx": "☯️И всё же я бы сказал, что всё хорошо, что хорошо кончается."
   },
   "001_015": {
     "src": "The host-crazed, unstable woman was replaced by the gentle Hitomi. No way I wouldn't be happy about this.",
@@ -162,7 +162,7 @@
   "001_033": {
     "src": "Thank you. But is it really okay to make you do something like this during work hours?",
     "yax": "Спасибо». Но действительно ли это нормально - заставлять вас делать что-то подобное в рабочее время?",
-    "trx": "☯️Спасибо». Но действительно ли это нормально - заставлять вас делать что-то подобное в рабочее время?"
+    "trx": "☯️Спасибо». Но действительно ли это нормально — заставлять вас делать что-то подобное в рабочее время?"
   },
   "001_034": {
     "src": "Of course. My last boss used to make us give her exfoliating foot massages. With our teeth.",
@@ -252,7 +252,7 @@
   "001_051": {
     "src": "Because of this, Ex-Boss believes that the perp is a low-paying customer who didn't leave much of an impression on the hosts.",
     "yax": "Из-за этого бывший босс считает, что преступник - низкооплачиваемый клиент, который не произвел особого впечатления на хозяев.",
-    "trx": "☯️Из-за этого бывший босс считает, что преступник - низкооплачиваемый клиент, который не произвёл особого впечатления на хозяев."
+    "trx": "☯️Из-за этого бывший босс считает, что преступник — низкооплачиваемый клиент, который не произвёл особого впечатления на хозяев."
   },
   "001_052": {
     "src": "A \"whale\" in this context, by the way, is a customer who spends a lot on the goods and services provided by the establishments.",
@@ -537,7 +537,7 @@
   "001_108": {
     "src": "Isn't it obvious? Many customers who go to unwind at host clubs are hostesses who are deeply disappointed by the male species and want to be pampered by handsome guys!",
     "yax": "Разве это не очевидно? Многие клиенты, которые приходят отдохнуть в принимающие клубы, - это хостессы, которые глубоко разочарованы мужским видом и хотят, чтобы их баловали красивые парни!",
-    "trx": "☯️Разве это не очевидно? Многие клиенты, которые приходят отдохнуть в принимающие клубы, - это хостессы, которые глубоко разочарованы мужским видом и хотят, чтобы их баловали красивые парни!"
+    "trx": "☯️Разве это не очевидно? Многие клиенты, которые приходят отдохнуть в принимающие клубы, — это хостессы, которые глубоко разочарованы мужским видом и хотят, чтобы их баловали красивые парни!"
   },
   "001_109": {
     "src": "She clearly thinks better of herself.",
@@ -557,7 +557,7 @@
   "001_112": {
     "src": "I see... Wait, why are you telling me all this?",
     "yax": "Я понимаю... Подожди, зачем ты мне все это рассказываешь?",
-    "trx": "☯️Я понимаю... Подожди, зачем ты мне все это рассказываешь?"
+    "trx": "☯️Я понимаю... Подожди, зачем ты мне всё это рассказываешь?"
   },
   "001_113": {
     "src": "Isn't it obvious? You might as well help me with this.",
@@ -622,7 +622,7 @@
   "001_125": {
     "src": "Still, how did she even know that I was spending money on Omiya's hostesses?",
     "yax": "И все же, откуда она вообще узнала, что я трачу деньги на хостесс Омии?",
-    "trx": "☯️И все же, откуда она вообще узнала, что я трачу деньги на хостесс Омии?"
+    "trx": "☯️И всё же, откуда она вообще узнала, что я трачу деньги на хостесс Омии?"
   },
   "001_126": {
     "src": "The moment I wondered that, Ryuki's face came to mind. Right... When the two of us went drinking, I got wasted and spilled it.",
@@ -692,7 +692,7 @@
   "001_139": {
     "src": "Before the day is out, yes. If we waste too much time, the culprit might notice and get away.",
     "yax": "До конца рабочего дня - да. Если мы потратим слишком много времени, преступник может заметить это и скрыться.",
-    "trx": "☯️До конца рабочего дня - да. Если мы потратим слишком много времени, преступник может заметить это и скрыться."
+    "trx": "☯️До конца рабочего дня — да. Если мы потратим слишком много времени, преступник может заметить это и скрыться."
   },
   "001_140": {
     "src": "Damn it. I might as well make the most of it and get the hostesses' numbers.",
@@ -947,7 +947,7 @@
   "001_190": {
     "src": "Knowing that it would come to light during questioning anyway, I just went and said it.",
     "yax": "Зная, что это все равно всплывет во время допроса, я просто пошел и сказал это.",
-    "trx": "☯️Зная, что это все равно всплывёт во время допроса, я просто пошёл и сказал это."
+    "trx": "☯️Зная, что это всё равно всплывёт во время допроса, я просто пошёл и сказал это."
   },
   "001_191": {
     "src": "The reason Akemi knew was very simple.",

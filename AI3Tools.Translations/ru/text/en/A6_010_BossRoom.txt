@@ -192,12 +192,12 @@
   "003_028": {
     "src": "And as a result, that stuff was featured in the escape game.",
     "yax": "И в результате все это появилось в игре \"Побег\".",
-    "trx": "☯️И в результате все это появилось в игре \"Побег\"."
+    "trx": "☯️И в результате всё это появилось в игре \"Побег\"."
   },
   "003_029": {
     "src": "Does all this have to be in the record?",
     "yax": "Обязательно ли все это заносить в протокол?",
-    "trx": "☯️Обязательно ли все это заносить в протокол?"
+    "trx": "☯️Обязательно ли всё это заносить в протокол?"
   },
   "003_030": {
     "src": "Aren't you curious why it was a UFO, or what's the deal with the lizard girl?",
@@ -262,7 +262,7 @@
   "003_042": {
     "src": "Pfft, I don't care as long as we meet the deadline. Keep up the good work, Ryuki!",
     "yax": "Пфф, мне все равно, главное, чтобы мы уложились в срок. Продолжай в том же духе, Рюки!",
-    "trx": "☯️Пфф, мне все равно, главное, чтобы мы уложились в срок. Продолжай в том же духе, Рюки!"
+    "trx": "☯️Пфф, мне всё равно, главное, чтобы мы уложились в срок. Продолжай в том же духе, Рюки!"
   },
   "003_043": {
     "src": "Ryuki, when we get the chance, let's hit the noodle spot near the station and get some croquette soba...",
@@ -347,7 +347,7 @@
   "004_006": {
     "src": "3. She would make sure to keep the whole thing under wraps.",
     "yax": "3. Она постаралась бы сохранить все это в тайне.",
-    "trx": "☯️3. Она постаралась бы сохранить все это в тайне."
+    "trx": "☯️3. Она постаралась бы сохранить всё это в тайне."
   },
   "004_007": {
     "src": "I assume that's why you remained silent about it, Aiba?",
@@ -382,7 +382,7 @@
   "004_013": {
     "src": "We're AI. We're suckers for good organization.",
     "yax": "Мы - искусственный интеллект. Мы помешаны на хорошей организации.",
-    "trx": "☯️Мы - искусственный интеллект. Мы помешаны на хорошей организации."
+    "trx": "☯️Мы — искусственный интеллект. Мы помешаны на хорошей организации."
   },
   "004_014": {
     "src": "Indeed. It prevents excessive battery usage.",
@@ -487,7 +487,7 @@
   "004_032": {
     "src": "Eight years ago, an explosion at a chemical factory there put the whole place off-limits.",
     "yax": "Восемь лет назад из-за взрыва на тамошнем химическом заводе все это место было закрыто для посещения.",
-    "trx": "☯️Восемь лет назад из-за взрыва на тамошнем химическом заводе все это место было закрыто для посещения."
+    "trx": "☯️Восемь лет назад из-за взрыва на тамошнем химическом заводе всё это место было закрыто для посещения."
   },
   "004_033": {
     "src": "Your average civilian would never go there.",
@@ -787,7 +787,7 @@
   "004_091": {
     "src": "But the real mastermind is AI Sakura herself...",
     "yax": "Но настоящий вдохновитель - сама АЙ Сакура...",
-    "trx": "☯️Но настоящий вдохновитель - сама АЙ Сакура..."
+    "trx": "☯️Но настоящий вдохновитель — сама АЙ Сакура..."
   },
   "004_092": {
     "src": "The legal system isn't equipped to handle an AI perpetrator, even if we did charge her with something.",
@@ -912,7 +912,7 @@
   "005_022": {
     "src": "AI Sakura is both AI and not.",
     "yax": "АЙ Сакура - это одновременно и АЙ, и не АЙ.",
-    "trx": "☯️АЙ Сакура - это одновременно и АЙ, и не АЙ."
+    "trx": "☯️АЙ Сакура — это одновременно и АЙ, и не АЙ."
   },
   "005_023": {
     "src": "What do you mean?",
@@ -922,7 +922,7 @@
   "005_024": {
     "src": "She's an AI created with Sakura Asahi's personality as a base...",
     "yax": "Она - искусственный интеллект, созданный на основе личности Сакуры Асахи...",
-    "trx": "☯️Она - искусственный интеллект, созданный на основе личности Сакуры Асахи..."
+    "trx": "☯️Она — искусственный интеллект, созданный на основе личности Сакуры Асахи..."
   },
   "005_025": {
     "src": "And since Hina was the only person she had any contact with, her development was kinda screwy.",
@@ -992,7 +992,7 @@
   "005_038": {
     "src": "What? Me?",
     "yax": "Что? - я?",
-    "trx": "☯️Что? - я?"
+    "trx": "☯️Что? — я?"
   },
   "005_039": {
     "src": "Yes. What do you think of ABIS?",
@@ -1252,7 +1252,7 @@
   "012_004": {
     "src": "All's well that ends well, right?",
     "yax": "Все хорошо, что хорошо кончается, верно?",
-    "trx": "☯️Все хорошо, что хорошо кончается, верно?"
+    "trx": "☯️Всё хорошо, что хорошо кончается, верно?"
   },
   "012_005": {
     "src": "Did you all enjoy dancing in the palm of an AI's hand?",
@@ -1382,7 +1382,7 @@
   "012_030": {
     "src": "Don't care.",
     "yax": "Мне все равно.",
-    "trx": "☯️Мне все равно."
+    "trx": "☯️Мне всё равно."
   },
   "012_031": {
     "src": "Tch!",
@@ -1417,7 +1417,7 @@
   "012_037": {
     "src": "The deadline is today. Go and get some.",
     "yax": "Крайний срок - сегодня. Сходи и купи немного.",
-    "trx": "☯️Крайний срок - сегодня. Сходи и купи немного."
+    "trx": "☯️Крайний срок — сегодня. Сходи и купи немного."
   },
   "012_038": {
     "src": "Right now?!",

@@ -347,7 +347,7 @@
   "006_022": {
     "src": "What we do is create simulations based on human action patterns and the surroundings.",
     "yax": "Все, что мы делаем, - это создаем симуляции, основанные на моделях действий человека и окружающей обстановке.",
-    "trx": "☯️Все, что мы делаем, - это создаём симуляции, основанные на моделях действий человека и окружающей обстановке."
+    "trx": "☯️Все, что мы делаем, — это создаём симуляции, основанные на моделях действий человека и окружающей обстановке."
   },
   "006_023": {
     "src": "We're a long way off from knowing what really goes on inside people's heads.",
@@ -457,7 +457,7 @@
   "006_044": {
     "src": "Alright. So, where did it go?",
     "yax": "Хорошо. Итак, куда же все это делось?",
-    "trx": "☯️Хорошо. Итак, куда же все это делось?"
+    "trx": "☯️Хорошо. Итак, куда же всё это делось?"
   },
   "006_045": {
     "src": "According to the witnesses, looks like it's headin' to Kabasaki.",
@@ -577,7 +577,7 @@
   "010_005": {
     "src": "Enough! That doesn't change the fact that you are a deeply flawed human being, Kaname Date!",
     "yax": "Хватит! Это не меняет того факта, что ты глубоко ущербный человек, Канаме Датэ!",
-    "trx": "☯️Хватит! Это не меняет того факта, что ты глубоко ущербный человек, Канаме Датэ!"
+    "trx": "☯️Хватит! Это не меняет того факта, что ты глубоко ущербный человек, Канамэ Датэ!"
   },
   "010_006": {
     "src": "*crying*...",
@@ -597,7 +597,7 @@
   "011_002": {
     "src": "What awaits you are fireworks most befitting for the conclusion.",
     "yax": "То, что вас ждет, - это фейерверк, наиболее подходящий для завершения.",
-    "trx": "☯️То, что вас ждёт, - это фейерверк, наиболее подходящий для завершения."
+    "trx": "☯️То, что вас ждёт, — это фейерверк, наиболее подходящий для завершения."
   },
   "011_003": {
     "src": "Brief flowers of fire, blooming in the sky with an intensity that could bring down the moon...",
@@ -627,7 +627,7 @@
   "011_008": {
     "src": "Maybe the \"Third Eye\" is the Ferris wheel...?",
     "yax": "Может быть, \"Третий глаз\" - это колесо обозрения?..",
-    "trx": "☯️Может быть, \"Третий глаз\" - это колесо обозрения?.."
+    "trx": "☯️Может быть, \"Третий глаз\" — это колесо обозрения?.."
   },
   "011_009": {
     "src": "Well, that Ferris wheel does make me feel like I'm being watched...",

@@ -1,5 +1,5 @@
 EN: Incoming Call
-RU: ?
+RU: Входящий вызов
 
 TAGS:
-  [untranslated]
+  [AI2]

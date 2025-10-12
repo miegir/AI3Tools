@@ -12,7 +12,7 @@
   "001_003": {
     "src": "A sexy office lady would wipe all this stuff onto the floor and use it as a chair.",
     "yax": "Сексуальная офисная леди смахнула бы все это на пол и использовала бы в качестве стула.",
-    "trx": "☯️Сексуальная офисная леди смахнула бы все это на пол и использовала бы в качестве стула."
+    "trx": "☯️Сексуальная офисная леди смахнула бы всё это на пол и использовала бы в качестве стула."
   },
   "001_004": {
     "src": "Normally, I would reprimand you for talking nonsense, but I concede that Boss probably would do that if intoxicated.",
@@ -32,7 +32,7 @@
   "002_002": {
     "src": "It used to be full of Pewter's stuff, but it's all gone now.",
     "yax": "Раньше там было полно всякой всячины Пьютера, но теперь все это исчезло.",
-    "trx": "☯️Раньше там было полно всякой всячины Пьютера, но теперь все это исчезло."
+    "trx": "☯️Раньше там было полно всякой всячины Пьютера, но теперь всё это исчезло."
   },
   "002_003": {
     "src": "A steel rack.",

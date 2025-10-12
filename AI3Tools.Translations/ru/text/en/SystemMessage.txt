@@ -1397,7 +1397,7 @@
   "difficulty_info_008": {
     "src": "This is the recommended setting.\nYou will receive hints, but you will still be able to feel like you solve the puzzles yourself.",
     "yax": "Это рекомендуемая настройка.\nВы будете получать подсказки, но у вас все равно будет ощущение, что вы решаете головоломки самостоятельно.",
-    "trx": "Это рекомендуемая сложность. Иногда вы будете получать подсказки, но у вас все равно будет ощущение, что вы решаете головоломки самостоятельно."
+    "trx": "Это рекомендуемая сложность. Иногда вы будете получать подсказки, но у вас всё равно будет ощущение, что вы решаете головоломки самостоятельно."
   },
   "difficulty_info_009": {
     "src": "This setting makes it relatively easy to progress.\nExploration is less trouble and puzzle solving becomes smoother.",

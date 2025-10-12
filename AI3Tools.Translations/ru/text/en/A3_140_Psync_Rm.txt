@@ -132,7 +132,7 @@
   "004_010": {
     "src": "A lionschlager is a crazy expensive drink... You could buy a car for what it costs for one bottle.",
     "yax": "Лайоншлагер - безумно дорогой напиток... За одну бутылку можно купить машину.",
-    "trx": "☯️Лайоншлагер - безумно дорогой напиток... За одну бутылку можно купить машину."
+    "trx": "☯️Лайоншлагер — безумно дорогой напиток... За одну бутылку можно купить машину."
   },
   "004_011": {
     "src": "Anyway, all those empty lionschlager bottles Boss bought got stacked up and turned into a quirky tourist attraction!",

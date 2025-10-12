@@ -92,7 +92,7 @@
   "003_012": {
     "src": "All of it...everything is because of you!",
     "yax": "Все это... все из-за тебя!",
-    "trx": "☯️Все это... все из-за тебя!"
+    "trx": "☯️Всё это... все из-за тебя!"
   },
   "003_013": {
     "src": "All right, I get it. Calm down...",

@@ -242,7 +242,7 @@
   "018_004": {
     "src": "Well, yeah. We're a clean and wholesome organization.",
     "yax": "Ну, да. Мы - чистая и благотворная организация.",
-    "trx": "☯️Ну, да. Мы - чистая и благотворная организация."
+    "trx": "☯️Ну, да. Мы — чистая и благотворная организация."
   },
   "018_005": {
     "src": "A paper on the wall lays out general principles.",
