@@ -77,6 +77,6 @@
   "009_001": {
     "src": "For the peace of the world, for the future of our children! Fight on! Suitactorabbit!",
     "yax": "За мир во всем мире, за будущее наших детей! Сражайтесь дальше! Suitactorabbit!",
-    "trx": "☯️За мир во всем мире, за будущее наших детей! Сражайтесь дальше! Suitactorabbit!"
+    "trx": "☯️За мир во всём мире, за будущее наших детей! Сражайтесь дальше! Suitactorabbit!"
   }
 }

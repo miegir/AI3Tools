@@ -237,7 +237,7 @@
   "HalfToOneSolo_065": {
     "src": "One of me in this entire world",
     "yax": "Один из меня во всем этом мире",
-    "trx": "☯️Один из меня во всем этом мире"
+    "trx": "☯️Один из меня во всём этом мире"
   },
   "HalfToOneSolo_066": {
     "src": "Turn off the spotlight",

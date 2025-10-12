@@ -762,7 +762,7 @@
   "tutorial_097": {
     "src": "<color=red>Things you examined</color> are recorded in the map screen.\nConsult the map if you are lost.",
     "yax": "<color=красный>Объекты, которые вы осмотрели</color>, отображаются на экране карты.\nЕсли вы заблудились, сверьтесь с картой.",
-    "trx": "<color=red>Изученные объекты</color> помещаются на экран карты. Сверяйтесь с картой, если вы вдруг заблудились."
+    "trx": "<color=red>Изученные объекты</color> помещаются на экран карты.\nСверяйтесь с картой, если вы вдруг заблудились."
   },
   "tutorial_title_057": {
     "src": "Royal Game of Ur Rule 1: Goal",

@@ -402,7 +402,7 @@
   "008_003": {
     "src": "I know what happened and all...",
     "yax": "Я знаю, что произошло, и все такое...",
-    "trx": "☯️Я знаю, что произошло, и все такое..."
+    "trx": "☯️Я знаю, что произошло, и всё такое..."
   },
   "008_004": {
     "src": "But I think he'll atone, pay bail, and be back at ABIS before you know it.",

@@ -1,5 +1,5 @@
 EN: Map
-RU: ?
+RU: Карта
 
 TAGS:
-  [untranslated]
+  [AI2]

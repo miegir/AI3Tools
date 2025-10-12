@@ -2,7 +2,7 @@
   "file_trivia_001": {
     "src": "Aiba:\n\"AI-Balls\" are autonomous robot \"eyeballs\" integrated into the left eye socket of Psyncers. I am one of them. A \"Psyncer\" is a person who engages in Psyncing. Date is one of them. Under normal circumstances, I sit where his left eye would be, supporting his investigations with functions such as X-ray vision and thermography. The core program of my personality and thoughts is called the \"Wadjet System.\" It is what enables me to act independently, as well as acknowledge, analyze, and judge any situation. In short, I am amazing! That is all!",
     "yax": "Aiba:\n\"ИИ-шары\" - это автономные роботизированные \"глазные яблоки\", встроенные в левую глазницу псайнеров. Я один из них. \"Псайнер\" - это человек, который занимается псайнингом. Дата - один из них. В обычных обстоятельствах я сижу на том месте, где находился бы его левый глаз, и поддерживаю его исследования с помощью таких функций, как рентгеновское зрение и термография. Основная программа моей личности и мыслей называется \"Система Ваджета\". Это то, что позволяет мне действовать независимо, а также осознавать, анализировать и оценивать любую ситуацию. Короче говоря, я потрясающий! Вот и все!",
-    "trx": "☯️Aiba:\n\"ИИ-шары\" - это автономные роботизированные \"глазные яблоки\", встроенные в левую глазницу псайнеров. Я один из них. \"Псайнер\" - это человек, который занимается псайнингом. Дата - один из них. В обычных обстоятельствах я сижу на том месте, где находился бы его левый глаз, и поддерживаю его исследования с помощью таких функций, как рентгеновское зрение и термография. Основная программа моей личности и мыслей называется \"Система Ваджета\". Это то, что позволяет мне действовать независимо, а также осознавать, анализировать и оценивать любую ситуацию. Короче говоря, я потрясающий! Вот и все!"
+    "trx": "Айба:\n\"AI-Ball\" — это автономный роботизированный глаз, интегрированный в левую глазницу псинкера. Я одна из таких. \"Псинкер\" — это человек, который выполняет псинхронизацию. Датэ — один из таких. В обычных обстоятельствах я располагаюсь в том месте, где должен находиться его левый глаз, и предоставляю ему в расследованиях такие функции, как рентгеновское зрение и термография. Основная программа моей личности и мыслей называется \"Система Wadjet\". Эта программа позволяет мне действовать независимо, а также осознавать, анализировать и оценивать любую ситуацию. Одним словом, я восхитительна! Вот и всё!"
   },
   "file_trivia_002": {
     "src": "Aiba:\nThough it is still experimental, we are now able to use a new function called \"Wink Psync.\" It is a simplified version of the regular Psync, enabling an AI-Ball to fire powerful EM waves towards a person's head, temporarily paralyzing them and analyzing the vague dreams they see in the process. To put it simply, it grants the ability to take a brief look into a person's head. I hope it assists our investigations and is not irresponsibly used for anything else.",
@@ -127,106 +127,106 @@
   "file_trivia_title_001": {
     "src": "AI-Ball",
     "yax": "Искусственный интеллект-Мяч",
-    "trx": "☯️Искусственный интеллект-Мяч"
+    "trx": null
   },
   "file_trivia_title_002": {
     "src": "Wink Psync",
     "yax": "Подмигивание Psync",
-    "trx": "☯️Подмигивание Psync"
+    "trx": "Винк-псинк"
   },
   "file_trivia_title_003": {
     "src": "Matsushita Diner",
     "yax": "Закусочная \"Мацусита\"",
-    "trx": "☯️Закусочная \"Мацусита\""
+    "trx": "Закусочная Мацуситы"
   },
   "file_trivia_title_004": {
     "src": "Sumerians",
     "yax": "Шумеры",
-    "trx": "☯️Шумеры"
+    "trx": "Шумеры"
   },
   "file_trivia_title_005": {
     "src": "Mizuki Date",
     "yax": "Свидание с Мизуки",
-    "trx": "☯️Свидание с Мизуки"
+    "trx": "Мизуки Датэ"
   },
   "file_trivia_title_006": {
     "src": "ABIS",
     "yax": "АБИС",
-    "trx": "☯️АБИС"
+    "trx": null
   },
   "file_trivia_title_007": {
     "src": "Psync",
     "yax": "Псинхронизация",
-    "trx": "☯️Псинхронизация"
+    "trx": "Псинхронизация"
   },
   "file_trivia_title_008": {
     "src": "Somnium",
     "yax": "Сомниум",
-    "trx": "☯️Сомниум"
+    "trx": "Сомниум"
   },
   "file_trivia_title_009": {
     "src": "Kumakura Group",
     "yax": "Группа компаний \"Кумакура\"",
-    "trx": "☯️Группа компаний \"Кумакура\""
+    "trx": "Группа Кумакура"
   },
   "file_trivia_title_010": {
     "src": "Mama, Marble",
     "yax": "Мама, Мраморная",
-    "trx": "☯️Мама, Мраморная"
+    "trx": "Мама, Марбл"
   },
   "file_trivia_title_011": {
     "src": "Abandoned Factory",
     "yax": "Заброшенный завод",
-    "trx": "☯️Заброшенный завод"
+    "trx": "Заброшенная фабрика"
   },
   "file_trivia_title_012": {
     "src": "Pewter",
     "yax": "Оловянный",
-    "trx": "☯️Оловянный"
+    "trx": "Пьютер"
   },
   "file_trivia_title_021": {
     "src": "Date's Combat Style",
     "yax": "Боевой стиль свидания",
-    "trx": "☯️Боевой стиль свидания"
+    "trx": "Боевой стиль Датэ"
   },
   "file_trivia_title_013": {
     "src": "Inspector",
     "yax": "Инспектор",
-    "trx": "☯️Инспектор"
+    "trx": "Инспектор"
   },
   "file_trivia_title_014": {
     "src": "A Certain Possibility",
     "yax": "Определенная возможность",
-    "trx": "☯️Определенная возможность"
+    "trx": "Определенная возможность"
   },
   "file_trivia_title_015": {
     "src": "Sakura Asahi and her AI",
     "yax": "Сакура Асахи и ее искусственный интеллект",
-    "trx": "☯️Сакура Асахи и её искусственный интеллект"
+    "trx": "Сакура Асахи и её ИИ"
   },
   "file_trivia_title_016": {
     "src": "The Recent Plan",
     "yax": "Недавний план",
-    "trx": "☯️Недавний план"
+    "trx": "Недавний план"
   },
   "file_trivia_title_017": {
     "src": "Lien",
     "yax": "Залог",
-    "trx": "☯️Залог"
+    "trx": "Лиен"
   },
   "file_trivia_title_018": {
     "src": "What Comes Next For Me",
     "yax": "Что будет со Мной Дальше",
-    "trx": "☯️Что будет со Мной Дальше"
+    "trx": "Что будет со мной дальше"
   },
   "file_trivia_title_019": {
     "src": "The Number",
     "yax": "число",
-    "trx": "☯️число"
+    "trx": "Число"
   },
   "file_trivia_title_020": {
     "src": "THE THOUSAND GAZE",
     "yax": "ТЫСЯЧА ПРИСТАЛЬНЫХ ВЗГЛЯДОВ",
-    "trx": "☯️ТЫСЯЧА ПРИСТАЛЬНЫХ ВЗГЛЯДОВ"
+    "trx": null
   }
 }

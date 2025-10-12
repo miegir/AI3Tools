@@ -1677,7 +1677,7 @@
   "psynctarget_001": {
     "src": "Explorer: {0}",
     "yax": "Исследователь: {0}",
-    "trx": "Исследователь: {0}"
+    "trx": "Персонаж: {0}"
   },
   "techno_001": {
     "src": "The key is to match the colors!",

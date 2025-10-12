@@ -1,5 +1,5 @@
 EN: 5F
-RU: ?
+RU: 5УР
 
 TAGS:
-  [untranslated]
+  [AI2]

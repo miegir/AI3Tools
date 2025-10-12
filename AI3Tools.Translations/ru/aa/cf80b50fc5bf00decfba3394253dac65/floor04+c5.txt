@@ -1,5 +1,5 @@
 EN: 4F
-RU: ?
+RU: 4УР
 
 TAGS:
-  [untranslated]
+  [AI2]
