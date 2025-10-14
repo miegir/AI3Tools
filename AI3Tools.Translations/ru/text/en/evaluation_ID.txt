@@ -207,7 +207,7 @@
   "evaluation_summary_021": {
     "src": "Arrived at Alternate Ending L.\nGathering smartballs for a living ain't as bad as it seems.",
     "yax": "Добрались до альтернативной концовки L.\nЗарабатывать на жизнь собиранием умников не так уж и плохо, как кажется.",
-    "trx": "Достигнута альт-развязка L.\nЗарабатывать на жизнь, гоняя шары, не так плохо, как кажется."
+    "trx": "Достигнута альт-развязка L.\nЗарабатывать на жизнь, играя в смартбол, не так плохо, как кажется."
   },
   "evaluation_title_022": {
     "src": "Alternate Ending M: TV Addict",

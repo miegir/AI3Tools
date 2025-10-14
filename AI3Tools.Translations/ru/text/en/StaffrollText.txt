@@ -102,7 +102,7 @@
   "staffroll_joke_063": {
     "src": "Smartballer",
     "yax": "Умный игрок",
-    "trx": "Игрок в шары"
+    "trx": "Игрок в смартбол"
   },
   "staffroll_joke_064": {
     "src": "Kaname Date",
