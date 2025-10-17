@@ -12,7 +12,7 @@
   "001_003": {
     "src": "Then, went to sleep right on top of it.",
     "yax": "А потом заснул прямо на нем.",
-    "trx": "☯️А потом заснул прямо на нем."
+    "trx": "☯️А потом заснул прямо на нём."
   },
   "001_004": {
     "src": "That's Boss for you. She never betrays expectations.",
@@ -52,7 +52,7 @@
   "004_001": {
     "src": "It's a monitor. There's nothing on it.",
     "yax": "Это монитор. На нем ничего нет.",
-    "trx": "☯️Это монитор. На нем ничего нет."
+    "trx": "☯️Это монитор. На нём ничего нет."
   },
   "005_001": {
     "src": "A CRT monitor that isn't showing anything.",

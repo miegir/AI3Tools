@@ -157,7 +157,7 @@
   "005_003": {
     "src": "Anything about Earth having an extraterrestrial invasion coming?",
     "yax": "Что-нибудь о грядущем вторжении на Землю инопланетян?",
-    "trx": "Что-нибудь о грядущем вторжении инопланетян на Землю?"
+    "trx": "Что-нибудь о грядущем вторжении пришельцев на Землю?"
   },
   "005_004": {
     "src": "Y'know, that kind of weirdo conspiracy bullsh— I mean...the supernatural stuff that your daughter is so interested in.",
@@ -167,7 +167,7 @@
   "005_005": {
     "src": "She does tend to mention aliens now and then since, as you said, she is interested in that kind of thing.",
     "yax": "Она действительно склонна время от времени упоминать инопланетян, поскольку, как вы сказали, она интересуется подобными вещами.",
-    "trx": "Она действительно склонна иногда упоминать инопланетян, поскольку, как вы сказали, она интересуется подобными вещами."
+    "trx": "Она действительно склонна иногда упоминать пришельцев, поскольку, как вы сказали, она интересуется подобными вещами."
   },
   "005_006": {
     "src": "Oh!",
@@ -207,7 +207,7 @@
   "006_003": {
     "src": "When she contacted me, she said she was kidnapped by aliens.",
     "yax": "Когда она связалась со мной, то сказала, что ее похитили инопланетяне.",
-    "trx": "Когда она связалась со мной, она сказала, что её похитили инопланетяне."
+    "trx": "Когда она связалась со мной, она сказала, что её похитили пришельцы."
   },
   "006_004": {
     "src": "At first I thought it was just another one of her prank calls...",

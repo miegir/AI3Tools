@@ -47,7 +47,7 @@
   "004_001": {
     "src": "A monitor. There's nothing on it.",
     "yax": "Монитор. На нем ничего нет.",
-    "trx": "☯️Монитор. На нем ничего нет."
+    "trx": "☯️Монитор. На нём ничего нет."
   },
   "005_001": {
     "src": "Why's there a CRT here? What year are we in?",

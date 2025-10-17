@@ -792,7 +792,7 @@
   "033_002": {
     "src": "It has the phrase \"No. Never Gonna Happen.\" on it.",
     "yax": "На нем есть фраза \"Нет. Этого никогда не случится\".",
-    "trx": "☯️На нем есть фраза \"Нет. Этого никогда не случится\"."
+    "trx": "☯️На нём есть фраза \"Нет. Этого никогда не случится\"."
   },
   "033_003": {
     "src": "That happens to be something I hear from a lot of women.",

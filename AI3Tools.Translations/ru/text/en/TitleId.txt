@@ -717,7 +717,7 @@
   "title_144": {
     "src": "Mayumi",
     "yax": "Маюми",
-    "trx": "Маюми" //spell-ignore:Маюми
+    "trx": "Маюми"
   },
   "title_145": {
     "src": "Inside Studio",
@@ -1487,7 +1487,7 @@
   "title_298": {
     "src": "Wall Poster",
     "yax": "Настенный плакат",
-    "trx": "Настенный постер"
+    "trx": "Постер на стене"
   },
   "title_299": {
     "src": "Mystery Pod",
@@ -1582,7 +1582,7 @@
   "title_317": {
     "src": "Alien Sleeping in Pod",
     "yax": "Инопланетянин, спящий в капсуле",
-    "trx": "Инопланетянин, спящий в капсуле"
+    "trx": "Пришелец, спящий в капсуле"
   },
   "title_318": {
     "src": "Occult Magazine",
@@ -1602,7 +1602,7 @@
   "title_321": {
     "src": "Alien Flying Towards Earth",
     "yax": "Инопланетянин Летит к Земле",
-    "trx": "Инопланетянин, летящий к Земле"
+    "trx": "Пришельцы, летящие на Землю"
   },
   "title_322": {
     "src": "Great Reset",

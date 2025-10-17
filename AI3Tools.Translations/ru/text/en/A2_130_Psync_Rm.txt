@@ -22,7 +22,7 @@
   "001_005": {
     "src": "Yeah. Not even an alien.",
     "yax": "Да. Даже не инопланетянин.",
-    "trx": "☯️Да. Даже не инопланетянин."
+    "trx": "☯️Да. Даже не пришелец."
   },
   "001_006": {
     "src": "But man, this isn't easy when you have no idea what kind of person they are...",

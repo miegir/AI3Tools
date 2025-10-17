@@ -577,7 +577,7 @@
   "006_008": {
     "src": "What, like an alien? You gotta tell me more!",
     "yax": "Что, как инопланетянин? Ты должен рассказать мне больше!",
-    "trx": "☯️Что, как инопланетянин? Ты должен рассказать мне больше!"
+    "trx": "☯️Что, как пришелец? Ты должен рассказать мне больше!"
   },
   "006_009": {
     "src": "Was it not very \"human\" of me to let anger seize me and burn your precious porno mag?",

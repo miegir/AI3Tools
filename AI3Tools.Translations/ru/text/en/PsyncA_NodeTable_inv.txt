@@ -402,7 +402,7 @@
   "target_081": {
     "src": "Mermaid Photo",
     "yax": "Фотография русалки",
-    "trx": "Фотография русалки"
+    "trx": "Фотографии русалок"
   },
   "target_082": {
     "src": "Cash Register",
@@ -612,7 +612,7 @@
   "target_123": {
     "src": "Beer Cases",
     "yax": "Ящики с пивом",
-    "trx": "Ящики с пивом"
+    "trx": "Ящики из-под пива"
   },
   "target_124": {
     "src": "Refrigerator",
@@ -3702,7 +3702,7 @@
   "target_736": {
     "src": "Mermaid Photo",
     "yax": "Фотография русалки",
-    "trx": "Фотография русалки"
+    "trx": "Фотографии русалок"
   },
   "target_737": {
     "src": "Cash Register",

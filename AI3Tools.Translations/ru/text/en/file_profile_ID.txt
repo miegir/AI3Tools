@@ -852,7 +852,7 @@
   "file_profile_160": {
     "src": "Sea Kings who stay for an hour after ordering just one cup of coffee, Silence, Left (Side)",
     "yax": "Морские короли, которые остаются на час, заказав всего одну чашку кофе, Тишина, слева (сбоку)",
-    "trx": "<size=75%>Морских королей, сидящих по часу с одним только кофе, Тишину, Левую сторону"
+    "trx": "<size=75%>Морских царей, сидящих по часу с одним только кофе, Тишину, Левую сторону"
   },
   "file_profile_161": {
     "src": "Breeding triplewart seadevils",

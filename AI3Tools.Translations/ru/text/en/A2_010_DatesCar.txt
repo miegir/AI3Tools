@@ -222,7 +222,7 @@
   "004_002": {
     "src": "Iris said that she was abducted by aliens and locked up in a UFO.",
     "yax": "Айрис рассказала, что ее похитили инопланетяне и заперли в НЛО.",
-    "trx": "Она сказала, что её похитили инопланетяне и заперли внутри НЛО."
+    "trx": "Она сказала, что её похитили пришельцы и заперли внутри НЛО."
   },
   "004_003": {
     "src": "Let's not forget we are talking about Iris here. She is prone to flights of fancy.",
@@ -262,7 +262,7 @@
   "005_003": {
     "src": "We'll table the discussion of whether Iris was actually abducted by aliens. For now, we follow her phone's GPS.",
     "yax": "Мы продолжим обсуждение вопроса о том, действительно ли Айрис была похищена инопланетянами. А пока мы следим за навигатором ее телефона.",
-    "trx": "Отложим пока вопрос о том, действительно ли Айрис была похищена инопланетянами. Сейчас мы последуем GPS её телефона."
+    "trx": "Отложим пока вопрос о том, действительно ли Айрис была похищена пришельцами. Сейчас мы последуем GPS её телефона."
   },
   "005_004": {
     "src": "You are acting quite decisive for someone who was fast asleep with a stupid look on your face moments ago...",
