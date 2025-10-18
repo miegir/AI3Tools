@@ -2902,7 +2902,7 @@
   "035_004": {
     "src": "Damn... No good!",
     "yax": "Черт... Ничего хорошего!",
-    "trx": "☯️Черт... Ничего хорошего!"
+    "trx": "☯️Чёрт... Ничего хорошего!"
   },
   "035_005": {
     "src": "Sorry. Your number is still smaller than her's...",
@@ -3477,7 +3477,7 @@
   "040_017": {
     "src": "Dammit!",
     "yax": "Черт возьми!",
-    "trx": "☯️Черт возьми!"
+    "trx": "☯️Чёрт возьми!"
   },
   "040_018": {
     "src": "It is hard to know what to do with her when she actually comes out...",

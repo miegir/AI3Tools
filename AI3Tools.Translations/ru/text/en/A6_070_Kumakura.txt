@@ -557,7 +557,7 @@
   "006_008": {
     "src": "Damn it. How did you know?",
     "yax": "Черт возьми. Как ты узнал?",
-    "trx": "☯️Черт возьми. Как ты узнал?"
+    "trx": "☯️Чёрт возьми. Как ты узнал?"
   },
   "006_009": {
     "src": "Dateee... You know who's to thank for finding Tesa, right?",

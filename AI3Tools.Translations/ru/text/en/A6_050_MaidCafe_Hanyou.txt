@@ -142,7 +142,7 @@
   "008_006": {
     "src": "Damn, that's rough...",
     "yax": "Черт, это жестоко...",
-    "trx": "☯️Черт, это жестоко..."
+    "trx": "☯️Чёрт, это жестоко..."
   },
   "008_007": {
     "src": "Admitting that is hardly keeping up the mermaid act, though.",

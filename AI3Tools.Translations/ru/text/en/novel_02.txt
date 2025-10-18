@@ -632,7 +632,7 @@
   "001_127": {
     "src": "Damn it... You went and turned the rookie into your lapdog. How could you?",
     "yax": "Черт возьми... Ты взял и превратил новичка в свою комнатную собачку. Как ты мог?",
-    "trx": "☯️Черт возьми... Ты взял и превратил новичка в свою комнатную собачку. Как ты мог?"
+    "trx": "☯️Чёрт возьми... Ты взял и превратил новичка в свою комнатную собачку. Как ты мог?"
   },
   "001_128": {
     "src": "Looks like you were the one with a secret she could use for blackmail.",
@@ -697,7 +697,7 @@
   "001_140": {
     "src": "Damn it. I might as well make the most of it and get the hostesses' numbers.",
     "yax": "Черт возьми. С таким же успехом я мог бы воспользоваться этим по максимуму и раздобыть номера хостесс.",
-    "trx": "☯️Черт возьми. С таким же успехом я мог бы воспользоваться этим по максимуму и раздобыть номера хостесс."
+    "trx": "☯️Чёрт возьми. С таким же успехом я мог бы воспользоваться этим по максимуму и раздобыть номера хостесс."
   },
   "001_141": {
     "src": "Feel free to do that. It will not change the fact that no lady will get in this car.",
@@ -867,7 +867,7 @@
   "001_174": {
     "src": "Damn it. Okay, okay! I'll go! Geez!",
     "yax": "Черт возьми. Ладно, ладно! Я пойду! Боже!",
-    "trx": "☯️Черт возьми. Ладно, ладно! Я пойду! Боже!"
+    "trx": "☯️Чёрт возьми. Ладно, ладно! Я пойду! Боже!"
   },
   "001_175": {
     "src": "Inside, dancers on the stage were dancing around the poles.",

@@ -777,7 +777,7 @@
   "011_001": {
     "src": "Damn. So we got nothing about Iris or Moma.",
     "yax": "Черт. Так что у нас ничего нет ни об Айрис, ни о Мома.",
-    "trx": "☯️Черт. Так что у нас ничего нет ни об Айрис, ни о Мома."
+    "trx": "☯️Чёрт. Так что у нас ничего нет ни об Айрис, ни о Мома."
   },
   "011_002": {
     "src": "Your first mistake was relying on fortune telling.",

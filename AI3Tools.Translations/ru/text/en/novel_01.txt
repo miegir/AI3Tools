@@ -557,7 +557,7 @@
   "001_113": {
     "src": "Damn it. Fine, just a little...",
     "yax": "Черт возьми. Ладно, совсем чуть-чуть...",
-    "trx": "☯️Черт возьми. Ладно, совсем чуть-чуть..."
+    "trx": "☯️Чёрт возьми. Ладно, совсем чуть-чуть..."
   },
   "001_114": {
     "src": "Having no choice, I chose to put about ten centimeters between the futons.",

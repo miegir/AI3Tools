@@ -232,7 +232,7 @@
   "005_012": {
     "src": "Damn...",
     "yax": "Черт...",
-    "trx": "☯️Черт..."
+    "trx": "☯️Чёрт..."
   },
   "005_013": {
     "src": "I checked his communication records, and it appears that he was merely watching VODs of Iris's streams.",

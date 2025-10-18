@@ -772,7 +772,7 @@
   "011_017": {
     "src": "Damn!",
     "yax": "Черт!",
-    "trx": "☯️Черт!"
+    "trx": "☯️Чёрт!"
   },
   "011_018": {
     "src": "Date, I used security footage to isolate the vehicle used to haul the pod away.",

@@ -3497,7 +3497,7 @@
   "069_004": {
     "src": "Where, though...?",
     "yax": "Но где же все-таки...?",
-    "trx": "☯️Но где же все-таки?.."
+    "trx": "☯️Но где же всё-таки?.."
   },
   "069_005": {
     "src": "Something will surely stand out. Let us look around more thoroughly.",
@@ -4012,7 +4012,7 @@
   "083_002": {
     "src": "Damn it... I still don't even know who this is...",
     "yax": "Черт возьми... Я до сих пор даже не знаю, кто это...",
-    "trx": "☯️Черт возьми... Я до сих пор даже не знаю, кто это..."
+    "trx": "☯️Чёрт возьми... Я до сих пор даже не знаю, кто это..."
   },
   "083_003": {
     "src": "This is bad! Our time has run out!",

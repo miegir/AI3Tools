@@ -2,7 +2,7 @@
   "001_001": {
     "src": "Damn, it's late...",
     "yax": "Черт, уже поздно...",
-    "trx": "☯️Черт, уже поздно..."
+    "trx": "☯️Чёрт, уже поздно..."
   },
   "001_002": {
     "src": "It's gotten really dark. We don't get paid overtime, do we?",

@@ -57,7 +57,7 @@
   "004_001": {
     "src": "Oh, that reminds me. The missing person from six years back...",
     "yax": "О, это напомнило мне. Человек, пропавший шесть лет назад...",
-    "trx": "О, кстати, насчет той девушки, которая пропала шесть лет назад..."
+    "trx": "О, кстати, насчёт той девушки, которая пропала шесть лет назад..."
   },
   "004_002": {
     "src": "I'm pretty curious about that. Can we get access to the files?",

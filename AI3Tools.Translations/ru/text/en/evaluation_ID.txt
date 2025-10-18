@@ -377,7 +377,7 @@
   "evaluation_summary_038": {
     "src": "Delivered the \"DT Porno Mags\" during the QTE in Alternate Ending X. Porno mags save the world.",
     "yax": "Выпускал \"Порножурналы DT\" во время QTE в альтернативной концовке X. Порножурналы спасают мир.",
-    "trx": "Выбрано распространение \"ДТ-порножурналов\" в QTE из альт-развязки X. Порножурналы спасут мир."
+    "trx": "Выбрано применение \"ДТ-порножурналов\" в QTE из альт-развязки X. Порножурналы спасут мир."
   },
   "evaluation_title_039": {
     "src": "Loach Catching Dancer",

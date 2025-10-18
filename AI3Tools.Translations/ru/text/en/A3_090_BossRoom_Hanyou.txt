@@ -767,7 +767,7 @@
   "030_005": {
     "src": "Damn, harsh...",
     "yax": "Черт, жестоко...",
-    "trx": "☯️Черт, жестоко..."
+    "trx": "☯️Чёрт, жестоко..."
   },
   "030_006": {
     "src": "A Christmas tree.",
@@ -977,7 +977,7 @@
   "049_005": {
     "src": "Damn...",
     "yax": "Черт...",
-    "trx": "☯️Черт..."
+    "trx": "☯️Чёрт..."
   },
   "049_006": {
     "src": "You see, not everyone falls for your childish antics.",
