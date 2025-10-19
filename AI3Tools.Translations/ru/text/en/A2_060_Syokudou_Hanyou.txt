@@ -432,6 +432,6 @@
   "029_001": {
     "src": "I may walk the shadows, but I would never dodge a shadow ban! Backalleybrawlerabbit!",
     "yax": "Я, может, и хожу в тени, но я бы никогда не избежал теневого бана! Backalleybrawlerabbit!",
-    "trx": "Может, я и живу в тени, но я никогда не уклоняюсь от теневого бана! Закулисный-кролик-боец!" //spell-ignore:бана
+    "trx": "Может, я и живу в тени, но я никогда не уклоняюсь от теневого бана! Закулисный-боец-кролик!" //spell-ignore:бана
   }
 }

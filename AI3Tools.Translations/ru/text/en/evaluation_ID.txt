@@ -97,7 +97,7 @@
   "evaluation_summary_010": {
     "src": "Completed the Somnium of the mysterious pod.\nOvercome by regret, the mysterious person became stagnant\nand stopped looking to the future.",
     "yax": "Завершил сон таинственного стручка.\nОхваченный сожалением, таинственный человек впал в застой\nи перестал смотреть в будущее.",
-    "trx": "Завершён сомниум с загадочной капсулой.\nОхваченный сожалением, неизвестный человек остановился в развитии и перестал смотреть в будущее."
+    "trx": "Завершён сомниум с таинственной капсулой.\nНеизвестный, охваченный сожалением, остановился в развитии и перестал смотреть в будущее."
   },
   "evaluation_title_011": {
     "src": "Destructive Knowledge",
@@ -107,7 +107,7 @@
   "evaluation_summary_011": {
     "src": "Completed the Somnium of the mysterious pod.\nHe accepted his past and took a step toward the future.",
     "yax": "Завершил погружение в сон таинственной капсулы.\nОн принял свое прошлое и сделал шаг навстречу будущему.",
-    "trx": "Завершён сомниум с загадочной капсулой.\nОн принял своё прошлое и сделал шаг навстречу будущему."
+    "trx": "Завершён сомниум с таинственной капсулой.\nОн принял своё прошлое и сделал шаг навстречу будущему."
   },
   "evaluation_title_012": {
     "src": "Distortional Knighthood",
