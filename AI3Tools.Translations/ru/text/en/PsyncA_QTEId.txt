@@ -32,7 +32,7 @@
   "qtebutton_009": {
     "src": "Jump back",
     "yax": "Прыгай назад",
-    "trx": "Отпрыгнуть назад"
+    "trx": "Отскочить назад"
   },
   "qtebutton_010": {
     "src": "Hide behind a nearby drum",

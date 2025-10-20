@@ -267,7 +267,7 @@
   "017_004": {
     "src": "It is neither a swimming door nor a singing door.",
     "yax": "Это не плавающая дверь и не поющая дверь.",
-    "trx": "Это не плавающая дверь и не поющая дверь.\n<size=50%><color=white>Примечание переводчика: <i>swinging</i> (распашная), <i>singing</i> (поющая), <i>swimming</i> (плавающая) — игра слов."
+    "trx": "Это не плавающая дверь и не поющая дверь.\n<size=50%><color=#aaa>Примечание переводчика: <i>swinging</i> (распашная), <i>singing</i> (поющая), <i>swimming</i> (плавающая) — игра слов."
   },
   "017_005": {
     "src": "It's a swinging door.",

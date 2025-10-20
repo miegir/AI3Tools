@@ -492,7 +492,7 @@
   "007_010": {
     "src": "Getting valuable information from people is investigation 101!",
     "yax": "Получение ценной информации от людей - это расследование №101!",
-    "trx": "Получение ценной информации от людей — это investigation 101!\n<size=50%><color=white>Примечание переводчика: investigation 101 — онлайн-курс для начинающих детективов, разработанный Дэвидом Риверо." //spell-ignore:Дэвидом //spell-ignore:Риверо
+    "trx": "Получение ценной информации от людей — это investigation 101!\n<size=50%><color=#aaa>Примечание переводчика: investigation 101 — онлайн-курс для начинающих детективов, разработанный Дэвидом Риверо." //spell-ignore:Дэвидом //spell-ignore:Риверо
   },
   "007_011": {
     "src": "And yet ever since I got that feature you have only used it on women!",

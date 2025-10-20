@@ -207,7 +207,7 @@
   "file_info_042": {
     "src": "[Conversation Excerpt]\nDate: \"It's a man's dream to glimpse the unseen, yet they're thwarted here... X-rays! You've failed me this day!\"",
     "yax": "[Отрывок из разговора]\nСвидание: \"Мужчина мечтает увидеть невидимое, но здесь ему это не удается... Рентген! Ты подвел меня сегодня!\"",
-    "trx": "[Отрывок из разговора]\nДатэ: \"Мечта мужчины — в том, чтоб заглянуть в незримое, но в этом случае ей сбыться не судьба... Ах, Рентген! Сегодня ты подвёл меня!\""
+    "trx": "[Отрывок из разговора]\nДатэ: \"Мечта мужчины — в том, чтоб заглянуть в незримое, но в этот раз ей сбыться не судьба... Ах, Рентген! Сегодня ты подвёл меня!\""
   },
   "file_info_043": {
     "src": "[Explanation]\nThe dreams and ideals of men, and perhaps manifestations of adventurous spirit.\nExamples include space exploration, giant robots, ninjas, pirates, and generally things carrying nuances of a world that women may not understand in the same manner. However, Date's idea of the concept does not apply to any of these, and it is entirely likely that not even his fellow men would understand him.",

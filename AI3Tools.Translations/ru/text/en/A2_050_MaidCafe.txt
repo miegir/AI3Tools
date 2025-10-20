@@ -147,7 +147,7 @@
   "003_011": {
     "src": "Fryer? Was she cooking something?",
     "yax": "Фритюрница? Она что-то готовила?",
-    "trx": "Фритюр? Она что-то готовила?\n<size=50%><color=white>Примечание переводчика: <i>fryer</i> (фритюр) и <i>flier</i> (флаер) звучат по-английски очень похоже."
+    "trx": "Фритюр? Она что-то готовила?\n<size=50%><color=#aaa>Примечание переводчика: <i>fryer</i> (фритюр) и <i>flier</i> (флаер) звучат по-английски очень похоже."
   },
   "003_012": {
     "src": "Flier. With an \"L.\" Perhaps you need to clean out your ears, old man.",
@@ -507,7 +507,7 @@
   "006_012": {
     "src": "Getting valuable information from people is investigation 101!",
     "yax": "Получение ценной информации от людей - это расследование №101!",
-    "trx": "Получение ценной информации от людей — это investigation 101!\n<size=50%><color=white>Примечание переводчика: investigation 101 — онлайн-курс для начинающих детективов, разработанный Дэвидом Риверо." //spell-ignore:Дэвидом //spell-ignore:Риверо
+    "trx": "Получение ценной информации от людей — это investigation 101!\n<size=50%><color=#aaa>Примечание переводчика: investigation 101 — онлайн-курс для начинающих детективов, разработанный Дэвидом Риверо." //spell-ignore:Дэвидом //spell-ignore:Риверо
   },
   "006_013": {
     "src": "And yet ever since I got that feature you have only used it on women!",
