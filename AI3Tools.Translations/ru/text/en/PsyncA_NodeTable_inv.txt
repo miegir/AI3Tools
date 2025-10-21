@@ -832,7 +832,7 @@
   "target_164": {
     "src": "Chair",
     "yax": "Стул",
-    "trx": "Стул"
+    "trx": "Кресло"
   },
   "target_165": {
     "src": "Binder",
@@ -902,7 +902,7 @@
   "target_178": {
     "src": "Chair",
     "yax": "Стул",
-    "trx": "Стул"
+    "trx": "Кресло"
   },
   "target_179": {
     "src": "Binder",
@@ -982,7 +982,7 @@
   "target_194": {
     "src": "Chair",
     "yax": "Стул",
-    "trx": "Стул"
+    "trx": "Кресло"
   },
   "target_195": {
     "src": "Binder",
@@ -2307,7 +2307,7 @@
   "target_458": {
     "src": "Chair",
     "yax": "Стул",
-    "trx": "Стул"
+    "trx": "Кресло"
   },
   "target_459": {
     "src": "Binder",
@@ -2412,7 +2412,7 @@
   "target_479": {
     "src": "Chair",
     "yax": "Стул",
-    "trx": "Стул"
+    "trx": "Кресло"
   },
   "target_480": {
     "src": "Binder",
@@ -2832,7 +2832,7 @@
   "target_561": {
     "src": "Chair",
     "yax": "Стул",
-    "trx": "Стул"
+    "trx": "Кресло"
   },
   "target_562": {
     "src": "Binder",
@@ -2902,7 +2902,7 @@
   "target_575": {
     "src": "Chair",
     "yax": "Стул",
-    "trx": "Стул"
+    "trx": "Кресло"
   },
   "target_576": {
     "src": "Binder",
@@ -3387,7 +3387,7 @@
   "target_673": {
     "src": "Chair",
     "yax": "Стул",
-    "trx": "Стул"
+    "trx": "Кресло"
   },
   "target_674": {
     "src": "Binder",

@@ -512,7 +512,7 @@
   "file_profile_092": {
     "src": "Grasping people's weaknesses, applying pressure, and making them obey",
     "yax": "Выявлять слабости людей, оказывать давление и заставлять их подчиняться",
-    "trx": "<size=75%>Поиск человеческих слабостей и давление на них с целью подчинения"
+    "trx": "<size=75%>Выискивание слабостей с последующим их использованием для достижения полного подчинения"
   },
   "file_profile_093": {
     "src": "Date's direct superior and long-time friend. She appears to be an easygoing optimist with a carefree attitude, but she is as cunning as a fox with a quick wit.",
