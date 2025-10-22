@@ -1,0 +1,10 @@
+EN:
+  WELCOME TO
+  AMABIE TV
+
+RU:
+  ДОБРО ПОЖАЛОВАТЬ НА
+  AMABIE TV
+
+TAGS:
+  []

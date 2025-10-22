@@ -8,10 +8,34 @@
     }
   },
   {
+    "path": "somnium_high/purposeupdate Variant/purpose_new01/target/text_target (TMP)",
+    "text": {
+      "0": {
+        "m_text": "ЦЕЛЬ"
+      }
+    }
+  },
+  {
+    "path": "somnium_gameover Variant Variant/background/text_timeisover (TMP)",
+    "text": {
+      "0": {
+        "m_text": "ВРЕМЯ ВЫШЛО"
+      }
+    }
+  },
+  {
+    "path": "somnium_low/lockclear_awaken Variant/awaken/text_awaken (TMP)",
+    "text": {
+      "0": {
+        "m_text": "<size=75%>ПРОБУЖДЕНИЕ"
+      }
+    }
+  },
+  {
     "path": "somnium_gameover Variant Variant/buttons/retry_moreeasy/text_key (TMP)",
     "text": {
       "0": {
-        "m_text": "Повтор (легче)"
+        "m_text": "<size=94%>Повтор (легче)"
       }
     }
   },
@@ -19,7 +43,7 @@
     "path": "somnium_gameover Variant Variant/buttons/out/text_key (TMP)",
     "text": {
       "0": {
-        "m_text": "Выход"
+        "m_text": "<size=94%>Выход"
       }
     }
   },
@@ -27,7 +51,7 @@
     "path": "somnium_gameover Variant Variant/buttons/retry/text_key (TMP)",
     "text": {
       "0": {
-        "m_text": "Повтор"
+        "m_text": "<size=94%>Повтор"
       }
     }
   },
@@ -35,7 +59,7 @@
     "path": "somnium_gameover Variant Variant/buttons/restart/text_key (TMP)",
     "text": {
       "0": {
-        "m_text": "Перезапуск"
+        "m_text": "<size=94%>Перезапуск"
       }
     }
   },
@@ -43,7 +67,7 @@
     "path": "somnium_gameover Variant Variant/buttons/out/text_key (TMP)",
     "text": {
       "0": {
-        "m_text": "Завершение"
+        "m_text": "<size=94%>Завершение"
       }
     }
   }

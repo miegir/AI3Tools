@@ -1,4 +1,4 @@
-﻿using Microsoft.Extensions.Logging;
+using Microsoft.Extensions.Logging;
 
 namespace AI3Tools;
 
@@ -38,6 +38,14 @@ public class BundleResource(ILogger logger, FileSource source) : IResource
             && !bundleFileSource.Exists
             && !gameObjectSource.Exists)
         {
+            if (source.CanUnroll())
+            {
+                foreach (var action in BeginUnroll())
+                {
+                    yield return action;
+                }
+            }
+
             yield break;
         }
 

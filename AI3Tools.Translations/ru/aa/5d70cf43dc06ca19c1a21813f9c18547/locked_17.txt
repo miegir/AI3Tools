@@ -2,4 +2,4 @@ EN: Mental Lock
 RU: ?
 
 TAGS:
-  [untranslated]
+  [untranslatable]

@@ -1,5 +1,5 @@
 EN: Lock Info
-RU: ?
+RU: Информация о замках
 
 TAGS:
-  [untranslated]
+  [AI2]

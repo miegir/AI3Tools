@@ -397,7 +397,7 @@
   "006_004": {
     "src": "Seriously?",
     "yax": "Серьезно?",
-    "trx": "Серьезно?"
+    "trx": "Серьёзно?"
   },
   "006_005": {
     "src": "It seems dangerous to connect my brain to some unknown object... What if I lose my memories...?",

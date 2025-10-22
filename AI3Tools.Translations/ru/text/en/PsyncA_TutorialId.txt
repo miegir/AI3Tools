@@ -307,7 +307,7 @@
   "tutorial_038": {
     "src": "Somniums are sections where you explore dreams.\nThe goal is to <color=yellow>uncover the subject's hidden memories</color>.",
     "yax": "Сомниумы - это разделы, в которых вы исследуете сны.\nЦель состоит в том, чтобы <color=yellow> раскрыть скрытые воспоминания испытуемого</color>.",
-    "trx": "Сомниумы — это этапы игры, в которых исследуются сны. Цель состоит в том, чтобы <color=yellow>обнаружить скрытые воспоминания субъекта</color>."
+    "trx": "Сомниум — это этап игры, в котором исследуются сны. Цель состоит в том, чтобы <color=yellow>обнаружить скрытые воспоминания субъекта</color>."
   },
   "tutorial_title_025": {
     "src": "Guide",
@@ -317,7 +317,7 @@
   "tutorial_039": {
     "src": "The tutorial can be reviewed at any time\nfrom Menu > File > Guide.",
     "yax": "С учебным пособием можно ознакомиться в любое время\nв меню > Файл > Руководство.",
-    "trx": "С материалами обучения можно ознакомиться в любое время в Меню > Файл > Руководство."
+    "trx": "С материалами обучения можно ознакомиться в любое время\nв Меню > Файл > Руководство."
   },
   "tutorial_title_026": {
     "src": "Mental Lock",
@@ -352,7 +352,7 @@
   "tutorial_043": {
     "src": "Start by moving Aiba and bringing her close to \n<color=yellow>anything with a name above it</color> to examine it.",
     "yax": "Начните с того, что подвиньте Айбу и поднесите ее поближе к\n<color=yellow> чему-нибудь, над чем есть название </color>, чтобы рассмотреть это.",
-    "trx": "Начните с того, чтобы при помощи Айбы подойти к <color=yellow>объекту, над которым отображается название</color>, чтобы рассмотреть его."
+    "trx": "Начните с того, чтобы при помощи Айбы подойти к <color=yellow>объекту, над которым отображается название</color>, и рассмотреть его."
   },
   "tutorial_title_029": {
     "src": "Selections",
@@ -397,7 +397,7 @@
   "tutorial_049": {
     "src": "TIMIEs <color=yellow>can only be used during Selections</color>, \nand it <color=yellow>reduces the time cost</color> of the action.",
     "yax": "Временные рамки <color=yellow> можно использовать только во время выбора</color>,\nи это <color=yellow>сокращает временные затраты </color> на выполнение действия.",
-    "trx": "Тайми <color=yellow>можно использовать только при выборе варианта</color>, и это <color=yellow>уменьшает время</color> на выполнение действия."
+    "trx": "Тайми <color=yellow>можно использовать только при выборе варианта</color>, тем самым <color=yellow>сократив время</color> на выполнение действия."
   },
   "tutorial_050": {
     "src": "You can <color=yellow>have a maximum of 3</color> TIMIEs.\nAcquiring a TIMIE while already having 3 will discard the oldest one.",
@@ -437,7 +437,7 @@
   "tutorial_055": {
     "src": "<color=yellow>Selecting the Map icon</color> allows you to open <color=yellow>the map of the Somnium</color>.",
     "yax": "<color=yellow>Выбор значка карты</color> позволяет открыть <color=yellow> карту Сомниума</color>.",
-    "trx": "<color=yellow>Выбрав значок Карта</color>, можно открыть <color=yellow>открыть экран карты сомниума</color>."
+    "trx": "<color=yellow>Выбрав значок Карта</color>, можно открыть <color=yellow>экран карты сомниума</color>."
   },
   "tutorial_056": {
     "src": "The Map shows <color=yellow>where Aiba is</color>, \nthe <color=yellow>location of things you can examine</color>, and so forth.",
@@ -447,7 +447,7 @@
   "tutorial_057": {
     "src": "The map has a useful <color=yellow>Navigation Function</color>.\nIf lost, open the map and <color=yellow>set the navigation to the thing\nyou want to examine</color>.",
     "yax": "На карте есть полезная функция навигации <color=yellow>.\nЕсли вы потерялись, откройте карту и <color=yellow> установите навигацию по объекту\n, который вы хотите изучить</color>.",
-    "trx": "На экране карты доступна полезная <color=yellow>функция навигации</color>. Если вы заблудились, откройте карту и <color=yellow>установите навигационную отметку на интересующий объект</color>."
+    "trx": "Также на экране карты доступна полезная <color=yellow>функция навигации</color>. Если вы заблудились, откройте карту и <color=yellow>установите навигационную отметку на интересующий объект</color>."
   },
   "tutorial_title_034": {
     "src": "Time Limit",
@@ -552,12 +552,12 @@
   "tutorial_071": {
     "src": "However, <color=yellow>you are limited to 3 Retries</color>.\nRetrying from the previous save point reduces this by 1, with the cost increasing the farther you return, up to a maximum cost of 3 when Retrying from three save points back.",
     "yax": "Однако <color=yellow>вы можете выполнить только 3 повторные попытки</color>.\nПри повторной попытке с предыдущей точки сохранения это значение уменьшается на 1, при этом стоимость увеличивается по мере дальнейшего возврата, до максимальной стоимости в 3 при повторной попытке с трех точек сохранения обратно.",
-    "trx": "При этом <color=yellow>доступно только 3 повтора</color>. Попытка повтора с последней контрольной точки уменьшает этот счётчик на 1, но стоимость увеличивается при более дальнем возврате — при возврате на три контрольных точки назад стоимость повтора достигает 3."
+    "trx": "При этом <color=yellow>доступно только 3 попытки</color>. Повтор с последней контрольной точки уменьшает этот счётчик на 1, но стоимость увеличивается при более дальнем возврате — при возврате на три контрольных точки назад стоимость повтора достигает 3."
   },
   "tutorial_072": {
     "src": "Failing the Psync resets your available Retries.\nIt is recommended to use Retries if you are running out of time.",
     "yax": "При сбое Psync доступные повторные попытки будут сброшены.\nРекомендуется использовать повторные попытки, если у вас мало времени.",
-    "trx": "Если у вас не получится пройти сомниум, счётчик повторов будет сброшен. Рекомендуется использовать повторы, если у вас заканчивается время."
+    "trx": "Если у вас не получится пройти сомниум, счётчик попыток будет сброшен. Рекомендуется использовать повторы, если у вас заканчивается время."
   },
   "tutorial_title_041": {
     "src": "If 360 Seconds Pass...",
@@ -622,7 +622,7 @@
   "tutorial_080": {
     "src": "The tutorial can be reviewed at any time\nfrom Menu > File > Guide.",
     "yax": "С учебным пособием можно ознакомиться в любое время\nв меню > Файл > Руководство.",
-    "trx": "С материалами обучения можно ознакомиться в любое время в Меню > Файл > Руководство."
+    "trx": "С материалами обучения можно ознакомиться в любое время\nв Меню > Файл > Руководство."
   },
   "tutorial_title_046": {
     "src": "Escape",

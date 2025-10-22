@@ -1,5 +1,5 @@
 EN: TIMIE
-RU: ?
+RU: ТАЙМИ
 
 TAGS:
-  [untranslated]
+  [AI2]

@@ -1,5 +1,5 @@
 EN: Retry
-RU: ?
+RU: Попыток
 
 TAGS:
-  [untranslated]
+  [AI2]

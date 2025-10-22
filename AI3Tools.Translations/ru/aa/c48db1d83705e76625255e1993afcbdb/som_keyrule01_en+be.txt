@@ -1,5 +1,5 @@
 EN: Key
-RU: ?
+RU: Ключи
 
 TAGS:
-  [untranslated]
+  [AI2]
