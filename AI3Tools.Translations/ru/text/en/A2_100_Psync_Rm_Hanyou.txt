@@ -37,7 +37,7 @@
   "002_003": {
     "src": "A steel rack.",
     "yax": "Стальная стойка.",
-    "trx": "Стальной шкафчик."
+    "trx": "Стальные шкафчики."
   },
   "003_001": {
     "src": "The monitor is showing some complex strings and graphics.",
