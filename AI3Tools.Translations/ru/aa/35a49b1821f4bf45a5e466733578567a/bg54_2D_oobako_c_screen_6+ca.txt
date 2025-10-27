@@ -2,7 +2,12 @@ EN:
   COMPLETED
   Verification
 
-RU: ?
+RU:
+  гюбепьемн
+  Verification
+
+FROM:
+  bg54_2D_oobako_c_screen_3+c7.pdn
 
 TAGS:
-  [untranslated]
+  []

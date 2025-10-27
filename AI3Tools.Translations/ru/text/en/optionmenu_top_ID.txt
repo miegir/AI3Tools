@@ -2,66 +2,79 @@
   "optionmenu_top_buttonguide_001": {
     "src": "—Investigation Documents—\n<size=70%>\nSee the files containing information about terms and characters within the story.",
     "yax": "—Документы по расследованию—\n<размер=70%>\nСмотрите файлы, содержащие информацию о терминах и персонажах в истории.",
+    "nex": "—Документы расследования—\n<size=70%>\nПросмотрите файлы с информацией о терминах и персонажах истории.",
     "trx": "—Следственные материалы—\n<size=70%>\nПросмотр документов с информацией\nо терминах и персонажах истории."
   },
   "optionmenu_top_buttonguide_002": {
     "src": "—Evaluation—\n<size=70%>\nSee the evaluation of your actions and your rewards.",
     "yax": "—Оценка—\n<размер=70%>\nСмотрите оценку своих действий и получаемые награды.",
+    "nex": "—Оценка—\n<size=70%>\nСмотрите оценку своих действий и награды.",
     "trx": "—Эффективность—\n<size=70%>\nПросмотр информации о вашей эффективности\nи наградах."
   },
   "optionmenu_top_buttonguide_003": {
     "src": "—Timeline—\n<size=70%>\nSee the story in the order of events, or move to other parts of the story in the flowchart.",
     "yax": "—Временная шкала—\n<размер=70%>\nСмотрите историю в порядке следования событий или переходите к другим частям истории на блок-схеме.",
+    "nex": "—Временная шкала—\n<size=70%>\nПросматривайте историю в хронологическом порядке или переходите к другим частям сюжета на схеме.",
     "trx": "—Хронология—\n<size=70%>\nПросмотр истории в хронологическом порядке\nи переход к другим частям истории."
   },
   "optionmenu_top_buttonguide_004": {
     "src": "—Settings—\n<size=70%>\nChange voice, control, text, and difficulty settings.",
     "yax": "—Настройки—\n<размер=70%>\nИзмените настройки голоса, управления, текста и сложности.",
+    "nex": "—Настройки—\n<size=70%>\nИзмените настройки голоса, управления, текста и сложности.",
     "trx": "—Параметры—\n<size=70%>\nИзменение параметров озвучки, управления, текста и сложности."
   },
   "optionmenu_top_buttonguide_005": {
     "src": "—Record—\n<size=70%>\nSave story progress.",
     "yax": "—Запись—\n<размер=70%>\nСохраняйте прогресс в истории.",
+    "nex": "—Запись—\n<size=70%>\nСохранить прогресс истории.",
     "trx": "—Сохранение—\n<size=70%>\nСохранение прогресса в истории."
   },
   "optionmenu_top_buttonguide_006": {
     "src": "—End—\n<size=70%>\nEnd the game and return to the title screen.",
     "yax": "—Конец—\n<размер=70%>\nЗавершите игру и вернитесь к главному экрану.",
+    "nex": "—Конец—\n<size=70%>\nЗавершить игру и вернуться на экран заголовка.",
     "trx": "—Выход—\n<size=70%>\nЗавершение игры и возврат в главное меню."
   },
   "optionmenu_top_buttonguide_007": {
     "src": "—Special—\n<size=70%>\nEnd the game and open the bonus menu.",
     "yax": "—Специальное предложение—\n<размер=70%>\nЗавершите игру и откройте меню бонусов.",
+    "nex": "—Специальное—\n<size=70%>\nЗавершите игру и откройте бонусное меню.",
     "trx": "—Бонусы—\n<size=70%>\nЗавершение игры и переход в меню бонусов."
   },
   "optionmenu_top_operationguide_001": {
     "src": "Select Menu",
     "yax": "Выберите меню",
+    "nex": "Выбор меню",
     "trx": "Выбрать меню"
   },
   "optionmenu_top_operationguide_002": {
     "src": "Confirm",
     "yax": "Подтверждать",
+    "nex": "Подтвердить",
     "trx": "Подтвердить"
   },
   "optionmenu_top_medama_001": {
     "src": "Eyes:",
     "yax": "Глаза:",
+    "nex": "Глаза:",
     "trx": "Собрано глаз:"
   },
   "optionmenu_top_medama_002": {
     "src": "0123456789",
     "yax": "0123456789",
+    "nex": "0123456789",
     "trx": null
   },
   "optionmenu_font_common_001": {
     "src": "This will end the game and take you to the title screen. Are you sure?\nUnsaved progress will be lost.",
     "yax": "На этом игра завершится, и вы перейдете к главному экрану. Вы уверены?\nНесохраненный прогресс будет потерян.",
+    "nex": "Это завершит игру и вернет вас на экран заголовка. Вы уверены?\nНесохраненный прогресс будет утерян.",
     "trx": "При этом игра завершится и будет выполнен переход в главное меню. Вы уверены?\nНесохранённый прогресс будет потерян."
   },
   "optionmenu_font_common_002": {
     "src": "This will save the current state and open the Bonus menu from the title screen. Are you sure?",
     "yax": "Это сохранит текущее состояние и откроет бонусное меню на главном экране. Вы уверены?",
+    "nex": "Это сохранит текущее состояние и откроет меню «Бонус» с главного экрана. Вы уверены?",
     "trx": "При этом будет выполнено сохранение игры и переход в меню бонусов. Вы уверены?"
   }
 }

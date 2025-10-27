@@ -2,7 +2,9 @@ EN:
   COMPLETED
   Verification
 
-RU: ?
+RU:
+  гюбепьемн
+  Verification
 
 TAGS:
-  [untranslated]
+  []

@@ -2,131 +2,157 @@
   "location_001": {
     "src": "Naix Japan Branch",
     "yax": "Филиал Naix в Японии",
+    "nex": "Японский филиал Naix",
     "trx": "Японское отделение Naix"
   },
   "location_002": {
     "src": "Maid Cafe Sunfish Pocket",
     "yax": "Горничная кафе Sunfish Pocket",
+    "nex": "Мейд-кафе «Карман солнечной рыбы»",
     "trx": "Мэйдо-кафе Sunfish Pocket"
   },
   "location_003": {
     "src": "Studio Dvaita",
     "yax": "Студия Dvaita",
+    "nex": "Студия Двайта",
     "trx": "Студия Двайта"
   },
   "location_004": {
     "src": "Brahman World Cuisine",
     "yax": "Кухня мира брахманов",
+    "nex": "Брахманская кухня мира",
     "trx": "Мировая кухня Брахман"
   },
   "location_005": {
     "src": "Marble",
     "yax": "Мрамор",
+    "nex": "Мрамор",
     "trx": "Марбл"
   },
   "location_006": {
     "src": "Talent Agency Lemniscate",
     "yax": "Агентство по подбору талантов Lemniscate",
+    "nex": "Агентство талантов «Лемниската»",
     "trx": "Агентство талантов Лемнискейт"
   },
   "location_007": {
     "src": "Aioen Garden",
     "yax": "Воздушный сад",
+    "nex": "Сад Айоэн",
     "trx": "Сад Айоен"
   },
   "location_008": {
     "src": "Date Residence",
     "yax": "Дата проживания",
+    "nex": "Резиденция Датэ",
     "trx": "Резиденция Датэ"
   },
   "location_009": {
     "src": "Enda Residence",
     "yax": "Резиденция Энда",
+    "nex": "Резиденция Энды",
     "trx": "Резиденция семьи Энда"
   },
   "location_010": {
     "src": "Golden Yokocho",
     "yax": "Золотистый Екочо",
+    "nex": "Золотой Йокочо",
     "trx": "Голден Йокотё"
   },
   "location_011": {
     "src": "Kumakura Office",
     "yax": "Офис в Кумакуре",
+    "nex": "Офис Кумакура",
     "trx": "Офис Кумакуры"
   },
   "location_012": {
     "src": "ABIS HQ",
     "yax": "ШТАБ-КВАРТИРА ABIS",
+    "nex": "Штаб-квартира ABIS",
     "trx": "Штаб-квартира ABIS"
   },
   "location_013": {
     "src": "Harbor Warehouse District",
     "yax": "Портовый складской район",
+    "nex": "Портовый складской район",
     "trx": "Район портовых складов"
   },
   "location_014": {
     "src": "Sagan Residence",
     "yax": "Резиденция Сагана",
+    "nex": "Резиденция Саган",
     "trx": "Резиденция семьи Саган"
   },
   "location_015": {
     "src": "Misetan Department Store",
     "yax": "Универмаг \"Мисетан\"",
+    "nex": "Универмаг «Мисетан»",
     "trx": "Универмаг Мисетан"
   },
   "location_016": {
     "src": "Matsushita Diner",
     "yax": "Закусочная \"Мацусита\"",
+    "nex": "Кафе «Мацусита»",
     "trx": "Закусочная Мацуситы"
   },
   "location_017": {
     "src": "Ikume Shrine",
     "yax": "Святилище Икуме",
+    "nex": "Святилище Икумэ",
     "trx": "Храм Икуме"
   },
   "location_018": {
     "src": "Sejima Mansion",
     "yax": "Особняк Сэдзимы",
+    "nex": "Особняк Сэдзима",
     "trx": "Особняк Сэдзимы"
   },
   "location_019": {
     "src": "Sekiba High",
     "yax": "Секиба Хай",
+    "nex": "Старшая школа Сэкиба",
     "trx": "Школа Секиба"
   },
   "location_020": {
     "src": "Yoyagi Park",
     "yax": "Парк Йояги",
+    "nex": "Парк Йояги",
     "trx": "Парк Йояги"
   },
   "location_021": {
     "src": "Central Hospital",
     "yax": "Центральная больница",
+    "nex": "Центральная больница",
     "trx": "Центральная больница"
   },
   "location_022": {
     "src": "Stadium",
     "yax": "Стадион",
+    "nex": "Стадион",
     "trx": "Стадион"
   },
   "location_023": {
     "src": "Abandoned Factory",
     "yax": "Заброшенный завод",
+    "nex": "Заброшенный завод",
     "trx": "Заброшенная фабрика"
   },
   "location_024": {
     "src": "Horadori Institute of Genetics",
     "yax": "Институт генетики Хорадори",
+    "nex": "Институт генетики Хорадори",
     "trx": "Институт генетики Хорадори"
   },
   "location_025": {
     "src": "Bloom Park",
     "yax": "Цветущий парк",
+    "nex": "Парк Блум",
     "trx": "Блум-парк"
   },
   "location_026": {
     "src": "Old Kabasaki Subway Station",
     "yax": "Старая станция метро Kabasaki",
+    "nex": "Старая станция метро Кабасаки",
     "trx": "Станция метро в Старом Кабасаки"
   }
 }

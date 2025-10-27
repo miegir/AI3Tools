@@ -186,7 +186,7 @@ internal class BundleFile : IDisposable
                 var pictureData = new byte[m_StreamData.size];
                 bundle.DataReader.Position = offset + (long)m_StreamData.offset;
                 _ = bundle.DataReader.Read(pictureData, 0, pictureData.Length);
-                return TextureFile.DecodeManaged(
+                return TextureFile.DecodeManagedData(
                     data: pictureData,
                     format: (TextureFormat)textureFile.m_TextureFormat,
                     width: textureFile.m_Width,
@@ -194,7 +194,7 @@ internal class BundleFile : IDisposable
             }
         }
 
-        return textureFile.GetTextureData(rootPath: null);
+        return textureFile.FillPictureData(rootPath: null);
     }
 
     public IEnumerable<AssetFileInfo> FindAssets(AssetClassID typeId, string name, string defaultExtension)
@@ -326,7 +326,7 @@ internal class BundleFile : IDisposable
         var baseField = GetBaseField(asset);
         var textureData = source.Deserialize();
         var textureFile = TextureFile.ReadTextureFile(baseField);
-        textureFile.SetTextureDataRaw(textureData.EncodedData, textureData.Width, textureData.Height);
+        textureFile.SetPictureData(textureData.EncodedData, textureData.Width, textureData.Height);
         textureFile.m_TextureFormat = (int)textureData.Format;
         textureFile.m_MipCount = textureData.MipCount;
         textureFile.WriteTo(baseField);

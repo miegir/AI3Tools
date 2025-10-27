@@ -2,526 +2,631 @@
   "evaluation_title_001": {
     "src": "披星戴月",
     "yax": "披星戴月",
+    "nex": "披星戴月",
     "trx": null
   },
   "evaluation_summary_001": {
     "src": "Completed Chapter 1: \"Hisei Taigetsu.\"\nDefinition: To fulfill one's duties whether the sun is rising or the moon is taking its place.",
     "yax": "Закончена глава 1: \"Хисэй Тайгэцу\".\nОпределение: Выполнять свои обязанности независимо от того, восходит солнце или заходит луна.",
+    "nex": "Завершена Глава 1: «Хисэй Тайгэцу».\nОпределение: Выполнение своих обязанностей, независимо от того,\nвосходит ли солнце или наступает лунная ночь.",
     "trx": "Завершена глава 1: \"Хисэй Тайгэцу\".\nТолкование: Выполнение своих обязанностей вне зависимости от того, светит ли Солнце или Луна занимает его место." //spell-ignore:Хисэй //spell-ignore:Тайгэцу
   },
   "evaluation_title_002": {
     "src": "呉牛喘月",
     "yax": "呉牛喘月",
+    "nex": "呉牛喘月",
     "trx": null
   },
   "evaluation_summary_002": {
     "src": "Completed Chapter 2: \"Gogyu Zengetsu.\"\nDefinition: A line of thinking so maddeningly warped the thinker\nmistakes the moon for the sun.",
     "yax": "Закончена глава 2: \"Гогю Дзенгецу\".\nОпределение: Ход мыслей настолько извращен, что мыслитель\nпринимает луну за солнце.",
+    "nex": "Завершена Глава 2: «Гогю Дзэнгецу».\nОпределение: Образ мышления настолько безумно искажённый,\nчто думающий путает луну с солнцем.",
     "trx": "Завершена глава 2: \"Гогю Дзенгецу\".\nТолкование: Настолько искажённый ход мыслей, что Луна ошибочно принимается за Солнце." //spell-ignore:Гогю //spell-ignore:Дзенгецу
   },
   "evaluation_title_003": {
     "src": "日省月試",
     "yax": "日省月試",
+    "nex": "日省月試",
     "trx": null
   },
   "evaluation_summary_003": {
     "src": "Completed Chapter 2: \"Nissei Gesshi.\"\nDefinition: Assessing one's qualification with a prolonged\nexamination of their achievements.",
     "yax": "Закончил главу 2: \"Ниссей Гесши\".\nОпределение: Оценка квалификации человека путем длительного\nизучения его достижений.",
+    "nex": "Завершена Глава 2: «Ниссей Гэсси».\nОпределение: Оценка чьей-либо квалификации путём длительного\nизучения его достижений.",
     "trx": "Завершена глава 2: \"Ниссэй Гесси\".\nТолкование: Оценка квалификации посредством длительного изучения достижений." //spell-ignore:Ниссэй //spell-ignore:Гесси
   },
   "evaluation_title_004": {
     "src": "鏡花水月",
     "yax": "鏡花水月",
+    "nex": "鏡花水月",
     "trx": null
   },
   "evaluation_summary_004": {
     "src": "Completed Chapter 3: \"Kyoka Suigetsu.\"\nDefinition: Something that seems to be right there, yet is so faint\nit vanishes when one so much as grasps it.",
     "yax": "Закончена глава 3: \"Киока Суйгецу\".\nОпределение: Нечто, что, кажется, находится прямо перед вами, но\nпри этом настолько слабое, что исчезает, стоит только схватить его.",
+    "nex": "Завершена Глава 3: «Кёка Суйгэцу».\nОпределение: То, что кажется близким, но настолько туманно,\nчто исчезает, едва его коснёшься.",
     "trx": "Завершена глава 3: \"Киока Суйгецу\".\nТолкование: То, что находится под рукой, но настолько хрупкое, что рассыпается, стоит только к нему прикоснуться." //spell-ignore:Киока //spell-ignore:Суйгецу
   },
   "evaluation_title_005": {
     "src": "舌端月旦",
     "yax": "舌端月旦",
+    "nex": "舌端月旦",
     "trx": null
   },
   "evaluation_summary_005": {
     "src": "Completed Chapter 3: \"Zettan Gettan.\"\nDefinition: Oppressive questioning inspired by words that escaped\na person's mouth.",
     "yax": "Закончена глава 3: \"Зеттан-Геттан\".\nОпределение: Гнетущий допрос, вызванный словами, сорвавшимися\nс губ человека.",
+    "nex": "Завершена Глава 3: «Зэттан Гэттан».\nОпределение: Угнетающие вопросы, навеянные словами, сорвавшимися\nс губ человека.",
     "trx": "Завершена глава 3: \"Зеттан-Геттан\".\nТолкование: Гнетущий допрос, вызванный сорвавшимися с губ словами." //spell-ignore:Зеттан //spell-ignore:Геттан
   },
   "evaluation_title_006": {
     "src": "年災月殃",
     "yax": "年災月殃",
+    "nex": "年災月殃",
     "trx": null
   },
   "evaluation_summary_006": {
     "src": "Completed Chapter 4: \"Nensai Getsuou.\"\nDefinition: A seemingly endless tide of misfortune and judgement.\nThe moon and the sun are no allies of those fate toys with.",
     "yax": "Закончена глава 4: \"Ненсай Гэцуо\".\nОпределение: Кажущийся бесконечным поток несчастий и осуждений.\nЛуна и солнце не являются союзниками тех, с кем играет судьба.",
+    "nex": "Завершена Глава 4: «Нэнсай Гэцуоу».\nОпределение: Кажущийся бесконечным поток несчастий и осуждения.\nЛуна и солнце не союзники тем, с кем играет судьба.",
     "trx": "Завершена глава 4: \"Ненсай Гэцуо\".\nТолкование: Поток несчастий и осуждений, которому не видно конца. Луна и Солнце не союзники тем, с кем играет судьба." //spell-ignore:Ненсай //spell-ignore:Гэцуо
   },
   "evaluation_title_007": {
     "src": "落月屋梁",
     "yax": "落月屋梁",
+    "nex": "落月屋梁",
     "trx": null
   },
   "evaluation_summary_007": {
     "src": "Completed Chapter 5: \"Rakugetsu Okuryo.\"\nDefinition: The unchanging fellowship reflected in the moon\nwhenever it shows a friendly face.",
     "yax": "Закончена глава 5: \"Ракугецу Окуре\".\nОпределение: Неизменное братство, отражающееся в луне\nвсякий раз, когда на ней появляется дружелюбное лицо.",
+    "nex": "Завершена Глава 5: «Ракугэцу Окурьо».\nОпределение: Неизменная дружба, отражённая в луне\nкаждый раз, когда она показывает дружелюбное лицо.",
     "trx": "Завершена глава 5: \"Ракугецу Окурё\".\nТолкование: Нерушимое братство, ощущающееся всякий раз, когда Луна показывает дружелюбное лицо." //spell-ignore:Ракугецу //spell-ignore:Окурё
   },
   "evaluation_title_008": {
     "src": "風月玄度",
     "yax": "風月玄度",
+    "nex": "風月玄度",
     "trx": null
   },
   "evaluation_summary_008": {
     "src": "Completed Chapter 5: \"Fugetsu Gentaku.\"\nDefinition: Memories made with a friend who will never wake again.\nA heart that begs the moon for a chance to meet them once more.",
     "yax": "Закончена глава 5: \"Фугецу Гентаку\".\nОписание: Воспоминания, связанные с другом, который больше никогда не проснется.\nСердце, молящее Луну о возможности встретиться с ними еще раз.",
+    "nex": "Завершена Глава 5: «Фугэцу Гэнтаку».\nОпределение: Воспоминания, связанные с другом, который больше никогда не проснётся.\nСердце, умоляющее луну о шансе встретиться с ним ещё раз.",
     "trx": "Завершена глава 5: \"Фугецу Гентаку\".\nТолкование: Воспоминания о друге, который больше никогда не проснётся. Сердце, молящее Луну о возможности встретиться с ним ещё один раз." //spell-ignore:Фугецу //spell-ignore:Гентаку
   },
   "evaluation_title_009": {
     "src": "光風霽月",
     "yax": "光風霽月",
+    "nex": "光風霽月",
     "trx": null
   },
   "evaluation_summary_009": {
     "src": "Completed the Epilogue: \"Kofu Seigetsu.\"\nDefinition: A condition where the sun shines bright and the moon\nis clear. Clear, bright eyes that carve a path into a shining future.",
     "yax": "Завершает эпилог: \"Кофу Сэйгэцу\".\nОпределение: Состояние, при котором ярко светит солнце и\nясна луна. Ясные, сияющие глаза, которые прокладывают путь в светлое будущее.",
+    "nex": "Завершён Эпилог: «Кофу Сэйгэцу».\nОпределение: Состояние, когда солнце ярко светит, а луна\nчиста. Ясные, светлые глаза, прокладывающие путь в сияющее будущее.",
     "trx": "Завершён эпилог: \"Кофу Сэйгецу\".\nТолкование: Условия, при которых ярко светит Солнце и чётко видна Луна. Ясный, светлый взгляд, устремлённый в блестящее будущее." //spell-ignore:Кофу //spell-ignore:Сэйгецу
   },
   "evaluation_title_010": {
     "src": "Decadent Knell",
     "yax": "Декадентский звон",
+    "nex": "Декадентский погребальный звон",
     "trx": "Декадентский звон"
   },
   "evaluation_summary_010": {
     "src": "Completed the Somnium of the mysterious pod.\nOvercome by regret, the mysterious person became stagnant\nand stopped looking to the future.",
     "yax": "Завершил сон таинственного стручка.\nОхваченный сожалением, таинственный человек впал в застой\nи перестал смотреть в будущее.",
+    "nex": "Завершён Сомниум таинственной капсулы.\nОхваченный сожалением, таинственный человек остановился\nи перестал смотреть в будущее.",
     "trx": "Завершён сомниум с таинственной капсулой.\nНеизвестный, охваченный сожалением, остановился в развитии и перестал смотреть в будущее."
   },
   "evaluation_title_011": {
     "src": "Destructive Knowledge",
     "yax": "Разрушительное знание",
+    "nex": "Разрушительное знание",
     "trx": "Разрушительное знание"
   },
   "evaluation_summary_011": {
     "src": "Completed the Somnium of the mysterious pod.\nHe accepted his past and took a step toward the future.",
     "yax": "Завершил погружение в сон таинственной капсулы.\nОн принял свое прошлое и сделал шаг навстречу будущему.",
+    "nex": "Завершён Сомниум таинственной капсулы.\nОн принял своё прошлое и сделал шаг навстречу будущему.",
     "trx": "Завершён сомниум с таинственной капсулой.\nОн принял своё прошлое и сделал шаг навстречу будущему."
   },
   "evaluation_title_012": {
     "src": "Distortional Knighthood",
     "yax": "Искаженное рыцарство",
+    "nex": "Искаженное рыцарство",
     "trx": "Искажённое рыцарство"
   },
   "evaluation_summary_012": {
     "src": "Completed the Somnium of Person of Interest J.\nShe tried to become a knight who would protect Hina, but this\nstrong affection created something twisted.",
     "yax": "Завершила цикл \"Персона, представляющая интерес\" Дж.\nОна пыталась стать рыцарем, который защитил бы Хину, но эта\nсильная привязанность породила нечто извращенное.",
+    "nex": "Завершён Сомниум подозреваемого J.\nОна пыталась стать рыцарем, который защитит Хину, но эта\nсильная привязанность породила нечто искажённое.",
     "trx": "Завершён сомниум с Фигурантом J.\nОна пыталась стать рыцарем, оберегающим Хину, но столь сильная преданность породила нечто извращённое."
   },
   "evaluation_title_013": {
     "src": "Success: Escape From the \"Ancient Civilization\"",
     "yax": "Успех: Побег из \"Древней Цивилизации\"",
+    "nex": "Успех: Побег из «Древней цивилизации»",
     "trx": "Успех: Побег от \"Древней Цивилизации\""
   },
   "evaluation_summary_013": {
     "src": "Successfully escaped from the \"Ancient Civilization.\"\nIris opened her eye as an astronaut and carved open a third path.",
     "yax": "Успешно сбежав от \"Древней цивилизации\".\nАйрис открыла глаза, став астронавтом, и открыла третий путь.",
+    "nex": "Успешно сбежал из «Древней цивилизации».\nИрис открыла свой третий глаз как астронавт и проложила третий путь.",
     "trx": "Успешный побег от \"Древней цивилизации\".\nАйрис открыла в себе талант астронавта и проложила третий путь."
   },
   "evaluation_title_014": {
     "src": "Success: Escape From the \"Curse\"",
     "yax": "Успех: Избавление от \"Проклятия\"",
+    "nex": "Успех: Побег от «Проклятия»",
     "trx": "Успех: Побег от \"Проклятия\""
   },
   "evaluation_summary_014": {
     "src": "Successfully escaped from the \"Curse.\"\nOta opened his eye as an exorcist and carved open a third path.",
     "yax": "Успешно избавился от \"Проклятия\".\nОта открыл свой глаз как экзорцист и проложил третий путь.",
+    "nex": "Успешно сбежал из «Проклятия».\nОта открыл свой третий глаз как экзорцист и проложил третий путь.",
     "trx": "Успешный побег от \"Проклятия\".\nОта открыл в себе талант экзорциста и проложил третий путь."
   },
   "evaluation_title_015": {
     "src": "Success: Escape From the \"Invitation to An Otherworld\"",
     "yax": "Успех: Побег из \"Приглашения в потусторонний мир\"",
+    "nex": "Успех: Побег из «Приглашения в другой мир»",
     "trx": "Успех: Побег от \"Приглашения в иной мир\""
   },
   "evaluation_summary_015": {
     "src": "Successfully escaped from the \"Invitation to An Otherworld.\"\nMoma opened his eye as a sniper and carved open a third path.",
     "yax": "Успешно избежал \"Приглашения в иной мир\".\nМома открыл свой глаз как снайпер и проложил третий путь.",
+    "nex": "Успешно сбежали из «Приглашения в другой мир».\nМома открыл свой глаз как снайпер и проложил третий путь.",
     "trx": "Успешный побег от \"Приглашения в иной мир\".\nМома открыл в себе талант снайпера и проложил третий путь."
   },
   "evaluation_title_016": {
     "src": "Success: Escape From the \"Non-Existent Station\"",
     "yax": "Успех: Побег с \"Несуществующей станции\"",
+    "nex": "Успех: Побег с «Несуществующей станции»",
     "trx": "Успех: Побег с \"Несуществующей станции\""
   },
   "evaluation_summary_016": {
     "src": "Successfully escaped from the \"Non-Existent Station.\"\nDate feat. Aiba opened his eye as a DJ and carved open a third path.",
     "yax": "Успешно сбежал с \"Несуществующей станции\".\nDate feat. Айба открыл глаза как диджей и открыл для себя третий путь.",
+    "nex": "Успешно сбежали из «Несуществующей станции».\nДатэ при участии Айбы открыл свой глаз как диджей и проложил третий путь.",
     "trx": "Успешный побег с \"Несуществующей станции\".\nДатэ при участии Айбы открыл в себе талант диджея и проложил третий путь."
   },
   "evaluation_title_017": {
     "src": "Best Friend",
     "yax": "лучший друг",
+    "nex": "Лучший друг",
     "trx": "Лучшая подруга"
   },
   "evaluation_summary_017": {
     "src": "Put the correct password in the pod.\nShe was a dear friend to her, and thanks to a precious memory\nshared between them, their path was carved.",
     "yax": "Введите правильный пароль в поле ввода.\nОна была для нее близким другом, и благодаря драгоценным воспоминаниям\n, которыми они поделились, их путь был проложен.",
+    "nex": "Введен правильный пароль в капсулу.\nОна была ей дорогим другом, и благодаря драгоценному воспоминанию,\nразделенному между ними, их путь был проложен.",
     "trx": "Введён правильный пароль от капсулы.\nОна была её лучшей подругой, и благодаря совместным тёплым воспоминаниям сложилась их дальнейшая судьба."
   },
   "evaluation_title_018": {
     "src": "Huuuhhh? Now that's weiiird.",
     "yax": "Ууууххх? Вот и все.",
+    "nex": "Хуууух? Вот это странно.",
     "trx": "А-а-а? Что это было?"
   },
   "evaluation_summary_018": {
     "src": "Arrived at your first Alternate Ending.\nEven the smallest things can set lives off their rails.",
     "yax": "Добрались до вашего первого альтернативного финала.\nДаже самые незначительные события могут сбить жизнь с толку.",
+    "nex": "Достигнута ваша первая Альтернативная концовка.\nДаже самые незначительные вещи могут сбить жизни с пути.",
     "trx": "Достигнута первая альт-развязка.\nДаже самые незначительные события могут повернуть историю вспять."
   },
   "evaluation_title_019": {
     "src": "Alternate Ending C: Something's Lacking...",
     "yax": "Альтернативное окончание С: Чего-то не хватает...",
+    "nex": "Альтернативная концовка C: Чего-то не хватает...",
     "trx": "Альт-развязка C: Чего-то не хватает..."
   },
   "evaluation_summary_019": {
     "src": "Arrived at Alternate Ending C.\nBakibaki DT Man had no tactics...\nWhat was he was lacking...?",
     "yax": "Пришел к альтернативному финалу С.\nУ Бакибаки-ДТ-Мэна не было тактики...\nЧего ему не хватало...?",
+    "nex": "Достигнута Альтернативная концовка C.\nУ Бакибаки DT Человека не было тактики...\nЧего ему не хватало...?",
     "trx": "Достигнута альт-развязка C.\nУ баки-баки-ДТ-мена проблемы с тактикой...\nЧего ему не хватает?.."
   },
   "evaluation_title_020": {
     "src": "Alternate Ending U: ABIS Commander, Hitomi Sagan",
     "yax": "Альтернативный финал: командир АБИС, Хитоми Саган.",
+    "nex": "Альтернативная концовка U: Командир ABIS, Хитоми Саган",
     "trx": "Альт-развязка U: Начальник ABIS Хитоми Саган."
   },
   "evaluation_summary_020": {
     "src": "Arrived at Alternate Ending U.\nI will gladly use my teeth to scrape off her dead skin.",
     "yax": "Дошел до альтернативного окончания \"У\".\nЯ с удовольствием воспользуюсь зубами, чтобы соскрести с нее омертвевшую кожу.",
+    "nex": "Достигнута Альтернативная концовка U.\nЯ с радостью буду использовать зубы, чтобы соскрести ее мертвую кожу.",
     "trx": "Достигнута альт-развязка U.\nС удовольствием буду отскребать зубами её омертвевшую кожу."
   },
   "evaluation_title_021": {
     "src": "Alternate Ending L: Wanna go to Atami?",
     "yax": "Альтернативная концовка L: Хочешь пойти в Атами?",
+    "nex": "Альтернативная концовка L: Хочешь в Атами?",
     "trx": "Альт-развязка L: Поехали в Атами?"
   },
   "evaluation_summary_021": {
     "src": "Arrived at Alternate Ending L.\nGathering smartballs for a living ain't as bad as it seems.",
     "yax": "Добрались до альтернативной концовки L.\nЗарабатывать на жизнь собиранием умников не так уж и плохо, как кажется.",
+    "nex": "Достигнута Альтернативная концовка L.\nСобирать умные шары для жизни не так уж и плохо, как кажется.",
     "trx": "Достигнута альт-развязка L.\nЗарабатывать на жизнь, играя в смартбол, не так плохо, как кажется."
   },
   "evaluation_title_022": {
     "src": "Alternate Ending M: TV Addict",
     "yax": "Альтернативный финал М: Телевизионный наркоман",
+    "nex": "Альтернативная концовка M: Телеман",
     "trx": "Альт-развязка M: ТВ-зависимость"
   },
   "evaluation_summary_022": {
     "src": "Arrived at Alternate Ending M.\nDamn it, I'm too curious to even take a bathroom break!\nWhen's the commercial?!",
     "yax": "Дошли до альтернативной концовки \"М\".\nЧерт возьми, мне слишком любопытно, чтобы даже сходить в туалет!\nКогда будет реклама?!",
+    "nex": "Достигнута Альтернативная концовка M.\nЧерт возьми, мне так любопытно, что я даже не могу сделать перерыв на туалет!\nКогда же реклама?!",
     "trx": "Достигнута альт-развязка M.\nЧёрт возьми, так интересно, что даже в туалет не отойти! Когда же реклама?!"
   },
   "evaluation_title_023": {
     "src": "Alternate Ending I: Psyncer Hours",
     "yax": "Альтернативная концовка I: Часы работы Psyncer",
+    "nex": "Альтернативная концовка I: Часы Псинк-оператора",
     "trx": "Альт-развязка I: Будни псинкера"
   },
   "evaluation_summary_023": {
     "src": "Arrived at Alternate Ending I.\nA malicious driver tails a Psyncer!\nBroadcast coming at 21:00!",
     "yax": "Добрались до альтернативной концовки I.\nЗлоумышленник ловит на хвосте псайндера!\nТрансляция начнется в 21:00!",
+    "nex": "Достигнута Альтернативная концовка I.\nЗлобный водитель преследует Псинкера!\nТрансляция начнется в 21:00!",
     "trx": "Достигнута альт-развязка I.\nВодитель-злоумышленник висит у псинкера на хвосте!\nТрансляция начинается в 21:00!"
   },
   "evaluation_title_024": {
     "src": "Alternate Ending N: Ballsy's Prophecy",
     "yax": "Альтернативная концовка N: Пророчество Боллси",
+    "nex": "Альтернативная концовка N: Пророчество Болзи",
     "trx": "Альт-развязка N: Шары предсказаний"
   },
   "evaluation_summary_024": {
     "src": "Arrived at Alternate Ending N.\nBalls are bursting with futures...\nYou know what I mean by that, right?",
     "yax": "Пришли к альтернативному финалу N.\nШары ломятся от будущего...\nВы понимаете, что я имею в виду, верно?",
+    "nex": "Достигнута Альтернативная концовка N.\nБудущее лопается от шаров...\nТы понимаешь, что я имею в виду, верно?",
     "trx": "Достигнута альт-развязка N.\nШары извергают потоки будущего...\nВы понимаете, что я имею в виду, не так ли?"
   },
   "evaluation_title_025": {
     "src": "Alternate Ending A: Prankster Psyncer",
     "yax": "Альтернативная концовка А: Проказник-Псайнер",
+    "nex": "Альтернативная концовка A: Псинк-шутник",
     "trx": "Альт-развязка A: Псинкер-озорник"
   },
   "evaluation_summary_025": {
     "src": "Arrived at Alternate Ending A.\nDon't play with fire! A single firework can burn things down!",
     "yax": "Дошли до альтернативной концовки А.\nНе играйте с огнем! Один-единственный фейерверк может спалить все дотла!",
+    "nex": "Достигнута Альтернативная концовка A.\nНе играй с огнем! Одна искра может сжечь все дотла!",
     "trx": "Достигнута альт-развязка А.\nНе играйте с огнём! Одним-единственным фейерверком можно спалить всё дотла!"
   },
   "evaluation_title_026": {
     "src": "Alternate Ending T: Please don't touch the Psync Machine.",
     "yax": "Альтернативное окончание T: Пожалуйста, не прикасайтесь к устройству Psync.",
+    "nex": "Альтернативная концовка T: Пожалуйста, не трогайте машину «Псинк».",
     "trx": "Альт-развязка T: Не трогайте псинк-машину."
   },
   "evaluation_summary_026": {
     "src": "Arrived at Alternate Ending T.\nI'm leaving now, but please don't touch the Psync Machine!\nI'm sure you won't, but not my problem if you do.",
     "yax": "Дошел до альтернативного окончания T.\nЯ ухожу, но, пожалуйста, не трогайте компьютер Psync!\nЯ уверен, что вы этого не сделаете, но это не моя проблема, если вы это сделаете.",
+    "nex": "Достигнута Альтернативная концовка T.\nЯ ухожу, но, пожалуйста, не трогайте машину «Псинк»!\nУверен, вы не будете, но если что-то случится, это уже не моя проблема.",
     "trx": "Достигнута альт-развязка T.\nЯ ухожу, но, пожалуйста, не трогайте псинк-машину!\nВы, конечно же, этого не сделаете, но если вдруг сделаете, то я ни при чем."
   },
   "evaluation_title_027": {
     "src": "Alternate Ending E: 2000 YEARS LATER",
     "yax": "Альтернативная концовка E: 2000 ЛЕТ СПУСТЯ",
+    "nex": "Альтернативная концовка E: 2000 ЛЕТ СПУСТЯ",
     "trx": "Альт-развязка E: 2000 лет спустя"
   },
   "evaluation_summary_027": {
     "src": "Arrived at Alternate Ending E.\nThus, the Tesa Empire united the world under one flag, turning Earth into a planet that worships Princess Tesa.\nIt's actually pretty peaceful.",
     "yax": "Наступил альтернативный финал \"Е\".\nТаким образом, империя Тесы объединила мир под одним флагом, превратив Землю в планету, поклоняющуюся принцессе Тесе.\nНа самом деле все довольно мирно.",
+    "nex": "Достигнута Альтернативная концовка E.\nТак Империя Тесы объединила мир под одним флагом, превратив Землю в планету, поклоняющуюся Принцессе Тесе.\nНа самом деле, довольно мирно.",
     "trx": "Достигнута альт-развязка E.\nВ итоге империя Тесы объединила весь мир под одним флагом, превратив Землю в планету, поклоняющуюся принцессе Тёсе. Довольно мирную на самом деле."
   },
   "evaluation_title_028": {
     "src": "Alternate Ending X: CULMINATE!!!",
     "yax": "Альтернативная концовка X: КУЛЬМИНАЦИЯ!!!",
+    "nex": "Альтернативная концовка X: КУЛЬМИНАЦИЯ!!!",
     "trx": "Альт-развязка X: КУЛЬМИНАЦИЯ!!!"
   },
   "evaluation_summary_028": {
     "src": "Arrived at Alternate Ending X.\nLet me explain! \"DT\" stands for \"Dynamic Transcendence!\"\nThrough porno mags, Date evolves, grows, and when he breaks his limits to reach the climax, he becomes DT Man!\n(Alternate Endings Completed)",
     "yax": "Дошли до альтернативной концовки X.\nПозвольте мне объяснить! \"ДТ\" означает \"Динамическая трансцендентность\"!\nБлагодаря порножурналам Дейт развивается, растет, и когда он выходит за рамки своих возможностей, чтобы достичь кульминации, он становится мужчиной ДТ!\n(Альтернативные концовки завершены)",
+    "nex": "Достигнута Альтернативная концовка X.\nПозвольте объяснить! «ДТ» означает «Динамическая трансцендентность!»\nЧерез порножурналы Датэ эволюционирует, растёт, и когда он преодолевает свои пределы, чтобы достичь кульминации, он становится Человеком ДТ!\n(Альтернативные концовки завершены)",
     "trx": "Достигнута альт-развязка X.\nОбъясняю! \"ДТ\" означает \"Динамическая трансцендентность\"! Благодаря порножурналам Датэ развивается, растёт, и когда он достигает кульминации, выходя за рамки своих возможностей, он становится ДТ-меном! (Альт-развязки завершены)"
   },
   "evaluation_title_029": {
     "src": "Persons File Collector",
     "yax": "Сборщик личных дел",
+    "nex": "Коллекционер досье",
     "trx": "Сборщик персонажей"
   },
   "evaluation_summary_029": {
     "src": "Collected all Persons files.",
     "yax": "Собрал все личные дела.",
+    "nex": "Собраны все досье.",
     "trx": "Собраны все сведения о персонажах."
   },
   "evaluation_title_030": {
     "src": "Appendix File Collector",
     "yax": "Приложение для сбора файлов",
+    "nex": "Коллекционер файлов приложения",
     "trx": "Сборщик приложений"
   },
   "evaluation_summary_030": {
     "src": "Collected more than 77 Appendix files.",
     "yax": "Собрано более 77 файлов приложений.",
+    "nex": "Собрано более 77 файлов «Приложений».",
     "trx": "Собрано более 77 приложений."
   },
   "evaluation_title_031": {
     "src": "Trivia File Collector",
     "yax": "Коллекционер простых файлов",
+    "nex": "Коллекционер файлов с мелочами",
     "trx": "Сборщик фактов"
   },
   "evaluation_summary_031": {
     "src": "Collected all Trivia files.",
     "yax": "Собрал все файлы по мелочам.",
+    "nex": "Собраны все файлы «Викторины».",
     "trx": "Собраны все факты."
   },
   "evaluation_title_032": {
     "src": "Dream Album Collector",
     "yax": "Коллекционер альбомов мечты",
+    "nex": "Коллекционер альбомов снов",
     "trx": "Сборщик альбома сновидений"
   },
   "evaluation_summary_032": {
     "src": "Completed everything in the \"Dream Album\" bonus menu.",
     "yax": "Завершено все в бонусном меню \"Альбом мечты\".",
+    "nex": "Завершено всё в бонусном меню «Альбом снов».",
     "trx": "Получены все элементы раздела \"Альбом сновидений\" из меню бонусов."
   },
   "evaluation_title_033": {
     "src": "Novel Collector",
     "yax": "Коллекционер романов",
+    "nex": "Коллекционер новелл",
     "trx": "Сборщик новелл"
   },
   "evaluation_summary_033": {
     "src": "Completed everything in the \"Novel\" bonus menu.",
     "yax": "Выполнил все, что указано в бонусном меню \"Роман\".",
+    "nex": "Завершено всё в бонусном меню «Новелла».",
     "trx": "Завершены все истории раздела \"Новеллы\" из меню бонусов."
   },
   "evaluation_title_034": {
     "src": "Alternate Alternate Ending Collector",
     "yax": "Альтернативный коллектор альтернативных окончаний",
+    "nex": "Коллекционер альтернативных концовок",
     "trx": "Сборщик альт-альт-развязок"
   },
   "evaluation_summary_034": {
     "src": "Completed everything in the \"Alternate Alternate Ending\"\nbonus menu.",
     "yax": "Выполнил все действия в \"Альтернативной концовке\"\nбонусное меню.",
+    "nex": "Завершено всё в бонусном меню «Альтернативная альтернативная концовка».",
     "trx": "Завершены все истории раздела \"Альт-альт-развязки\" из меню бонусов."
   },
   "evaluation_title_035": {
     "src": "I remember it now. His name is Kaniza.",
     "yax": "Теперь я это вспомнила. Его зовут Каниза.",
+    "nex": "Я помню. Его зовут Каниза.",
     "trx": "Теперь я запомнил. Его зовут Каниза."
   },
   "evaluation_summary_035": {
     "src": "Insistently asked for the inspector's name.\nOf course I remember it now. He's a precious partner of mine.\nHis name is uh... Right! It's Kaniza! All good!",
     "yax": "Настойчиво спрашивал имя инспектора.\nКонечно, теперь я его вспомнил. Он мой бесценный партнер.\nЕго зовут эм... Правильно! Это Каниза! Всего хорошего!",
+    "nex": "Настойчиво спрашивал имя инспектора.\nКонечно, я помню его сейчас. Он мой драгоценный напарник.\nЕго зовут, эээ... Точно! Каниза! Всё в порядке!",
     "trx": "Настойчиво спрашивал у инспектора его имя. И хорошо теперь его запомнил. Это мой бесценный партнёр. Его зовут... м-м-м... Точно! Каниза! Порядок!"
   },
   "evaluation_title_036": {
     "src": "I Love Boss.",
     "yax": "Я люблю Босса.",
+    "nex": "Я люблю Босса.",
     "trx": "Я люблю Босса."
   },
   "evaluation_summary_036": {
     "src": "Investigated all items in Boss's room.\nAs her subordinates, we are counted among her treasures.",
     "yax": "Исследовали все предметы в комнате босса.\nКак ее подчиненные, мы считаемся одними из ее сокровищ.",
+    "nex": "Исследованы все предметы в комнате Босса.\nКак её подчинённые, мы считаемся её сокровищами.",
     "trx": "Исследованы все предметы в комнате Босса.\nТеперь мы самые ценные среди всех её подчинённых."
   },
   "evaluation_title_037": {
     "src": "Invisible Man",
     "yax": "Человек-невидимка",
+    "nex": "Невидимый человек",
     "trx": "Человек-невидимка"
   },
   "evaluation_summary_037": {
     "src": "Saw Amame's skeleton.\nWhat matters most is what's on the inside.\nAnd what's inside is...the skeleton!",
     "yax": "Увидел скелет Амаме.\nВажнее всего то, что внутри.\nА внутри... скелет!",
+    "nex": "Видел скелет Амамэ.\nГлавное — то, что внутри.\nА внутри — это... скелет!",
     "trx": "Увидели скелет Амаме.\nВажнее всего то, что находится внутри.\nА внутри находится... скелет!"
   },
   "evaluation_title_038": {
     "src": "Porno Mag Otakus Save the World",
     "yax": "Порно-журнал \"Отакус спасет мир\"",
+    "nex": "Порно-манга отаку спасают мир",
     "trx": "Фанаты порножурналов спасут мир"
   },
   "evaluation_summary_038": {
     "src": "Delivered the \"DT Porno Mags\" during the QTE in Alternate Ending X. Porno mags save the world.",
     "yax": "Выпускал \"Порножурналы DT\" во время QTE в альтернативной концовке X. Порножурналы спасают мир.",
+    "nex": "Доставил «Порножурналы ДТ» во время QTE в Альтернативной концовке X. Порножурналы спасают мир.",
     "trx": "Выбрано применение \"ДТ-порножурналов\" в QTE из альт-развязки X. Порножурналы спасут мир."
   },
   "evaluation_title_039": {
     "src": "Loach Catching Dancer",
     "yax": "Танцор, ловящий гольца",
+    "nex": "Танцор, ловящий гольца",
     "trx": "Танец ловли вьюна"
   },
   "evaluation_summary_039": {
     "src": "Did the \"Loach Catcher\" during the QTE at the shrine.\nCan't believe that actually worked...",
     "yax": "Выполнил \"Ловлю вьюна\" во время контрольного задания в храме.\nНе могу поверить, что это действительно сработало...",
+    "nex": "Поймал «Вьюна» во время QTE у святилища.\nНе могу поверить, что это сработало...",
     "trx": "Выполнена \"Ловля вьюна\" во время QTE в храме. И как это могло сработать..."
   },
   "evaluation_title_049": {
     "src": "???",
     "yax": "???",
+    "nex": "???",
     "trx": null
   },
   "evaluation_summary_049": {
     "src": "----/--/--",
     "yax": "----/--/--",
+    "nex": "----/--/--",
     "trx": null
   },
   "evaluation_summary_050": {
     "src": "???",
     "yax": "???",
+    "nex": "???",
     "trx": null
   },
   "evaluation_rankup_001": {
     "src": "Class has risen to <color=red>C2</color> !\n\n<color=red>100 eyeballs</color> have been added to Bonus.<color=#808080><size=24> \n\nEyeballs can be exchanged for Bonus Content in BONUS. </size></color>",
     "yax": "Класс повышен до <color=red>C2</color> !\n\n<color=red>в качестве бонуса добавлено 100 глазных яблок.<color=#808080><размер=24> \n\nГлазные яблоки можно обменять на бонусный контент в разделе \"БОНУС\". </размер></цвет>",
+    "nex": "Ранг поднялся до <color=red>C2</color> !\n\nК Бонусу добавлено <color=red>100 глазков</color>.<color=#808080><size=24> \n\nГлазки можно обменять на Бонусный контент в разделе БОНУСЫ. </size></color>",
     "trx": "Класс повышен до <color=red>C2</color> !\n\nПолучено <color=red>100 глаз</color>.<color=#808080><size=24> \n\nГлаза можно обменять на дополнительный контент в меню бонусов. </size></color>"
   },
   "evaluation_rankup_002": {
     "src": "Class has risen to <color=red>C1</color> !\n\n<color=red>150 eyeballs</color> have been added to Bonus.<color=#808080><size=24> \n\nEyeballs can be exchanged for Bonus Content in BONUS. </size></color>",
     "yax": "Класс повышен до <color=red>C1</color> !\n\n<color=red>в качестве бонуса добавлено 150 глазных яблок.<color=#808080><размер=24> \n\nГлазные яблоки можно обменять на бонусный контент в разделе \"БОНУС\". </размер></цвет>",
+    "nex": "Ранг поднялся до <color=red>C1</color> !\n\nК Бонусу добавлено <color=red>150 глазков</color>.<color=#808080><size=24> \n\nГлазки можно обменять на Бонусный контент в разделе БОНУСЫ. </size></color>",
     "trx": "Класс повышен до <color=red>C1</color> !\n\nПолучено <color=red>150 глаз</color>.<color=#808080><size=24> \n\nГлаза можно обменять на дополнительный контент в меню бонусов. </size></color>"
   },
   "evaluation_rankup_003": {
     "src": "Class has risen to <color=red>B3</color> !\n\n<color=red>200 eyeballs</color> have been added to Bonus.<color=#808080><size=24> \n\nEyeballs can be exchanged for Bonus Content in BONUS. </size></color>",
     "yax": "Класс повышен до <color=red>B3 !\n\n<color=red>в качестве бонуса добавлено 200 глазных яблок.<color=#808080><размер=24> \n\nГлазные яблоки можно обменять на бонусный контент в разделе \"БОНУС\". </размер></цвет>",
+    "nex": "Ранг поднялся до <color=red>B3</color> !\n\nК Бонусу добавлено <color=red>200 глазков</color>.<color=#808080><size=24> \n\nГлазки можно обменять на Бонусный контент в разделе БОНУСЫ. </size></color>",
     "trx": "Класс повышен до <color=red>B3</color> !\n\nПолучено <color=red>200 глаз</color>.<color=#808080><size=24> \n\nГлаза можно обменять на дополнительный контент в меню бонусов. </size></color>"
   },
   "evaluation_rankup_004": {
     "src": "Class has risen to <color=red>B2</color> !\n\n<color=red>250 eyeballs</color> have been added to Bonus.<color=#808080><size=24> \n\nEyeballs can be exchanged for Bonus Content in BONUS. </size></color>",
     "yax": "Класс повышен до <color=red>B2 !\n\n<color=red>в качестве бонуса добавлено 250 глазных яблок.<color=#808080><размер=24> \n\nГлазные яблоки можно обменять на бонусный контент в разделе \"БОНУС\". </размер></цвет>",
+    "nex": "Ранг поднялся до <color=red>B2</color> !\n\nК Бонусу добавлено <color=red>250 глазков</color>.<color=#808080><size=24> \n\nГлазки можно обменять на Бонусный контент в разделе БОНУСЫ. </size></color>",
     "trx": "Класс повышен до <color=red>B2</color> !\n\nПолучено <color=red>250 глаз</color>.<color=#808080><size=24> \n\nГлаза можно обменять на дополнительный контент в меню бонусов. </size></color>"
   },
   "evaluation_rankup_005": {
     "src": "Class has risen to <color=red>B1</color> !\n\n<color=red>300 eyeballs</color> have been added to Bonus.<color=#808080><size=24> \n\nEyeballs can be exchanged for Bonus Content in BONUS. </size></color>",
     "yax": "Класс повышен до <color=red>B1</color> !\n\n<color=red>в качестве бонуса добавлено 300 глазных яблок.<color=#808080><размер=24> \n\nГлазные яблоки можно обменять на бонусный контент в разделе \"БОНУС\". </размер></цвет>",
+    "nex": "Ранг поднялся до <color=red>B1</color> !\n\nК Бонусу добавлено <color=red>300 глазков</color>.<color=#808080><size=24> \n\nГлазки можно обменять на Бонусный контент в разделе БОНУСЫ. </size></color>",
     "trx": "Класс повышен до <color=red>B1</color> !\n\nПолучено <color=red>300 глаз</color>.<color=#808080><size=24> \n\nГлаза можно обменять на дополнительный контент в меню бонусов. </size></color>"
   },
   "evaluation_rankup_006": {
     "src": "Class has risen to <color=red>A3</color> !\n\n<color=red>350 eyeballs</color> have been added to Bonus.<color=#808080><size=24> \n\nEyeballs can be exchanged for Bonus Content in BONUS. </size></color>",
     "yax": "Класс повышен до <color=red>A3 !\n\n<color=red>в качестве бонуса добавлено 350 глазных яблок.<color=#808080><размер=24> \n\nГлазные яблоки можно обменять на бонусный контент в разделе \"БОНУС\". </размер></цвет>",
+    "nex": "Ранг поднялся до <color=red>A3</color> !\n\nК Бонусу добавлено <color=red>350 глазков</color>.<color=#808080><size=24> \n\nГлазки можно обменять на Бонусный контент в разделе БОНУСЫ. </size></color>",
     "trx": "Класс повышен до <color=red>A3</color> !\n\nПолучено <color=red>350 глаз</color>.<color=#808080><size=24> \n\nГлаза можно обменять на дополнительный контент в меню бонусов. </size></color>"
   },
   "evaluation_rankup_007": {
     "src": "Class has risen to <color=red>A2</color> !\n\n<color=red>400 eyeballs</color> have been added to Bonus.<color=#808080><size=24> \n\nEyeballs can be exchanged for Bonus Content in BONUS. </size></color>",
     "yax": "Класс повышен до <color=red>A2 !\n\n<color=red>в качестве бонуса добавлено 400 глазных яблок.<color=#808080><размер=24> \n\nГлазные яблоки можно обменять на бонусный контент в разделе \"БОНУС\". </размер></цвет>",
+    "nex": "Ранг поднялся до <color=red>A2</color> !\n\nК Бонусу добавлено <color=red>400 глазков</color>.<color=#808080><size=24> \n\nГлазки можно обменять на Бонусный контент в разделе БОНУСЫ. </size></color>",
     "trx": "Класс повышен до <color=red>A2</color> !\n\nПолучено <color=red>400 глаз</color>.<color=#808080><size=24> \n\nГлаза можно обменять на дополнительный контент в меню бонусов. </size></color>"
   },
   "evaluation_rankup_008": {
     "src": "Class has risen to <color=red>A1</color> !\n\n<color=red>450 eyeballs</color> have been added to Bonus.<color=#808080><size=24> \n\nEyeballs can be exchanged for Bonus Content in BONUS. </size></color>",
     "yax": "Класс повышен до <color=red>A1 !\n\n<color=red> в качестве бонуса добавлено 450 глазных яблок.<color=#808080><размер=24> \n\nГлазные яблоки можно обменять на бонусный контент в разделе \"БОНУС\". </размер></цвет>",
+    "nex": "Ранг поднялся до <color=red>A1</color> !\n\nК Бонусу добавлено <color=red>450 глазков</color>.<color=#808080><size=24> \n\nГлазки можно обменять на Бонусный контент в разделе БОНУСЫ. </size></color>",
     "trx": "Класс повышен до <color=red>A1</color> !\n\nПолучено <color=red>450 глаз</color>.<color=#808080><size=24> \n\nГлаза можно обменять на дополнительный контент в меню бонусов. </size></color>"
   },
   "evaluation_rankup_009": {
     "src": "Class has risen to <color=red>S3</color> !\n\n<color=red>500 eyeballs</color> have been added to Bonus.<color=#808080><size=24> \n\nEyeballs can be exchanged for Bonus Content in BONUS. </size></color>",
     "yax": "Класс повышен до <color=red>S3</color> !\n\n<color=red>в качестве бонуса добавлено 500 глазных яблок.<color=#808080><размер=24> \n\nГлазные яблоки можно обменять на бонусный контент в разделе \"БОНУС\". </размер></цвет>",
+    "nex": "Ранг поднялся до <color=red>S3</color> !\n\nК Бонусу добавлено <color=red>500 глазков</color>.<color=#808080><size=24> \n\nГлазки можно обменять на Бонусный контент в разделе БОНУСЫ. </size></color>",
     "trx": "Класс повышен до <color=red>S3</color> !\n\nПолучено <color=red>500 глаз</color>.<color=#808080><size=24> \n\nГлаза можно обменять на дополнительный контент в меню бонусов. </size></color>"
   },
   "evaluation_rankup_010": {
     "src": "Class has risen to <color=red>S2</color> !\n\n<color=red>600 eyeballs</color> have been added to Bonus.<color=#808080><size=24> \n\nEyeballs can be exchanged for Bonus Content in BONUS. </size></color>",
     "yax": "Класс повышен до <color=red>S2</color> !\n\n<color=red>в качестве бонуса добавлено 600 глазных яблок.<color=#808080><размер=24> \n\nГлазные яблоки можно обменять на бонусный контент в разделе \"БОНУС\". </размер></цвет>",
+    "nex": "Ранг поднялся до <color=red>S2</color> !\n\nК Бонусу добавлено <color=red>600 глазков</color>.<color=#808080><size=24> \n\nГлазки можно обменять на Бонусный контент в разделе БОНУСЫ. </size></color>",
     "trx": "Класс повышен до <color=red>S2</color> !\n\nПолучено <color=red>600 глаз</color>.<color=#808080><size=24> \n\nГлаза можно обменять на дополнительный контент в меню бонусов. </size></color>"
   },
   "evaluation_rankup_011": {
     "src": "Class has risen to <color=red>S1</color> !\n\n<color=red>1000 eyeballs</color> have been added to Bonus.<color=#808080><size=24> \n\nEyeballs can be exchanged for Bonus Content in BONUS. </size></color>",
     "yax": "Класс повышен до <color=red>S1</color> !\n\n<color=red>в качестве бонуса добавлено 1000 глазных яблок.<color=#808080><размер=24> \n\nГлазные яблоки можно обменять на бонусный контент в разделе \"БОНУС\". </размер></цвет>",
+    "nex": "Ранг поднялся до <color=red>S1</color> !\n\nК Бонусу добавлено <color=red>1000 глазков</color>.<color=#808080><size=24> \n\nГлазки можно обменять на Бонусный контент в разделе БОНУСЫ. </size></color>",
     "trx": "Класс повышен до <color=red>S1</color> !\n\nПолучено <color=red>1000 глаз</color>.<color=#808080><size=24> \n\nГлаза можно обменять на дополнительный контент в меню бонусов. </size></color>"
   },
   "evaluation_name_001": {
     "src": "C3",
     "yax": "C3",
+    "nex": "C3",
     "trx": "C3"
   },
   "evaluation_name_002": {
     "src": "C2",
     "yax": "C2",
+    "nex": "C2",
     "trx": "C2"
   },
   "evaluation_name_003": {
     "src": "C1",
     "yax": "C1",
+    "nex": "C1",
     "trx": "C1"
   },
   "evaluation_name_004": {
     "src": "B3",
     "yax": "B3",
+    "nex": "B3",
     "trx": "B3"
   },
   "evaluation_name_005": {
     "src": "B2",
     "yax": "B2",
+    "nex": "B2",
     "trx": "B2"
   },
   "evaluation_name_006": {
     "src": "B1",
     "yax": "В1",
+    "nex": "B1",
     "trx": "В1"
   },
   "evaluation_name_007": {
     "src": "A3",
     "yax": "A3",
+    "nex": "A3",
     "trx": "A3"
   },
   "evaluation_name_008": {
     "src": "A2",
     "yax": "A2",
+    "nex": "A2",
     "trx": "A2"
   },
   "evaluation_name_009": {
     "src": "A1",
     "yax": "A1",
+    "nex": "A1",
     "trx": "A1"
   },
   "evaluation_name_010": {
     "src": "S3",
     "yax": "S3",
+    "nex": "S3",
     "trx": "S3"
   },
   "evaluation_name_011": {
     "src": "S2",
     "yax": "S2",
+    "nex": "S2",
     "trx": "S2"
   },
   "evaluation_name_012": {
     "src": "S1",
     "yax": "S1",
+    "nex": "S1",
     "trx": "S1"
   },
   "evaluation_message_001": {
     "src": "Acquired Achievement List",
     "yax": "Список приобретенных достижений",
+    "nex": "Список достижений получен",
     "trx": "Полученные достижения"
   }
 }

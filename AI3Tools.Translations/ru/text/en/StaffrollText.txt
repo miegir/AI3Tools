@@ -2,551 +2,661 @@
   "staffroll_joke_001": {
     "src": "DT Man Who Lacks Something",
     "yax": "Человек, Которому чего-то не хватает",
+    "nex": "Человек, которому чего-то не хватает",
     "trx": "ДТ-мен, которому чего-то недостаёт"
   },
   "staffroll_joke_002": {
     "src": "Kaname Date",
     "yax": "Дата Канаме",
+    "nex": "Канамэ Датэ",
     "trx": "Канамэ Датэ"
   },
   "staffroll_joke_003": {
     "src": "Reptilian Who Yearns For Attention",
     "yax": "Рептилия, Жаждущая Внимания",
+    "nex": "Рептилоид, жаждущий внимания",
     "trx": "Жаждущая внимания рептилия"
   },
   "staffroll_joke_004": {
     "src": "Akemi",
     "yax": "Акеми",
+    "nex": "Акэми",
     "trx": "Акеми"
   },
   "staffroll_joke_047": {
     "src": "Yet To Complete A Single Escape",
     "yax": "Еще предстоит Совершить Один Побег",
+    "nex": "Еще ни разу не сбежала",
     "trx": "Только предстоит совершить первый побег"
   },
   "staffroll_joke_048": {
     "src": "Iris Sagan",
     "yax": "Айрис Саган",
+    "nex": "Ирис Саган",
     "trx": "Айрис Саган"
   },
   "staffroll_joke_049": {
     "src": "Half Man, Half Plot Convenience",
     "yax": "Наполовину человек, наполовину Удобство участка",
+    "nex": "Наполовину человек, наполовину сюжетный костыль",
     "trx": "Получеловек-полуспаситель" //spell-ignore:Получеловек //spell-ignore:полуспаситель
   },
   "staffroll_joke_050": {
     "src": "Ryuki Kuruto",
     "yax": "Рюки Куруто",
+    "nex": "Курото Рюки",
     "trx": "Куруто Рюки"
   },
   "staffroll_joke_051": {
     "src": "Man Who Keeps Fighting For Love",
     "yax": "Человек, Который Продолжает Бороться За Любовь",
+    "nex": "Человек, который борется за любовь",
     "trx": "Человек, который продолжает сражаться за любовь"
   },
   "staffroll_joke_052": {
     "src": "Kaname Date",
     "yax": "Дата Канаме",
+    "nex": "Канамэ Датэ",
     "trx": "Канамэ Датэ"
   },
   "staffroll_joke_053": {
     "src": "Was Originally Planned To Be A Real Lizard Person",
     "yax": "Изначально Планировалось, Что Он Станет Настоящим Человеком-Ящерицей",
+    "nex": "Изначально планировался как настоящий человек-ящер",
     "trx": "Изначально планировалась настоящей ящерицей"
   },
   "staffroll_joke_054": {
     "src": "Akemi",
     "yax": "Акеми",
+    "nex": "Акэми",
     "trx": "Акеми"
   },
   "staffroll_joke_055": {
     "src": "Leading Tackler",
     "yax": "Ведущий нападающий",
+    "nex": "Ведущий специалист",
     "trx": "Лучший снайпер"
   },
   "staffroll_joke_056": {
     "src": "Aiba",
     "yax": "Айба",
+    "nex": "Айба",
     "trx": "Айба"
   },
   "staffroll_joke_057": {
     "src": "New ABIS Commander",
     "yax": "Новый командир ABIS",
+    "nex": "Новый командир ABIS",
     "trx": "Новый начальник ABIS"
   },
   "staffroll_joke_058": {
     "src": "Hitomi Sagan",
     "yax": "Хитоми Саган",
+    "nex": "Хитоми Саган",
     "trx": "Хитоми Саган"
   },
   "staffroll_joke_059": {
     "src": "Peeping Tom Psyncer",
     "yax": "Подглядывающий Том-Псайнер",
+    "nex": "Псинкер-вуайерист",
     "trx": "Любопытный псинкер"
   },
   "staffroll_joke_060": {
     "src": "Kaname Date",
     "yax": "Дата Канаме",
+    "nex": "Канамэ Датэ",
     "trx": "Канамэ Датэ"
   },
   "staffroll_joke_061": {
     "src": "Woman Who Wraps Men Around Her Finger",
     "yax": "Женщина, Которая Обводит Мужчин вокруг Пальца",
+    "nex": "Женщина, что вертит мужчинами",
     "trx": "Женщина, которая обводит мужчин вокруг пальца"
   },
   "staffroll_joke_062": {
     "src": "Ritsuko Enshu",
     "yax": "Рицуко Эншу",
+    "nex": "Рицуко Эньсю",
     "trx": "Рицуко Энсю"
   },
   "staffroll_joke_063": {
     "src": "Smartballer",
     "yax": "Умный игрок",
+    "nex": "Смартболлер",
     "trx": "Игрок в смартбол"
   },
   "staffroll_joke_064": {
     "src": "Kaname Date",
     "yax": "Дата Канаме",
+    "nex": "Канамэ Датэ",
     "trx": "Канамэ Датэ"
   },
   "staffroll_joke_065": {
     "src": "Ball-Shaped AI",
     "yax": "Искусственный интеллект в форме шара",
+    "nex": "ИИ‑глаз",
     "trx": "Шарообразный ИИ"
   },
   "staffroll_joke_066": {
     "src": "Aiba",
     "yax": "Айба",
+    "nex": "Айба",
     "trx": "Айба"
   },
   "staffroll_joke_067": {
     "src": "Man Who Wasted Precious Time Watching Videos",
     "yax": "Человек, Который Тратил Драгоценное Время на Просмотр Видео",
+    "nex": "Человек, зря тративший драгоценное время на просмотр видео",
     "trx": "Тот, кто потратил драгоценное время на просмотр видео"
   },
   "staffroll_joke_068": {
     "src": "Kaname Date",
     "yax": "Дата Канаме",
+    "nex": "Канамэ Датэ",
     "trx": "Канамэ Датэ"
   },
   "staffroll_joke_069": {
     "src": "AI Who Merely Observed The Man Who Wasted Precious Time Watching Videos",
     "yax": "Искусственный Интеллект, Который Просто Наблюдал За Человеком, Который Тратил Драгоценное Время На Просмотр Видео",
+    "nex": "ИИ, который лишь наблюдал за человеком, зря тратившим драгоценное время на просмотр видео",
     "trx": "ИИ, позволивший потратить драгоценное время на просмотр видео"
   },
   "staffroll_joke_070": {
     "src": "Aiba",
     "yax": "Айба",
+    "nex": "Айба",
     "trx": "Айба"
   },
   "staffroll_joke_071": {
     "src": "Road Rage Cop",
     "yax": "Разъяренный полицейский на дороге",
+    "nex": "Полицейский в дорожной ярости",
     "trx": "Разъярённый дорожный полицейский"
   },
   "staffroll_joke_072": {
     "src": "Kaname Date",
     "yax": "Дата Канаме",
+    "nex": "Канамэ Датэ",
     "trx": "Канамэ Датэ"
   },
   "staffroll_joke_073": {
     "src": "Commissioned Staff And Road Rage Witness ",
     "yax": "Нанятый Персонал И Свидетель Дорожных Происшествий",
+    "nex": "Сотрудник по контракту и свидетель дорожной ярости",
     "trx": "Штатный офицер и свидетель дорожного происшествия"
   },
   "staffroll_joke_074": {
     "src": "Hina Tsukiyono",
     "yax": "Хина Цукиено",
+    "nex": "Хина Тсучиёмо",
     "trx": "Хина Цукиёно"
   },
   "staffroll_joke_075": {
     "src": "AI That Failed To Avoid The Road Rage",
     "yax": "Искусственный Интеллект, Который Не Смог Избежать Столкновения С Дорогой.",
+    "nex": "ИИ, который не смог избежать дорожной ярости",
     "trx": "ИИ, который не смог избежать погони"
   },
   "staffroll_joke_076": {
     "src": "Aiba",
     "yax": "Айба",
+    "nex": "Айба",
     "trx": "Айба"
   },
   "staffroll_joke_077": {
     "src": "Road Warriors, They're Not",
     "yax": "Воины дороги, Они не такие",
+    "nex": "Воины дорог, но не совсем",
     "trx": "Совсем не доставщики"
   },
   "staffroll_joke_078": {
     "src": "Masked Men",
     "yax": "Люди в масках",
+    "nex": "Люди в масках",
     "trx": "Люди в масках"
   },
   "staffroll_joke_079": {
     "src": "The Person Whose Balls Got An Extensive Look",
     "yax": "Человек, Чьи Яйца Приобрели Обширный Вид",
+    "nex": "Человек, чьи шары подверглись тщательному осмотру",
     "trx": "Человек с огромными шарами"
   },
   "staffroll_joke_080": {
     "src": "Osamu Oishi",
     "yax": "Осаму Оиси",
+    "nex": "Осаму Оиси",
     "trx": "Осаму Оиси"
   },
   "staffroll_joke_081": {
     "src": "The Person Who Tried To Get An Extensive Look At Mama's Balls",
     "yax": "Человек, Который Пытался Как Следует Рассмотреть Мамины Яйца",
+    "nex": "Человек, который пытался тщательно осмотреть шары Мамы",
     "trx": "Человек, пытавшийся как следует рассмотреть Мамины шары"
   },
   "staffroll_joke_082": {
     "src": "You",
     "yax": "Вы",
+    "nex": "Ты",
     "trx": "Вы"
   },
   "staffroll_joke_083": {
     "src": "Boom! He's Under House Arrest",
     "yax": "Бум! Он под Домашним Арестом",
+    "nex": "Бум! Он под домашним арестом",
     "trx": "Бум! Он под домашним арестом"
   },
   "staffroll_joke_084": {
     "src": "Kaname Date",
     "yax": "Дата Канаме",
+    "nex": "Канамэ Датэ",
     "trx": "Канамэ Датэ"
   },
   "staffroll_joke_085": {
     "src": "Quickly Reemployed",
     "yax": "Быстро восстановлен на работе",
+    "nex": "Быстро восстановлен на работе",
     "trx": "Быстро восстановлена на работе"
   },
   "staffroll_joke_086": {
     "src": "Hina Tsukiyono",
     "yax": "Хина Цукиено",
+    "nex": "Хина Тсучиёмо",
     "trx": "Хина Цукиёно"
   },
   "staffroll_joke_087": {
     "src": "New Role: Putting Out Fires",
     "yax": "Новая роль: Тушение пожаров",
+    "nex": "Новая роль: Тушить пожары",
     "trx": "Новая роль: тушение пожаров"
   },
   "staffroll_joke_088": {
     "src": "Aiba",
     "yax": "Айба",
+    "nex": "Айба",
     "trx": "Айба"
   },
   "staffroll_joke_089": {
     "src": "Has A Condition That Makes Him Press Buttons",
     "yax": "У Него Есть Состояние, Которое Заставляет Его Нажимать На Кнопки",
+    "nex": "У него есть состояние, в котором он нажимает на кнопки",
     "trx": "В настроении понажимать на кнопки" //spell-ignore:понажимать
   },
   "staffroll_joke_090": {
     "src": "Kaname Date",
     "yax": "Дата Канаме",
+    "nex": "Канамэ Датэ",
     "trx": "Канамэ Датэ"
   },
   "staffroll_joke_091": {
     "src": "The First Person To Ever Stop Him",
     "yax": "Первый Человек, Который Когда-Либо Остановил Его",
+    "nex": "Первый человек, который когда-либо его остановил",
     "trx": "Первый человек, осмелившийся его остановить"
   },
   "staffroll_joke_092": {
     "src": "Hina Tsukiyono",
     "yax": "Хина Цукиено",
+    "nex": "Хина Тсучиёмо",
     "trx": "Хина Цукиёно"
   },
   "staffroll_joke_093": {
     "src": "The Second Person To Ever Stop Him",
     "yax": "Второй Человек, Который Когда-Либо Останавливал Его",
+    "nex": "Второй человек, который когда-либо его остановил",
     "trx": "Второй человек, осмелившийся его остановить"
   },
   "staffroll_joke_094": {
     "src": "Aiba",
     "yax": "Айба",
+    "nex": "Айба",
     "trx": "Айба"
   },
   "staffroll_joke_095": {
     "src": "Leader of the New World Order",
     "yax": "Лидер Нового мирового порядка",
+    "nex": "Лидер Нового мирового порядка",
     "trx": "Лидер Нового мирового порядка"
   },
   "staffroll_joke_096": {
     "src": "Iris Sagan",
     "yax": "Айрис Саган",
+    "nex": "Ирис Саган",
     "trx": "Айрис Саган"
   },
   "staffroll_joke_097": {
     "src": "The Man Without A Plan",
     "yax": "Человек Без Плана",
+    "nex": "Человек без плана",
     "trx": "Человек без плана"
   },
   "staffroll_joke_098": {
     "src": "Kaname Date",
     "yax": "Дата Канаме",
+    "nex": "Канамэ Датэ",
     "trx": "Канамэ Датэ"
   },
   "staffroll_joke_099": {
     "src": "Didn't Get The Hint",
     "yax": "Не Понял Намека",
+    "nex": "Не понял намека",
     "trx": "Не поняла намёка"
   },
   "staffroll_joke_100": {
     "src": "Hina Tsukiyono",
     "yax": "Хина Цукиено",
+    "nex": "Хина Тсучиёмо",
     "trx": "Хина Цукиёно"
   },
   "staffroll_joke_101": {
     "src": "Really Just Sat By And Watched",
     "yax": "На Самом Деле Просто Сидел И Наблюдал",
+    "nex": "Просто сидел и смотрел",
     "trx": "Просто сидела и наблюдала"
   },
   "staffroll_joke_102": {
     "src": "Aiba",
     "yax": "Айба",
+    "nex": "Айба",
     "trx": "Айба"
   },
   "staffroll_joke_103": {
     "src": "Dyed Blond Recently",
     "yax": "Недавно перекрасилась в блондинку",
+    "nex": "Недавно покрасил волосы в блонд",
     "trx": "Недавно перекрасился в блондина"
   },
   "staffroll_joke_104": {
     "src": "Kotaro Uchikoshi",
     "yax": "Котаро Учикоши",
+    "nex": "Котаро Учикоси",
     "trx": "Котаро Учикоши" //spell-ignore-line
   },
   "staffroll_joke_105": {
     "src": "Audio Otaku",
     "yax": "Аудио Отаку",
+    "nex": "Аудио-отаку",
     "trx": "Аудио отаку" //spell-ignore:отаку
   },
   "staffroll_joke_106": {
     "src": "Yusuke Kozaki",
     "yax": "Юсуке Кодзаки",
+    "nex": "Юсукэ Кодзаки",
     "trx": "Юсуке Кодзаки" //spell-ignore-line
   },
   "staffroll_joke_107": {
     "src": "Enjoys visiting museums and gardening",
     "yax": "Любит посещать музеи и заниматься садоводством",
+    "nex": "Любит посещать музеи и заниматься садоводством",
     "trx": "Любитель музеев и садоводства"
   },
   "staffroll_joke_108": {
     "src": "Keisuke Ito",
     "yax": "Кейсуке Ито",
+    "nex": "Кэйсукэ Ито",
     "trx": "Кейсуке Ито" //spell-ignore-line
   },
   "staffroll_joke_109": {
     "src": "Lemme Sleep For Just 1 More Minute",
     "yax": "Дай Мне Поспать Еще Хотя Бы 1 Минуту.",
+    "nex": "Дайте поспать еще минутку",
     "trx": "Дайте поспать ещё минутку"
   },
   "staffroll_joke_110": {
     "src": "Kazuya Yamada",
     "yax": "Кадзуя Ямада",
+    "nex": "Кадзуя Ямада",
     "trx": "Кадзуя Ямада" //spell-ignore-line
   },
   "staffroll_joke_111": {
     "src": "Always Late",
     "yax": "Всегда опаздывает",
+    "nex": "Всегда опаздывает",
     "trx": "Всегда опаздывает"
   },
   "staffroll_joke_112": {
     "src": "Akira Okada",
     "yax": "Акира Окада",
+    "nex": "Акира Окада",
     "trx": "Акира Окада" //spell-ignore-line
   },
   "staffroll_joke_113": {
     "src": "Drowning In The Game Backlog",
     "yax": "Тону В Игровом Бэклоге",
+    "nex": "Утопает в игровой задолженности",
     "trx": "Тонет в игровом бэклоге" //spell-ignore:бэклоге
   },
   "staffroll_joke_114": {
     "src": "Yoshihito Ogura",
     "yax": "Есихито Огура",
+    "nex": "Ёсихито Огура",
     "trx": "Ёсихито Огура" //spell-ignore-line
   },
   "staffroll_joke_115": {
     "src": "Has No Intention To Show Up For Work",
     "yax": "Не Собирается Выходить На Работу",
+    "nex": "Не собирается приходить на работу",
     "trx": "Не собирается выходить на работу"
   },
   "staffroll_joke_116": {
     "src": "Yasushi Takashina",
     "yax": "Ясуси Такашина",
+    "nex": "Ясуси Такасина",
     "trx": "Ясуси Такасина" //spell-ignore-line
   },
   "staffroll_joke_117": {
     "src": "Electrically Charged",
     "yax": "Электрически заряженный",
+    "nex": "Электрически заряжен",
     "trx": "Заряженный электричеством"
   },
   "staffroll_joke_118": {
     "src": "Yasuhiro Takahashi",
     "yax": "Ясухиро Такахаси",
+    "nex": "Ясухиро Такахаси",
     "trx": "Ясухиро Такахаси" //spell-ignore-line
   },
   "staffroll_joke_119": {
     "src": "Bikes Are An Extension Of The Body",
     "yax": "Велосипеды - Это Продолжение Тела",
+    "nex": "Велосипеды — продолжение тела",
     "trx": "Велосипеды — продолжение тела"
   },
   "staffroll_joke_120": {
     "src": "Etsuo Oishi",
     "yax": "Эцуо Оиси",
+    "nex": "Эцуо Оиси",
     "trx": "Эцуо Оиси" //spell-ignore-line
   },
   "staffroll_joke_121": {
     "src": "Burned By Boiling Water",
     "yax": "Обожженный Кипятком",
+    "nex": "Обожжён кипятком",
     "trx": "Обожжённый кипятком"
   },
   "staffroll_joke_122": {
     "src": "Kunihiro Horio",
     "yax": "Кунихиро Хорио",
+    "nex": "Кунихиро Хорио",
     "trx": "Кунихиро Хорио" //spell-ignore-line
   },
   "staffroll_joke_123": {
     "src": "Fourth Time Since Two Years Ago",
     "yax": "Четвертый Раз С Тех Пор, Как Прошло Два Года",
+    "nex": "Четвёртый раз за два года",
     "trx": "Четвёртый раз за два года"
   },
   "staffroll_joke_124": {
     "src": "Migaku Matsui",
     "yax": "Мигаку Мацуи",
+    "nex": "Мигаку Мацуи",
     "trx": "Мигаку Мацуи" //spell-ignore-line
   },
   "staffroll_joke_125": {
     "src": "Abstained From Booze And Lost A Lot Of Weight",
     "yax": "Воздержался От Выпивки И Сильно Похудел",
+    "nex": "Воздержался от алкоголя и сильно похудел",
     "trx": "Перестал пить и очень похудел"
   },
   "staffroll_joke_126": {
     "src": "Shigeru Kawahara",
     "yax": "Сигеру Кавахара",
+    "nex": "Сигэру Кавахара",
     "trx": "Сигэру Кавахара" //spell-ignore-line
   },
   "staffroll_joke_127": {
     "src": "Hears Baby Voices During Meetings",
     "yax": "Слышит Детские Голоса Во время Собраний",
+    "nex": "Слышит голоса младенцев на совещаниях",
     "trx": "Слышит детские голоса во время собраний"
   },
   "staffroll_joke_128": {
     "src": "Wataru Nagano",
     "yax": "Ватару Нагано",
+    "nex": "Ватару Нагано",
     "trx": "Ватару Нагано" //spell-ignore-line
   },
   "staffroll_joke_129": {
     "src": "Prez Of The Escape Game Club",
     "yax": "Президент Игрового клуба \"Побег\"",
+    "nex": "Президент игрового клуба \"Побег\"",
     "trx": "Президент клуба игр-побегов"
   },
   "staffroll_joke_130": {
     "src": "Hiroko Takano",
     "yax": "Хироко Такано",
+    "nex": "Хироко Такано",
     "trx": "Хироко Такано" //spell-ignore-line
   },
   "staffroll_joke_131": {
     "src": "Long-Legged Characters Should Look Cool While Moving",
     "yax": "Длинноногие Персонажи Должны Круто Смотреться Во Время Движения",
+    "nex": "Длинноногим персонажам должно быть круто двигаться",
     "trx": "Длинноногие персонажи должны выглядеть круто при ходьбе"
   },
   "staffroll_joke_132": {
     "src": "Hisashi Nagai",
     "yax": "Хисаси Нагаи",
+    "nex": "Хисаси Нагаи",
     "trx": "Хисаси Нагаи" //spell-ignore-line
   },
   "staffroll_joke_133": {
     "src": "A Past Too Cringe To Speak Of",
     "yax": "Прошлое, О Котором Слишком Стыдно Говорить",
+    "nex": "Прошлое, о котором слишком стыдно говорить",
     "trx": "Прошлое, о котором стыдно говорить"
   },
   "staffroll_joke_134": {
     "src": "Alissa Fuji",
     "yax": "Алисса Фудзи",
+    "nex": "Алисса Фудзи",
     "trx": "Алисса Фудзи" //spell-ignore-line
   },
   "staffroll_joke_135": {
     "src": "Dungeon Maniac",
     "yax": "Маньяк из подземелья",
+    "nex": "Маньяк подземелий",
     "trx": "Маньяк из подземелья"
   },
   "staffroll_joke_136": {
     "src": "Nanaka Ozaki",
     "yax": "Нанака Одзаки",
+    "nex": "Нанака Одзаки",
     "trx": "Нанака Одзаки" //spell-ignore-line
   },
   "staffroll_joke_137": {
     "src": "35 Year Mortgage Taker",
     "yax": "Получатель ипотеки на 35 лет",
+    "nex": "Взявший ипотеку на 35 лет",
     "trx": "Получатель ипотеки на 35 лет"
   },
   "staffroll_joke_138": {
     "src": "Ryoma Nakamura",
     "yax": "Рема Накамура",
+    "nex": "Рёма Накамура",
     "trx": "Рёма Накамура" //spell-ignore-line
   },
   "staffroll_joke_139": {
     "src": "Overworked",
     "yax": "Перегруженный работой",
+    "nex": "Переутомлённый",
     "trx": "Перегруженный работой"
   },
   "staffroll_joke_140": {
     "src": "Tomoya Shinozaki",
     "yax": "Томоя Синодзаки",
+    "nex": "Томоя Синодзаки",
     "trx": "Томоя Синодзаки" //spell-ignore-line
   },
   "staffroll_joke_141": {
     "src": "Check out Shiren 6!",
     "yax": "Посмотрите на Ширен 6!",
+    "nex": "Загляните в Shiren 6!",
     "trx": "Зацените Shiren 6!" //spell-ignore:зацените //spell-ignore:Shiren
   },
   "staffroll_joke_142": {
     "src": "Hideyuki Shinozaki",
     "yax": "Хидэюки Синодзаки",
+    "nex": "Хидэюки Синодзаки",
     "trx": "Хидэюки Синодзаки" //spell-ignore-line
   },
   "staffroll_joke_143": {
     "src": "Never Neglect Your Health Tea",
     "yax": "Никогда не пренебрегайте своим полезным чаем",
+    "nex": "Чай «Никогда не забывай о здоровье»",
     "trx": "Никогда не пренебрегайте полезным чаем"
   },
   "staffroll_joke_144": {
     "src": "Kensuke Oguri",
     "yax": "Кенсуке Огури",
+    "nex": "Кэнсукэ Огури",
     "trx": "Кэнсукэ Огури" //spell-ignore-line
   },
   "staffroll_joke_145": {
     "src": "The Evasive Club Prez",
     "yax": "Президент клуба уклончивых",
+    "nex": "Уклончивый президент клуба",
     "trx": "Президент клуба уклонистов"
   },
   "staffroll_joke_146": {
     "src": "Hironori Ishigami",
     "yax": "Хиронори Исигами",
+    "nex": "Хиронори Исигами",
     "trx": "Хиронори Исигами" //spell-ignore-line
   },
   "staffroll_joke_147": {
     "src": "Let's Have Some Fun Together",
     "yax": "Давай Немного Повеселимся Вместе",
+    "nex": "Давай повеселимся вместе",
     "trx": "Давайте немного повеселимся"
   },
   "staffroll_joke_148": {
     "src": "Takayuki Yoshino",
     "yax": "Такаюки Есино",
+    "nex": "Такаюки Ёсино",
     "trx": "Такаюки Ёсино" //spell-ignore-line
   },
   "staffroll_joke_149": {
     "src": "Karaoke Lover",
     "yax": "Любитель караоке",
+    "nex": "Любитель караоке",
     "trx": "Любитель караоке"
   },
   "staffroll_joke_150": {
     "src": "Mayoi Funatsu",
     "yax": "Майои Фунацу",
+    "nex": "Маёи Фунацу",
     "trx": "Маёи Фунацу" //spell-ignore-line
   },
   "staffroll_joke_151": {
     "src": "How About We Add Some Zombies?",
     "yax": "Как Насчет Того, Чтобы Добавить Немного Зомби?",
+    "nex": "Как насчет добавить зомби?",
     "trx": "Может, добавим немного зомби?"
   },
   "staffroll_joke_152": {
     "src": "Yasu Iizuka",
     "yax": "Ясу Иидзука",
+    "nex": "Ясу Иидзука",
     "trx": "Ясу Иидзука" //spell-ignore-line
   }
 }

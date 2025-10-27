@@ -2,26 +2,31 @@
   "bonusmenu_top_message_001": {
     "src": "Atami For Two",
     "yax": "Атами На Двоих",
+    "nex": "Атами для двоих",
     "trx": "Атами для двоих"
   },
   "bonusmenu_top_message_002": {
     "src": "Solve the Serial Host Bathroom Theft Case!",
     "yax": "Раскройте дело о серийной краже ванной комнаты хозяина!",
+    "nex": "Раскрой дело о краже из ванной комнаты серийного ведущего!",
     "trx": "Дело о серийном туалетном воре из хост-клуба"
   },
   "bonusmenu_top_message_003": {
     "src": "Porno Mag Quest - The Legendary Mag",
     "yax": "Порно-журнал Quest - Легендарный журнал",
+    "nex": "Квест с порножурналом — Легендарный журнал",
     "trx": "Порножурнальный квест — Легендарный журнал" //spell-ignore:Порножурнальный //spell-ignore:квест
   },
   "bonusmenu_top_message_004": {
     "src": "What Happened That Night...",
     "yax": "О том, Что произошло Той Ночью...",
+    "nex": "Что случилось той ночью...",
     "trx": "Что случилось той ночью..."
   },
   "bonusmenu_top_message_005": {
     "src": " The Aonoyu Shakedown",
     "yax": "Вымогательство Аоною",
+    "nex": " Встряска «Аоною»",
     "trx": "Происшествие в Аоною" //spell-ignore:Аоною
   }
 }

@@ -2,61 +2,73 @@
   "bonusmenu_top_message_001": {
     "src": "The Melancholy of Ryuki",
     "yax": "Меланхолия Рюки",
+    "nex": "Меланхолия Рюки",
     "trx": "Меланхолия Рюки"
   },
   "bonusmenu_top_message_002": {
     "src": "To Hate Those Like You",
     "yax": "Ненавидеть Таких, Как Ты",
+    "nex": "Ненавидя тех, кто тебе подобен",
     "trx": "Ненависть к таким, как ты"
   },
   "bonusmenu_top_message_003": {
     "src": "Date's Invitation",
     "yax": "Приглашение на свидание",
+    "nex": "Приглашение Датэ",
     "trx": "Приглашение Датэ"
   },
   "bonusmenu_top_message_004": {
     "src": "Mizuki's Trip",
     "yax": "Поездка Мизуки",
+    "nex": "Путешествие Мидзуки",
     "trx": "Поездка Мизуки"
   },
   "bonusmenu_top_message_005": {
     "src": "Life of Ota",
     "yax": "Срок службы Ота",
+    "nex": "Жизнь Оты",
     "trx": "Жизнь Оты"
   },
   "bonusmenu_top_message_006": {
     "src": "I Think, Therefore I Atami",
     "yax": "Я Думаю, Поэтому я Атами",
+    "nex": "Я мыслю, следовательно, я Атами",
     "trx": "Я мыслю, значит я Атами"
   },
   "bonusmenu_top_message_007": {
     "src": "The Legendary Mag",
     "yax": "Легендарный Журнал",
+    "nex": "Легендарный маг",
     "trx": "Легендарный журнал"
   },
   "bonusmenu_top_message_008": {
     "src": "Fortunes and Predictions",
     "yax": "Предсказания судьбы",
+    "nex": "Предсказания и пророчества",
     "trx": "Гадания и предсказания"
   },
   "bonusmenu_top_message_009": {
     "src": "At the Furniture Store",
     "yax": "В мебельном магазине",
+    "nex": "В мебельном магазине",
     "trx": "В мебельном магазине"
   },
   "bonusmenu_top_message_010": {
     "src": "Between Delusion and Reality",
     "yax": "Между иллюзией и реальностью",
+    "nex": "Между бредом и реальностью",
     "trx": "Между иллюзией и реальностью"
   },
   "bonusmenu_top_message_011": {
     "src": "Abusive Labor Fanclub",
     "yax": "Фанклуб по борьбе с жестоким обращением с рабочими",
+    "nex": "Фан-клуб жестокого обращения с работниками",
     "trx": "Фанклуб трудового насилия" //spell-ignore:Фанклуб
   },
   "bonusmenu_top_message_012": {
     "src": "To the Ramen Place",
     "yax": "В ресторан, где готовят рамен",
+    "nex": "К месту с раменом",
     "trx": "В предвкушении лапши"
   }
 }

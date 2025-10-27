@@ -6,7 +6,7 @@ namespace AI3Tools;
 
 internal class AssetFieldWriter(ILogger logger, AssetTypeValueField field, string? prefix = null)
 {
-    public string Path => $"{prefix}{field.FieldName}";
+    public string Path => $"{prefix}{@field.FieldName}";
 
     public AssetFieldWriter this[string name]
     {
@@ -14,7 +14,7 @@ internal class AssetFieldWriter(ILogger logger, AssetTypeValueField field, strin
         {
             var child = field[name];
 
-            if (!field.IsDummy && child.IsDummy)
+            if (!field.IsDummy && child.IsDummy && logger.IsEnabled(LogLevel.Warning))
             {
                 logger.LogWarning("Missing child '{path}.{name}'.", Path, name);
             }

@@ -2,7 +2,9 @@ EN:
   Memento Appraisal System
   Enter password
 
-RU: ?
+RU:
+  Система оценки реликвий
+  Введите пароль
 
 TAGS:
-  [untranslated]
+  []

@@ -1,0 +1,18 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+    <File Path=".gitattributes" />
+    <File Path=".gitignore" />
+    <File Path="exclusion.dic" />
+    <File Path="LICENSE.txt" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="AI3Tools/AI3Tools.csproj" />
+  <Project Path="AI3Tools.Core/AI3Tools.Core.csproj" />
+  <Project Path="AI3Tools.Game/AI3Tools.Game.csproj" />
+  <Project Path="AI3Tools.Resources.Bundles/AI3Tools.Resources.Bundles.csproj" />
+  <Project Path="AI3Tools.Resources.Il2CppMetadata/AI3Tools.Resources.Il2CppMetadata.csproj" />
+  <Project Path="AI3Tools.Resources.TextMaps/AI3Tools.Resources.TextMaps.csproj" />
+  <Project Path="AI3Tools.Translations/AI3Tools.Translations.csproj" />
+  <Project Path="AI3Tools.UI/AI3Tools.UI.csproj" />
+</Solution>

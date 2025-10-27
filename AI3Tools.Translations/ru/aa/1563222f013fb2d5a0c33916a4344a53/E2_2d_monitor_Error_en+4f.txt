@@ -3,7 +3,10 @@ EN:
   There are mementos that have not been set.
   Please set all mementos.
 
-RU: ?
+RU:
+  ОШИБКА!
+  Некоторые реликвии не были установлены.
+  Установите все реликвии.
 
 TAGS:
-  [untranslated]
+  []

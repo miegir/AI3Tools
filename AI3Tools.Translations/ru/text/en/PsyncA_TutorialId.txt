@@ -2,1016 +2,1219 @@
   "tutorial_title_001": {
     "src": "Basic Controls",
     "yax": "Основные элементы управления",
+    "nex": "Основные элементы управления",
     "trx": "Основы управления"
   },
   "tutorial_001": {
     "src": "The story progresses as you examine <color=yellow>whatever stands out</color>.",
     "yax": "Сюжет развивается по мере того, как вы изучаете <color=yellow> все, что выделяется</color>.",
+    "nex": "История продвигается по мере того, как вы исследуете <color=yellow>все, что бросается в глаза</color>.",
     "trx": "Вы продвигаетесь по сюжету, когда исследуете <color=yellow>всё, что бросается в глаза</color>."
   },
   "tutorial_002": {
     "src": "You can move the <color=yellow>Cursor</color> and <color=yellow>Camera</color> freely.",
     "yax": "Вы можете свободно перемещать <color=yellow>курсор</color> и <color=yellow>камеру</color>.",
+    "nex": "Вы можете свободно перемещать <color=yellow>Курсор</color> и <color=yellow>Камеру</color>.",
     "trx": "Вы можете свободно перемещать <color=yellow>курсор</color> и <color=yellow>камеру</color>."
   },
   "tutorial_003": {
     "src": "Start by looking around. Investigate things by taking your cursor to <color=yellow>whatever stands out</color>.",
     "yax": "Начните с того, что осмотритесь вокруг. Исследуйте предметы, наведя курсор на <color=желтый> все, что выделяется</color>.",
+    "nex": "Для начала осмотритесь. Исследуйте объекты, наведя курсор на <color=yellow>всё, что бросается в глаза</color>.",
     "trx": "Для начала попробуйте осмотреться.\nИсследуйте объекты, наводя курсор на <color=yellow>всё, что бросается в глаза</color>."
   },
   "tutorial_title_002": {
     "src": "Examination Options",
     "yax": "Варианты проведения экзамена",
+    "nex": "Варианты осмотра",
     "trx": "Варианты исследования"
   },
   "tutorial_004": {
     "src": "When examining something, you may be presented with the options of <color=yellow>Selections</color> and <color=yellow>Look</color>.",
     "yax": "При изучении чего-либо вам могут быть предложены варианты выбора <color=yellow> и <color=yellow> внешнего вида</color>.",
+    "nex": "При осмотре чего-либо вам могут быть предложены варианты <color=yellow>Выбрать</color> и <color=yellow>Осмотреть</color>.",
     "trx": "При исследовании вам доступны <color=yellow>Варианты</color> и <color=yellow>Осмотр</color>."
   },
   "tutorial_005": {
     "src": "Choosing a <color=yellow>Selection</color> will make the protagonist talk \nor think about the thing in question.",
     "yax": "Выбор <color=желтый></color> заставит главного героя заговорить\nили задуматься о предмете, о котором идет речь.",
+    "nex": "Выбор <color=yellow>«Выбрать»</color> заставит протагониста говорить\nили думать о предмете.",
     "trx": "Выбор одного из <color=yellow>вариантов</color> позволит герою заговорить или подумать о выбранной теме."
   },
   "tutorial_006": {
     "src": "Selecting <color=yellow>Look</color> makes the protagonist\n<color=yellow>examine the object</color>.",
     "yax": "Выбор <color=yellow>Вида</color> заставляет главного героя\n<color=yellow> исследовать объект</color>.",
+    "nex": "Выбор <color=yellow>«Осмотреть»</color> заставит протагониста\n<color=yellow>изучить объект</color>.",
     "trx": "Выбрав <color=yellow>Осмотр</color>, вы отдадите герою команду <color=yellow>обследовать объект</color>."
   },
   "tutorial_title_003": {
     "src": "Log",
     "yax": "Лог",
+    "nex": "Журнал",
     "trx": "Журнал"
   },
   "tutorial_007": {
     "src": "The <color=yellow>Log</color> at the bottom-right of the screen allows you to <color=yellow>review the conversation</color>.",
     "yax": "<color=желтый> Журнал </color> в правом нижнем углу экрана позволяет вам <color=желтый> просмотреть беседу</color>.",
+    "nex": "В <color=yellow>Журнале</color> в правом нижнем углу экрана вы можете <color=yellow>просмотреть диалог</color>.",
     "trx": "Значок <color=yellow>Журнал</color> в правом нижнем углу экрана позволяет вам <color=yellow> просмотреть журнал разговоров</color>."
   },
   "tutorial_title_004": {
     "src": "Map and Movement",
     "yax": "Карта и движение",
+    "nex": "Карта и перемещение",
     "trx": "Карта и перемещение"
   },
   "tutorial_008": {
     "src": "When you are able to switch locations, \na <color=yellow>Map icon</color> appears at the bottom-right of the screen.",
     "yax": "Когда вы сможете переключаться между местоположениями,\nв правом нижнем углу экрана появится значок карты <color=желтый>.",
+    "nex": "Когда вы сможете сменить локацию, в правом нижнем углу экрана появится <color=yellow>значок карты</color>.",
     "trx": "Если доступно перемещение в другую область, в правом нижнем углу экрана появляется значок <color=yellow>Карта</color>."
   },
   "tutorial_009": {
     "src": "Select the <color=yellow>Map icon</color> to open the map, \nthen choose a destination to move there.",
     "yax": "Выберите значок карты <color=желтый>, чтобы открыть карту,\nзатем выберите пункт назначения для перемещения туда.",
+    "nex": "Выберите <color=yellow>значок карты</color>, чтобы открыть карту, затем выберите пункт назначения, чтобы переместиться туда.",
     "trx": "Выберите значок <color=yellow>Карта</color>, чтобы открыть карту, а затем выберите пункт назначения для перемещения в него."
   },
   "tutorial_title_005": {
     "src": "Wink Psync",
     "yax": "Подмигивание Psync",
+    "nex": "Мгновенный Псинк",
     "trx": "Винк-псинк"
   },
   "tutorial_010": {
     "src": "You can use the special <color=yellow>Wink Psync</color> function on this person.",
     "yax": "Вы можете использовать специальную функцию <color=yellow>Wink Psync для этого человека.",
+    "nex": "Вы можете использовать специальную функцию <color=yellow>Мгновенный Псинк</color> на этом человеке.",
     "trx": "Вы можете использовать специальную функцию <color=yellow>Винк-псинк</color> на этом персонаже."
   },
   "tutorial_011": {
     "src": "<color=yellow>Wink Psync</color> is a simplified Psync that\nanalyzes the target's brain and lets you briefly\n<color=yellow>glimpse into their subconscious mind</color>.",
     "yax": "<color=yellow>Wink Psync</color> - это упрощенный Psync, который\nанализирует мозг объекта и позволяет вам ненадолго\n<color=yellow> заглянуть в его подсознание</color>.",
+    "nex": "<color=yellow>Мгновенный Псинк</color> — это упрощенный Псинк, который анализирует мозг цели и позволяет вам мельком <color=yellow>заглянуть в её подсознание</color>.",
     "trx": "<color=yellow>Винк-псинк</color> — это упрощённая версия псинхронизации, которая анализирует мозг субъекта и позволяет вам на короткое время <color=yellow>заглянуть в его подсознание</color>."
   },
   "tutorial_title_006": {
     "src": "Aiba's Special Modes",
     "yax": "Специальные режимы Aiba",
+    "nex": "Особые режимы Айбы",
     "trx": "Специальные режимы Айбы"
   },
   "tutorial_012": {
     "src": "During the story, you can borrow Aiba's powers <color=yellow>to acquire special visual information</color>.",
     "yax": "Во время рассказа вы можете использовать способности Айбы <color=yellow> для получения особой визуальной информации</color>.",
+    "nex": "Во время истории вы можете использовать силы Айбы, <color=yellow>чтобы получить специальную визуальную информацию</color>.",
     "trx": "Во время игры вы можете задействовать способности Айбы, чтобы <color=yellow>собрать особую визуальную информацию</color>."
   },
   "tutorial_013": {
     "src": "By <color=yellow>selecting the X-Ray icon</color>, you can activate the\nX-ray sight and see through things. You may even \n<color=yellow>get a good look at what's under that cloth</color>...",
     "yax": "Выбрав значок рентгеновского снимка</color>, вы можете активировать\nРентгеновский прицел и видеть сквозь предметы. Вы даже можете\n<color=yellow> хорошо рассмотреть, что находится под этой тканью</color>...",
+    "nex": "С помощью <color=yellow>выбора значка рентгена</color> вы можете активировать рентгеновское зрение и видеть сквозь предметы. Вы даже можете <color=yellow>хорошо рассмотреть, что находится под этой тканью</color>...",
     "trx": "Выбрав значок <color=yellow>Рентген</color>, вы можете активировать рентгеновское зрение и видеть сквозь предметы. Вы даже можете <color=yellow>хорошо рассмотреть, что находится под одеждой</color>..."
   },
   "tutorial_title_007": {
     "src": "Aiba's Special Modes",
     "yax": "Специальные режимы Aiba",
+    "nex": "Особые режимы Айбы",
     "trx": "Специальные режимы Айбы"
   },
   "tutorial_title_008": {
     "src": "Aiba's Special Modes",
     "yax": "Специальные режимы Aiba",
+    "nex": "Особые режимы Айбы",
     "trx": "Специальные режимы Айбы"
   },
   "tutorial_title_009": {
     "src": "Wink Psync",
     "yax": "Подмигивание Psync",
+    "nex": "Мгновенный Псинк",
     "trx": "Винк-псинк"
   },
   "tutorial_title_010": {
     "src": "Wink Psync",
     "yax": "Подмигивание Psync",
+    "nex": "Мгновенный Псинк",
     "trx": "Винк-псинк"
   },
   "tutorial_014": {
     "src": "During the story, you can borrow Aiba's aid to <color=yellow>gather info \nusing Special Senses</color>.",
     "yax": "Во время рассказа вы можете воспользоваться помощью Aiba, чтобы <color=yellow> собирать информацию\n, используя специальные органы чувств</color>.",
+    "nex": "Во время истории вы можете воспользоваться помощью Айбы, чтобы <color=yellow>собрать информацию\nс помощью особых чувств</color>.",
     "trx": "Во время игры вы можете задействовать способности Айбы, чтобы <color=yellow>собрать информацию с помощью специальных режимов</color>."
   },
   "tutorial_015": {
     "src": "By <color=yellow>selecting the X-Ray icon</color>, you can activate the\nX-ray sight and see through things. You may even \n<color=yellow>get a good look at what's under that cloth</color>...",
     "yax": "Выбрав значок рентгеновского снимка</color>, вы можете активировать\nРентгеновский прицел и видеть сквозь предметы. Вы даже можете\n<color=yellow> хорошо рассмотреть, что находится под этой тканью</color>...",
+    "nex": "Активировав <color=yellow>значок рентгена</color>, вы сможете видеть сквозь объекты. Вы даже можете \n<color=yellow>хорошенько рассмотреть, что скрывается под этой тканью</color>...",
     "trx": "Выбрав значок <color=yellow>Рентген</color>, вы можете активировать рентгеновское зрение и видеть сквозь предметы. Вы даже можете <color=yellow>хорошо рассмотреть, что находится под одеждой</color>..."
   },
   "tutorial_016": {
     "src": "You can use the <color=yellow>Wink Psync</color> special vision on this person.",
     "yax": "Вы можете использовать специальное зрение Wink Psync для этого человека.",
+    "nex": "Вы можете использовать <color=yellow>«Мгновенный Псинк»</color> — специальное зрение — на этом человеке.",
     "trx": "Вы можете использовать специальную функцию <color=yellow>Винк-псинк</color> на этом персонаже."
   },
   "tutorial_017": {
     "src": "<color=yellow>Wink Psync</color> is a simplified Psync that analyzes the target's brain \nand lets you briefly <color=yellow>glimpse into their subconscious mind</color>.",
     "yax": "<color=yellow>Wink Psync</color> - это упрощенный Psync, который анализирует мозг объекта\nи позволяет вам ненадолго <color=yellow> заглянуть в его подсознание</color>.",
+    "nex": "<color=yellow>«Мгновенный Псинк»</color> — это упрощённый Псинк, который анализирует мозг цели \nи позволяет вам на короткое время <color=yellow>заглянуть в её подсознание</color>.",
     "trx": "<color=yellow>Винк-псинк</color> — это упрощённая версия псинхронизации, которая анализирует мозг субъекта и позволяет вам на короткое время <color=yellow>заглянуть в его подсознание</color>."
   },
   "tutorial_title_011": {
     "src": "Aiba's Trivia",
     "yax": "Мелочи Aiba",
+    "nex": "Викторина Айбы",
     "trx": "Факты Айбы"
   },
   "tutorial_018": {
     "src": "During investigations, you may notice Aiba's <color=yellow>Trivia</color> or <color=yellow>Addendums</color> appear at the top of the screen.",
     "yax": "Во время проведения расследований вы можете заметить, что в верхней части экрана появляются <color=yellow> Информация Aiba </color> или <color=yellow>Дополнения</color>.",
+    "nex": "Во время расследований вы можете заметить, что вверху экрана появляются <color=yellow>«Мелочи»</color> или <color=yellow>«Дополнения»</color> от Айбы.",
     "trx": "Во время расследования в верхней части экрана будут появляться <color=yellow>факты</color> или <color=yellow>приложения</color>."
   },
   "tutorial_019": {
     "src": "This is <color=yellow>information meant to provide a higher\nlevel of immersion into the story</color>.\nNot reading it will not impact game progression.",
     "yax": "Это <color=желтый>информация, предназначенная для более\nглубокого погружения в сюжет</color>.\nЕсли вы не прочтете ее, это никак не повлияет на ход игры.",
+    "nex": "Это <color=yellow>информация, призванная обеспечить более глубокое\nпогружение в историю</color>.\nНечтение её не повлияет на ход игры.",
     "trx": "Эта информация предназначена для <color=yellow>более глубокого погружения в историю</color>. Нет необходимости читать эту информацию для продвижения по сюжету."
   },
   "tutorial_title_012": {
     "src": "Menu",
     "yax": "Меню",
+    "nex": "Меню",
     "trx": "Меню"
   },
   "tutorial_020": {
     "src": "This menu allows you to access Files, Flowchart, and Options.",
     "yax": "Это меню позволяет вам получить доступ к файлам, блок-схеме и параметрам.",
+    "nex": "Это меню позволяет получить доступ к Файлам, Схеме и Настройкам.",
     "trx": "Это меню позволяет получить доступ к файлам, хронологии и параметрам."
   },
   "tutorial_021": {
     "src": "This game has an <color=yellow>autosave function</color>, \nbut here, you can <color=yellow>save at a point of your choosing</color>.",
     "yax": "В этой игре есть функция автосохранения <color=yellow>,\nно здесь вы можете сохранить <color=yellow> в выбранном вами месте</color>.",
+    "nex": "В этой игре есть <color=yellow>функция автосохранения</color>, \nно здесь вы можете <color=yellow>сохраниться в любом выбранном вами месте</color>.",
     "trx": "В игре есть функция <color=yellow>автосохранения</color>, но также можно <color=yellow>сохранить игру в любой момент</color>."
   },
   "tutorial_title_013": {
     "src": "Menu",
     "yax": "Меню",
+    "nex": "Меню",
     "trx": "Меню"
   },
   "tutorial_022": {
     "src": "If you want to close the game, <color=yellow>use Top Menu to return to the title screen</color>.",
     "yax": "Если вы хотите закрыть игру, <color=yellow> используйте верхнее меню, чтобы вернуться к главному экрану</color>.",
+    "nex": "Если вы хотите закрыть игру, <color=yellow>используйте Верхнее меню, чтобы вернуться на экран заголовка</color>.",
     "trx": "Если вы хотите закрыть игру, <color=yellow>используйте пункт \"Главное меню\", чтобы вернуться к начальному экрану</color>."
   },
   "tutorial_title_014": {
     "src": "File",
     "yax": "Файл",
+    "nex": "Файл",
     "trx": "Файл"
   },
   "tutorial_023": {
     "src": "This is where you can check things like <color=yellow>the game's terminology</color>\nand <color=yellow>character details</color>.\nAdditional information is added as the game progresses.",
     "yax": "Здесь вы можете ознакомиться с такими вещами, как <color=yellow> игровая терминология</color>\nи <color=yellow> информация о персонаже</color>.\nДополнительная информация добавляется по ходу игры.",
+    "nex": "Здесь вы можете проверить такие вещи, как <color=yellow>терминология игры</color>\nи <color=yellow>детали персонажей</color>.\nДополнительная информация добавляется по мере прохождения игры.",
     "trx": "Здесь можно ознакомиться с такой информацией, как <color=yellow>игровые термины</color> и <color=yellow>сведения о персонажах</color>. Дополнительная информация добавляется по ходу игры."
   },
   "tutorial_title_015": {
     "src": "Flowchart",
     "yax": "Блок-схема",
+    "nex": "Схема",
     "trx": "Хронология"
   },
   "tutorial_024": {
     "src": "This is where you can check the <color=yellow>flow of the story</color> and <color=yellow>its summary</color>.\nAdditional information is added as you progress\nthrough the chapters.",
     "yax": "Здесь вы можете ознакомиться с <color=yellow> ходом рассказа</color> и <color=yellow> его кратким изложением</color>.\nДополнительная информация добавляется\nпо мере прохождения глав.",
+    "nex": "Здесь вы можете проверить <color=yellow>ход истории</color> и <color=yellow>её краткое содержание</color>.\nДополнительная информация добавляется по мере прохождения\nглав.",
     "trx": "Здесь можно ознакомиться с <color=yellow>этапами истории</color> и её <color=yellow>кратким содержанием</color>. Дополнительная информация добавляется по мере прохождения глав."
   },
   "tutorial_025": {
     "src": "Selecting a chapter lets you <color=yellow>replay the story from a point of your choosing</color>.",
     "yax": "Выбор главы позволяет вам <color=желтый> воспроизвести историю с выбранной вами точки</color>.",
+    "nex": "Выбор главы позволяет вам <color=yellow>переиграть историю с любого выбранного момента</color>.",
     "trx": "Выбор главы позволяет <color=yellow>перейти к выбранной точке истории</color>."
   },
   "tutorial_026": {
     "src": "<color=yellow>The story is saved at the furthest point</color>, \nso replaying previous scenes will not undo your progress.",
     "yax": "<color=yellow>История сохраняется в самой удаленной точке</color>,\nпоэтому повторение предыдущих сцен не отменит ваш прогресс.",
+    "nex": "<color=yellow>История сохраняется в самой последней пройденной точке</color>,\nпоэтому переигрывание предыдущих сцен не отменит ваш прогресс.",
     "trx": "<color=yellow>История сохраняется в самой дальней точке</color>, поэтому повторение предыдущих сцен не уничтожит ваш прогресс."
   },
   "tutorial_title_016": {
     "src": "Unlimited Psync",
     "yax": "Неограниченная синхронизация данных",
+    "nex": "Безлимитный Псинк",
     "trx": "Сомниум без ограничений"
   },
   "tutorial_027": {
     "src": "After you finish a Somnium section once, you can use the Flowchart to select <color=yellow>Unlimited Psync, which has no time limit</color>.",
     "yax": "После того, как вы закончите раздел Somnium один раз, вы можете использовать блок-схему, чтобы выбрать <color=yellow>Неограниченную Psync-синхронизацию, которая не имеет ограничений по времени</color>.",
+    "nex": "После того как вы пройдёте секцию Сомниума один раз, вы сможете использовать Схему, чтобы выбрать <color=yellow>«Безлимитный Псинк» — режим без ограничения по времени</color>.",
     "trx": "Полностью пройдя сомниум один раз, можно пройти его снова <color=yellow>без ограничения по времени</color>, выбрав вариант <color=yellow>Сомниум без ограничений</color> на экране хронологии."
   },
   "tutorial_title_017": {
     "src": "The Case is Not Yet Closed",
     "yax": "Дело еще не закрыто",
+    "nex": "Дело еще не закрыто",
     "trx": "Дело ещё не закрыто"
   },
   "tutorial_028": {
     "src": "There are still many mysteries to this story.\nWhat is <color=yellow>the truth behind the Third Eye Games</color>? \nWhat is <color=yellow>the goal of its hostess</color>?\nAnd what is the fate of <color=yellow>Iris and the others</color>?",
     "yax": "В этой истории все еще много загадок.\nКакова <color=yellow> истина, стоящая за играми \"Третий глаз\"? \nКакова <color=yellow> цель их создательницы?\nИ какова судьба <color=yellow>Айрис и остальных </color>?",
+    "nex": "В этой истории ещё много тайн.\nКакова <color=yellow>правда о «Играх Третьего Глаза»</color>?\nКакова <color=yellow>цель её ведущей</color>?\nИ какова судьба <color=yellow>Ирис и остальных</color>?",
     "trx": "В этой истории осталось ещё много тайн. Какова <color=yellow>правда об игре \"Третий Глаз\"</color>? Каковы <color=yellow>мотивы её ведущей</color>? И что случилось с <color=yellow>Айрис и остальными</color>?"
   },
   "tutorial_029": {
     "src": "Use the Flowchart to replay chapters of your choosing and unravel \n<color=yellow>all the mysteries of the story</color>.",
     "yax": "Используйте блок-схему, чтобы воспроизвести главы по своему выбору и разгадать все тайны истории.\n",
+    "nex": "Используйте Схему, чтобы переиграть выбранные главы и раскрыть \n<color=yellow>все тайны истории</color>.",
     "trx": "Используйте экран хронологии, чтобы заново пройти выбранную главу и разгадать <color=yellow>все тайны этой истории</color>.\n"
   },
   "tutorial_title_018": {
     "src": "Bonus",
     "yax": "Бонус",
+    "nex": "Бонусы",
     "trx": "Бонусы"
   },
   "tutorial_030": {
     "src": "Here, you can spend <color=yellow>Eyes</color>, \nto unlock additional content.",
     "yax": "Здесь вы можете потратить <color=желтый>на глаза</color>,\nчтобы разблокировать дополнительный контент.",
+    "nex": "Здесь вы можете потратить <color=yellow>глаза</color>,\nчтобы разблокировать дополнительный контент.",
     "trx": "В этом разделе можно потратить собранные <color=yellow>глаза</color>,\nчтобы разблокировать дополнительный контент."
   },
   "tutorial_031": {
     "src": "Additional content is added \nas you progress through the story.",
     "yax": "Дополнительный контент добавляется\nпо мере прохождения истории.",
+    "nex": "Дополнительный контент добавляется\nпо мере прохождения истории.",
     "trx": "Дополнительный контент добавляется по мере\nпрохождения истории."
   },
   "tutorial_title_019": {
     "src": "What Are Bonuses?",
     "yax": "Что такое Бонусы?",
+    "nex": "Что такое бонусы?",
     "trx": "Что такое Бонусы?"
   },
   "tutorial_title_020": {
     "src": "Acquiring Eyes",
     "yax": "Обретающие глаза",
+    "nex": "Приобретение глаз",
     "trx": "Как добыть глаза"
   },
   "tutorial_title_021": {
     "src": "Unlocking Content",
     "yax": "Разблокировка содержимого",
+    "nex": "Разблокировка контента",
     "trx": "Разблокировка содержимого"
   },
   "tutorial_title_022": {
     "src": "Unlocking Content",
     "yax": "Разблокировка содержимого",
+    "nex": "Разблокировка контента",
     "trx": "Разблокировка содержимого"
   },
   "tutorial_032": {
     "src": "・This is the menu where you can unlock and view additional content.\n・Unlock content by spending <color=yellow>Eyes</color>.",
     "yax": "・Это меню, в котором вы можете разблокировать и просмотреть дополнительный контент.\n・Разблокируйте контент, проведя <color=желтый>глазами</color>.",
+    "nex": "・Это меню, где вы можете разблокировать и просмотреть дополнительный контент.\n・Разблокируйте контент, тратя <color=yellow>глаза</color>.",
     "trx": "・Это меню, в котором можно разблокировать и\nпросмотреть дополнительный контент.\n・Разблокируйте контент, потратив <color=yellow>глаза</color>."
   },
   "tutorial_033": {
     "src": "・While in Somnium sections, <color=yellow>select choices you've yet to make</color>.\n・While in Somnium sections, <color=yellow>finish with at least 1 second left</color>.\n・While in Somnium sections, <color=yellow>discover hidden items</color>.\n・<color=yellow>Raise your rank (complete achievements)</color> for Evaluation.",
     "yax": "・Находясь в разделах Somnium, <color=yellow>выберите варианты, которые вам еще предстоит сделать</color>.\n・Находясь в разделах Somnium, <color=yellow>завершите, оставив как минимум 1 секунду</color>.\n・Находясь в разделах Somnium, <color=yellow>находите скрытые предметы</color>.\n・<color=yellow>Повышайте свой ранг (выполняйте достижения)</color> для оценки.",
+    "nex": "・В секциях Сомниума <color=yellow>выбирайте варианты, которые вы еще не делали</color>.\n・В секциях Сомниума <color=yellow>завершайте с запасом хотя бы 1 секунда</color>.\n・В секциях Сомниума <color=yellow>находите скрытые предметы</color>.\n・<color=yellow>Повышайте свой ранг (выполняйте достижения)</color> для оценки.",
     "trx": "・Находясь в сомниумах, <color=yellow>выбирайте ранее не выбранные варианты</color>.\n・Находясь в сомниумах, <color=yellow>завершайте их с запасом не менее 1 секунды</color>.\n・Находясь в сомниумах, <color=yellow>ищите спрятанные глаза</color>.\n・<color=yellow>Повышайте свой ранг (получайте достижения)</color> в разделе эффективности."
   },
   "tutorial_034": {
     "src": "・Dream Album A: While in Somnium sections, <color=yellow>finish with at least 1 second left</color>.\n・Dream Album B: While in Somnium sections, <color=yellow>discover 3 hidden items</color>.",
     "yax": "・Альбом сновидений A: Пока вы находитесь в разделах Somnium, <color=yellow> завершите просмотр, оставив как минимум 1 секунду</color>.\n・Альбом сновидений B: Пока вы находитесь в разделах Somnium, <color=yellow> найдите 3 скрытых предмета</color>.",
+    "nex": "・Альбом снов A: В секциях Сомниума <color=yellow>завершайте с запасом хотя бы 1 секунда</color>.\n・Альбом снов B: В секциях Сомниума <color=yellow>найдите 3 скрытых предмета</color>.",
     "trx": "・Альбом сновидений A: Находясь в сомниумах,\n<color=yellow>завершайте их с запасом не менее 1 секунды</color>.\n・Альбом сновидений B: Находясь в сомниумах,\n<color=yellow>обнаружьте 3 спрятанных глаза</color>."
   },
   "tutorial_035": {
     "src": "Content that appears as <color=yellow>???</color> will be <color=yellow>revealed when you reach the end of the story</color>.\nTry and unlock everything!",
     "yax": "Содержимое, отображаемое как <color=желтый>???</color>, будет <color=желтый> открыто, когда вы дойдете до конца истории</color>.\nПопробуйте и разблокируйте все!",
+    "nex": "Контент, отображаемый как <color=yellow>???</color>, будет <color=yellow>раскрыт по достижении конца истории</color>.\nПостарайтесь разблокировать всё!",
     "trx": "Содержимое, отображаемое как <color=yellow>???</color>, будет\n<color=yellow>открыто, когда вы достигнете конца истории</color>.\nПопробуйте разблокировать всё!"
   },
   "tutorial_title_023": {
     "src": "Evaluation",
     "yax": "Оценка",
+    "nex": "Оценка",
     "trx": "Эффективность"
   },
   "tutorial_036": {
     "src": "This is where you can see your achievements.\nDuring the story, <color=yellow>fulfilling certain conditions will unlock achievements</color> \nand raise your rank.",
     "yax": "Здесь вы можете увидеть свои достижения.\nВо время прохождения сюжета <color=yellow>выполнение определенных условий разблокирует достижения</color> \nи повысит ваш ранг.",
+    "nex": "Здесь вы можете увидеть свои достижения.\nВо время истории <color=yellow>выполнение определенных условий разблокирует достижения</color>\nи повысит ваш ранг.",
     "trx": "Здесь отображаются ваши достижения. При прохождении игры <color=yellow>выполнение определённых условий разблокирует достижения</color> и может повысить ваш ранг."
   },
   "tutorial_037": {
     "src": "Increasing rank <color=yellow>rewards you with Eyes</color>.",
     "yax": "За повышение ранга <color=yellow> вы получаете в награду глаза</color>.",
+    "nex": "Повышение ранга <color=yellow>вознаграждает вас глазами</color>.",
     "trx": "Повышение ранга <color=yellow>вознаграждается глазами</color>."
   },
   "tutorial_title_024": {
     "src": "Somnium",
     "yax": "Сомниум",
+    "nex": "Сомниум",
     "trx": "Сомниум"
   },
   "tutorial_038": {
     "src": "Somniums are sections where you explore dreams.\nThe goal is to <color=yellow>uncover the subject's hidden memories</color>.",
     "yax": "Сомниумы - это разделы, в которых вы исследуете сны.\nЦель состоит в том, чтобы <color=yellow> раскрыть скрытые воспоминания испытуемого</color>.",
+    "nex": "Сомниумы — это секции, где вы исследуете сны.\nЦель — <color=yellow>раскрыть скрытые воспоминания субъекта</color>.",
     "trx": "Сомниум — это этап игры, в котором исследуются сны. Цель состоит в том, чтобы <color=yellow>обнаружить скрытые воспоминания субъекта</color>."
   },
   "tutorial_title_025": {
     "src": "Guide",
     "yax": "Руководство",
+    "nex": "Руководство",
     "trx": "Руководство"
   },
   "tutorial_039": {
     "src": "The tutorial can be reviewed at any time\nfrom Menu > File > Guide.",
     "yax": "С учебным пособием можно ознакомиться в любое время\nв меню > Файл > Руководство.",
+    "nex": "Учебное пособие можно просмотреть в любое время\nв Меню > Файл > Руководство.",
     "trx": "С материалами обучения можно ознакомиться в любое время\nв Меню > Файл > Руководство."
   },
   "tutorial_title_026": {
     "src": "Mental Lock",
     "yax": "Ментальный замок",
+    "nex": "Ментальный замок",
     "trx": "Ментальный замок"
   },
   "tutorial_040": {
     "src": "Unlocking <color=yellow>Mental Locks</color> allows you to delve into\nthe Psync subject's <color=yellow>deeper memories</color>.\nUnlocking all of them may reveal important information.",
     "yax": "Разблокировка <color=yellow> ментальных блокировок</color> позволяет вам проникнуть в более\nглубокие воспоминания субъекта Psync <color=yellow>.\nРазблокировка всех блокировок может раскрыть важную информацию.",
+    "nex": "Разблокировка <color=yellow>ментальных замков</color> позволяет вам углубиться\nв <color=yellow>более глубокие воспоминания</color> субъекта Псинка.\nРазблокировка всех может раскрыть важную информацию.",
     "trx": "Отпирание <color=yellow>ментальных замков</color> позволяет <color=yellow>глубже проникнуть</color> в воспоминания субъекта псинхронизации. Отпирание всех замков может раскрыть важную информацию."
   },
   "tutorial_title_027": {
     "src": "Guidelines",
     "yax": "Методические рекомендации",
+    "nex": "Правила",
     "trx": "Рекомендации"
   },
   "tutorial_041": {
     "src": "<color=yellow>On the top-left of the screen, you can find Guidelines</color>\nthat act as hints to unlock Mental Locks.\nFollowing those hints is vital to success.",
     "yax": "<color=желтый>В левом верхнем углу экрана вы можете найти рекомендации</color>\nкоторые служат подсказками для разблокировки ментальных блокировок.\nСледование этим подсказкам жизненно важно для успеха.",
+    "nex": "<color=yellow>В верхнем левом углу экрана вы найдете Руководства</color>,\nкоторые служат подсказками для разблокировки ментальных замков.\nСледование этим подсказкам жизненно важно для успеха.",
     "trx": "<color=yellow>В левом верхнем углу экрана отображаются рекомендации</color>, которые служат подсказками для отпирания ментальных замков. Чтобы добиться успеха, крайне важно следовать этим рекомендациям."
   },
   "tutorial_title_028": {
     "src": "Examination",
     "yax": "Проверка",
+    "nex": "Исследование",
     "trx": "Исследование"
   },
   "tutorial_042": {
     "src": "In Somniums, you can examine <color=yellow>things with names</color>.",
     "yax": "В Somniums вы можете изучать <color=желтый> предметы с названиями</color>.",
+    "nex": "В Сомниумах вы можете исследовать <color=yellow>объекты с названиями</color>.",
     "trx": "В сомниумах можно исследовать <color=yellow>объекты, над которыми размещены названия</color>."
   },
   "tutorial_043": {
     "src": "Start by moving Aiba and bringing her close to \n<color=yellow>anything with a name above it</color> to examine it.",
     "yax": "Начните с того, что подвиньте Айбу и поднесите ее поближе к\n<color=yellow> чему-нибудь, над чем есть название </color>, чтобы рассмотреть это.",
+    "nex": "Начните с перемещения Айбы и подведите ее к\n<color=yellow>любому объекту с названием над ним</color>, чтобы исследовать его.",
     "trx": "Начните с того, чтобы при помощи Айбы подойти к <color=yellow>объекту, над которым отображается название</color>, и рассмотреть его."
   },
   "tutorial_title_029": {
     "src": "Selections",
     "yax": "Выборки",
+    "nex": "Выбор",
     "trx": "Варианты"
   },
   "tutorial_044": {
     "src": "When you examine something, you are given a set of Selections\nthrough which you can <color=yellow>order Aiba</color> to act.",
     "yax": "Когда вы что-то изучаете, вам предоставляется набор вариантов выбора\n, с помощью которых вы можете <color=yellow> приказать Aiba</color> действовать.",
+    "nex": "Когда вы исследуете объект, вам предоставляется набор выборов,\nчерез которые вы можете <color=yellow>приказать Айбе</color> действовать.",
     "trx": "При взаимодействии с объектом появляется набор вариантов, с помощью которых можно <color=yellow>отдать Айбе приказ</color>."
   },
   "tutorial_045": {
     "src": "Now, make a choice to have Aiba try various actions.",
     "yax": "Теперь сделайте выбор, чтобы Aiba попробовала различные действия.",
+    "nex": "Теперь сделайте выбор, чтобы Айба выполнила различные действия.",
     "trx": "Теперь сделайте выбор, чтобы Айба попробовала разные действия."
   },
   "tutorial_title_030": {
     "src": "Depth",
     "yax": "Глубина",
+    "nex": "Глубина",
     "trx": "Глубина"
   },
   "tutorial_046": {
     "src": "Somnium progression can be seen by\nchecking the <color=yellow>Depth</color>.",
     "yax": "Прогрессирование сомниума можно увидеть,\nпроверив глубину <color=yellow></color>.",
+    "nex": "Прогресс в Сомниуме можно отслеживать, \nпроверяя <color=yellow>Глубину</color>.",
     "trx": "Ваш прогресс в сомниуме отображается на шкале <color=yellow>глубины</color>."
   },
   "tutorial_047": {
     "src": "Your action just now slightly increased it.\nThe <color=yellow>Somnium section will end once\nyou reach the lowest depth</color>.",
     "yax": "Ваше действие только что немного увеличило его.\nРаздел <color=yellow>Somnium закончится, как только\nвы достигнете наименьшей глубины</color>.",
+    "nex": "Ваше последнее действие немного увеличило её.\n<color=yellow>Раздел Сомниума закончится, когда вы достигнете самой низкой глубины</color>.",
     "trx": "Последнее ваше действие немного увеличило её. Чтобы завершить сомниум, требуется <color=yellow>достичь максимальной глубины</color>."
   },
   "tutorial_title_031": {
     "src": "TIMIE",
     "yax": "ТАЙМИ",
+    "nex": "ТИМИ",
     "trx": "ТАЙМИ"
   },
   "tutorial_048": {
     "src": "<color=yellow>TIMIE is an item that has an effect on time</color>.\nYou may acquire it after choosing certain actions.",
     "yax": "<color=желтый>ТАЙМИ - это предмет, который влияет на время</color>.\nВы можете приобрести его, выполнив определенные действия.",
+    "nex": "<color=yellow>ТИМИ — это предмет, влияющий на время</color>.\nВы можете получить его после выбора определенных действий.",
     "trx": "<color=yellow>ТАЙМИ — это предмет, который изменяет затрачиваемое время</color>. Его можно получить, выполняя определённые действия."
   },
   "tutorial_049": {
     "src": "TIMIEs <color=yellow>can only be used during Selections</color>, \nand it <color=yellow>reduces the time cost</color> of the action.",
     "yax": "Временные рамки <color=yellow> можно использовать только во время выбора</color>,\nи это <color=yellow>сокращает временные затраты </color> на выполнение действия.",
+    "nex": "ТИМИ <color=yellow>можно использовать только во время Выборов</color>, \nи он <color=yellow>уменьшает затраты времени</color> на действие.",
     "trx": "Тайми <color=yellow>можно использовать только при выборе варианта</color>, тем самым <color=yellow>сократив время</color> на выполнение действия."
   },
   "tutorial_050": {
     "src": "You can <color=yellow>have a maximum of 3</color> TIMIEs.\nAcquiring a TIMIE while already having 3 will discard the oldest one.",
     "yax": "У вас может быть <color=yellow> не более 3</color> таймов.\nПри получении ТАЙМА, когда у вас уже есть 3 ТАЙМА, самый старый из них будет аннулирован.",
+    "nex": "Вы можете иметь <color=yellow>максимум 3</color> ТИМИ.\nПриобретение ТИМИ, когда у вас уже есть 3, приведет к сбросу самого старого.",
     "trx": "Можно <color=yellow>иметь не более 3</color> тайми. Если у вас уже есть 3 тайми и вы получаете новый, самый старый из них будет потерян."
   },
   "tutorial_051": {
     "src": "Although TIMIEs are a finite resource, \nit is best to use them instead of letting them go to waste.",
     "yax": "Хотя время - это ограниченный ресурс,\nлучше всего использовать его, а не тратить впустую.",
+    "nex": "Хотя ТИМИ — это ограниченный ресурс, \nлучше использовать их, чем позволять им пропадать впустую.",
     "trx": "Хотя количество тайми ограничено, зачастую лучше их использовать, чем потерять."
   },
   "tutorial_title_032": {
     "src": "Unlocking Mental Locks",
     "yax": "Отпирание ментальных замков",
+    "nex": "Разблокировка ментальных замков",
     "trx": "Отпирание ментальных замков"
   },
   "tutorial_052": {
     "src": "You <color=yellow>unlocked the first Mental Lock</color>!\nThis means you <color=yellow>fulfilled the first guideline</color>.",
     "yax": "Вы <color=yellow> сняли первую ментальную блокировку</color>!\nЭто означает, что вы <color=yellow> выполнили первое указание</color>.",
+    "nex": "Вы <color=yellow>открыли первый ментальный замок</color>!\nЭто означает, что вы <color=yellow>выполнили первое руководство</color>.",
     "trx": "Вы <color=yellow>открыли первый ментальный замок</color>!\nЭто означает, что вы <color=yellow> выполнили первую рекомендацию</color>."
   },
   "tutorial_053": {
     "src": "However, it seems that <color=yellow>there are more Mental Locks</color> in this world.",
     "yax": "Однако, похоже, что <color=yellow> в этом мире больше ментальных блокировок</color>.",
+    "nex": "Однако, похоже, что <color=yellow>в этом мире есть и другие ментальные замки</color>.",
     "trx": "Однако, похоже, что <color=yellow>в этом мире есть и другие ментальные замки</color>."
   },
   "tutorial_054": {
     "src": "Use the <color=yellow>new guideline</color> as a clue \nto explore the surroundings and unlock all Mental Locks.",
     "yax": "Используйте <color=yellow> новое руководство</color> в качестве подсказки\n, чтобы исследовать окрестности и открыть все ментальные замки.",
+    "nex": "Используйте <color=yellow>новое руководство</color> как подсказку \nдля исследования окружения и открытия всех ментальных замков.",
     "trx": "Используйте <color=yellow>новую рекомендацию</color> как подсказку, чтобы исследовать мир и отпереть все ментальные замки."
   },
   "tutorial_title_033": {
     "src": "Map",
     "yax": "Карта",
+    "nex": "Карта",
     "trx": "Карта"
   },
   "tutorial_055": {
     "src": "<color=yellow>Selecting the Map icon</color> allows you to open <color=yellow>the map of the Somnium</color>.",
     "yax": "<color=yellow>Выбор значка карты</color> позволяет открыть <color=yellow> карту Сомниума</color>.",
+    "nex": "<color=yellow>Выбор значка Карты</color> позволяет открыть <color=yellow>карту Сомниума</color>.",
     "trx": "<color=yellow>Выбрав значок Карта</color>, можно открыть <color=yellow>экран карты сомниума</color>."
   },
   "tutorial_056": {
     "src": "The Map shows <color=yellow>where Aiba is</color>, \nthe <color=yellow>location of things you can examine</color>, and so forth.",
     "yax": "На карте показано <цвет=желтый>, где\nнаходится Айба, <цвет=желтый> расположение объектов, которые вы можете осмотреть, и так далее.",
+    "nex": "Карта показывает <color=yellow>где находится Айба</color>, \n<color=yellow>местоположение предметов, которые можно исследовать</color>, и так далее.",
     "trx": "На карте показано, <color=yellow>где находится Айба</color>, где расположены <color=yellow>доступные для исследования объекты</color> и т.д."
   },
   "tutorial_057": {
     "src": "The map has a useful <color=yellow>Navigation Function</color>.\nIf lost, open the map and <color=yellow>set the navigation to the thing\nyou want to examine</color>.",
     "yax": "На карте есть полезная функция навигации <color=yellow>.\nЕсли вы потерялись, откройте карту и <color=yellow> установите навигацию по объекту\n, который вы хотите изучить</color>.",
+    "nex": "На карте есть полезная <color=yellow>Функция Навигации</color>.\nЕсли вы заблудились, откройте карту и <color=yellow>установите навигацию на предмет, который хотите исследовать</color>.",
     "trx": "Также на экране карты доступна полезная <color=yellow>функция навигации</color>. Если вы заблудились, откройте карту и <color=yellow>установите навигационную отметку на интересующий объект</color>."
   },
   "tutorial_title_034": {
     "src": "Time Limit",
     "yax": "Ограничение по времени",
+    "nex": "Ограничение по времени",
     "trx": "Ограничение по времени"
   },
   "tutorial_058": {
     "src": "You now have <color=yellow>a time limit of 6 minutes</color>.",
     "yax": "Теперь у вас есть <color=желтый> ограничение по времени в 6 минут</color>.",
+    "nex": "Теперь у вас есть <color=yellow>лимит времени в 6 минут</color>.",
     "trx": "Теперь для вас действует <color=yellow>ограничение по времени в 6 минут</color>."
   },
   "tutorial_059": {
     "src": "Time is spent when <color=yellow>Aiba walks</color> or <color=yellow>performs a selected action</color>.",
     "yax": "Время уходит, когда <color=yellow>Айба ходит</color> или <color=yellow> выполняет выбранное действие</color>.",
+    "nex": "Время тратится, когда <color=yellow>Айба идет</color> или <color=yellow>выполняет выбранное действие</color>.",
     "trx": "Время расходуется, когда <color=yellow>Айба двигается</color> или <color=yellow>выполняет выбранное действие</color>."
   },
   "tutorial_060": {
     "src": "Keep an eye on the time you have left \nand try to <color=yellow>unlock all Mental Locks within 360 seconds</color>.",
     "yax": "Следите за оставшимся у вас временем\nи постарайтесь <color=yellow> разблокировать все ментальные блокировки в течение 360 секунд</color>.",
+    "nex": "Следите за оставшимся временем \nи постарайтесь <color=yellow>открыть все ментальные замки за 360 секунд</color>.",
     "trx": "Следите за оставшимся временем и попытайтесь <color=yellow>отпереть все ментальные замки в течение 360 секунд</color>."
   },
   "tutorial_title_035": {
     "src": "Boss Sleep Talking",
     "yax": "Босс разговаривает во сне",
+    "nex": "Разговоры во сне Босса",
     "trx": "Разговор Босса во сне"
   },
   "tutorial_061": {
     "src": "Boss: \"Nnahh... Dream world's... <color=yellow>Hidden eeeyes</color>...? There's always... <color=yellow>3</color>...? Nmngh... Aaall right... I'm gonna make it rain at the host club tonight...\"",
     "yax": "Босс: \"Не-а... Мир грез... <color=yellow> Скрытые глаза</color>...? Они всегда есть... <color=yellow>3</color>...? Ага... Все в порядке... Я собираюсь устроить дождь в клубе \"хозяин\" сегодня вечером...\"",
+    "nex": "Босс: «Нннаах... Мир снов... <color=yellow>Скрытые глаза</color>...? Их всегда... <color=yellow>3</color>...? Нмнгх... Лааадно... Сегодня я устрою настоящий ливень в клубе...»",
     "trx": "Босс: \"Н-н-а-а... Мир снов... <color=yellow>Спрятанные глаза-а-а</color>?.. Их всегда... <color=yellow>3</color>?.. М-м-х-х... Хорошо-о-о... Ох как я зажгу в хост-клубе этим вечером...\""
   },
   "tutorial_title_036": {
     "src": "Key Rule",
     "yax": "Ключевое правило",
+    "nex": "Ключевое правило",
     "trx": "Ключи"
   },
   "tutorial_062": {
     "src": "<color=yellow>Key Rules</color> are the explicitly-stated rules of the Somnium world.",
     "yax": "<color=желтый>Основные правила </color> - это четко сформулированные правила мира Somnium.",
+    "nex": "<color=yellow>Ключевые правила</color> — это явно сформулированные правила мира Сомниума.",
     "trx": "<color=yellow>Ключи</color> — это чёткие правила мира сомниума."
   },
   "tutorial_063": {
     "src": "They start out as secrets when Psyncing begins,\nbut are <color=yellow>revealed as you examine things</color>.",
     "yax": "Они начинаются как секреты, когда начинается псинхронизация,\nно <color=yellow> раскрываются по мере изучения объектов</color>.",
+    "nex": "Сначала они скрыты при начале Псинка,\nно <color=yellow>раскрываются по мере изучения</color>.",
     "trx": "Они скрыты в начале псинхронизации, но <color=yellow>раскрываются по мере исследования различных объектов</color>."
   },
   "tutorial_064": {
     "src": "Key Rules are <color=yellow>major hints</color> that will help you reach\nthe deepest part of the Somnium.\nRefer to them if you're confused about how to progress.",
     "yax": "Ключевыми правилами являются <color=yellow> основные подсказки</color>, которые помогут вам достичь\nсамой глубокой части Сна.\nОбращайтесь к ним, если вы не уверены в том, как продвигаться дальше.",
+    "nex": "Ключевые правила — это <color=yellow>важные подсказки</color>, которые помогут вам добраться\nдо самой глубины Сомниума.\nОбращайтесь к ним, если не понимаете, как продвигаться дальше.",
     "trx": "Ключи — это <color=yellow>важные подсказки</color>, которые помогают проникнуть в самые глубины сомниума. Обращайтесь к ним, если не понимаете, что делать дальше."
   },
   "tutorial_title_037": {
     "src": "Lock Info",
     "yax": "Информация о блокировке",
+    "nex": "Информация о замке",
     "trx": "Информация о замках"
   },
   "tutorial_065": {
     "src": "Here in <color=yellow>Lock Info</color>, \nyou can see information that will help you progress, \nsuch as your Goal, Guidelines, Depth, and Key Rules.",
     "yax": "Здесь, в разделе <color=yellow>Информация о блокировке</color>,\nвы можете увидеть информацию, которая поможет вам продвинуться вперед,\nтакую как ваша цель, рекомендации, глубина и ключевые правила.",
+    "nex": "Здесь, в <color=yellow>Информации о замке</color>,\nвы можете увидеть сведения, которые помогут вам продвигаться,\nтакие как Цель, Руководство, Глубина и Ключевые правила.",
     "trx": "В <color=yellow>информации о замках</color> можно найти информацию, которая поможет продвигаться вперёд, такую как цель, рекомендации, глубину и ключи."
   },
   "tutorial_066": {
     "src": "If you are uncertain about how to progress through a Somnium section, \nLock Info might provide you with hints about what to do next.",
     "yax": "Если вы не уверены в том, как продвигаться по разделу Somnium, \nИнформация о блокировке может подсказать вам, что делать дальше.",
+    "nex": "Если вы не уверены, как продвигаться через секцию Сомниума,\nИнформация о замке может дать вам подсказки о том, что делать дальше.",
     "trx": "Если вы не понимаете, как пройти сомниум, информация о замках может помочь в этом разобраться."
   },
   "tutorial_title_038": {
     "src": "Lock Info",
     "yax": "Информация о блокировке",
+    "nex": "Информация о замке",
     "trx": "Информация о замках"
   },
   "tutorial_067": {
     "src": "Here in <color=yellow>Lock Info</color>, you can see information that will help you progress, \nsuch as your Goal, Guidelines, Depth, and Key Rules.",
     "yax": "Здесь, в разделе <color=yellow>Информация о блокировке</color>, вы можете увидеть информацию, которая поможет вам продвинуться вперед,\nтакую как ваша цель, рекомендации, глубина и ключевые правила.",
+    "nex": "Здесь, в <color=yellow>Информации о замке</color>,\nвы можете увидеть сведения, которые помогут вам продвигаться,\nтакие как Цель, Руководство, Глубина и Ключевые правила.",
     "trx": "В <color=yellow>информации о замках</color> можно найти информацию, которая поможет продвигаться вперёд, такую как цель, рекомендации, глубину и ключи."
   },
   "tutorial_068": {
     "src": "If you are uncertain about how to progress through a Somnium section, \nLock Info might provide you with hints about what to do next.",
     "yax": "Если вы не уверены в том, как продвигаться по разделу Somnium, \nИнформация о блокировке может подсказать вам, что делать дальше.",
+    "nex": "Если вы не уверены, как продвигаться через секцию Сомниума,\nИнформация о замке может дать вам подсказки о том, что делать дальше.",
     "trx": "Если вы не понимаете, как пройти сомниум, информация о замках может помочь в этом разобраться."
   },
   "tutorial_title_039": {
     "src": "Using TIMIEs",
     "yax": "Использование временных интервалов",
+    "nex": "Использование ТИМИ",
     "trx": "Использование ТАЙМИ"
   },
   "tutorial_069": {
     "src": "Use the recently-acquired TIMIE <color=yellow>to reduce time cost,\nthen choose an action.</color>",
     "yax": "Используйте недавно приобретенный TIMIE <color=желтый>, чтобы сократить временные затраты,\nзатем выберите действие.</color>",
+    "nex": "Используйте недавно приобретенный ТИМИ <color=yellow>для снижения затрат времени,\nзатем выберите действие.</color>",
     "trx": "Используйте недавно полученный ТАЙМИ, <color=yellow> чтобы уменьшить расход времени, затем выберите действие.</color>"
   },
   "tutorial_title_040": {
     "src": "Retry",
     "yax": "Повторить попытку",
+    "nex": "Повторить",
     "trx": "Повтор"
   },
   "tutorial_070": {
     "src": "Retrying allows you to <color=yellow>return to a save point</color> \nfrom the time you unlocked a Mental Lock.",
     "yax": "Повторный запуск позволяет вам <color=yellow> вернуться к точке сохранения</color> \nс того момента, как вы сняли мысленную блокировку.",
+    "nex": "Повторная попытка позволяет вам <color=yellow>вернуться к точке сохранения</color> \nс момента открытия ментального замка.",
     "trx": "Повтор позволяет <color=yellow>вернуться к контрольной точке</color>, сохранённой после отпирания ментального замка."
   },
   "tutorial_071": {
     "src": "However, <color=yellow>you are limited to 3 Retries</color>.\nRetrying from the previous save point reduces this by 1, with the cost increasing the farther you return, up to a maximum cost of 3 when Retrying from three save points back.",
     "yax": "Однако <color=yellow>вы можете выполнить только 3 повторные попытки</color>.\nПри повторной попытке с предыдущей точки сохранения это значение уменьшается на 1, при этом стоимость увеличивается по мере дальнейшего возврата, до максимальной стоимости в 3 при повторной попытке с трех точек сохранения обратно.",
+    "nex": "Однако <color=yellow>у вас есть только 3 повторные попытки</color>.\nПовторная попытка с предыдущей точки сохранения уменьшает их количество на 1, при этом стоимость увеличивается с каждым возвратом назад, до максимальной стоимости в 3 при возврате на три точки сохранения назад.",
     "trx": "При этом <color=yellow>доступно только 3 попытки</color>. Повтор с последней контрольной точки уменьшает этот счётчик на 1, но стоимость увеличивается при более дальнем возврате — при возврате на три контрольных точки назад стоимость повтора достигает 3."
   },
   "tutorial_072": {
     "src": "Failing the Psync resets your available Retries.\nIt is recommended to use Retries if you are running out of time.",
     "yax": "При сбое Psync доступные повторные попытки будут сброшены.\nРекомендуется использовать повторные попытки, если у вас мало времени.",
+    "nex": "Провал Псинка сбрасывает доступные повторные попытки.\nРекомендуется использовать повторные попытки, если у вас заканчивается время.",
     "trx": "Если у вас не получится пройти сомниум, счётчик попыток будет сброшен. Рекомендуется использовать повторы, если у вас заканчивается время."
   },
   "tutorial_title_041": {
     "src": "If 360 Seconds Pass...",
     "yax": "Если Пройдет 360 Секунд...",
+    "nex": "Если пройдет 360 секунд...",
     "trx": "Если пройдёт 360 секунд..."
   },
   "tutorial_073": {
     "src": "If <color=yellow>the final action you choose is correct</color>, \nyou <color=yellow>will win even if it takes you past 360 seconds</color>.",
     "yax": "Если <color=yellow> последнее действие, которое вы выбрали, будет правильным</color>,\nвы <color=yellow> выиграете, даже если это займет у вас больше 360 секунд</color>.",
+    "nex": "Если <color=yellow>последнее выбранное вами действие окажется верным</color>,\nвы <color=yellow>победите, даже если это займет больше 360 секунд</color>.",
     "trx": "Если <color=yellow>последнее выбранное действие окажется правильным</color>, вы <color=yellow>выиграете, даже если затраченное время превысит 360 секунд</color>."
   },
   "tutorial_074": {
     "src": "You may still win even if you feel like you are short on time, \nso it might be a good idea to keep on trying until the end.",
     "yax": "Вы все равно можете выиграть, даже если чувствуете, что у вас мало времени,\nпоэтому, возможно, стоит продолжать попытки до конца.",
+    "nex": "Вы все еще можете победить, даже если вам кажется, что времени не хватает,\nпоэтому стоит продолжать попытки до самого конца.",
     "trx": "Вы можете выиграть даже когда вам кажется, что времени не хватает, поэтому не следует отчаиваться до последнего."
   },
   "tutorial_title_042": {
     "src": "Hina's Sleep Talking",
     "yax": "Хина разговаривает во сне",
+    "nex": "Разговоры во сне Хины",
     "trx": "Разговор Хины во сне"
   },
   "tutorial_075": {
     "src": "Hina: \"Zzz... When you <color=yellow>win</color>... <color=yellow>With at least 1 second left</color>...? You <color=yellow>get</color>... Lots of <color=yellow>eeeyes</color>...? Zzz...\nAh. Boss... Hey! Don't—... Ghaghaghaghaghgaaaah!\"",
     "yax": "Хина: \"Ззз... Когда ты <color=yellow> выиграешь</color>... <color=yellow>У тебя останется хотя бы 1 секунда</color>...? Ты <color=yellow> выиграешь</color>... Много <color=yellow> глазастых</color>...? Ззз...\nА. Босс... Эй!” Не надо..... Гхагхагхаггаааа!\"",
+    "nex": "Хина: «Ззз… Когда ты <color=yellow>побеждаешь</color>… <color=yellow>Оставшись с запасом больше 1 секунды</color>… Ты <color=yellow>получаешь</color>… Много <color=yellow>глаз</color>…? Ззз…\nАх. Босс… Эй! Не… Гхагхагхагхааааах!»",
     "trx": "Хина: \"Х-р-р... Если <color=yellow>выиграть</color>... <color=yellow>С запасом хотя бы в 1 секунду</color>?.. Можно <color=yellow>получить</color>... Много <color=yellow>гла-а-а-з</color>?.. Х-р-р... Ах. Босс... Эй! Не надо... Ах-ах-ах-ах-а-а-а-х!\"" //spell-ignore:гла
   },
   "tutorial_title_043": {
     "src": "Negative TIMIE",
     "yax": "Отрицательное ВРЕМЯ",
+    "nex": "Отрицательная ТИМИ",
     "trx": "Негативные тайми"
   },
   "tutorial_076": {
     "src": "There are TIMIEs that have <color=yellow>Negative Effects</color>.",
     "yax": "Существуют периоды, которые имеют <color=yellow>Негативные последствия</color>.",
+    "nex": "Существуют ТИМИ, обладающие <color=yellow>отрицательными эффектами</color>.",
     "trx": "Некоторые тайми могут иметь <color=yellow>негативные эффекты</color>."
   },
   "tutorial_077": {
     "src": "Negative TIMIEs <color=yellow>increase time costs and cannot be avoided</color>, \nso if you happen to acquire them, be mindful of their time increase.",
     "yax": "Отрицательные значения времени <color=yellow> увеличивают временные затраты, и их невозможно избежать</color>,\nпоэтому, если вы их приобретаете, помните об увеличении времени, которое они отнимают.",
+    "nex": "Отрицательные ТИМИ <color=yellow>увеличивают затраты времени и их нельзя избежать</color>, \nпоэтому если вы их получите, помните об увеличении времени.",
     "trx": "Негативные тайми <color=yellow>увеличивают затраченное время и обязательны к использованию</color>, поэтому обращайтесь с ними осторожно."
   },
   "tutorial_title_044": {
     "src": "Navigation Function",
     "yax": "Навигационная функция",
+    "nex": "Функция навигации",
     "trx": "Функция навигации"
   },
   "tutorial_078": {
     "src": "Using the Navigation function <color=yellow>displays the direction \nand distance to the thing you want to investigate</color>, \nstreamlining the exploration process.",
     "yax": "С помощью функции навигации <color=yellow> отображается направление\nи расстояние до объекта, который вы хотите исследовать</color>,\nчто упрощает процесс исследования.",
+    "nex": "Использование функции Навигации <color=yellow>отображает направление \nи расстояние до объекта, который вы хотите исследовать</color>, \nупрощая процесс исследования.",
     "trx": "С помощью функции навигации можно <color=yellow>отобразить направление и расстояние до объекта, который вы желаете изучить</color>, что упрощает процесс исследования."
   },
   "tutorial_079": {
     "src": "Take your cursor to what you want to examine and\nselect Navi to set a marker.",
     "yax": "Наведите курсор на то, что вы хотите изучить, и\nвыберите Navi, чтобы установить маркер.",
+    "nex": "Наведите курсор на то, что хотите изучить, и \nвыберите «Нави», чтобы установить маркер.",
     "trx": "Наведите курсор на то, что вы хотите изучить, и выберите <color=yellow>Нави</color>, чтобы установить маркер." //spell-ignore:Нави
   },
   "tutorial_title_045": {
     "src": "Guide",
     "yax": "Руководство",
+    "nex": "Гид",
     "trx": "Руководство"
   },
   "tutorial_080": {
     "src": "The tutorial can be reviewed at any time\nfrom Menu > File > Guide.",
     "yax": "С учебным пособием можно ознакомиться в любое время\nв меню > Файл > Руководство.",
+    "nex": "Руководство можно просмотреть в любое время\nв меню «Файл» > «Руководство».",
     "trx": "С материалами обучения можно ознакомиться в любое время\nв Меню > Файл > Руководство."
   },
   "tutorial_title_046": {
     "src": "Escape",
     "yax": "Побег",
+    "nex": "Побег",
     "trx": "Побег"
   },
   "tutorial_081": {
     "src": "In Escape sections, the goal is to gather information, \nsolve puzzles, and <color=red>escape from confinement</color>.",
     "yax": "В разделах \"Побег\" цель состоит в том, чтобы собрать информацию,\nрешить головоломки и <color=red> сбежать из заточения</color>.",
+    "nex": "В разделах «Побег» цель — собрать информацию, \nрешить головоломки и <color=red>сбежать из заточения</color>.",
     "trx": "На этапах побега цель состоит в сборе информации,\nрешении головоломок и <color=red>побеге из заточения</color>."
   },
   "tutorial_title_047": {
     "src": "Examination",
     "yax": "Проверка",
+    "nex": "Осмотр",
     "trx": "Исследование"
   },
   "tutorial_082": {
     "src": "In Escape, you can examine <color=red>things with names</color>.",
     "yax": "В Escape вы можете изучать <color=red> объекты с именами</color>.",
+    "nex": "В режиме «Побег» вы можете осматривать <color=red>объекты с названиями</color>.",
     "trx": "Во время побега можно исследовать <color=red>объекты,\nнад которыми размещены названия</color>."
   },
   "tutorial_083": {
     "src": "The names appear <color=red>when you come close to them</color>.\nStart by <color=red>looking around for things you can examine</color>.",
     "yax": "Названия появляются <color=red>, когда вы приближаетесь к ним</color>.\nНачните с <color=red> поиска предметов, которые вы могли бы рассмотреть</color>.",
+    "nex": "Названия появляются <color=red>при приближении к ним</color>.\nНачните с <color=red>осмотра окружения в поисках объектов</color>.",
     "trx": "Названия появляются <color=red>при приближении к ним</color>. Начните\nс <color=red>поиска предметов, которые можно исследовать</color>."
   },
   "tutorial_title_048": {
     "src": "Search",
     "yax": "Поиск",
+    "nex": "Поиск",
     "trx": "Поиск"
   },
   "tutorial_084": {
     "src": "<color=red>Selecting the Search icon</color> focuses on the surroundings, \n<color=red>briefly showing things you can examine (white)</color> \nand <color=red>things you should examine now (yellow)</color>.",
     "yax": "<color=red> При выборе значка поиска</color> фокусируется на окружении,\n<color=red>кратко отображаются объекты, которые вы можете изучить (белый)</color> \nи <color=red>объекты, которые вам следует изучить сейчас (желтый)</color>.",
+    "nex": "<color=red>Выбор значка поиска</color> фокусирует внимание на окружении, \n<color=red>кратко показывая объекты для осмотра (белым)</color> \nи <color=red>объекты, которые следует осмотреть сейчас (желтым)</color>.",
     "trx": "Значок <color=red>Поиск</color> позволяет сфокусироваться на\nокружающей обстановке и осмотреться, <color=red>ненадолго\nподсвечивая объекты, которые доступны для\nисследования (белым)</color> и <color=red>объекты, которые вам\nследует изучить сейчас (жёлтым)</color>."
   },
   "tutorial_085": {
     "src": "It is recommended to use the Search function\nwhen you are unsure what to do next.\n(Not available on Hard difficulty)",
     "yax": "Рекомендуется использовать функцию поиска\n, если вы не уверены, что делать дальше.\n(Недоступно при высокой сложности)",
+    "nex": "Рекомендуется использовать функцию поиска,\nкогда вы не уверены, что делать дальше.\n(Недоступно на сложности «Челлендж»)",
     "trx": "Рекомендуется использовать функцию поиска,\nкогда вы не уверены, что делать дальше.\n(Недоступно при сложности <color=red>Тяжёлая</color>)"
   },
   "tutorial_title_049": {
     "src": "First Person Controls",
     "yax": "Управление от первого лица",
+    "nex": "Управление от первого лица",
     "trx": "Вид от первого лица"
   },
   "tutorial_086": {
     "src": "While in first person, you can move\nthe <color=red>Cursor</color> and the <color=red>Camera</color>.",
     "yax": "При съемке от первого лица вы можете перемещать\n<color=red>курсор</color> и <color=red>камеру</color>.",
+    "nex": "В режиме от первого лица вы можете перемещать\n<color=red>курсор</color> и <color=red>камеру</color>.",
     "trx": "В виде от первого лица можно перемещать\n<color=red>курсор</color> и <color=red>камеру</color>."
   },
   "tutorial_087": {
     "src": "When you examine things that stand out, you are\npresented with the options of <color=red>Selections</color> and <color=red>Look</color>.",
     "yax": "Когда вы рассматриваете то, что выделяется на общем фоне, вам\nпредлагаются варианты выбора <color=red> и <color=red> внешнего вида</color>.",
+    "nex": "При осмотре выделяющихся объектов вам\nпредлагаются варианты <color=red>«Выбрать»</color> и <color=red>«Осмотреть»</color>.",
     "trx": "При изучении предметов, которые бросаются\nв глаза, вам доступен <color=red>выбор</color> вариантов и <color=red>осмотр</color>."
   },
   "tutorial_088": {
     "src": "Selections let you <color=red>make actions</color> or <color=red>use items</color>.\nLook lets you <color=red>examine the spot</color>.",
     "yax": "Выбранные элементы позволяют вам <color=red> выполнять действия</color> или <color=red> использовать предметы</color>.\nФункция \"Взгляд\" позволяет вам <color=red> исследовать место</color>.",
+    "nex": "«Выбрать» позволяет вам <color=red>совершать действия</color> или <color=red>использовать предметы</color>.\n«Осмотреть» позволяет <color=red>изучить место</color>.",
     "trx": "Выбор позволяет <color=red>выполнять действия</color> или <color=red>использовать\nпредметы</color>. Осмотр позволяет <color=red>исследовать объект</color>."
   },
   "tutorial_title_050": {
     "src": "Item Screen",
     "yax": "Экран элемента",
+    "nex": "Экран предметов",
     "trx": "Экран инвентаря"
   },
   "tutorial_089": {
     "src": "This displays the <color=red>items in your possession</color> \nand lets you <color=red>see their details</color>.",
     "yax": "Здесь отображаются <color=red> предметы, находящиеся в вашем распоряжении</color> \nи вы можете <color=red> просмотреть их подробную информацию</color>.",
+    "nex": "Здесь отображаются <color=red>предметы в вашем распоряжении</color> \nи вы можете <color=red>просмотреть их детали</color>.",
     "trx": "На этом экране отображаются <color=red>имеющиеся у вас\nпредметы</color>, и можно <color=red>просмотреть их описание</color>."
   },
   "tutorial_090": {
     "src": "Items set as <color=red>\"In Hand\"</color> are <color=red>currently being held for use</color>.",
     "yax": "Предметы, указанные как <color=red>\"Находящиеся в наличии\", в данный момент <color=red> хранятся для использования</color>.",
+    "nex": "Предметы, установленные как <color=red>«В руке»</color>, <color=red>в настоящее время удерживаются для использования</color>.",
     "trx": "Предмет с обозначением <color=red>\"В руках\"</color> <color=red>доступен для\nиспользования в текущий момент</color>."
   },
   "tutorial_091": {
     "src": "When items are <color=red>set as In Hand</color>, you may be able to\nuse them while <color=red>examining certain places</color>.",
     "yax": "Если предметы <color=red> установлены как в ручную</color>, вы сможете\nиспользовать их при <color=red>осмотре определенных мест</color>.",
+    "nex": "Когда предметы <color=red>установлены как «В руке»</color>, вы можете \nиспользовать их при <color=red>изучении определенных мест</color>.",
     "trx": "Предмет, находящийся <color=red>в руках</color>, можно использовать\nпри <color=red>осмотре определённых объектов</color>."
   },
   "tutorial_title_051": {
     "src": "Combining",
     "yax": "Сочетающий",
+    "nex": "Комбинирование",
     "trx": "Соединение"
   },
   "tutorial_092": {
     "src": "<color=red>Selecting the Combination Mode button</color> \nallows you to potentially <color=red>combine two items</color>.",
     "yax": "<color=red>Выбор кнопки комбинированного режима</color> \nпотенциально позволяет <color=red>комбинировать два элемента</color>.",
+    "nex": "Выбор кнопки <color=red>«Комбинировать предметы»</color> \nпозволяет вам потенциально <color=red>объединить два предмета</color>.",
     "trx": "<color=red>Запустив режим соединения</color>, можно попробовать\n<color=red>соединить два предмета</color>."
   },
   "tutorial_title_052": {
     "src": "Find the Third Eye!",
     "yax": "Найди Третий глаз!",
+    "nex": "Найди Третий Глаз!",
     "trx": "Найдите Третий глаз!"
   },
   "tutorial_093": {
     "src": "The <color=red>Limit Counter</color> is running out. Make good use of\nall your information, items, and ideas to\n<color=red>carve open a third path</color> before it expires!",
     "yax": "Время действия <color=red>лимитного счетчика</color> истекает. Используйте\nвсю имеющуюся у вас информацию, предметы и идеи с пользой, чтобы\n<color=red> проложить третий путь</color>, пока срок его действия не истек!",
+    "nex": "Счетчик <color=red>ограничения по времени</color> истекает. Используйте всю\nинформацию, предметы и идеи, чтобы\n<color=red>проложить третий путь</color>, пока он не истек!",
     "trx": "Запущен <color=red>отсчёт времени</color>. Используйте всю имеющуюся\nу вас информацию, предметы и идеи, чтобы <color=red>найти\nтретий путь</color>, пока время не истекло!"
   },
   "tutorial_title_053": {
     "src": "Switching Characters",
     "yax": "Переключение символов",
+    "nex": "Смена персонажей",
     "trx": "Переключение персонажей"
   },
   "tutorial_094": {
     "src": "You can now <color=red>select the character face icons</color> to\n<color=red>switch between Iris's and Ota's perspectives</color>.",
     "yax": "Теперь вы можете <color=red> выбирать значки лиц персонажей</color>, чтобы\n<color=red> переключаться между ракурсами Айрис и Ота</color>.",
-    "trx": "Теперь вы можете <color=red>выбирать значки с лицами персонажей</color>, чтобы <color=red>переключаться между управлением Айрис и Отой</color>."
+    "nex": "Теперь вы можете <color=red>выбирать значки лиц персонажей</color>, чтобы\n<color=red>переключаться между перспективами Ирис и Оты</color>.",
+    "trx": "Теперь вы можете <color=red>выбирать значки с лицами персонажей</color>, чтобы <color=red>переключаться между видами Айрис и Оты</color>."
   },
   "tutorial_title_054": {
     "src": "Switching Characters",
     "yax": "Переключение символов",
+    "nex": "Смена персонажей",
     "trx": "Переключение персонажей"
   },
   "tutorial_095": {
     "src": "You can now <color=red>switch to Moma's perspective</color>.",
     "yax": "Теперь вы можете <color=red>переключиться на ракурс Moma</color>.",
+    "nex": "Теперь вы можете <color=red>переключиться на перспективу Момы</color>.",
     "trx": "Теперь вы можете <color=red>переключиться на управление Момой</color>."
   },
   "tutorial_title_055": {
     "src": "Info Switch",
     "yax": "Информационный переключатель",
+    "nex": "Смена информации",
     "trx": "Переключатель информации"
   },
   "tutorial_096": {
     "src": "This <color=red>switches information left or right</color>.",
     "yax": "Этот параметр <color=red> переключает информацию влево или вправо</color>.",
+    "nex": "Это <color=red>переключает информацию влево или вправо</color>.",
     "trx": "Он <color=red>переключает информацию влево или вправо</color>."
   },
   "tutorial_title_056": {
     "src": "Map",
     "yax": "Карта",
+    "nex": "Карта",
     "trx": "Карта"
   },
   "tutorial_097": {
     "src": "<color=red>Things you examined</color> are recorded in the map screen.\nConsult the map if you are lost.",
     "yax": "<color=красный>Объекты, которые вы осмотрели</color>, отображаются на экране карты.\nЕсли вы заблудились, сверьтесь с картой.",
+    "nex": "<color=red>Осмотренные предметы</color> записываются на экране карты.\nОбращайтесь к карте, если заблудились.",
     "trx": "<color=red>Изученные объекты</color> помещаются на экран карты.\nСверяйтесь с картой, если вы вдруг заблудились."
   },
   "tutorial_title_057": {
     "src": "Royal Game of Ur Rule 1: Goal",
     "yax": "Королевская игра Ура, Правило 1: Цель",
+    "nex": "Правило 1 королевской игры Ура: Цель",
     "trx": "Царская игра Ура, Правило 1: Цель"
   },
   "tutorial_title_058": {
     "src": "Royal Game of Ur Rule 2: Dice",
     "yax": "Королевская игра в Ур Правило 2: Игра в кости",
+    "nex": "Правило 2 Королевской игры Ур: Кости",
     "trx": "Царская игра Ура, Правило 2: Фишки"
   },
   "tutorial_title_059": {
     "src": "Royal Game of Ur Rule 3: Taking Turns",
     "yax": "Королевская игра в Ур Правило 3: Ходим по очереди",
+    "nex": "Правило 3 Королевской игры Ур: Ходы",
     "trx": "Царская игра Ура, Правило 3: Последовательность хода"
   },
   "tutorial_title_060": {
     "src": "Royal Game of Ur Rule 4: Capturing",
     "yax": "Королевская игра Ура Правило 4: Захват",
+    "nex": "Правило 4 Королевской игры Ур: Взятие",
     "trx": "Царская игра Ура, Правило 4: Захват"
   },
   "tutorial_098": {
     "src": "Your wheel piece follows the <color=red>red route</color>, \nwhile the opponent's wheel piece follows the <color=blue>blue route</color>.\nYou will win if your piece <color=red>makes it to the goal first</color>.",
     "yax": "Ваша фигура на колесе следует по маршруту <color=red> красного цвета,\nв то время как фигура на колесе противника следует по маршруту <color=blue> синего цвета.\nВы выиграете, если ваша фигура <color=red> достигнет цели первой</color>.",
+    "nex": "Ваша фишка движется по <color=red>красному маршруту</color>, \nа фишка противника — по <color=blue>синему</color>.\nВы победите, если ваша фишка <color=red>доберётся до цели первой</color>.",
     "trx": "Ваше колесо следует по <color=red>красной колее</color>, в то время как колесо противника следует по <color=blue>синей колее</color>. Вы выиграете, если ваше колесо <color=red>первым достигнет цели</color>."
   },
   "tutorial_099": {
     "src": "The game starts when you <color=red>select eight \"dice\"</color> \nat the bottom and <color=red>select \"PLAY\"</color>.",
     "yax": "Игра начинается, когда вы <color=red> выбираете восемь \"кубиков\"</color> \nвнизу и <color=red> выбираете \"ИГРАТЬ\"</color>.",
+    "nex": "Игра начинается, когда вы <color=red>выбираете восемь «кубиков»</color> \nвнизу и <color=red>нажимаете «ИГРАТЬ»</color>.",
     "trx": "Игра начнётся, когда вы <color=red>выберете восемь \"костей\"</color> в нижней части поля и <color=red>нажмёте кнопку \"ИГРАТЬ\"</color>."
   },
   "tutorial_100": {
     "src": "The pieces <color=red>move the number of tiles that are on the dice</color>.\nThey <color=red>take turns</color> moving and it is done <color=red>automatically</color>.\n<color=red>You always go first</color>. \nThe turns change each time a dice card is used.",
     "yax": "Фигуры <color=red> перемещают количество фишек, которые находятся на кубиках</color>.\nОни <color=red> перемещаются по очереди</color>, и это происходит <color=red> автоматически</color>.\n<color=red>Вы всегда ходите первым</color>. \nХоды меняются каждый раз, когда используется игральная карта.",
+    "nex": "Фигуры <color=red>перемещаются на количество клеток, указанное на кубиках</color>.\nОни <color=red>ходят по очереди</color>, и это происходит <color=red>автоматически</color>.\n<color=red>Вы всегда ходите первым</color>. \nХоды меняются каждый раз, когда используется карта кубика.",
     "trx": "Колёса <color=red>перемещаются на количество клеток, изображённое на очередной кости</color>. Они <color=red>двигаются поочерёдно</color>, и это происходит <color=red>автоматически</color>. <color=red>Ваше колесо всегда начинает двигаться первым</color>. Кости используются по очереди при каждом последующем перемещении колеса."
   },
   "tutorial_101": {
     "src": "<color=red>Stopping on a tile</color> that <color=red>already has the opponent's piece on it</color> \nlets you capture the piece, <color=red>sending it back to the start</color>.",
     "yax": "<color=red>Остановка на фишке</color>, на которой <color=red> уже есть фигура противника</color> \nпозволяет захватить фигуру и <color=red>отправить ее обратно в исходное положение</color>.",
+    "nex": "<color=red>Остановка на клетке</color>, <color=red>где уже стоит фигура противника</color>, \nпозволяет захватить её, <color=red>отправив обратно на старт</color>.",
     "trx": "Если ваше колесо <color=red>останавливается на клетке</color>, которая <color=red>уже занята колесом противника</color>, оно захватывает вражеское колесо и <color=red>отправляет его в начальное положение</color>."
   },
   "tutorial_title_063": {
     "src": "Rite of the Point: Goal",
     "yax": "Ритуал Точки: Цель",
-    "trx": "☯️Ритуал Точки: Цель"
+    "nex": "Обряд точки: Цель",
+    "trx": "Обряд точки: Цель"
   },
   "tutorial_title_064": {
     "src": "Rite of the Point: Pulling the Corners",
     "yax": "Ритуал точки: Вытягивание углов",
-    "trx": "☯️Ритуал точки: Вытягивание углов"
+    "nex": "Обряд точки: Взятие углов",
+    "trx": "Обряд точки: Вытягивание углов"
   },
   "tutorial_title_065": {
     "src": "Rite of the Point: Rotating the Small Box",
     "yax": "Суть ритуала: Вращение маленькой коробочки",
-    "trx": "☯️Суть ритуала: Вращение маленькой коробочки"
+    "nex": "Обряд точки: Вращение маленькой коробки",
+    "trx": "Обряд точки: Вращение маленькой коробки"
   },
   "tutorial_title_066": {
     "src": "Rite of the Point: If the Order is Wrong",
     "yax": "Суть обряда: если порядок неправильный",
-    "trx": "☯️Суть обряда: если порядок неправильный"
+    "nex": "Обряд точки: Если порядок нарушен",
+    "trx": "Обряд точки: Если порядок неверный"
   },
   "tutorial_104": {
     "src": "The <color=red>rite of the point will be completed</color> \nwhen <color=red>the corners are selected in the correct order</color>.",
     "yax": "Обряд <color=red> точки будет завершен</color> \nкогда <color=red> углы будут выбраны в правильном порядке</color>.",
-    "trx": "☯️Обряд <color=red> точки будет завершён</color> \nкогда <color=red> углы будут выбраны в правильном порядке</color>."
+    "nex": "Ритуал <color=red>точки будет завершен</color>, когда <color=red>углы будут выбраны в правильном порядке</color>.",
+    "trx": "<color=red>Обряд точки будет завершён</color>, когда <color=red>углы будут выбраны в правильном порядке</color>."
   },
   "tutorial_105": {
     "src": "You can <color=red>pull</color> the corners that you <color=red>set the center cursor</color> on.",
     "yax": "Вы можете <color=red> потянуть</color> за углы, на которые вы <color=red> установили центральный курсор</color>.",
-    "trx": "☯️Вы можете <color=red> потянуть</color> за углы, на которые вы <color=red> установили центральный курсор</color>."
+    "nex": "Вы можете <color=red>перетаскивать</color> углы, на которые <color=red>наведен центральный курсор</color>.",
+    "trx": "Вы можете <color=red>вытянуть</color> угол, на который <color=red>указывает центральный курсор</color>."
   },
   "tutorial_106": {
     "src": "The small box can be <color=red>rotated vertically and horizontally</color>.",
     "yax": "Маленькую рамку можно <color=red> поворачивать по вертикали и горизонтали</color>.",
-    "trx": "☯️Маленькую рамку можно <color=red> поворачивать по вертикали и горизонтали</color>."
+    "nex": "Маленький ящик можно <color=red>вращать вертикально и горизонтально</color>.",
+    "trx": "Маленькую коробку можно <color=red>повернуть по вертикали и горизонтали</color>."
   },
   "tutorial_107": {
     "src": "If you fail to pull them in order, the corners will be <color=red>reset</color>, \nand you will have to <color=red>start over</color>.",
     "yax": "Если вам не удастся расположить их по порядку, углы будут <color=red>сброшены</color>,\nи вам придется <color=red> начинать сначала</color>.",
-    "trx": "☯️Если вам не удастся расположить их по порядку, углы будут <color=red>сброшены</color>,\nи вам придётся <color=red> начинать сначала</color>."
+    "nex": "Если вы не сможете вытащить их в правильном порядке, углы будут <color=red>сброшены</color>,\nи вам придётся <color=red>начать заново</color>.",
+    "trx": "Если вы вытянете углы в неверном порядке, они будут <color=red>сброшены</color>, и вам придётся <color=red>начать заново</color>."
   },
   "tutorial_title_067": {
     "src": "Electronic Lock: Goal",
     "yax": "Электронный замок: Цель",
+    "nex": "Электронный замок: Цель",
     "trx": "☯️Электронный замок: Цель"
   },
   "tutorial_title_068": {
     "src": "Electronic Lock: Confirm and Reset",
     "yax": "Электронный замок: Подтверждение и сброс настроек",
+    "nex": "Электронный замок: Подтвердить и сбросить",
     "trx": "☯️Электронный замок: Подтверждение и сброс настроек"
   },
   "tutorial_108": {
     "src": "Enter the correct <color=red>4 digit-number</color> to unlock the lock.",
     "yax": "Введите правильный <color=красный> 4-значный номер</color>, чтобы разблокировать замок.",
+    "nex": "Введите правильный <color=red>4-значный номер</color>, чтобы открыть замок.",
     "trx": "☯️Введите правильный <color=красный> 4-значный номер</color>, чтобы разблокировать замок."
   },
   "tutorial_109": {
     "src": "E Key: Confirm entry.\nC Key: Reset entry.",
     "yax": "Клавиша E: Подтвердите ввод.\nКлавиша C: Сбросьте ввод.",
+    "nex": "Клавиша E: Подтвердить ввод.\nКлавиша C: Сбросить ввод.",
     "trx": "☯️Клавиша E: Подтвердите ввод.\nКлавиша C: Сбросьте ввод."
   },
   "tutorial_title_069": {
     "src": "Electronic Lock: Goal",
     "yax": "Электронный замок: Цель",
+    "nex": "Электронный замок: Цель",
     "trx": "☯️Электронный замок: Цель"
   },
   "tutorial_title_070": {
     "src": "Electronic Lock: Confirm and Reset",
     "yax": "Электронный замок: Подтверждение и сброс настроек",
+    "nex": "Электронный замок: Подтвердить и сбросить",
     "trx": "☯️Электронный замок: Подтверждение и сброс настроек"
   },
   "tutorial_110": {
     "src": "Enter the correct <color=red>6 digit-number</color> to unlock the lock.",
     "yax": "Введите правильный <color=красный> 6-значный номер</color>, чтобы отпереть замок.",
+    "nex": "Введите правильный <color=red>6-значный номер</color>, чтобы открыть замок.",
     "trx": "☯️Введите правильный <color=красный> 6-значный номер</color>, чтобы отпереть замок."
   },
   "tutorial_111": {
     "src": "E Key: Confirm entry.\nC Key: Reset entry.",
     "yax": "Клавиша E: Подтвердите ввод.\nКлавиша C: Сбросьте ввод.",
+    "nex": "Клавиша E: Подтвердить ввод.\nКлавиша C: Сбросить ввод.",
     "trx": "☯️Клавиша E: Подтвердите ввод.\nКлавиша C: Сбросьте ввод."
   },
   "tutorial_title_071": {
     "src": "Electronic Lock: Goal",
     "yax": "Электронный замок: Цель",
+    "nex": "Электронный замок: Цель",
     "trx": "☯️Электронный замок: Цель"
   },
   "tutorial_title_072": {
     "src": "Electronic Lock: Confirm and Reset",
     "yax": "Электронный замок: Подтверждение и сброс настроек",
+    "nex": "Электронный замок: Подтвердить и сбросить",
     "trx": "☯️Электронный замок: Подтверждение и сброс настроек"
   },
   "tutorial_112": {
     "src": "Enter the correct <color=red>3 digit-number</color> to unlock the lock.",
     "yax": "Введите правильный <color=красный> 3-значный номер</color>, чтобы отпереть замок.",
+    "nex": "Введите правильный <color=red>3-значный номер</color>, чтобы открыть замок.",
     "trx": "☯️Введите правильный <color=красный> 3-значный номер</color>, чтобы отпереть замок."
   },
   "tutorial_113": {
     "src": "E Key: Confirm entry.\nC Key: Reset entry.",
     "yax": "Клавиша E: Подтвердите ввод.\nКлавиша C: Сбросьте ввод.",
+    "nex": "Клавиша E: Подтвердить ввод.\nКлавиша C: Сбросить ввод.",
     "trx": "☯️Клавиша E: Подтвердите ввод.\nКлавиша C: Сбросьте ввод."
   },
   "tutorial_title_073": {
     "src": "Electronic Lock: Goal",
     "yax": "Электронный замок: Цель",
+    "nex": "Электронный замок: Цель",
     "trx": "☯️Электронный замок: Цель"
   },
   "tutorial_title_074": {
     "src": "Electronic Lock: Confirm and Reset",
     "yax": "Электронный замок: Подтверждение и сброс настроек",
+    "nex": "Электронный замок: Подтвердить и сбросить",
     "trx": "☯️Электронный замок: Подтверждение и сброс настроек"
   },
   "tutorial_114": {
     "src": "Enter the correct <color=red>5 letters</color> to unlock the lock.",
     "yax": "Введите правильные <color=red>5 букв</color>, чтобы открыть замок.",
+    "nex": "Введите правильные <color=red>5 букв</color>, чтобы снять блокировку.",
     "trx": "☯️Введите правильные <color=red>5 букв</color>, чтобы открыть замок."
   },
   "tutorial_115": {
     "src": "E Key: Confirm entry.\nC Key: Reset entry.",
     "yax": "Клавиша E: Подтвердите ввод.\nКлавиша C: Сбросьте ввод.",
+    "nex": "Клавиша E: Подтвердить ввод.\nКлавиша C: Сбросить ввод.",
     "trx": "☯️Клавиша E: Подтвердите ввод.\nКлавиша C: Сбросьте ввод."
   },
   "tutorial_title_075": {
     "src": "Electronic Lock: Goal",
     "yax": "Электронный замок: Цель",
+    "nex": "Электронный замок: Цель",
     "trx": "☯️Электронный замок: Цель"
   },
   "tutorial_title_076": {
     "src": "Electronic Lock: Confirm and Reset",
     "yax": "Электронный замок: Подтверждение и сброс настроек",
+    "nex": "Электронный замок: Подтвердить и сбросить",
     "trx": "☯️Электронный замок: Подтверждение и сброс настроек"
   },
   "tutorial_116": {
     "src": "Enter the correct <color=red>4 letters</color> to unlock the lock.",
     "yax": "Введите правильные <color=red>4 буквы</color>, чтобы открыть замок.",
+    "nex": "Введите правильные <color=red>4 буквы</color>, чтобы снять блокировку.",
     "trx": "☯️Введите правильные <color=red>4 буквы</color>, чтобы открыть замок."
   },
   "tutorial_117": {
     "src": "E Key: Confirm entry.\nC Key: Reset entry.",
     "yax": "Клавиша E: Подтвердите ввод.\nКлавиша C: Сбросьте ввод.",
+    "nex": "Клавиша E: Подтвердить ввод.\nКлавиша C: Сбросить ввод.",
     "trx": "☯️Клавиша E: Подтвердите ввод.\nКлавиша C: Сбросьте ввод."
   },
   "tutorial_title_077": {
     "src": "Electronic Lock: Goal",
     "yax": "Электронный замок: Цель",
+    "nex": "Электронный замок: Цель",
     "trx": "☯️Электронный замок: Цель"
   },
   "tutorial_title_078": {
     "src": "Electronic Lock: Confirm and Reset",
     "yax": "Электронный замок: Подтверждение и сброс настроек",
+    "nex": "Электронный замок: Подтвердить и сбросить",
     "trx": "☯️Электронный замок: Подтверждение и сброс настроек"
   },
   "tutorial_118": {
     "src": "Enter the correct <color=red>6 letters</color> to unlock the lock.",
     "yax": "Введите правильные <color=red>6 букв</color>, чтобы открыть замок.",
+    "nex": "Введите правильные <color=red>6 букв</color>, чтобы снять блокировку.",
     "trx": "☯️Введите правильные <color=red>6 букв</color>, чтобы открыть замок."
   },
   "tutorial_119": {
     "src": "<color=red>Selecting the handle</color> on the left end <color=red>confirms your entry</color>.\nIf the entry is correct, it will be unlocked.",
     "yax": "<color=red>Выбор маркера</color> в левой части <color=red> подтверждает ваш ввод</color>.\nЕсли ввод правильный, он будет разблокирован.",
+    "nex": "<color=red>Выбор рукоятки</color> в левом конце <color=red>подтверждает ваш ввод</color>.\nЕсли ввод правильный, блокировка будет снята.",
     "trx": "☯️<color=red>Выбор маркера</color> в левой части <color=red> подтверждает ваш ввод</color>.\nЕсли ввод правильный, он будет разблокирован."
   },
   "tutorial_title_079": {
     "src": "Turntable Puzzle Rule 1: Goal",
     "yax": "Правило 1: Цель головоломки с поворотным столом",
+    "nex": "Правило поворотного круга 1: Цель",
     "trx": "☯️Правило 1: Цель головоломки с поворотным столом"
   },
   "tutorial_title_080": {
     "src": "Turntable Puzzle Rule 2: Taking Cars on the Turntable",
     "yax": "Головоломка с поворотным столом Правило 2: Ставим машинки на поворотный стол",
+    "nex": "Правило поворотного круга 2: Помещение вагонов на поворотный круг",
     "trx": "☯️Головоломка с поворотным столом Правило 2: Ставим машинки на поворотный стол"
   },
   "tutorial_title_081": {
     "src": "Turntable Puzzle Rule 3: Sending Cars from the Turntable",
     "yax": "Правило 3: Отправка машинок с поворотного стола",
+    "nex": "Правило поворотного круга 3: Отправка вагонов с поворотного круга",
     "trx": "☯️Правило 3: Отправка машинок с поворотного стола"
   },
   "tutorial_title_082": {
     "src": "Turntable Puzzle Rule 4: Step Counter",
     "yax": "Правило 4 головоломки с поворотным столом: Счетчик шагов",
+    "nex": "Правило поворотного круга 4: Счетчик шагов",
     "trx": "☯️Правило 4 головоломки с поворотным столом: Счётчик шагов"
   },
   "tutorial_120": {
     "src": "You have to <color=red>arrange</color> the <color=red>differently colored</color> train cars.",
     "yax": "Вам нужно <color=red> расставить </color> вагоны поезда <color=red> разного цвета.",
+    "nex": "Вам нужно <color=red>расставить</color> <color=red>разноцветные</color> вагоны.",
     "trx": "☯️Вам нужно <color=red> расставить </color> вагоны поезда <color=red> разного цвета."
   },
   "tutorial_121": {
     "src": "The <color=red>railway turntable in the middle can be rotated left or right</color>. \nWhen it is connected to the rails extending into 8 directions, \n<color=red>up to 2 cars</color> from those rails can be taken onto the turntable.",
     "yax": "Железнодорожную поворотную платформу <color=red>, расположенную посередине, можно поворачивать влево или вправо. \nКогда она подсоединена к рельсам, проходящим в 8 направлениях,\n<color=red> на поворотную платформу можно поставить до 2 вагонов</color> с этих рельсов.",
+    "nex": "Вращающаяся платформа <color=red>посередине может вращаться влево или вправо</color>. \nКогда она соединена с рельсами, ведущими в 8 направлениях, \n<color=red>до 2 вагонов</color> с этих рельсов могут быть помещены на платформу.",
     "trx": "☯️Железнодорожную поворотную платформу <color=red>, расположенную посередине, можно поворачивать влево или вправо. \nКогда она подсоединена к рельсам, проходящим в 8 направлениях,\n<color=red> на поворотную платформу можно поставить до 2 вагонов</color> с этих рельсов."
   },
   "tutorial_122": {
     "src": "The cars on the turntable can be <color=red>sent to other rails</color>.\nHowever, once a rail is full of cars, it cannot accept any more.",
     "yax": "Вагоны на поворотной платформе могут быть <color=red> отправлены на другие рельсы</color>.\nОднако, как только рельс заполняется вагонами, он больше не может их принимать.",
+    "nex": "Вагоны на платформе могут быть <color=red>отправлены на другие рельсы</color>. \nОднако, как только рельсы заполнены вагонами, они больше не могут принимать новые.",
     "trx": "☯️Вагоны на поворотной платформе могут быть <color=red> отправлены на другие рельсы</color>.\nОднако, как только рельс заполняется вагонами, он больше не может их принимать."
   },
   "tutorial_123": {
     "src": "Whenever you <color=red>Send</color> a car, \nthe step counter <color=red>goes down by 1</color>.\nIf the step counter <color=red>drops to 0, you fail</color>.",
     "yax": "Всякий раз, когда вы <color=red> отправляете</color> автомобиль,\nсчетчик шагов <color=red> уменьшается на 1</color>.\nЕсли счетчик шагов <color=red> падает до 0, вы терпите неудачу</color>.",
+    "nex": "Каждый раз, когда вы <color=red>отправляете</color> вагон, \nсчетчик шагов <color=red>уменьшается на 1</color>. \nЕсли счетчик шагов <color=red>достигает 0, вы проигрываете</color>.",
     "trx": "☯️Всякий раз, когда вы <color=red> отправляете</color> автомобиль,\nсчётчик шагов <color=red> уменьшается на 1</color>.\nЕсли счётчик шагов <color=red> падает до 0, вы терпите неудачу</color>."
   },
   "tutorial_title_084": {
     "src": "Progress",
     "yax": "Прогресс",
+    "nex": "Прогресс",
     "trx": "Прогресс"
   },
   "tutorial_125": {
     "src": "As you solve Escape sections,  the gauge below\nshows your <color=red>current progress</color>.\nWhen the gauge <color=red>reaches the right side, you win</color>.",
     "yax": "По мере того, как вы решаете задачи по эвакуации, индикатор ниже\nпоказывает ваш <color=red> текущий прогресс</color>.\nКогда индикатор <color=red> достигает нужной точки, вы выигрываете</color>.",
+    "nex": "По мере прохождения секций «Побег» шкала внизу\nпоказывает ваш <color=red>текущий прогресс</color>.\nКогда шкала <color=red>достигнет правой стороны, вы победите</color>.",
     "trx": "По мере прохождения побега расположенный внизу\nиндикатор показывает ваш <color=red>текущий прогресс</color>.\nКогда индикатор <color=red>достигнет правой части экрана,\nпобег будет завершён</color>."
   }
 }

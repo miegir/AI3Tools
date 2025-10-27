@@ -1,5 +1,5 @@
 EN: COMPLETED
-RU: ?
+RU: гюбепьемн
 
 TAGS:
-  [untranslated]
+  []

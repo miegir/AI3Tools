@@ -2,66 +2,79 @@
   "bonusmenu_top_message_001": {
     "src": "CHAPTER 2: Person of Interest I A1",
     "yax": "ГЛАВА 2. Заинтересованное лицо I A1",
+    "nex": "ГЛАВА 2: Подозрительный тип I A1",
     "trx": "ГЛАВА 2. Фигурант I A1"
   },
   "bonusmenu_top_message_002": {
     "src": "CHAPTER 2: Person of Interest I A2",
     "yax": "ГЛАВА 2. Лицо, представляющее интерес, I A2",
+    "nex": "ГЛАВА 2: Подозрительный тип I A2",
     "trx": "ГЛАВА 2. Фигурант I A2"
   },
   "bonusmenu_top_message_003": {
     "src": "CHAPTER 2: Person of Interest I B1",
     "yax": "ГЛАВА 2. Лицо, представляющее интерес, I B1",
+    "nex": "ГЛАВА 2: Подозрительный тип I B1",
     "trx": "ГЛАВА 2. Фигурант I B1"
   },
   "bonusmenu_top_message_004": {
     "src": "CHAPTER 2: Person of Interest I B2",
     "yax": "ГЛАВА 2. Лицо, представляющее интерес, I B2",
+    "nex": "ГЛАВА 2: Подозрительный тип I B2",
     "trx": "ГЛАВА 2. Фигурант I B2"
   },
   "bonusmenu_top_message_005": {
     "src": "CHAPTER 3: Person of Interest I A1",
     "yax": "ГЛАВА 3. Заинтересованное лицо I A1",
+    "nex": "ГЛАВА 3: Подозрительный тип I A1",
     "trx": "ГЛАВА 3. Фигурант I A1"
   },
   "bonusmenu_top_message_006": {
     "src": "CHAPTER 3: Person of Interest I A2",
     "yax": "ГЛАВА 3. Лицо, представляющее интерес, I A2",
+    "nex": "ГЛАВА 3: Подозрительный тип I A2",
     "trx": "ГЛАВА 3. Фигурант I A2"
   },
   "bonusmenu_top_message_007": {
     "src": "CHAPTER 3: Person of Interest I B1",
     "yax": "ГЛАВА 3. Лицо, представляющее интерес, I B1",
+    "nex": "ГЛАВА 3: Подозрительный тип I B1",
     "trx": "ГЛАВА 3. Фигурант I B1"
   },
   "bonusmenu_top_message_008": {
     "src": "CHAPTER 3: Person of Interest I B2",
     "yax": "ГЛАВА 3. Лицо, представляющее интерес, I B2",
+    "nex": "ГЛАВА 3: Подозрительный тип I B2",
     "trx": "ГЛАВА 3. Фигурант I B2"
   },
   "bonusmenu_top_message_009": {
     "src": "CHAPTER 5: Person of Interest J A1",
     "yax": "ГЛАВА 5. Заинтересованное лицо J A1",
+    "nex": "ГЛАВА 5: Подозрительный тип J A1",
     "trx": "ГЛАВА 5. Фигурант J A1"
   },
   "bonusmenu_top_message_010": {
     "src": "CHAPTER 5: Person of Interest J A2",
     "yax": "ГЛАВА 5. Заинтересованное лицо J A2",
+    "nex": "ГЛАВА 5: Подозрительный тип J A2",
     "trx": "ГЛАВА 5. Фигурант J A2"
   },
   "bonusmenu_top_message_011": {
     "src": "CHAPTER 5: Person of Interest J B1",
     "yax": "ГЛАВА 5. Заинтересованное лицо J B1",
+    "nex": "ГЛАВА 5: Подозрительный тип J B1",
     "trx": "ГЛАВА 5. Фигурант J B1"
   },
   "bonusmenu_top_message_012": {
     "src": "CHAPTER 5: Person of Interest J B2",
     "yax": "ГЛАВА 5: Заинтересованное лицо J B2",
+    "nex": "ГЛАВА 5: Подозрительный тип J B2",
     "trx": "ГЛАВА 5: Фигурант J B2"
   },
   "bonusmenu_top_message_013": {
     "src": "Dream Album Complete!",
     "yax": "Альбом мечты завершен!",
+    "nex": "Альбом снов завершен!",
     "trx": "Альбом сновидений завершён!"
   }
 }

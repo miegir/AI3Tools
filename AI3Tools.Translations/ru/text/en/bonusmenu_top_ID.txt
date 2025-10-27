@@ -2,116 +2,139 @@
   "bonusmenu_top_message_001": {
     "src": "Dream Album",
     "yax": "Альбом мечты",
+    "nex": "Альбом снов",
     "trx": "<size=80%>Альбом сновидений"
   },
   "bonusmenu_top_message_002": {
     "src": "Dances",
     "yax": "Танцы",
+    "nex": "Танцы",
     "trx": "Танцы"
   },
   "bonusmenu_top_message_003": {
     "src": "Novels",
     "yax": "Романы",
+    "nex": "Романы",
     "trx": "Новеллы"
   },
   "bonusmenu_top_message_004": {
     "src": "Alternate Alternate End",
     "yax": "Альтернативный Конец",
+    "nex": "Альтернативная альтернативная концовка",
     "trx": "Альт-альт-развязки"
   },
   "bonusmenu_top_message_013": {
     "src": "???",
     "yax": "???",
+    "nex": "???",
     "trx": null
   },
   "bonusmenu_kakugo_l_001": {
     "src": "???",
     "yax": "???",
+    "nex": "???",
     "trx": null
   },
   "bonusmenu_top_message_005": {
     "src": "Eyeballs Owned:",
     "yax": "Принадлежащие глазным яблокам:",
+    "nex": "Глаза в наличии:",
     "trx": "Доступно глаз:"
   },
   "bonusmenu_top_message_006": {
     "src": "Unrevealed",
     "yax": "Нераскрытый",
+    "nex": "Нераскрыто",
     "trx": "Заблокировано"
   },
   "bonusmenu_top_message_007": {
     "src": "Eyeballs Needed:",
     "yax": "Нужны глазные яблоки:",
+    "nex": "Глаза нужны:",
     "trx": "Требуется глаз:"
   },
   "bonusmenu_top_message_008": {
     "src": "Bought",
     "yax": "Купил",
+    "nex": "Куплено",
     "trx": "Приобретено"
   },
   "bonusmenu_top_operationguide_001": {
     "src": "Buy",
     "yax": "Купить",
+    "nex": "Купить",
     "trx": "Приобрести"
   },
   "bonusmenu_top_message_009": {
     "src": "Enlarge",
     "yax": "Увеличивать",
+    "nex": "Увеличить",
     "trx": "Увеличить"
   },
   "bonusmenu_top_message_010": {
     "src": "Dance",
     "yax": "Танец",
+    "nex": "Танец",
     "trx": "Танец"
   },
   "bonusmenu_top_message_011": {
     "src": "Read",
     "yax": "Прочитай",
+    "nex": "Читать",
     "trx": "Прочитать"
   },
   "bonusmenu_top_message_012": {
     "src": "Watch",
     "yax": "Часы",
+    "nex": "Смотреть",
     "trx": "Смотреть"
   },
   "bonusmenu_caption_001": {
     "src": "BONUS",
     "yax": "бонус",
+    "nex": "БОНУС",
     "trx": "Бонус"
   },
   "bonusmenu_other_message_window_001": {
     "src": "Not enough eyeballs",
     "yax": "Не хватает глазных яблок",
+    "nex": "Недостаточно глаз",
     "trx": "Не хватает глаз"
   },
   "bonusmenu_other_message_window_003": {
     "src": "Cost: ",
     "yax": "Стоимость:",
+    "nex": "Стоимость: ",
     "trx": "Стоимость: "
   },
   "bonusmenu_other_message_window_004": {
     "src": "Buy?",
     "yax": "Покупать?",
+    "nex": "Купить?",
     "trx": "Приобрести?"
   },
   "bonusmenu_other_message_window_005": {
     "src": "Cannot buy unrevealed content.\nProceed through the story to reveal this.",
     "yax": "Нельзя покупать нераскрытый контент.\nПрочитайте историю, чтобы узнать об этом.",
+    "nex": "Невозможно купить нераскрытый контент.\nПродвигайтесь по сюжету, чтобы раскрыть это.",
     "trx": "Нельзя приобрести заблокированный контент.\nПродолжайте проходить игру, чтобы разблокировать его."
   },
   "bonusmenu_other_message_window_006": {
     "src": "Cannot buy unrevealed content.\nEither complete a Somnium with at least 1 second or more remaining, or find all hidden items to reveal this.",
     "yax": "Невозможно купить нераскрытый контент.\nЛибо завершите Сомниум, имея в запасе не менее 1 секунды, либо найдите все спрятанные предметы, чтобы раскрыть это.",
+    "nex": "Невозможно купить нераскрытый контент.\nЗавершите Сомниум, оставив не менее 1 секунды, или найдите все скрытые предметы, чтобы раскрыть это.",
     "trx": "Нельзя приобрести заблокированный контент.\nЗавершите сомниум с запасом не менее 1 секунды, либо найдите все спрятанные предметы, чтобы разблокировать его."
   },
   "bonusmenu_top_operationguide_002": {
     "src": "Switch Entry",
     "yax": "Ввод переключателя",
+    "nex": "Переключить запись",
     "trx": "Выбор элемента"
   },
   "bonusmenu_top_operationguide_003": {
     "src": "BONUS Hint",
     "yax": "БОНУСНАЯ подсказка",
+    "nex": "БОНУСНАЯ подсказка",
     "trx": "БОНУСЫ: обучение"
   }
 }

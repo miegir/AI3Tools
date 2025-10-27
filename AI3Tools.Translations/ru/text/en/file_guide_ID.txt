@@ -2,226 +2,271 @@
   "file_guide_001": {
     "src": "[Objective]\nInvestigations are sections of the game focused on questioning and examination.\n<color=red>The story progresses as you investigate people or objects</color>.\nIn these sections, you can move the <color=red>Cursor</color> and <color=red>Camera</color> freely.\nLook around and investigate things by taking your cursor to <color=red>whatever stands out</color>.\n\n[Selection]\nWhen inspecting a person, 《Selections》 and 《Look》 will be displayed. \nChoose a talking point from the 《Selection》 to talk to that person. \n\n[Look]\nSelecting《Look》 allows you to <color=red>observe the target</color>.",
     "yax": "[Цель]\nРасследования - это разделы игры, в которых основное внимание уделяется допросам и экспертизе.\n<color=red> Сюжет развивается по мере того, как вы исследуете людей или объекты</color>.\nВ этих разделах вы можете свободно перемещать <color=red>курсор</color> и <color=red>камеру</color>.\nПосмотрите вокруг и изучите обстановку, наведя курсор на <color=red> все, что выделяется</color>.\n\n[Выбор]\nПри осмотре человека, 《подборки》 и 《выглядеть》 будет отображаться. \nВыбрать подходящую тему для разговора от 《выбор》 поговорить с этим человеком. \n\n[Смотреть]\nВыбрав《выглядеть》 позволяет <цвет=красный>обратите внимание на цель</цвет>.",
+    "nex": "[Цель]\nРасследования — это разделы игры, посвященные допросам и осмотру.\n<color=red>Сюжет продвигается по мере того, как вы расследуете людей или объекты</color>.\nВ этих разделах вы можете свободно перемещать <color=red>Курсор</color> и <color=red>Камеру</color>.\nОсматривайтесь и исследуйте предметы, наведя курсор на <color=red>все, что выделяется</color>.\n\n[Выбор]\nПри осмотре человека будут отображаться «Выбор» и «Осмотреть».\nВыберите тему для разговора из «Выбора», чтобы поговорить с этим человеком.\n\n[Осмотреть]\nВыбор «Осмотреть» позволяет <color=red>изучить цель</color>.",
     "trx": "[Цель]\nРасследование — это этап игры, ориентированный на опросы и осмотр. <color=red>Сюжет развивается при взаимодействии с персонажами и объектами</color>. На этом этапе можно свободно перемещать <color=red>курсор</color> и <color=red>камеру</color>. Осматривайтесь и изучайте предметы, наводя курсор на <color=red>всё, что бросается в глаза</color>.\n\n[Выбор]\nПри взаимодействии с персонажем будут доступны 《Варианты》 и 《Осмотр》. Выберите тему из списка вариантов, чтобы поговорить с персонажем.\n\n[Осмотр]\nВыберите 《Осмотр》, чтобы <color=red>рассмотреть цель</color>."
   },
   "file_guide_002": {
     "src": "[Log]\nSelecting Log at the bottom-right of the screen\nallows you to <color=red>see the conversation log</color>.\n\n[Map]\nWhen you are able to move locations, a 《Map》 icon appears at the bottom-right of the screen.\nSelect 《Map》 to open the map and choose your destination to move.",
     "yax": "[Журнал]\nВыбрав пункт \"Журнал\" в правом нижнем углу экрана\n, вы сможете <цвет=красный> просмотреть журнал разговоров.\n\n[Карта]\nКогда вы сможете перемещать местоположения, в правом нижнем углу экрана появится значок \"Карта\".\nВыберите \"Карта\", чтобы открыть карту и выбрать пункт назначения для перемещения.",
+    "nex": "[Журнал]\nВыбор «Журнал» в правом нижнем углу экрана\nпозволяет <color=red>просмотреть журнал разговоров</color>.\n\n[Карта]\nКогда вы сможете перемещаться между локациями, в правом нижнем углу экрана появится значок 《Карта》.\nВыберите 《Карта», чтобы открыть карту и выбрать пункт назначения для перемещения.",
     "trx": "[Журнал]\nВыбрав значок 《Журнал》 в правом нижнем углу экрана, можно <color=red>просмотреть журнал разговоров</color>.\n\n[Карта]\nЕсли доступно перемещение в другую область, в правом нижнем углу экрана появляется значок 《Карта》. Используйте его, чтобы открыть карту и выбрать пункт назначения."
   },
   "file_guide_003": {
     "src": "[Aiba's Special Modes]\nDuring the story, you can borrow Aiba's aid to <color=red>gather info using Special Senses</color>.\nThe special modes you can use change depending on the situation.\n\n[Aiba's Trivia]\nDuring investigations, you may notice Aiba's <color=red>Trivia</color> or <color=red>Appendix entries</color> appear at the top of the screen.\nThis is <color=red>information meant to provide a higher level of immersion into the story</color>.\nNot reading it will have no effect on game progression.",
     "yax": "[Специальные режимы Aiba]\nПо ходу повествования вы можете воспользоваться помощью Aiba, чтобы <color=red> собирать информацию с помощью специальных органов чувств.\nСпециальные режимы, которые вы можете использовать, меняются в зависимости от ситуации.\n\n[Мелочи Aiba]\nВо время проведения расследований вы можете заметить, что в верхней части экрана появляются <color=red> заметки Aiba </color> или <color=red> приложения</color>.\nЭто <color=red>информация, предназначенная для более глубокого погружения в сюжет</color>.\nЕсли вы не прочтете ее, это никак не повлияет на ход игры.",
+    "nex": "[Особые режимы Айбы]\nВо время истории вы можете воспользоваться помощью Айбы, чтобы <color=red>собирать информацию с помощью особых чувств</color>.\nОсобые режимы, которые вы можете использовать, меняются в зависимости от ситуации.\n\n[Интересные факты от Айбы]\nВо время расследований вы можете заметить, что в верхней части экрана появляются <color=red>интересные факты</color> или <color=red>записи из приложения</color> от Айбы.\nЭто <color=red>информация, призванная повысить уровень погружения в историю</color>.\nНечтение её не повлияет на ход игры.",
     "trx": "[Специальные режимы Айбы]\nВо время игры можно задействовать возможности Айбы, чтобы <color=red>собрать информацию с помощью специальных режимов</color>. Типы доступных режимов зависят от конкретной ситуации.\n\n[Факты Айбы]\nВо время расследования в верхней части экрана будут появляться <color=red>факты</color> или <color=red>приложения</color> от Айбы. Эта информация предназначена для <color=red>более глубокого погружения в историю</color>. Нет необходимости читать эту информацию для продвижения по сюжету."
   },
   "file_guide_004": {
     "src": "[Wink Psync]\n《Wink Psync》 is a simplified Psync.\nIt analyzes the target's brain waves, briefly enabling you to <color=red>see vague glimpses of their dreams</color>.\nHowever, the dreams are simplified as well, so the information gained will not be as detailed as that from a Psync machine.",
     "yax": "[Wink Psync]\n\"Wink Psync\" - это упрощенная функция синхронизации данных.\nОна анализирует мозговые волны объекта, позволяя вам на короткое время <color=red> увидеть смутные отблески его снов</color>.\nОднако сны также упрощены, поэтому получаемая информация не будет такой подробной, как от компьютера Psync.",
+    "nex": "[Подмигивающий Псинк]\n«Подмигивающий Псинк» — это упрощённый Псинк.\nОн анализирует мозговые волны цели, ненадолго позволяя вам <color=red>увидеть смутные проблески её снов</color>.\nОднако сны также упрощены, поэтому полученная информация не будет такой подробной, как при использовании машины «Псинк».",
     "trx": "[Винк-псинк]\nВинк-псинк — это упрощённая версия псинхронизации. Она анализирует мозговые волны субъекта, позволяя вам на короткое время <color=red>увидеть смутные обрывки его снов</color>. Однако структура этих снов упрощена, поэтому полученная информация не будет такой подробной, как при использовании псинк-машины."
   },
   "file_guide_005": {
     "src": "[File]\nThis is where you can check things like <color=red>the game's terminology</color> and <color=red>character details</color>.\nAdditional information is added as the game progresses.\n\n[Flowchart]\nThis is where you can check the <color=red>flow of the story</color> and <color=red>its summary</color>.\nAdditional information is added as you progress through the chapters.\nSelecting a chapter lets you <color=red>replay the story from a point of your choosing</color>. <color=red>The story is saved at the furthest point</color>, so replaying previous scenes will not undo your progress.",
     "yax": "[Файл]\nЗдесь вы можете ознакомиться с такими вещами, как <color=red> терминология игры</color> и <color=red> сведения о персонаже</color>.\nДополнительная информация добавляется по ходу игры.\n\n[Блок-схема]\nЗдесь вы можете ознакомиться с <color=red> ходом рассказа</color> и <color=red> его кратким изложением</color>.\nДополнительная информация добавляется по мере прохождения глав.\nВыбор главы позволяет вам <color=red> воспроизвести историю с выбранной вами точки</color>. <color=red> История сохраняется в самой удаленной точке</color>, поэтому повторение предыдущих сцен не приведет к отмене вашего прогресса.",
+    "nex": "[Файл]\nЗдесь вы можете проверить <color=red>терминологию игры</color> и <color=red>сведения о персонажах</color>.\nДополнительная информация будет добавляться по мере прохождения игры.\n\n[Схема]\nЗдесь вы можете проверить <color=red>сюжетную линию</color> и <color=red>её краткое содержание</color>.\nДополнительная информация будет добавляться по мере прохождения глав.\nВыбор главы позволяет <color=red>переиграть историю с выбранного момента</color>. <color=red>Прогресс сохраняется на самом дальнем пройденном этапе</color>, поэтому повторное прохождение предыдущих сцен не отменит ваш прогресс.",
     "trx": "[Файл]\nЗдесь можно ознакомиться с такой информацией, как <color=red>игровые термины</color> и <color=red>сведения о персонажах</color>. Дополнительная информация добавляется по ходу игры.\n\n[Хронология]\nЗдесь можно ознакомиться с <color=red>этапами истории</color> и её <color=red>кратким содержанием</color>. Дополнительная информация добавляется по мере прохождения глав. Выбор главы позволяет <color=red>перейти к выбранной точке истории</color>. <color=red>История сохраняется в самой дальней точке</color>, поэтому повторение предыдущих сцен не уничтожит ваш прогресс."
   },
   "file_guide_006": {
     "src": "[Evaluation]\nThis is where you can see your achievements.\nDuring the story, <color=red>fulfilling certain conditions will unlock achievements</color> and raise your rank.\nIncreasing rank <color=red>rewards you with Eyes</color>.\n\n[Save]\nThis game has an <color=red>autosave function</color>, but here, you can <color=red>save at a point of your choosing</color>.\n\n[Top Menu]\nIf you want to close the game, <color=red>use Top Menu to return to the title screen</color>.",
     "yax": "[Оценка]\nЗдесь вы можете увидеть свои достижения.\nВо время прохождения истории <color=red> выполнение определенных условий разблокирует достижения</color> и повысит ваш ранг.\nПовышение ранга <color=red> вознаграждается глазами</color>.\n\n[Сохранить]\nВ этой игре есть функция <color=red>автосохранения, но здесь вы можете <color=red> сохранить в выбранном вами месте.\n\n[Верхнее меню]\nЕсли вы хотите закрыть игру, <color=red> используйте верхнее меню, чтобы вернуться к главному экрану</color>.",
+    "nex": "[Оценка]\nЗдесь вы можете увидеть свои достижения.\nПо ходу истории <color=red>выполнение определённых условий разблокирует достижения</color> и повысит ваш ранг.\nПовышение ранга <color=red>вознаграждается Глазами</color>.\n\n[Сохранение]\nВ этой игре есть <color=red>функция автосохранения</color>, но здесь вы можете <color=red>сохраниться в выбранной вами точке</color>.\n\n[Главное меню]\nЕсли вы хотите закрыть игру, <color=red>используйте Главное меню, чтобы вернуться на экран названия</color>.",
     "trx": "[Эффективность]\nЗдесь отображаются ваши достижения. При прохождении игры <color=red>выполнение определённых условий разблокирует достижения</color> и может повысить ваш ранг. Повышение ранга <color=red>вознаграждается глазами</color>.\n\n[Сохранение]\nВ этой игре есть функция <color=red>автосохранения</color>, но также можно сохранить игру в любой момент.\n\n[Главное меню]\nЕсли вы хотите закрыть игру, <color=red>используйте пункт \"Главное меню\", чтобы вернуться к начальному экрану</color>."
   },
   "file_guide_007": {
     "src": "[Bonus Menu]\nHere, you can spend <color=red>Eyes</color>, to unlock additional content.\nAdditional content is added as you progress through the story.\n\n[Acquiring Eyes]\n・While in Somnium sections, <color=red>select choices you've yet to make</color>.\n・While in Somnium sections, <color=red>finish with at least 1 second left</color>.\n・While in Somnium sections, <color=red>discover hidden items</color>.\n・<color=red>Raise your rank (complete achievements)</color> for Evaluation.",
     "yax": "[Бонусное меню]\nЗдесь вы можете потратить <color=red>на глаза, чтобы разблокировать дополнительный контент.\nДополнительный контент добавляется по мере прохождения истории.\n\n[Приобретая глаза]\n・Находясь в разделах Somnium, <color=red>выберите варианты, которые вам еще предстоит сделать</color>.\n・Находясь в разделах Somnium, <color=red>завершите, оставив как минимум 1 секунду</color>.\n・Находясь в разделах Somnium, <color=red>находите скрытые предметы</color>.\n・<color=red>Повышайте свой ранг (выполняйте достижения)</color> для оценки.",
+    "nex": "[Бонусное меню]\nЗдесь вы можете потратить <color=red>Глаза</color>, чтобы разблокировать дополнительный контент.\nДополнительный контент добавляется по мере вашего продвижения по сюжету.\n\n[Получение Глаз]\n・Находясь в секциях Сомниума, <color=red>выбирайте варианты, которые вы еще не делали</color>.\n・Находясь в секциях Сомниума, <color=red>завершайте с оставшейся хотя бы 1 секундой</color>.\n・Находясь в секциях Сомниума, <color=red>находите скрытые предметы</color>.\n・<color=red>Повышайте свой ранг (выполняйте достижения)</color> для Оценки.",
     "trx": "[Бонусы]\nВ этом разделе можно потратить собранные <color=red>глаза</color>, чтобы разблокировать дополнительный контент. Доступный дополнительный контент добавляется по мере прохождения истории.\n\n[Как добыть глаза]\n・Находясь в сомниумах, <color=red>выбирайте ранее не выбранные варианты</color>.\n・Находясь в сомниумах, <color=red>завершайте их с запасом не менее 1 секунды</color>.\n・Находясь в сомниумах, <color=red>ищите спрятанные глаза</color>.\n・<color=red>Повышайте свой ранг (получайте достижения)</color> в разделе эффективности."
   },
   "file_guide_008": {
     "src": "[Unlimited Psync]\nAfter you finish a Somnium section once, you can use the Flowchart to select <color=red>Unlimited Psync, which has no time limit</color>.",
     "yax": "[Неограниченная Psync-синхронизация]\nПосле того, как вы закончите раздел Somnium, вы можете использовать блок-схему, чтобы выбрать <color=red> Неограниченную Psync-синхронизацию, которая не имеет ограничений по времени</color>.",
+    "nex": "[Неограниченный Псинк]\nПосле того как вы пройдете секцию Сомниума один раз, вы сможете использовать Блок-схему, чтобы выбрать <color=red>Неограниченный Псинк, который не имеет временного лимита</color>.",
     "trx": "[Сомниум без ограничений]\nПолностью пройдя сомниум, можно пройти его снова <color=red>без ограничения по времени</color>, выбрав вариант 《Сомниум без ограничений》 на экране хронологии."
   },
   "file_guide_009": {
     "src": "[Objective]\nSomniums are sections where you explore dreams.\nThe goal is to <color=red>uncover the subject's hidden memories</color>.\n\n[Interactive Objects]\nIn Somniums, you can examine <color=red>things that have names above them</color>.\nThe things you can examine increase or decrease as you progress.\n\n[Options]\nWhen you examine something, you are given a set of choices through which you can <color=red>order Aiba</color> to act.",
     "yax": "[Цель]\nСомниумы - это разделы, в которых вы исследуете сны.\nЦель состоит в том, чтобы <color=red> раскрыть скрытые воспоминания субъекта</color>.\n\n[Интерактивные объекты]\nВ Somniums вы можете исследовать <color=красный> объекты, над которыми есть названия</color>.\nКоличество объектов, которые вы можете исследовать, увеличивается или уменьшается по мере прохождения.\n\n[Опции]\nКогда вы что-то изучаете, вам предоставляется набор вариантов, с помощью которых вы можете <color=red> приказать Aiba</color> действовать.",
+    "nex": "[Цель]\nСомниумы — это секции, где вы исследуете сны.\nЦель — <color=red>раскрыть скрытые воспоминания субъекта</color>.\n\n[Интерактивные объекты]\nВ Сомниумах вы можете осматривать <color=red>предметы, над которыми есть названия</color>.\nПредметы для осмотра увеличиваются или уменьшаются по мере вашего продвижения.\n\n[Опции]\nКогда вы осматриваете предмет, вам предоставляется набор выборов, с помощью которых вы можете <color=red>приказать Айбе</color> действовать.",
     "trx": "[Цель]\nСомниум — это этап игры, в котором исследуются сны. Цель состоит в том, чтобы <color=red>обнаружить скрытые воспоминания субъекта</color>.\n\n[Интерактивные объекты]\nВ сомниуме можно исследовать <color=red>объекты, над которыми размещены названия</color>. Количество доступных для исследования объектов увеличивается или уменьшается по мере прохождения.\n\n[Варианты]\nПри взаимодействии с объектом появляется набор вариантов, с помощью которых можно <color=red>отдать Айбе приказ</color>."
   },
   "file_guide_010": {
     "src": "[Mental Lock]\nUnlocking Mental Locks allows you to delve into the Psync subject's <color=red>deeper memories</color>.\nUnlocking all of them may reveal important information.\nThe number of Mental Locks and the methods of unlocking them differ by target and situation.\n\n[Guidelines]\nOn the top-left of the screen, you can find Guidelines that act as hints to unlock Mental Locks.\nFollowing those hints is vital to success.\n\n[Depth]\nSomnium progression can be seen by checking the Depth.\nThe Somnium section will end once you <color=red>reach the lowest depth</color>.",
     "yax": "[Ментальная блокировка]\nСнятие ментальных блокировок позволяет проникнуть в более глубокие воспоминания субъекта Псинхронизации.\nСнятие всех блокировок может раскрыть важную информацию.\nКоличество ментальных блокировок и методы их снятия зависят от цели и ситуации.\n\n[Рекомендации]\nВ левом верхнем углу экрана вы можете найти рекомендации, которые служат подсказками для разблокировки ментальных блокировок.\nСледование этим советам жизненно важно для успеха.\n\n[Глубина]\nПрогрессирование сомниума можно увидеть, проверив глубину.\nРаздел Somnium закончится, как только вы <color=red> достигнете минимальной глубины</color>.",
+    "nex": "[Ментальный замок]\nОткрытие ментальных замков позволяет проникнуть в <color=red>более глубокие воспоминания</color> субъекта Псинка.\nОткрытие всех из них может раскрыть важную информацию.\nКоличество ментальных замков и способы их открытия различаются в зависимости от цели и ситуации.\n\n[Руководство]\nВ верхнем левом углу экрана вы найдёте Руководство, которое служит подсказкой для открытия ментальных замков.\nСледование этим подсказкам жизненно важно для успеха.\n\n[Глубина]\nПрогресс в Сомниуме можно отслеживать, проверяя Глубину.\nСекция Сомниума закончится, когда вы <color=red>достигнете самой низкой глубины</color>.",
     "trx": "[Ментальный замок]\nОтпирание ментальных замков позволяет <color=red>глубже проникнуть</color> в воспоминания субъекта псинхронизации.\nОтпирание всех замков может раскрыть важную информацию. Количество ментальных замков и методы их отпирания зависят от цели и ситуации.\n\n[Рекомендации]\nВ левом верхнем углу экрана отображаются рекомендации, которые служат подсказками для отпирания ментальных замков. Чтобы добиться успеха, крайне важно следовать этим рекомендациям.\n\n[Глубина]\nВаш прогресс в сомниуме отображается на шкале глубины. Чтобы завершить сомниум, требуется <color=red>достичь максимальной глубины</color>."
   },
   "file_guide_011": {
     "src": "[Time Limit]\nSomnium sections usually have <color=red>a time limit of 6 minutes</color>.\nTime is spent when <color=red>Aiba walks</color> or <color=red>performs a selected action</color>.\nKeep an eye on the time you have left and try to <color=red>unlock all Mental Locks within 360 seconds</color>.\n\n[Retry]\n《Retry》 allows you to <color=red>return to a save point</color> from the time you unlocked a Mental Lock.\nHowever, <color=red>you are limited to 3 Retries</color>.\nRetrying from the previous save point reduces this by 1, with the cost increasing the farther you return, up to a maximum cost of 3 when Retrying from three save points back.\nFailing the Psync resets your available Retries.\nIt is recommended to use Retries if you are running out of time.",
     "yax": "[Ограничение по времени] В разделах \"Сон\" обычно есть <color=red> ограничение по времени в 6 минут</color>. Время тратится, когда <color=red>Айба ходит</color> или <color=red> выполняет выбранное действие</color>. Будьте начеку рассчитайте оставшееся у вас время и попытайтесь <color=red>разблокировать все ментальные блокировки в течение 360 секунд</color>.\n\n[Повторить попытку]\n\"Повторная попытка\" позволяет вам <color=red> вернуться к точке сохранения</color> с момента разблокировки. ментальный замок.Однако <color=red>у вас есть только 3 повторные попытки</color>. Повторная попытка с предыдущей точки сохранения уменьшает это количество на 1, при этом стоимость увеличивается по мере дальнейшего возврата, при повторных попытках с трех точек сохранения в обратном направлении максимальная стоимость составляет 3.При сбое Psync доступные повторные попытки сбрасываются.\nРекомендуется использовать повторные попытки, если у вас заканчивается время.",
+    "nex": "[Ограничение по времени]\nВ секциях Сомниума обычно <color=red>действует ограничение в шесть минут</color>.\nВремя тратится, когда <color=red>Айба идёт</color> или <color=red>выполняет выбранное действие</color>.\nСледите за оставшимся временем и постарайтесь <color=red>открыть все ментальные замки за 360 секунд</color>.\n\n[Повтор]\n«Повтор» позволяет вам <color=red>вернуться к точке сохранения</color> с момента открытия ментального замка.\nОднако <color=red>количество повторов ограничено тремя</color>.\nПовтор из предыдущей точки сохранения уменьшает это число на 1, при этом стоимость увеличивается с каждым возвратом назад, до максимума в 3, если возвращаться на три точки сохранения назад.\nПровал Псинка сбрасывает доступные повторы.\nРекомендуется использовать повторы, если у вас заканчивается время.",
     "trx": "[Ограничение по времени]\nКак правило, в сомниумах присутствует <color=red>ограничение по времени в 6 минут</color>. Время расходуется, когда <color=red>Айба двигается</color> или <color=red>выполняет выбранное действие</color>. Следите за оставшимся временем и попытайтесь <color=red>отпереть все ментальные замки в течение 360 секунд</color>.\n\n[Повтор]\nПовтор позволяет <color=red>вернуться к контрольной точке</color>, сохранённой после отпирания ментального замка. При этом <color=red>доступно только 3 попытки</color>. Повтор с последней контрольной точки уменьшает этот счётчик\nна 1, но стоимость увеличивается при более дальнем возврате — при возврате на три контрольных точки назад стоимость повтора достигает 3. Если у вас не получится пройти сомниум, счётчик попыток будет сброшен. Рекомендуется использовать повторы, если у вас заканчивается время."
   },
   "file_guide_012": {
     "src": "[If 360 Seconds Pass...]\nIf <color=red>the final action you choose is correct</color>, you <color=red>will win even if it takes you past 360 seconds</color>.\nYou may still win even if you feel like you are short on time, so it might be a good idea to keep on trying until the end.",
     "yax": "[Если пройдет 360 секунд...]\nЕсли <color=red> последнее действие, которое вы выбрали, будет правильным</color>, вы <color=red> выиграете, даже если на это уйдет больше 360 секунд</color>.\nВы все равно можете выиграть, даже если чувствуете, что у вас мало времени, поэтому, возможно, стоит продолжать попытки до конца.",
+    "nex": "[Если пройдёт 360 секунд…]\nЕсли <color=red>последнее выбранное вами действие будет верным</color>, вы <color=red>победите, даже если это займёт больше 360 секунд</color>.\nВы всё ещё можете победить, даже если чувствуете, что времени не хватает, поэтому стоит продолжать до самого конца.",
     "trx": "[Если истечёт 360 секунд...]\nЕсли <color=red>последнее выбранное действие окажется правильным</color>, вы <color=red>выиграете, даже если затраченное время превысит 360 секунд</color>. Вы можете выиграть даже когда вам кажется, что времени не хватает, поэтому не следует отчаиваться до последнего."
   },
   "file_guide_013": {
     "src": "[Key Rules]\nKey Rules are the explicitly-stated rules of the Somnium world.\nThey start out as secrets when Psyncing begins, but they are <color=red>revealed as you examine things</color>.\nKey Rules are <color=red>major hints</color> that will help you reach the deepest part of the Somnium.\nRefer to them whenever you're confused about how to progress.\n\n[Lock Info]\nThis is where you can see information that will help you progress, such as your Goal, Guidelines, Depth, and Key Rules.\nIf you are uncertain about how to progress through a Somnium section, Lock Info might provide you with hints about what to do next.",
     "yax": "[Ключевые правила]\nКлючевые правила - это четко сформулированные правила мира Somnium.\nОни начинаются как секреты, когда начинается психологическая синхронизация, но они <color=red> раскрываются по мере того, как вы исследуете вещи</color>. Основные правила - это <color=red> основные подсказки</color>, которые помогут вам проникнуть в самую глубину Сна.Обращайтесь к ним всякий раз, когда вы не знаете, как продвигаться вперед.\n\n[Информация о блокировке]\nЗдесь вы можете увидеть информацию, которая поможет вам продвигаться вперед, например, вашу цель, рекомендации, глубину и ключевые правила.\nЕсли вы не уверены в том, как пройти курс лечения Сомниумом, Информация о блокировке может подсказать вам, что делать дальше.",
+    "nex": "[Ключевые правила]\nКлючевые правила — это явно сформулированные правила мира Сомниума.\nОни начинаются как секреты при начале Псинка, но <color=red>раскрываются по мере изучения</color>.\nКлючевые правила — это <color=red>важные подсказки</color>, которые помогут вам достичь самой глубины Сомниума.\nОбращайтесь к ним всякий раз, когда вы не уверены, как продвигаться дальше.\n\n[Информация о замке]\nЗдесь вы можете увидеть информацию, которая поможет вам продвигаться, такую как Цель, Руководства, Глубина и Ключевые правила.\nЕсли вы не уверены, как пройти раздел Сомниума, Информация о замке может дать вам подсказки о том, что делать дальше.",
     "trx": "[Ключи]\nКлючи — это чёткие правила мира сомниума. Они скрыты в начале псинхронизации, но <color=red>раскрываются по мере исследования различных объектов</color>. Ключи — это <color=red> важные подсказки</color>, которые помогают проникнуть в самые глубины сомниума. Обращайтесь к ним, если не понимаете, что делать дальше.\n\n[Информация о замках]\nЗдесь можно найти информацию, которая поможет продвигаться вперёд, такую как цель, рекомендации, глубину и ключи. Если вы не понимаете, что делать дальше, информация о замках может помочь в этом разобраться."
   },
   "file_guide_014": {
     "src": "[Map]\n<color=red>Using the Map icon</color>, you can <color=red>open the Somnium's Map screen</color>.\nThe Map shows <color=red>where Aiba is</color>, as well as <color=red>the location of things you can examine</color>, among others.\nIf lost, open the Map to orient yourself rather than waste time running around.\n\n[Navigation]\nUsing the Map's Navigation function <color=red>displays the direction and distance to the thing you want to investigate</color>, streamlining the exploration process.",
     "yax": "[Карта]\n<color=red>Используя значок карты</color>, вы можете <color=red>открыть экран карты Somnium</color>.\nНа карте показано <color=red>, где находится Айба, а также <color=red> расположение объектов, которые вы можете осмотреть, среди прочего.\nЕсли вы заблудились, откройте карту, чтобы сориентироваться, а не тратить время на беготню.\n\n[Навигация]\nС помощью функции навигации по карте <color=red> отображается направление и расстояние до объекта, который вы хотите исследовать</color>, что упрощает процесс исследования.",
+    "nex": "[Карта]\n<color=red>Используя значок Карты</color>, вы можете <color=red>открыть экран Карты Сомниума</color>.\nКарта показывает <color=red>где находится Айба</color>, а также <color=red>местоположение предметов, которые можно исследовать</color>, и другое.\nЕсли вы заблудились, откройте Карту, чтобы сориентироваться, вместо того чтобы тратить время на беготню.\n\n[Навигация]\nИспользование функции Навигации на Карте <color=red>отображает направление и расстояние до предмета, который вы хотите исследовать</color>, оптимизируя процесс исследования.",
     "trx": "[Карта]\n<color=red>Выбрав значок 《Карта》</color>, можно <color=red>открыть экран карты сомниума</color>. На карте показано, <color=red>где находится Айба</color>, где расположены <color=red>доступные для исследования объекты</color> и т.д. Если вы заблудились, откройте карту, чтобы сориентироваться, не затрачивая время на перемещение.\n\n[Навигация]\nС помощью функции навигации можно <color=red>отобразить направление и расстояние до объекта, который вы желаете изучить</color>, что упрощает процесс исследования."
   },
   "file_guide_015": {
     "src": "[TIMIE]\n<color=red>TIMIE is an item that has an effect on time</color>.\nYou may acquire it after choosing certain actions.\nTIMIEs <color=red>can only be used during choices</color>, and it <color=red>reduces the time cost</color> of the action.\nYou can <color=red>have a maximum of 3</color> TIMIEs.\nAcquiring a TIMIE while already having 3 will discard the oldest one.\nAlthough TIMIEs are limited, it is best to use them instead of letting them go to waste.",
     "yax": "[ТАЙМИ]\n<color=red>ТАЙМИ - это предмет, который влияет на время</color>.\nВы можете приобрести его, выполнив определенные действия.\nТаймыры <color=red> можно использовать только при выборе</color>, тем самым <color=red>сократив временные затраты</color> на выполнение действия.\nВы можете <color=red> использовать максимум 3 тайма.\nПри приобретении ТАЙМА, когда у вас уже есть 3 тайма, самый старый из них будет аннулирован.\nХотя количество таймов ограничено, лучше использовать их, а не тратить впустую.",
+    "nex": "[ТИМИ]\n<color=red>ТИМИ — это предмет, влияющий на время</color>.\nВы можете получить его после выбора определенных действий.\nТИМИ <color=red>можно использовать только во время выбора действий</color>, и он <color=red>уменьшает временные затраты</color> на действие.\nВы можете <color=red>иметь максимум 3</color> ТИМИ.\nПолучение ТИМИ, когда у вас уже есть 3, приведет к списанию самого старого.\nХотя ТИМИ ограничены, лучше использовать их, чем позволять им пропадать впустую.",
     "trx": "[ТАЙМИ]\n<color=red>ТАЙМИ — это предмет, который изменяет затрачиваемое время</color>. Его можно получить, выполняя определённые действия. Тайми <color=red>можно использовать только при выборе варианта</color>, чтобы <color=red>уменьшить время</color> на выполнение действия. Можно <color=red>иметь не более 3</color> тайми. Если у вас уже есть 3 тайми и вы получаете новый, самый старый из них будет потерян. Хотя количество тайми ограничено, зачастую лучше их использовать, чем потерять."
   },
   "file_guide_016": {
     "src": "[Negative TIMIE]\nThere are TIMIEs that have <color=red>Negative Effects</color>.\nNegative TIMIEs <color=red>increase time costs and cannot be avoided</color>, so if you happen to acquire them, be mindful of their time increase.",
     "yax": "[Отрицательные временные интервалы]\nСуществуют временные интервалы, которые имеют <color=red>негативные последствия</color>.\nОтрицательные временные интервалы <color=red> увеличивают временные затраты, и их невозможно избежать</color>, поэтому, если вы их приобретаете, помните об увеличении времени.",
+    "nex": "[Отрицательный ТИМИ]\nСуществуют ТИМИ, обладающие <color=red>отрицательными эффектами</color>.\nОтрицательные ТИМИ <color=red>увеличивают временные затраты и не могут быть избегнуты</color>, поэтому, если вы случайно их получите, помните об увеличении времени.",
     "trx": "[Негативные тайми]\nНекоторые тайми могут иметь <color=red>негативные эффекты</color>.\nНегативные тайми <color=red>увеличивают затраченное время и обязательны к использованию</color>, поэтому обращайтесь с ними осторожно."
   },
   "file_guide_017": {
     "src": "Acquiring Eyes while in Somnium.\n\n[Finding Hidden Eyes]\nEach Somnium always has <color=red>3 eye-like items</color> hiding somewhere within.\nFinding one of them grants you <color=red>100 Eyes</color>.\nRefer to the Flowchart to see how many of them you've  found.\n\n[Finish With At Least 1 Second Left]\nFor each Somnium section <color=red>finished with at least 1 second left</color>, you gain <color=red>500 Eyes</color>.\nRefer to the Flowchart to see how well you performed.",
     "yax": "Обретение глаз во время пребывания в Сомниуме.\n\n[Поиск скрытых глаз]\nВ каждом Сомниуме всегда есть <color=red> 3 предмета, похожих на глаза</color>, которые прячутся где-то внутри.\nНайдя один из них, вы получите <color=red>100 глаз</color>.\nПосмотрите на блок-схему, чтобы узнать, сколько из них вы нашли.\n\n[Завершите, оставив как минимум 1 секунду]\nЗа каждую секцию Somnium <color=red>, завершенную с запасом хотя бы в 1 секунду</color>, вы получаете <color=red>500 просмотров</color>.\nПосмотрите на блок-схему, чтобы увидеть, насколько хорошо вы справились.",
+    "nex": "Получение Глаз во время нахождения в Сомниуме.\n\n[Поиск спрятанных Глаз]\nВ каждом Сомниуме всегда есть <color=red>3 предмета, похожих на глаза</color>, спрятанных где-то.\nНахождение одного из них дает вам <color=red>100 Глаз</color>.\nОбратитесь к Схеме, чтобы увидеть, сколько из них вы нашли.\n\n[Завершение с запасом хотя бы 1 секунды]\nЗа каждый раздел Сомниума, <color=red>завершенный с запасом хотя бы 1 секунды</color>, вы получаете <color=red>500 Глаз</color>.\nОбратитесь к Схеме, чтобы увидеть, насколько хорошо вы справились.",
     "trx": "Добыча глаз в сомниуме:\n\n[Найти спрятанные глаза]\nВнутри каждого сомниума спрятаны <color=red>3 объекта в форме глаз</color>. При нахождении каждого из них вы получите <color=red>100 глаз</color>. На экране хронологии показано, сколько глаз уже найдено в каждом сомниуме.\n\n[Завершить сомниум с запасом не менее 1 секунды]\nЗа каждый этап сомниума, <color=red>завершённый с запасом не менее 1 секунды</color>, вы получите <color=red>500 глаз</color>. На экране хронологии можно увидеть, справились ли вы с этим."
   },
   "file_guide_018": {
     "src": "[Making Many Choices]\nYou can acquire a lot of Eyes by making <color=red>choices you haven't made before</color>.\nThe amount of Eyes gained varies based on the choice made, but <color=red>each Somnium section grants a total of 500</color>.",
     "yax": "[Делая широкий выбор]\nВы можете привлечь много внимания, делая <color=red> выбор, которого не делали раньше</color>.\nКоличество полученных глаз зависит от сделанного выбора, но <color=red>каждая секция Somnium дает в общей сложности 500</color>.",
+    "nex": "[Принятие множества решений]\nВы можете получить много Глаз, принимая <color=red>решения, которые вы еще не принимали</color>.\nКоличество получаемых Глаз варьируется в зависимости от принятого решения, но <color=red>каждый раздел Сомниума дает в общей сложности 500</color>.",
     "trx": "[Выбирать различные варианты]\nМножество глаз можно получить, делая <color=red>выборы, которых вы не делали раньше</color>. Количество получаемых глаз зависит от сделанного выбора, но <color=red>на каждом этапе сомниума их общее количество равняется 500</color>."
   },
   "file_guide_019": {
     "src": "[Goal]\nIn Escape sections, the goal is to gather information, solve puzzles, and <color=red>escape from the confinement</color>.\n\n[Examination]\nIn Escape, you can examine <color=red>things that have names above them</color>.\nThe names appear <color=red>when you come close to them</color>.\n\n[First-Person Controls]\nSelecting anything you can examine makes the perspective shift into first person.\nIn first person, you can move the <color=red>Cursor</color> and the <color=red>Camera</color>.\nUse the Cursor to examine things that stand out, make choices to decide your actions or use items, and Look at things to observe them more thoroughly.",
     "yax": "[Цель]\nВ разделах \"Побег\" цель состоит в сборе информации, решении головоломок и <color=red> побеге из заключения</color>.\n\n[Обследование]\nВ разделе \"Побег\" вы можете исследовать <color=red> предметы, над которыми есть названия</color>.\nНазвания отображаются <color=красный>, когда вы приближаетесь к ним</color>.\n\n[Управление от первого лица]\nПри выборе всего, что вы можете рассмотреть, перспектива меняется на вид от первого лица.\nПри просмотре от первого лица вы можете перемещать <color=red>курсор</color> и <color=red>камеру</color>.\nИспользуйте курсор, чтобы рассмотреть то, что бросается в глаза, принять решение о своих действиях или использовании предметов, а также посмотреть на предметы, чтобы более внимательно их рассмотреть.",
+    "nex": "[Цель]\nВ разделах «Побег» цель состоит в том, чтобы собрать информацию, решить головоломки и <color=red>сбежать из заточения</color>.\n\n[Исследование]\nВ «Побеге» вы можете исследовать <color=red>предметы, над которыми есть названия</color>.\nНазвания появляются, <color=red>когда вы приближаетесь к ним</color>.\n\n[Управление от первого лица]\nВыбор любого предмета, который можно исследовать, переключает вид от первого лица.\nВ режиме от первого лица вы можете перемещать <color=red>Курсор</color> и <color=red>Камеру</color>.\nИспользуйте Курсор, чтобы исследовать выделяющиеся предметы, делать выбор для определения своих действий или использования предметов, и Смотреть на предметы, чтобы изучить их более тщательно.",
     "trx": "[Цель]\nНа этапах побега цель состоит в сборе информации, решении головоломок и <color=red> побеге из заточения</color>.\n\n[Исследование]\nВо время побега можно исследовать <color=red>объекты, над которыми размещены названия</color>. Названия появляются <color=red>при приближении к ним</color>.\n\n[Вид от первого лица]\nПри выборе объектов, которые можно рассмотреть, перспектива переключается на вид от первого лица. В виде от первого лица можно перемещать <color=red>курсор</color> и <color=red>камеру</color>. При помощи курсора можно изучать всё, что бросается в глаза, выполнять действия, использовать предметы, а также осматривать объекты более внимательно."
   },
   "file_guide_020": {
     "src": "[Hints]\n<color=red>Examining the same place multiple times</color> will sometimes <color=red>provide hints</color>.\nIf stuck, try investigating the same place multiple times.",
     "yax": "[Подсказки]\n<color=red> Многократное изучение одного и того же места</color> иногда дает <color=red> подсказки</color>.\nЕсли вы застряли, попробуйте исследовать одно и то же место несколько раз.",
+    "nex": "[Подсказки]\n<color=red>Многократное исследование одного и того же места</color> иногда <color=red>дает подсказки</color>.\nЕсли вы застряли, попробуйте исследовать одно и то же место несколько раз.",
     "trx": "[Подсказки]\n<color=red>При многократном изучении одного и того же объекта</color> иногда можно получить <color=red>подсказки</color>. Если вы не понимаете, что делать дальше, попробуйте исследовать один и тот же объект несколько раз."
   },
   "file_guide_021": {
     "src": "[Search]\nSelecting the 《Search》 icon focuses on and observes the surroundings, <color=red>briefly showing the things you can examine</color>.\nIt is recommended to use the Search function when you are unsure what to do next.\n\n[Search Use Limits]\n・Hard: 0 <color=red>(Unusable)</color>\n・Standard: 10\n・Easy: Unlimited\n・Story: Unlimited",
     "yax": "[Поиск]\nВыбор значка \"Поиск\" позволяет сфокусироваться на окружающей обстановке и наблюдать за ней, <цвет=красный> кратко отображая объекты, которые вы можете исследовать</color>.\nРекомендуется использовать функцию поиска, когда вы не уверены, что делать дальше.\n\n[Ограничения на использование поиска]\n・Сложный: 0 <color=red> (непригоден для использования)</color>\n・Стандартный: 10\n・Легкий: Неограниченно\n・Сюжетный: Неограниченно",
+    "nex": "[Поиск]\nВыбор значка «Поиск» фокусирует внимание на окружении и позволяет его наблюдать, <color=red>кратко показывая предметы, которые можно исследовать</color>.\nРекомендуется использовать функцию поиска, когда вы не уверены, что делать дальше.\n\n[Ограничения использования поиска]\n・Сложный: 0 <color=red>(Недоступно)</color>\n・Стандартный: 10\n・Легкий: Без ограничений\n・История: Без ограничений",
     "trx": "[Поиск]\nЗначок 《Поиск》 позволяет сфокусироваться на окружающей обстановке и осмотреться, <color=red>ненадолго подсвечивая объекты, которые доступны для исследования</color>. Рекомендуется использовать функцию поиска, когда вы не уверены, что делать дальше.\n\n[Количество попыток поиска]\nКоличество попыток зависит от сложности.\n・Тяжёлая: 0<color=red> (нельзя использовать)</color>\n・Обычная: 10\n・Лёгкая: Бесконечно\n・Сюжет: Бесконечно"
   },
   "file_guide_022": {
     "src": "[Item Screen]\nThis displays the items in your possession and lets you see their details.\nItems that have <color=red>\"In Hand\"</color> displayed on them are <color=red>currently being held for use</color>.\nWhen items are set to be In Hand, you may be able to use them while examining certain places.\n\n[Combining]\n<color=red>Selecting the Combination Mode button</color> allows you to <color=red>combine two items</color>.",
     "yax": "[Экран товара]\nЗдесь отображаются предметы, находящиеся в вашем распоряжении, и вы можете просмотреть их подробную информацию.\nПредметы, на которых <color=red> указано \"В наличии\"</color>, <color=red> в данный момент хранятся для использования</color>.\nКогда предметы будут под рукой, вы сможете использовать их при осмотре определенных мест.\n\n[Комбинирование]\n<color=red>Нажатие кнопки Режима комбинирования</color> позволяет <color=red> комбинировать два предмета</color>.",
+    "nex": "[Экран предметов]\nЗдесь отображаются предметы в вашем распоряжении и их детали.\nПредметы, на которых отображается <color=red>«В руках»</color>, <color=red>в настоящее время удерживаются для использования</color>.\nКогда предметы установлены как «В руках», вы можете использовать их при исследовании определенных мест.\n\n[Комбинирование]\n<color=red>Выбор кнопки «Режим комбинирования»</color> позволяет <color=red>объединить два предмета</color>.",
     "trx": "[Экран инвентаря]\nНа этом экране отображаются имеющиеся у вас предметы и их описания. Предмет с обозначением <color=red>\"В руках\"</color> <color=red>доступен для использования в текущий момент</color>. Предмет, находящийся в руках, можно использовать при осмотре определённых объектов.\n\n[Соединение]\n<color=red>Запустив режим соединения</color>, можно <color=red>соединить два предмета</color>."
   },
   "file_guide_023": {
     "src": "[Limit Counter]\nDuring Third Eye, there is a 《Limit Counter》 that acts as a <color=red>Time Limit</color>.\nWhen the 《Limit Counter》expires, it's <color=red>Game Over</color>, and you will have to restart from the checkpoint.\nMake good use of all your information, items, and ideas to carve open a third path.",
     "yax": "[Счетчик лимитов]\nВо время \"Третьего глаза\" есть \"Счетчик лимитов\", который действует как <color=red>Ограничение по времени</color>.\nКогда \"Лимитный счетчик\" истечет, игра будет окончена, и вам придется перезапустить игру с контрольной точки.\nИспользуйте всю имеющуюся у вас информацию, предметы и идеи, чтобы проложить третий путь.",
+    "nex": "[Счетчик лимита]\nВо время «Третьего глаза» есть «Счетчик лимита», который действует как <color=red>ограничение по времени</color>.\nКогда «Счетчик лимита» истечет, будет <color=red>конец игры</color>, и вам придется начать с контрольной точки.\nИспользуйте всю свою информацию, предметы и идеи, чтобы проложить третий путь.",
     "trx": "[Отсчёт времени]\nВ моменты \"Третьего глаза\" отображается 《Отсчёт времени》, который <color=red>ограничивает доступное время</color>. Когда доступное время истечёт, <color=red>игра будет завершена</color>, и вам придётся перезапустить её с контрольной точки. Используйте всю имеющуюся у вас информацию, предметы и идеи, чтобы найти третий путь."
   },
   "file_guide_024": {
     "src": "[Switching Characters]\n<color=red>Select the character face icons</color> to <color=red>switch the character you control</color>.\nDepending on the circumstances, characters are able to cooperate, help each other out, or <color=red>exchange items</color>.",
     "yax": "[Переключение персонажей]\n<color=red>Выберите значки лиц персонажей</color>, чтобы <color=red> переключить персонажа, которым вы управляете</color>.\nВ зависимости от обстоятельств, персонажи могут сотрудничать, помогать друг другу или <color=red> обмениваться предметами</color>.",
+    "nex": "[Смена персонажей]\n<color=red>Выберите значки лиц персонажей</color>, чтобы <color=red>сменить управляемого персонажа</color>.\nВ зависимости от обстоятельств персонажи могут сотрудничать, помогать друг другу или <color=red>обмениваться предметами</color>.",
     "trx": "[Переключение персонажей]\n<color=red>Выберите значки с лицами персонажей</color>, чтобы <color=red>переключить управление на другого персонажа</color>. В зависимости от обстоятельств, персонажи могут сотрудничать, помогать друг другу или <color=red>обмениваться предметами</color>."
   },
   "file_guide_025": {
     "src": "[Map]\n<color=red>Selecting the 《Map》 icon</color> opens the Map of the area the character you control is in.\nThe Map screen <color=red>records the things you examined.</color>\nConsult the map whenever you are lost.",
     "yax": "[Карта]\n<color=red>При выборе значка \"Карта\"</color> открывается карта местности, в которой находится персонаж, которым вы управляете.\nНа экране карты <color=red> отображаются объекты, которые вы осмотрели.</color>\nВсякий раз, когда вы заблудитесь, сверяйтесь с картой.",
+    "nex": "[Карта]\n<color=red>Выбор значка «Карта»</color> открывает карту местности, в которой находится управляемый вами персонаж.\nНа экране карты <color=red>записываются предметы, которые вы исследовали</color>.\nОбращайтесь к карте, когда заблудитесь.",
     "trx": "[Карта]\n<color=red>Выбрав значок 《Карта》</color>, можно открыть карту области, на которой находится управляемый вами персонаж.\nНа экране карты <color=red>отображаются осмотренные объекты</color>. Сверяйтесь с картой, если вы вдруг заблудились."
   },
   "file_guide_title_001": {
     "src": "Investigation: Basic Info",
     "yax": "Расследование: Основная информация",
+    "nex": "Расследование: Основная информация",
     "trx": "Расследование: Основная информация"
   },
   "file_guide_title_002": {
     "src": "Investigation: AI-Ball",
     "yax": "Расследование: AI-Ball",
+    "nex": "Расследование: Айба (ИИ‑глаз)",
     "trx": "Расследование: ИИ"
   },
   "file_guide_title_003": {
     "src": "Investigation: Wink Psync",
     "yax": "Расследование: Wink Psync",
+    "nex": "Расследование: Псинк «Подмигивание»",
     "trx": "Расследование: Винк-псинк"
   },
   "file_guide_title_004": {
     "src": "Menu: Basic Info",
     "yax": "Меню: Основная информация",
+    "nex": "Меню: Основная информация",
     "trx": "Меню: Основная информация"
   },
   "file_guide_title_005": {
     "src": "Menu: Bonus",
     "yax": "Меню: Бонус",
+    "nex": "Меню: Бонус",
     "trx": "Меню: Бонусы"
   },
   "file_guide_title_006": {
     "src": "Menu: Unlimited Psync",
     "yax": "Меню: Неограниченная синхронизация Psync",
+    "nex": "Меню: Неограниченный Псинк",
     "trx": "Меню: Сомниум без ограничений"
   },
   "file_guide_title_007": {
     "src": "Somnium: Basic Info",
     "yax": "Сомниум: Основная информация",
+    "nex": "Сомниум: Основная информация",
     "trx": "Сомниум: Основная информация"
   },
   "file_guide_title_008": {
     "src": "Somnium: Mental Lock",
     "yax": "Сомниум: Ментальная блокировка",
+    "nex": "Сомниум: Ментальный замок",
     "trx": "Сомниум: Ментальный замок"
   },
   "file_guide_title_009": {
     "src": "Somnium: Time Limit and Retry",
     "yax": "Сон: Ограничение по времени и повторная попытка",
+    "nex": "Сомниум: Ограничение по времени и повтор",
     "trx": "<size=75%>Сомниум: Ограничение по времени и повтор"
   },
   "file_guide_title_010": {
     "src": "Somnium: Key Rules",
     "yax": "Сон: Основные правила",
+    "nex": "Сомниум: Основные правила",
     "trx": "Сомниум: Ключи"
   },
   "file_guide_title_011": {
     "src": "Somnium: Map",
     "yax": "Сон: Карта",
+    "nex": "Сомниум: Карта",
     "trx": "Сомниум: Карта"
   },
   "file_guide_title_012": {
     "src": "Somnium: TIMIE",
     "yax": "Сон: ТИМИ",
+    "nex": "Сомниум: ТИМИ",
     "trx": "Сомниум: Тайми"
   },
   "file_guide_title_013": {
     "src": "Somnium: Negative TIMIE",
     "yax": "Сон: Отрицательное ВРЕМЯ",
+    "nex": "Сомниум: Отрицательная ТИМИ",
     "trx": "Сомниум: Негативные тайми"
   },
   "file_guide_title_014": {
     "src": "Somnium: Eyes",
     "yax": "Сомниум: Глаза",
+    "nex": "Сомниум: Глаза",
     "trx": "Сомниум: Глаза"
   },
   "file_guide_title_015": {
     "src": "Escape: Basic Info",
     "yax": "Побег: Основная информация",
+    "nex": "Побег: Основная информация",
     "trx": "Побег: Основная информация"
   },
   "file_guide_title_016": {
     "src": "Escape: Search",
     "yax": "Побег: Поиск",
+    "nex": "Побег: Поиск",
     "trx": "Побег: Поиск"
   },
   "file_guide_title_017": {
     "src": "Escape: Item Screen",
     "yax": "Экранирование: Экран элемента",
+    "nex": "Побег: Экран предметов",
     "trx": "Побег: Экран инвентаря"
   },
   "file_guide_title_018": {
     "src": "Escape: Limit Counter",
     "yax": "Побег: Ограничьте счетчик",
+    "nex": "Побег: Счетчик лимита",
     "trx": "Побег: Отсчёт времени"
   },
   "file_guide_title_019": {
     "src": "Escape: Switching Characters",
     "yax": "Экранирование: Переключение символов",
+    "nex": "Побег: Смена персонажей",
     "trx": "Побег: Переключение персонажей"
   },
   "file_guide_title_020": {
     "src": "Escape: Map",
     "yax": "Побег: Карта",
+    "nex": "Побег: Карта",
     "trx": "Побег: Карта"
   }
 }

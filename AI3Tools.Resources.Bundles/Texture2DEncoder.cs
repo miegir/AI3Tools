@@ -29,7 +29,7 @@ internal class Texture2DEncoder(ILogger logger, Texture2DArguments arguments, St
         image.Mutate(m => m.Flip(FlipMode.Vertical));
         var pixels = new byte[4 * image.Width * image.Height];
         image.CopyPixelDataTo(pixels);
-        var encodedData = TextureFile.Encode(pixels, arguments.Format, image.Width, image.Height)
+        var encodedData = TextureFile.EncodeManagedData(pixels, arguments.Format, image.Width, image.Height)
             ?? throw new NotSupportedException($"Texture format not supported: '{arguments.Format}'.");
         return new Texture2DData(arguments.Format, image.Width, image.Height, 1, encodedData);
     }
