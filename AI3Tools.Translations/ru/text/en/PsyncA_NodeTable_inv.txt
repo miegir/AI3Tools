@@ -1485,7 +1485,7 @@
     "src": "Machine Shed",
     "yax": "Машинный цех",
     "nex": "Машинный сарай",
-    "trx": "Машинный сарай"
+    "trx": "Машинный зал"
   },
   "target_246": {
     "src": "Vending Machine",
