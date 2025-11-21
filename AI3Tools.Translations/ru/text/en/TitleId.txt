@@ -1971,7 +1971,7 @@
     "src": "Merlion",
     "yax": "Мерлион",
     "nex": "Мерлайон",
-    "trx": "Мерлайон" //spell-ignore:Мерлайон
+    "trx": "Мерлион" //spell-ignore:Мерлион
   },
   "title_330": {
     "src": "Boss Calling Someone",
