@@ -2109,7 +2109,7 @@
     "src": "Melon Jelly",
     "yax": "Желе из дыни",
     "nex": "Дыня в желе",
-    "trx": "Желе из дыни"
+    "trx": "Дынное желе"
   },
   "title_353": {
     "src": "Somnium Scenery",
