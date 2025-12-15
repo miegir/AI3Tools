@@ -2,7 +2,9 @@ EN:
   System Message
   A SERIOUS ERROR OCCURED
 
-RU: ?
+RU:
+  Системное сообщение
+  ВОЗНИКЛА КРИТИЧЕСКАЯ ОШИБКА
 
 TAGS:
-  [untranslated]
+  []

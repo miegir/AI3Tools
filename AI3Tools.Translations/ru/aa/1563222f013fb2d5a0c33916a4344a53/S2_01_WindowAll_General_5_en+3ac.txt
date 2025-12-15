@@ -2,7 +2,9 @@ EN:
   System Message
   Restoring previous state.
 
-RU: ?
+RU:
+  Системное сообщение
+  Восстановление предыдущего состояния.
 
 TAGS:
-  [untranslated]
+  []

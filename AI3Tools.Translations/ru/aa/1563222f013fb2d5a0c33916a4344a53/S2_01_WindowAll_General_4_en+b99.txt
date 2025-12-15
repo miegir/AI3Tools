@@ -4,7 +4,11 @@ EN:
   Positive!
   Positive!
 
-RU: ?
+RU:
+  Системное сообщение
+  Позитив!
+  Позитив!
+  Позитив!
 
 TAGS:
-  [untranslated]
+  []

@@ -1,5 +1,5 @@
 EN: Delete All Data?
-RU: ?
+RU: Удалить все данные?
 
 TAGS:
-  [untranslated]
+  []

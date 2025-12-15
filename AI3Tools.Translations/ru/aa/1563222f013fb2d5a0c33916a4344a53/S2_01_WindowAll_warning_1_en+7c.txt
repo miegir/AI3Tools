@@ -3,7 +3,10 @@ EN:
   Warning
   Program Error
 
-RU: ?
+RU:
+  Системное сообщение
+  Предупреждение
+  Ошибка в программе
 
 TAGS:
-  [untranslated]
+  []

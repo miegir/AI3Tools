@@ -2,7 +2,10 @@ EN:
   System Message
   Moving painfulmemory.dat to Trash...
 
-RU: ?
+RU:
+  Системное сообщение
+  Перемещение файла болезненные_воспоминания.dat
+  в корзину...
 
 TAGS:
-  [untranslated]
+  []

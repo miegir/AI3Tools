@@ -3,7 +3,10 @@ EN:
   Running as administrator.
   Original data restored.
 
-RU: ?
+RU:
+  Системное сообщение
+  Запуск от имени администратора.
+  Исходные данные восстановлены.
 
 TAGS:
-  [untranslated]
+  []

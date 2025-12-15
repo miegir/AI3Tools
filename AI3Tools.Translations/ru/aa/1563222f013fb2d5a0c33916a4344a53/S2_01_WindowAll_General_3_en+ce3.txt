@@ -2,7 +2,9 @@ EN:
   System Message
   Installation complete.
 
-RU: ?
+RU:
+  Системное сообщение
+  Установка завершена.
 
 TAGS:
-  [untranslated]
+  []

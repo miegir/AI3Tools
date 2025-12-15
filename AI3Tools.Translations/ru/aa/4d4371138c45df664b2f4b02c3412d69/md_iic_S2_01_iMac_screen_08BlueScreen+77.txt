@@ -1,0 +1,10 @@
+EN:
+  A problem has occurred your PC and it needs to be restarted.
+  We just collect some error information and then restart for you.
+  75% complete
+
+RU:
+  ?
+
+TAGS:
+  []

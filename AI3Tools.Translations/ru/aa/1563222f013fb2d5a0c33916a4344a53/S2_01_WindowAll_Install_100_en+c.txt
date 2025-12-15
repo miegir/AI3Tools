@@ -3,7 +3,10 @@ EN:
   Installing
   Super Positive Software...
 
-RU: ?
+RU:
+  Системное сообщение
+  Установка приложения
+  Суперпозитив... //spell-ignore:Суперпозитив
 
 TAGS:
-  [untranslated]
+  []

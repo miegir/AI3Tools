@@ -3,7 +3,10 @@ EN:
   Would you like to move on to the next world?
   OK CANCEL
 
-RU: ?
+RU:
+  Системное сообщение
+  Вы хотите переместиться в следующий мир?
+  OK ОТМЕНА
 
 TAGS:
-  [untranslated]
+  []

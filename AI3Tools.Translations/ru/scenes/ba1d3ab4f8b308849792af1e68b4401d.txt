@@ -1,0 +1,26 @@
+[
+  {
+    "path": "_root/Item/変換ウィンドウUpdate/S2_08_cmd_key_05/表示_ERROR_Update",
+    "text": {
+      "0": {
+        "_text": "<s=0.45><c=red>ОШИБКА"
+      }
+    }
+  },
+  {
+    "path": "_root/Item/変換ウィンドウJet/S2_08_cmd_key_04/表示_ERROR_Juggernaut",
+    "text": {
+      "0": {
+        "_text": "<s=0.45><c=red>ОШИБКА"
+      }
+    }
+  },
+  {
+    "path": "_root/Item/変換ウィンドウJustice/S2_08_cmd_key_03/表示_ERROR_Jistice",
+    "text": {
+      "0": {
+        "_text": "<s=0.45><c=red>ОШИБКА"
+      }
+    }
+  }
+]

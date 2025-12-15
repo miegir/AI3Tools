@@ -3,7 +3,10 @@ EN:
   Program Error
   Would you like to recover?
 
-RU: ?
+RU:
+  Системное сообщение
+  Ошибка в программе
+  Выполнить восстановление?
 
 TAGS:
-  [untranslated]
+  []

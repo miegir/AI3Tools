@@ -1,8 +1,10 @@
-EN:
+﻿EN:
   Murder in Ninja Village
   ~Ninja Sword for Your Health Right Between the Eyebrows~
 
-RU: ?
+RU:
+  Убийство в деревне Ниндзя
+  ～Меч ниндзя меж бровей для вашего здоровья～
 
 TAGS:
-  [untranslated]
+  [subtitles]
