@@ -5973,7 +5973,7 @@
     "src": "Wow... I'm seeing a pretty gardeeen...",
     "yax": "Ух ты... Я вижу симпатичный гардероб...",
     "nex": "Вау... Я вижу какой-то сад...",
-    "trx": "Ух ты... какой краси-и-ивый са-а-ад..." //spell-ignore:краси //spell-ignore:ивый //spell-ignore:са
+    "trx": "Ух ты... какой краси-и-ивый са-а-ад..." //spell-ignore:краси-и-ивый //spell-ignore:са-а-ад
   },
   "149_011": {
     "src": "Doing this any longer is a waste of time. Let's think of another way.",

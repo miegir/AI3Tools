@@ -15,7 +15,7 @@
     "src": "This is sooo easy!",
     "yax": "Это ооочень просто!",
     "nex": "Это ооочень легко!",
-    "trx": "Было та-а-ак просто!" //spell-ignore:ак
+    "trx": "Было та-а-ак просто!" //spell-ignore:та-а-ак
   },
   "001_004": {
     "src": "Maybe we should let you do everything...?",
@@ -741,7 +741,7 @@
     "src": "Okaaay! I'm on iiit!",
     "yax": "Окааай! Я в деле!",
     "nex": "Хорошооо! Я в деле!",
-    "trx": "Хорошо-о-о! Сейча-а-ас!" //spell-ignore:сейча
+    "trx": "Хорошо-о-о! Сейча-а-ас!" //spell-ignore:сейча-а-ас
   },
   "011_025": {
     "src": "Oh, right... Can I take her with me?",

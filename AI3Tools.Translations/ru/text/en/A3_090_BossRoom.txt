@@ -15,7 +15,7 @@
     "src": "Heyaaa! Ryukiii!",
     "yax": "Привет! Рюкиии!",
     "nex": "Хэйяа! Рюкиии!",
-    "trx": "Приве-е-ет! Рюки-и-и!" //spell-ignore:приве //spell-ignore:ет
+    "trx": "Приве-е-ет! Рюки-и-и!" //spell-ignore:приве-е-ет
   },
   "001_004": {
     "src": "Hello, Hina.",

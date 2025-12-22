@@ -699,7 +699,7 @@
     "src": "Hina: \"Zzz... When you <color=yellow>win</color>... <color=yellow>With at least 1 second left</color>...? You <color=yellow>get</color>... Lots of <color=yellow>eeeyes</color>...? Zzz...\nAh. Boss... Hey! Don't—... Ghaghaghaghaghgaaaah!\"",
     "yax": "Хина: \"Ззз... Когда ты <color=yellow> выиграешь</color>... <color=yellow>У тебя останется хотя бы 1 секунда</color>...? Ты <color=yellow> выиграешь</color>... Много <color=yellow> глазастых</color>...? Ззз...\nА. Босс... Эй!” Не надо..... Гхагхагхаггаааа!\"",
     "nex": "Хина: «Ззз… Когда ты <color=yellow>побеждаешь</color>… <color=yellow>Оставшись с запасом больше 1 секунды</color>… Ты <color=yellow>получаешь</color>… Много <color=yellow>глаз</color>…? Ззз…\nАх. Босс… Эй! Не… Гхагхагхагхааааах!»",
-    "trx": "Хина: \"Х-р-р... Если <color=yellow>выиграть</color>... <color=yellow>С запасом хотя бы в 1 секунду</color>?.. Можно <color=yellow>получить</color>... Много <color=yellow>гла-а-а-з</color>?.. Х-р-р... Ах. Босс... Эй! Не надо... Ах-ах-ах-ах-а-а-а-х!\"" //spell-ignore:гла
+    "trx": "Хина: \"Х-р-р... Если <color=yellow>выиграть</color>... <color=yellow>С запасом хотя бы в 1 секунду</color>?.. Можно <color=yellow>получить</color>... Много <color=yellow>гла-а-а-з</color>?.. Х-р-р... Ах. Босс... Эй! Не надо... Ах-ах-ах-ах-а-а-а-х!\"" //spell-ignore:гла-а-а-з
   },
   "tutorial_title_043": {
     "src": "Negative TIMIE",

@@ -105,7 +105,7 @@
     "src": "\"Diiing!\" Huh, that's fun to say.",
     "yax": "\"Умираю!\" Ха, забавно так говорить.",
     "nex": "\"Динь!\" Хм, забавно говорить.",
-    "trx": "\"Дзы-ы-ынь!\" Ха, прикольно звучит." //spell-ignore:дзы //spell-ignore:ынь
+    "trx": "\"Дзы-ы-ынь!\" Ха, прикольно звучит." //spell-ignore:дзы-ы-ынь
   },
   "003_008": {
     "src": "I'll send his picture to you too. You'll get what I mean.",
@@ -123,7 +123,7 @@
     "src": "When I get the diiing... Got it.",
     "yax": "Когда я получу заказ... Понял.",
     "nex": "Когда я услышу динь… Получила.",
-    "trx": "Когда зазвучит дзы-ы-ынь... Понятно." //spell-ignore:дзы //spell-ignore:ынь
+    "trx": "Когда зазвучит дзы-ы-ынь... Понятно." //spell-ignore:дзы-ы-ынь
   },
   "004_001": {
     "src": "An unused machine room.",

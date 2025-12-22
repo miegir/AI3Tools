@@ -3,7 +3,7 @@
     "src": "This is where they do the escape gaaame!",
     "yax": "Вот где они совершают побег, гаааме!",
     "nex": "Здесь проводят эту игру на побег!",
-    "trx": "Вот где проводится игра-побе-е-ег!" //spell-ignore:побе //spell-ignore:ег
+    "trx": "Вот где проводится игра-побе-е-ег!" //spell-ignore:побе-е-ег
   },
   "001_002": {
     "src": "This is it?!",
@@ -171,7 +171,7 @@
     "src": "They might've caught it on security cams, riiight?",
     "yax": "Они могли заснять это на камеры наблюдения, верно?",
     "nex": "Может, их засняли камеры наблюдения, да?",
-    "trx": "Это могло попасть на камеры видеонаблюдения, та-а-ак?" //spell-ignore:ак
+    "trx": "Это могло попасть на камеры видеонаблюдения, та-а-ак?" //spell-ignore:та-а-ак
   },
   "004_009": {
     "src": "Alright. Let's check out every camera here.",
