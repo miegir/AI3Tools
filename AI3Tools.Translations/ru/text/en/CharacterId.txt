@@ -303,7 +303,7 @@
     "src": "Announcement",
     "yax": "Объявление",
     "nex": "Объявление",
-    "trx": "Объявление"
+    "trx": "Диктор"
   },
   "character_253": {
     "src": "Tiger Rug",
@@ -429,7 +429,7 @@
     "src": "Announcement",
     "yax": "Объявление",
     "nex": "Объявление",
-    "trx": "Объявление"
+    "trx": "Диктор"
   },
   "character_375": {
     "src": "Dog",
@@ -555,7 +555,7 @@
     "src": "Announcement",
     "yax": "Объявление",
     "nex": "Объявление",
-    "trx": "Объявление"
+    "trx": "Диктор"
   },
   "character_396": {
     "src": "?",
@@ -579,7 +579,7 @@
     "src": "Announcement",
     "yax": "Объявление",
     "nex": "Объявление",
-    "trx": "Объявление"
+    "trx": "Диктор"
   },
   "character_400": {
     "src": "Innkeeper",

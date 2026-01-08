@@ -225,7 +225,7 @@
     "src": "...Okayyy?",
     "yax": "...Хорошо?",
     "nex": "...Лааадно?",
-    "trx": "... Оке-е-ей?"
+    "trx": "...Оке-е-ей?"
   },
   "001_035": {
     "src": "Are you talking about those grey dudes with the big eyes? Like that kinda alien?",
@@ -1965,7 +1965,7 @@
     "src": "...There!",
     "yax": "..Вот так!",
     "nex": "...Вот!",
-    "trx": "... Готово!"
+    "trx": "...Готово!"
   },
   "021_005": {
     "src": "It's a perfect fit!",
@@ -3063,7 +3063,7 @@
     "src": "...Right.",
     "yax": "..Правильно.",
     "nex": "...Верно.",
-    "trx": "... Верно."
+    "trx": "...Верно."
   },
   "044_006": {
     "src": "Weird. It fits in perfectly...",
@@ -3165,7 +3165,7 @@
     "src": "...This won't work! No matter how hard I pull, I can't untwist it!",
     "yax": "...Это не сработает! Как бы сильно я ни тянул, я не могу его раскрутить!",
     "nex": "...Это не сработает! Как бы сильно я ни тянул, я не могу это раскрутить!",
-    "trx": "... Не получается! Как бы я ни тянула, никак не могу его распутать!"
+    "trx": "...Не получается! Как бы я ни тянула, никак не могу его распутать!"
   },
   "052_006": {
     "src": "It would help to have something that could cut the strings...",

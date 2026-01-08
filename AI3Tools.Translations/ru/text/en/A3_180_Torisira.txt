@@ -243,7 +243,7 @@
     "src": "...Wait, did you just insult me?",
     "yax": "..- Подожди, ты только что оскорбил меня?",
     "nex": "...Постой, ты только что меня оскорбил?",
-    "trx": "... Постой, ты меня сейчас оскорбила?"
+    "trx": "...Постой, ты меня сейчас оскорбила?"
   },
   "003_026": {
     "src": "Forget it. Next question?",
@@ -477,7 +477,7 @@
     "src": "...Really.",
     "yax": "..Действительно.",
     "nex": "...Правда.",
-    "trx": "... Правда."
+    "trx": "...Правда."
   },
   "010_005": {
     "src": "Mizuki didn't seem to know anything about the pod. Did you put it there without her permission?",
@@ -861,7 +861,7 @@
     "src": "...Shit.",
     "yax": "..Черт.",
     "nex": "...Чёрт.",
-    "trx": "... Чёрт."
+    "trx": "...Чёрт."
   },
   "013_012": {
     "src": "What did you just say?",

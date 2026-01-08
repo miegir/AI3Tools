@@ -93,7 +93,7 @@
     "src": "...Boop.",
     "yax": "..Буп.",
     "nex": "...Пик.",
-    "trx": "... Бип." //spell-ignore:бип
+    "trx": "...Бип."
   },
   "002_008": {
     "src": "H-Hey! What if it activated?! Are you stupid?!",

@@ -3135,7 +3135,7 @@
     "src": "...Oh, there's something further down too.",
     "yax": "..О, там, внизу, тоже есть кое-что еще.",
     "nex": "...О, там внизу есть что-то ещё.",
-    "trx": "... о, и ниже есть кое-что ещё."
+    "trx": "...о, и ниже есть кое-что ещё."
   },
   "055_014": {
     "src": "\"This is insanely dangerous, so it was buried under concrete. The manager also began putting his affairs in order.\"",

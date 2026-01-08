@@ -1515,7 +1515,7 @@
     "src": "...I'm sorry!",
     "yax": "..- Мне очень жаль!",
     "nex": "...Прости!",
-    "trx": "... Я сожалею!"
+    "trx": "...Я сожалею!"
   },
   "020_023": {
     "src": "Are these memories from the time when he tried to delete all your data?",

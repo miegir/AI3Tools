@@ -1,0 +1,12 @@
+EN:
+  ALCOHOL
+  WATER
+  HOT WATER
+
+RU:
+  яохпр
+  бндю
+  цнпъвюъ бндю
+
+TAGS:
+  []
