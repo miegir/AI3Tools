@@ -1,5 +1,5 @@
 EN: To Moma's Hologram
-RU: ?
+RU: К голограмме Момы
 
 TAGS:
-  [untranslated]
+  []

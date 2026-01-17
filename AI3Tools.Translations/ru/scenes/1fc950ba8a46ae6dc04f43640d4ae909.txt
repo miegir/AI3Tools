@@ -1,0 +1,18 @@
+[
+  {
+    "path": "_root/Canvas/UI/e4_minigame_main Variant/adjust/info/step/base/text/text_step (TMP)",
+    "text": {
+      "0": {
+        "m_text": "ХОДОВ "
+      }
+    }
+  },
+  {
+    "path": "_root/Canvas_002/UI/e4_minigame_main Variant/adjust/info/step/base/text/text_step (TMP)",
+    "text": {
+      "0": {
+        "m_text": "ХОДОВ "
+      }
+    }
+  }
+]

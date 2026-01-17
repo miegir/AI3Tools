@@ -1,5 +1,5 @@
 EN: PERFECT
-RU: ?
+RU: нркхвмн
 
 TAGS:
-  [untranslated]
+  []

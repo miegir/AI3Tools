@@ -1383,7 +1383,7 @@
     "src": "Turntable Rotation",
     "yax": "Вращение поворотного стола",
     "nex": "Вращение поворотного стола",
-    "trx": "Повернуть платформу"
+    "trx": "Повернуть круг"
   },
   "operation_guide_041": {
     "src": "Vehicle Movement",
@@ -1395,7 +1395,7 @@
     "src": "Redo",
     "yax": "Переделывать",
     "nex": "Повторить",
-    "trx": "☯️Переделывать"
+    "trx": "Начать заново"
   },
   "operation_guide_043": {
     "src": "Box Rotation",

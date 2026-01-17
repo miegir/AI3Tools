@@ -1,5 +1,5 @@
 EN: DELIVERY
-RU: ?
+RU: днярюбйю
 
 TAGS:
-  [untranslated]
+  []

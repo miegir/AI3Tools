@@ -3,7 +3,10 @@ EN:
   ICE
   PASS = BLANK
 
-RU: ?
+RU:
+  нярюмнбйю цнкнцпюллш
+  ICE
+  оюпнкэ нрясрярбсер
 
 TAGS:
-  [untranslated]
+  []

@@ -4,7 +4,11 @@ EN:
   CUT WIRE
   CAUTION
 
-RU: ?
+RU:
+  оепепефэре йюаекэ
+  бгпшбвюрйю
+  оепепефэре йюаекэ
+  бмхлюмххе
 
 TAGS:
-  [untranslated]
+  []

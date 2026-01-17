@@ -1,5 +1,5 @@
 EN: My felicitations
-RU: ?
+RU: Мои поздравления
 
 TAGS:
-  [untranslated]
+  []

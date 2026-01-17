@@ -4,7 +4,11 @@ EN:
   MOMA = MOMA BLUE x OTA PINK
   OTA = OTA RED x MOMA GREEN
 
-RU: ?
+RU:
+  Наслаждайся музыкой
+  на отведённом тебе месте
+  МОМА = МОМА СИНИЙ х ОТА РОЗОВЫЙ
+  ОТА = ОТА КРАСНЫЙ х МОМА ЗЕЛЁНЫЙ
 
 TAGS:
-  [untranslated]
+  []

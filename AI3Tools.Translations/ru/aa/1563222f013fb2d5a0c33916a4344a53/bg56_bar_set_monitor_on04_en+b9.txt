@@ -1,5 +1,5 @@
 EN: Defuse the bomb or die!!!
-RU: ?
+RU: Обезвредь бомбу или умри!!!
 
 TAGS:
-  [untranslated]
+  []

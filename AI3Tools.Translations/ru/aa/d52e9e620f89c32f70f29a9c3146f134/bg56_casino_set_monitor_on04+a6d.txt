@@ -1,5 +1,5 @@
 EN: CLEAR!
-RU: ?
+RU: бшонкмемн!
 
 TAGS:
-  [untranslated]
+  []

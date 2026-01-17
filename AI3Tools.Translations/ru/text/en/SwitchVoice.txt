@@ -195,7 +195,7 @@
     "src": "Hmm... I'll let Moma work for now.",
     "yax": "Хм... Я пока оставлю Мома работать.",
     "nex": "Хм... Пока пусть Мома работает.",
-    "trx": "Хм... Пусть пока поработает Мома."
+    "trx": "Хм... Пусть теперь поработает Мома."
   },
   "switch_voice_034": {
     "src": "Fine by me. I'll get it done.",
@@ -267,7 +267,7 @@
     "src": "Date, we gotta hurry up and save Tesa!",
     "yax": "Дейт, мы должны поторопиться и спасти Тесу!",
     "nex": "Датэ, мы должны поторопиться и спасти Тесу!",
-    "trx": "Датэ, мы должны поторопиться и спасти Тёсу!"
+    "trx": "Датэ, мы должны поторопиться и спасти Тесу!"
   },
   "switch_voice_048": {
     "src": "I know. The three of us gotta work together.",
@@ -363,13 +363,13 @@
     "src": "Ota, you okay there?",
     "yax": "Ота, ты там в порядке?",
     "nex": "Ота, ты в порядке?",
-    "trx": "Ота, как ты там?"
+    "trx": "Ота, ты как там?"
   },
   "switch_voice_064": {
     "src": "It's all good. We're gettin' outta here!",
     "yax": "Все хорошо. Мы уходим отсюда!",
     "nex": "Всё хорошо. Мы выбираемся отсюда!",
-    "trx": "У меня всё в порядке. Мы выберемся отсюда!"
+    "trx": "Я в порядке. Мы выберемся отсюда!"
   },
   "switch_voice_065": {
     "src": "Hey, take this seriously or you're goin' into Tokyo Bay...",
@@ -531,7 +531,7 @@
     "src": "Moma. We need you. You good to go?",
     "yax": "Мома. Ты нам нужен. Ты готов идти?",
     "nex": "Мома. Нам нужна твоя помощь. Ты готова?",
-    "trx": "Мома. Ты нужен нам. Ты готов?"
+    "trx": "Мома. Ты нам нужен. Ты готов?"
   },
   "switch_voice_092": {
     "src": "Funny hearin' a cop want help from a yakuza.",

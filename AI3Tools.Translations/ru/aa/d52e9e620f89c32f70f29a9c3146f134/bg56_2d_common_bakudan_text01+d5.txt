@@ -1,5 +1,5 @@
 EN: POWER
-RU: ?
+RU: œ»“¿Õ»≈
 
 TAGS:
-  [untranslated]
+  []

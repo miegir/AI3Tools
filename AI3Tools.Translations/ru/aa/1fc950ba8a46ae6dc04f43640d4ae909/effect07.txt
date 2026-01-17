@@ -1,5 +1,5 @@
 EN: C'mon
-RU: ?
+RU: ¬перЄд
 
 TAGS:
-  [untranslated]
+  []

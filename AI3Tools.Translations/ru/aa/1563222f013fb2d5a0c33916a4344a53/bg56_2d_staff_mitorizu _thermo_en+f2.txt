@@ -1,5 +1,5 @@
 EN: Kick off the leg of the striped!
-RU: ?
+RU: Снеси ногу полосатому!
 
 TAGS:
-  [untranslated]
+  []

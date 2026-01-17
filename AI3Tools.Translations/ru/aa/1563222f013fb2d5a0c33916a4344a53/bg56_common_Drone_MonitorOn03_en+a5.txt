@@ -1,5 +1,5 @@
 EN: To Ota's Hologram
-RU: ?
+RU: К голограмме Оты
 
 TAGS:
-  [untranslated]
+  []

@@ -75,7 +75,7 @@
     "path": "escape_minigame/escape_minigame/escape_minigame_failed Variant/adjust/text/text_failed (TMP)",
     "text": {
       "0": {
-        "m_text": "ПОРАЖЕНИЕ"
+        "m_text": "ПРОВАЛ"
       }
     }
   },
@@ -83,7 +83,7 @@
     "path": "escape_minigame/escape_minigame/escape_minigame_completed Variant/adjust/text/text_completed (TMP)",
     "text": {
       "0": {
-        "m_text": "ПОБЕДА"
+        "m_text": "УСПЕХ"
       }
     }
   },

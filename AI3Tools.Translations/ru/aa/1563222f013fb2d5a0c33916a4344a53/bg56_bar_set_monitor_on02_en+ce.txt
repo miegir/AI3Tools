@@ -1,5 +1,5 @@
 EN: Color up the Cocktail!
-RU: ?
+RU: Раскрась коктейль!
 
 TAGS:
-  [untranslated]
+  []

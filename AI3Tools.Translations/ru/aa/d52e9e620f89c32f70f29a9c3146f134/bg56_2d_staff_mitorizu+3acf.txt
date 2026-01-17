@@ -4,7 +4,15 @@ EN:
   SPA
   MUSEUM
 
-RU: ?
+RU:
+  мнвмни йкса
+  реюрп
+  яою
+  лсгеи
 
 TAGS:
-  [untranslated]
+  []
+
+NOTES:
+  Russian text is carefully positioned here.
+  Please do not change position without reason.
