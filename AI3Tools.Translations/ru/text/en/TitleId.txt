@@ -2085,7 +2085,7 @@
     "src": "Host",
     "yax": "Хозяин",
     "nex": "Ведущий",
-    "trx": "Ведущий"
+    "trx": "Ведущая"
   },
   "title_349": {
     "src": "Experiment Using Paper Cup",
