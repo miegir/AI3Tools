@@ -1347,7 +1347,7 @@
     "src": "Seriously, how did they get in?",
     "yax": "Серьезно, как они сюда попали?",
     "nex": "Серьёзно, как они сюда попали?",
-    "trx": "Серьезно, как они сюда попали?"
+    "trx": "Серьёзно, как они сюда попали?"
   },
   "015_006": {
     "src": "Through the service entrance, obviously.",
