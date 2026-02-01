@@ -2,7 +2,9 @@ EN:
   VoiceMemo
   Now Playing
 
-RU: ?
+RU:
+  Голосовое сообщение
+  Воспроизведение
 
 TAGS:
-  [untranslated]
+  []

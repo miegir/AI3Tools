@@ -2,7 +2,9 @@ EN:
   Incoming Call
   Answer Decline
 
-RU: ?
+RU:
+  Входящий вызов
+  Принять Отклонить
 
 TAGS:
-  [untranslated]
+  []
