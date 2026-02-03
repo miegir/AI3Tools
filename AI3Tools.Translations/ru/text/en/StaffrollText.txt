@@ -339,7 +339,7 @@
     "src": "Didn't Get The Hint",
     "yax": "Не Понял Намека",
     "nex": "Не понял намека",
-    "trx": "Не поняла намёка"
+    "trx": "Не дала подсказку"
   },
   "staffroll_joke_100": {
     "src": "Hina Tsukiyono",
