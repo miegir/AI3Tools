@@ -27,7 +27,7 @@
     "src": "And helping Tesa beat it!",
     "yax": "И помогаю Тесе победить его!",
     "nex": "И помог Тесе её пройти!",
-    "trx": "☯️И помогаю Тёсе победить его!"
+    "trx": "☯️И помогаю Тесе победить его!"
   },
   "001_006": {
     "src": "You did that? Wooow!",
@@ -183,7 +183,7 @@
     "src": "I didn't see Tesa anywhere, so I totally panicked!",
     "yax": "Я нигде не увидела Тесу и запаниковала!",
     "nex": "Я нигде не видела Тэсу, так что я запаниковала!",
-    "trx": "☯️Я нигде не увидела Тёсу и запаниковала!"
+    "trx": "☯️Я нигде не увидела Тесу и запаниковала!"
   },
   "003_023": {
     "src": "I mean, if I was with her, I could handle being locked up forever!",
@@ -573,7 +573,7 @@
     "src": "Even I had trouble protecting Tesa.",
     "yax": "Даже мне было трудно защитить Тесу.",
     "nex": "Даже мне было трудно защитить Тесу.",
-    "trx": "☯️Даже мне было трудно защитить Тёсу."
+    "trx": "☯️Даже мне было трудно защитить Тесу."
   },
   "006_018": {
     "src": "But it looks like the stream was a success. That's nice, isn't it?!",

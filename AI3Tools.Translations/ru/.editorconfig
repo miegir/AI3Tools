@@ -17,7 +17,7 @@ vsspell_ignored_character_class = None
 vsspell_additional_dictionary_folders_cb0ff450291a457bbc8c77fe0a4d0a4b = clear_inherited|..\dic
 vsspell_dictionary_languages_cb0ff450291a457bbc8c77fe0a4d0a4b = en-US,ru-RU
 vsspell_ignored_words_cb0ff450291a457bbc8c77fe0a4d0a4b = clear_inherited
-vsspell_exclusion_expressions_cb0ff450291a457bbc8c77fe0a4d0a4b = clear_inherited(?@@PND@@/Options/).*//spell-ignore-line(?@@PND@@/Options/None)//spell-ignore:\S+\b(?@@PND@@/Options/None)\"(src|yax|nex|path)\".*$(?@@PND@@/Options/None)\"trx\"\:(?@@PND@@ trx header)(?@@PND@@/Options/None)^\s*\"[^"]+\": \{$(?@@PND@@/Options/Multiline)\b(\S+)(?=\b.*//spell-ignore:(?i:\1)\b)(?@@PND@@/Options/None)\\n(?@@PND@@/Options/None)Голден Йокотё(?@@PND@@/Options/None)\b[Бб]лум-парк(?@@PND@@/Options/None)[Вв]инк-псинк(?@@PND@@/Options/None)\bДТ-мен(?@@PND@@/Options/None)\b[Бб]ой-бенд(?@@PND@@/Options/None)
+vsspell_exclusion_expressions_cb0ff450291a457bbc8c77fe0a4d0a4b = clear_inherited(?@@PND@@/Options/).*//spell-ignore-line(?@@PND@@/Options/None)//spell-ignore:\S+\b(?@@PND@@/Options/None)\"(src|yax|nex|path)\".*$(?@@PND@@/Options/None)\"trx\"\:(?@@PND@@ trx header)(?@@PND@@/Options/None)^\s*\"[^"]+\": \{$(?@@PND@@/Options/Multiline)\b(\S+)(?=\b.*//spell-ignore:(?i:\1)\b)(?@@PND@@/Options/None)\\n(?@@PND@@/Options/None)Голден Йокотё(?@@PND@@/Options/None)\b[Бб]лум-парк(?@@PND@@/Options/None)[Вв]инк-псинк(?@@PND@@/Options/None)\bДД-мен(?@@PND@@/Options/None)\b[Бб]ой-бенд(?@@PND@@/Options/None)
 vsspell_cad_import_code_analysis_dictionaries = true
 vsspell_cad_treat_unrecognized_words_as_misspelled = true
 vsspell_cad_treat_deprecated_terms_as_misspelled = true

@@ -729,7 +729,7 @@
     "src": "The words \"HAPPY BIRTHDAY\" are decorating the place.",
     "yax": "Это место украшено надписью \"С ДНЕМ РОЖДЕНИЯ\".",
     "nex": "Место украшено надписью «С ДНЁМ РОЖДЕНИЯ».",
-    "trx": "Кабинет украшает надпись \"HAPPY BIRTHDAY\".\n<size=50%><color=#aaa>Примечание переводчика: \"HAPPY BIRTHDAY\" — \"С ДНЁМ РОЖДЕНИЯ\""
+    "trx": "Кабинет украшает надпись \"HAPPY BIRTHDAY\".\n<size=50%><color=#aaa>Примечание переводчика: \"HAPPY BIRTHDAY\" — \"С ДНЁМ РОЖДЕНИЯ\"."
   },
   "026_002": {
     "src": "Is it someone's birthday today?",
@@ -1299,7 +1299,7 @@
     "src": "An AI-ball prototype that looks like a temari.",
     "yax": "Прототип искусственного интеллекта, который выглядит как темари.",
     "nex": "Прототип ИИ‑глаза, похожий на тэмари.",
-    "trx": "Прототип глазного робота, который похож на тэмари." //spell-ignore:тэмари
+    "trx": "Прототип глазного робота, похожий на тэмари." //spell-ignore:тэмари
   },
   "056_001": {
     "src": "Love, liberty, hope, dreams, workaholics, development of Japanese industry...\nPut them all together! Peoplepusherabbit!",
