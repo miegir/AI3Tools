@@ -4131,7 +4131,7 @@
     "src": "Chair",
     "yax": "Стул",
     "nex": "Стул",
-    "trx": "Стул"
+    "trx": "Табурет"
   },
   "target_685": {
     "src": "Blackboard Menu",
