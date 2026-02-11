@@ -597,7 +597,7 @@
     "src": "No, it's just that the CEO is a real weirdo...",
     "yax": "Нет, просто генеральный директор - настоящий чудак...",
     "nex": "Нет, просто генеральный директор — тот ещё чудак...",
-    "trx": "Да нет, просто генеральный директор там такой чудила..."
+    "trx": "Да нет, просто директор там такой чудила..."
   },
   "005_006": {
     "src": "Come on, a boss with a few personality quirks is nothing! Bite the bullet and deal with it!",

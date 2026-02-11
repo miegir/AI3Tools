@@ -201,7 +201,7 @@
     "src": "You're the CEO of Lemniscate. Why aren't you footing the bill?",
     "yax": "Вы генеральный директор Lemniscate. Почему вы не оплачиваете счета?",
     "nex": "Вы генеральный директор Lemniscate. Почему не оплачиваете счёт?",
-    "trx": "☯️Вы генеральный директор Lemniscate. Почему вы не оплачиваете счета?"
+    "trx": "☯️Ты директор Lemniscate. Почему вы не оплачиваете счета?"
   },
   "001_035": {
     "src": "Are you really trying to mooch off of a child? Have you no shame?",

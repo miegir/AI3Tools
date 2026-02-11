@@ -117,7 +117,7 @@
     "src": "This 6-digit number... There is something about it. I did see it in my estimations, but... I feel as if it has the power to flip this world upside-down. Why do I feel so uneasy?!",
     "yax": "Это шестизначное число... В нем что-то есть. Я действительно видел это в своих расчетах, но... У меня такое чувство, что оно способно перевернуть этот мир с ног на голову. Почему мне так не по себе?!",
     "nex": "Этот шестизначный номер... В нём что-то есть. Я видела его в своих расчётах, но... Чувствую, будто он способен перевернуть этот мир с ног на голову. Почему я так встревожена?!",
-    "trx": "☯️Это шестизначное число... В нем что-то есть. Я действительно видел это в своих расчётах, но... У меня такое чувство, что оно способно перевернуть этот мир с ног на голову. Почему мне так не по себе?!"
+    "trx": "То шестизначное число... В нём что-то есть. Оно действительно всплывало в моих расчётах, но... У меня такое чувство, будто оно способно перевернуть этот мир с ног на голову. Почему мне так не по себе?!"
   },
   "trivia_020": {
     "src": "THE THOUSAND GAZE is an online music program built around the concept of \"performances that must start the moment there are 1,000 viewers watching.\" One time, the performers were a highly popular foreign band, and they had to begin before their instruments were tuned or shielded, making them stomp, clap, and sing acapella instead. However, that only made the performance into the stuff of legends, and it is still talked about today. Now that the channel has grown big, they seem to have shifted focus into digging up new talents.",

@@ -1167,7 +1167,7 @@
     "src": "Lemniscate. She's the CEO there.",
     "yax": "Лемниската. Она там генеральный директор.",
     "nex": "«Лемниската». Она там генеральный директор.",
-    "trx": "Лемнискейт. Она там генеральный директор."
+    "trx": "Лемнискейт. Она там директор."
   },
   "011_041": {
     "src": "The Kabasaki District is a good place for covert operations.",
