@@ -237,7 +237,7 @@
     "src": "There's a phone on the floor.",
     "yax": "На полу стоит телефон.",
     "nex": "На полу лежит телефон.",
-    "trx": "На полу стоит телефон."
+    "trx": "На комоде стоит телефон." // не на полу
   },
   "015_001": {
     "src": "A cushion. Hitomi sits there. I bet it smells like her...",
