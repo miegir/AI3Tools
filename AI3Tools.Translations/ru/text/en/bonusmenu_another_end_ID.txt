@@ -9,7 +9,7 @@
     "src": "To Hate Those Like You",
     "yax": "Ненавидеть Таких, Как Ты",
     "nex": "Ненавидя тех, кто тебе подобен",
-    "trx": "Ненависть к таким, как ты"
+    "trx": "Ненависть к себе подобным"
   },
   "bonusmenu_top_message_003": {
     "src": "Date's Invitation",
