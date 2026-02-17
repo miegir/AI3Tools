@@ -81,7 +81,7 @@
     "src": "[Conversation Excerpt]\nDate: \"Y'know, that kind of weirdo conspiracy bullsh-- I mean...the supernatural stuff that your daughter is so interested in.\"",
     "yax": "[Отрывок из разговора]\nСвидание: \"Знаете, такая странная чушь о заговорах - я имею в виду... сверхъестественные вещи, которыми так интересуется ваша дочь\".",
     "nex": "[Отрывок диалога]\nДатэ: «Знаешь, вся эта странная конспирологическая чушь — я имею в виду… сверхъестественные вещи, которыми так интересуется твоя дочь».",
-    "trx": "[Отрывок из разговора]\n<size=90%>Датэ: \"Ну, знаете, вся эта странная конспирологическая хре— в смысле... сверхъестественные вещи, которыми так интересуется ваша дочь.\"" //spell-ignore:конспирологическая //spell-ignore:хре
+    "trx": "[Отрывок из разговора]\n<size=90%>Датэ: \"Ну, знаешь, вся эта странная конспирологическая хре— в смысле... сверхъестественные вещи, которыми так интересуется твоя дочь.\"" //spell-ignore:конспирологическая //spell-ignore:хре
   },
   "file_info_015": {
     "src": "[Explanation]\nThis refers to a line of thinking common in teenagers, fueled by hormonal angst and ennui. It is often characterized by an idea that they are uniquely or supernaturally special in some way.\nIn extreme cases, they spend their days indulging delusions of grandeur, such as having ancient demons possessing their left arm, or, more recently, being reborn as a powerful hero of another world. When I had this condition, I studied the ideas of Siddhartha Gautama and spent my days lecturing my parents. This can be classified as an extreme case.",

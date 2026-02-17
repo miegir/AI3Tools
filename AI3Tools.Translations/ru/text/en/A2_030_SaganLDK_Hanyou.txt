@@ -165,7 +165,7 @@
     "src": "What do we have for me today, hmmm?",
     "yax": "Что у нас есть для меня на сегодня, а?",
     "nex": "Что у нас сегодня для меня, хммм?",
-    "trx": "Что у вас здесь есть для меня сегодня, а?"
+    "trx": "Что там есть для меня сегодня, а?"
   },
   "009_004": {
     "src": "Excuse me, Date.",
@@ -237,7 +237,7 @@
     "src": "There's a phone on the floor.",
     "yax": "На полу стоит телефон.",
     "nex": "На полу лежит телефон.",
-    "trx": "На комоде стоит телефон." // не на полу
+    "trx": "На полке стоит телефон." // не на полу
   },
   "015_001": {
     "src": "A cushion. Hitomi sits there. I bet it smells like her...",
@@ -255,7 +255,7 @@
     "src": "N-N-N-No!",
     "yax": "Н-Н-Н-Нет!",
     "nex": "Н-н-н-нет!",
-    "trx": "Н-Н-Нет!"
+    "trx": "Н-н-нет!"
   },
   "015_004": {
     "src": "Perish the thought! I am a chaste man pure of heart and soul!",
