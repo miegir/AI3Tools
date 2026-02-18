@@ -2,4 +2,4 @@ EN: Trivia Updated
 RU: Факты Обновлено
 
 TAGS:
-  [untranslated]
+  []
