@@ -255,7 +255,7 @@
     "src": "Frame A",
     "yax": "Кадр А",
     "nex": "Рама A",
-    "trx": "Рамка A"
+    "trx": "Балка A"
   },
   "target_024": {
     "src": "Die B",
@@ -267,7 +267,7 @@
     "src": "Frame B",
     "yax": "Кадр В",
     "nex": "Кадр B",
-    "trx": "Рамка B"
+    "trx": "Балка B"
   },
   "target_025": {
     "src": "A. Baking Soda",

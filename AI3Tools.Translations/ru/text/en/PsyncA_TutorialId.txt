@@ -609,7 +609,7 @@
     "src": "Here in <color=yellow>Lock Info</color>, \nyou can see information that will help you progress, \nsuch as your Goal, Guidelines, Depth, and Key Rules.",
     "yax": "Здесь, в разделе <color=yellow>Информация о блокировке</color>,\nвы можете увидеть информацию, которая поможет вам продвинуться вперед,\nтакую как ваша цель, рекомендации, глубина и ключевые правила.",
     "nex": "Здесь, в <color=yellow>Информации о замке</color>,\nвы можете увидеть сведения, которые помогут вам продвигаться,\nтакие как Цель, Руководство, Глубина и Ключевые правила.",
-    "trx": "В <color=yellow>информации о замках</color> можно найти информацию, которая поможет продвигаться вперёд, такую как цель, рекомендации, глубину и ключи."
+    "trx": "В <color=yellow>информации о замках</color> можно найти сведения, которые помогут продвигаться вперёд, такие как цель, рекомендации, глубина и ключи."
   },
   "tutorial_066": {
     "src": "If you are uncertain about how to progress through a Somnium section, \nLock Info might provide you with hints about what to do next.",
@@ -627,7 +627,7 @@
     "src": "Here in <color=yellow>Lock Info</color>, you can see information that will help you progress, \nsuch as your Goal, Guidelines, Depth, and Key Rules.",
     "yax": "Здесь, в разделе <color=yellow>Информация о блокировке</color>, вы можете увидеть информацию, которая поможет вам продвинуться вперед,\nтакую как ваша цель, рекомендации, глубина и ключевые правила.",
     "nex": "Здесь, в <color=yellow>Информации о замке</color>,\nвы можете увидеть сведения, которые помогут вам продвигаться,\nтакие как Цель, Руководство, Глубина и Ключевые правила.",
-    "trx": "В <color=yellow>информации о замках</color> можно найти информацию, которая поможет продвигаться вперёд, такую как цель, рекомендации, глубину и ключи."
+    "trx": "В <color=yellow>информации о замках</color> можно найти сведения, которые помогут продвигаться вперёд, такие как цель, рекомендации, глубина и ключи."
   },
   "tutorial_068": {
     "src": "If you are uncertain about how to progress through a Somnium section, \nLock Info might provide you with hints about what to do next.",
