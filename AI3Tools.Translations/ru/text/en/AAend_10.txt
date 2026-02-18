@@ -237,7 +237,7 @@
     "src": "Ramen shops aren't that dirty!",
     "yax": "В магазинах Рамэн не так уж грязно!",
     "nex": "Раменные лавки не такие уж грязные!",
-    "trx": "В лапшичных не так уж и грязно!" //spell-ignore:лапшичных
+    "trx": "В лапшичных не так уж и грязно!"
   },
   "001_040": { // Датэ
     "src": "Well yeah, because all the dirty ones closed down!",
@@ -255,7 +255,7 @@
     "src": "Enough with the ramen shop bit!",
     "yax": "Хватит уже ходить по магазинам с раменом!",
     "nex": "Хватит про раменную!",
-    "trx": "Хватит уже про лапшичные!" //spell-ignore:лапшичные
+    "trx": "Хватит уже про лапшичные!"
   },
   "001_043": { // Айрис
     "src": "But we just talked about how places that are closed are closed, but the places that are open are open!",
