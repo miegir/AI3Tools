@@ -1,0 +1,5 @@
+EN: Just let them talk a bit and Aiba can handle the rest. Send that to me and you're done.
+RU: Просто дай им немного поговорить, а Айба сделает остальное. Отправь показания мне, и на этом всё.
+
+TAGS:
+  [synopsis]

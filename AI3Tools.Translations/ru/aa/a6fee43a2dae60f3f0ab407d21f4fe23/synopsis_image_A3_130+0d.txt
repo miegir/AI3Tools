@@ -1,0 +1,5 @@
+EN: Looks like we have no choice but to Psync with the pod again.
+RU: Похоже, у нас нет другого выбора, кроме как снова псинхронизироваться с капсулой.
+
+TAGS:
+  [synopsis]

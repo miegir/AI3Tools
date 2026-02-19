@@ -1,0 +1,5 @@
+EN: Human, AI, whatever, none of that matters. It doesn't matter who made us. If you can open your heart to them, they're your partner.
+RU: Человек, ИИ, кто угодно — это не имеет значения. Неважно, кто нас создал. Если ты можешь открыть кому-то своё сердце, он — твой партнёр.
+
+TAGS:
+  [synopsis]

@@ -1,0 +1,5 @@
+EN: That lizard is another Sakura! She was created by Hina herself!
+RU: Эта ящерица — другая Сакура! Её создала сама Хина!
+
+TAGS:
+  [synopsis]

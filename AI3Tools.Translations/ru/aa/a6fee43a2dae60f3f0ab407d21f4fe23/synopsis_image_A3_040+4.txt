@@ -1,0 +1,5 @@
+EN: Y'know, maybe you could try talking to Mama?
+RU: Знаешь, может, тебе стоит поговорить с Мамой?
+
+TAGS:
+  [synopsis]

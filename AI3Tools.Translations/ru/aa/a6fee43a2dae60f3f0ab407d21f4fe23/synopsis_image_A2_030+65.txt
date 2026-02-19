@@ -1,0 +1,5 @@
+EN: Let me think... She left the house this morning. She said she was going to play an escape room.
+RU: Дай подумать... Она ушла из дома сегодня утром. Она сказала, что собирается сыграть в игру-побег.
+
+TAGS:
+  [synopsis]

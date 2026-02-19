@@ -1,0 +1,5 @@
+EN: Mizuki planned the escape game, so why not ask her?
+RU: Мизуки спланировала эту игру-побег, так почему бы не спросить её?
+
+TAGS:
+  [synopsis]

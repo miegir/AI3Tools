@@ -1,0 +1,5 @@
+EN: It does not look like anyone is here.
+RU: Не похоже, что здесь кто-то есть.
+
+TAGS:
+  [synopsis]

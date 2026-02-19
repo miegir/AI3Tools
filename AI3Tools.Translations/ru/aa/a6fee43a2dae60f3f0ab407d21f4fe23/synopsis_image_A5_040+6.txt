@@ -1,0 +1,5 @@
+EN: The person sleeping inside the pod should know everything.
+RU: Человек, спящий внутри капсулы, должен знать всё.
+
+TAGS:
+  [synopsis]

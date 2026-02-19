@@ -1,0 +1,5 @@
+EN: There's no way you could do an escape game in a place this small.
+RU: Игру-побег ни за что не устроить в таком маленьком помещении.
+
+TAGS:
+  [synopsis]

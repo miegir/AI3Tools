@@ -1,0 +1,5 @@
+EN: With that established, please use your ally on the surface as well as your Third Eye to escape this predicament!
+RU: А теперь используй союзника на поверхности, а также свой Третий Глаз, чтобы найти выход из этой ситуации!
+
+TAGS:
+  [synopsis]

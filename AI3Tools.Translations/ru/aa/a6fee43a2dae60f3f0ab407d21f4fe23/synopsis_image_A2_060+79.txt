@@ -1,0 +1,5 @@
+EN: The aliens entered mysterious pods and went into hibernation deep underground.
+RU: Пришельцы укрылись в таинственных капсулах и погрузились в сон глубоко под землёй.
+
+TAGS:
+  [synopsis]

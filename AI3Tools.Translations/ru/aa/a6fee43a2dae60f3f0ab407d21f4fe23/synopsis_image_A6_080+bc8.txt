@@ -1,0 +1,5 @@
+EN: But I always believed that you would keep your word.
+RU: Но я всегда верила, что ты сдержишь своё слово.
+
+TAGS:
+  [synopsis]

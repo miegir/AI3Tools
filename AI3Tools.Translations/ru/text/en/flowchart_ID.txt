@@ -417,7 +417,7 @@
     "src": "Date and Aiba discovered the person in the pod was Sakura Asahi, who had disappeared six years ago. Stranger still, there was also an AI based on her yet who existed independently.",
     "yax": "Дейт и Айба обнаружили, что человеком в капсуле была Сакура Асахи, которая исчезла шесть лет назад. Что еще более странно, там был ИИ, основанный на ней, но существовавший независимо.",
     "nex": "Датэ и Айба обнаружили, что человеком в капсуле была Сакура Асахи, пропавшая шесть лет назад. Что еще более странно, там также находился ИИ, основанный на ней, который существовал независимо.",
-    "trx": "Датэ и Айба обнаружили, что в капсуле находилась исчезнувшая шесть лет назад Сакура Асахи. Что ещё более странно, в капсуле также находился ИИ, основанный на её личности, но существующий независимо."
+    "trx": "Датэ и Айба обнаружили, что в капсуле находилась пропавшая шесть лет назад Сакура Асахи. Что ещё более странно, в капсуле также находился ИИ, основанный на её личности, но существующий независимо."
   },
   "flowchart_font_options_055": {
     "src": "Simply destroying the pod was not an option. Though it would also destroy the AI, the pod acted as Sakura Asahi's life support and contained Iris. Brute force could not solve this problem.\n\nThrough investigation, Date and Hina determined Iris was held in Bloom Park, where they were faced with the AI's final puzzle...\n\nDate appealed to the AI's human-like behavior and got a hint, which he used to save Iris.\n\nFinally, with all said and done, Date went to sleep.",
@@ -927,7 +927,7 @@
     "src": "Start at the beginning of the Escape",
     "yax": "Начните с самого начала побега",
     "nex": "Начать с начала Побега",
-    "trx": "Начать Побег с начала"
+    "trx": "Запуск Побега с начала"
   },
   "flowchart_other_message_window_022": {
     "src": "CHAPTER 1",

@@ -1,0 +1,5 @@
+EN: Back then...that was Hina?
+RU: Тогда... это была Хина?
+
+TAGS:
+  [synopsis]

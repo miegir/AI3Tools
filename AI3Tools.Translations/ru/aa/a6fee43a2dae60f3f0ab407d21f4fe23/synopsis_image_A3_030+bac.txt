@@ -1,0 +1,5 @@
+EN: Well... His GPS signature disappeared at Yoyagi Park.
+RU: Ну... Сигнал его GPS обрывается в парке Йояги.
+
+TAGS:
+  [synopsis]

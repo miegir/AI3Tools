@@ -1,0 +1,5 @@
+EN: Mizuki... You know why I'm here, right?
+RU: Мизуки... Ты знаешь, зачем я здесь, да?
+
+TAGS:
+  [synopsis]

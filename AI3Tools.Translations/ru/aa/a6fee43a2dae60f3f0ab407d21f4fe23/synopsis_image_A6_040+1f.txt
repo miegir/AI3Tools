@@ -1,0 +1,5 @@
+EN: Nor can she be taken over by some AI with the Moonshot whatever thing.
+RU: Как и захват тела каким-нибудь ИИ из программы Moonshot или как её там.
+
+TAGS:
+  [synopsis]

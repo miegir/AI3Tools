@@ -1,0 +1,5 @@
+EN: Don't worry. I'll save her!
+RU: Не переживай. Я спасу её!
+
+TAGS:
+  [synopsis]

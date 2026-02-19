@@ -1,0 +1,5 @@
+EN: They all went lookin' for him.
+RU: Они все отправились на его поиски.
+
+TAGS:
+  [synopsis]

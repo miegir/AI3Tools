@@ -1,0 +1,5 @@
+EN: Oh! Are you talking about the escape game?! I wanna help too!
+RU: О! Вы говорите об игре-побеге?! Я тоже хочу помочь!
+
+TAGS:
+  [synopsis]

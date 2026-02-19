@@ -1,5 +1,10 @@
-EN: Psync me
-RU: Псинхронизируйся со мной
+EN:
+  A device meant to preserve a living human for extended periods of time. A fairly common sci-fi trope.
+  Psync me
+
+RU:
+  Устройство, предназначенное для поддержания человеческой жизни в течение длительного периода времени. Довольно распространённая вещь в научной фантастике.
+  Псинхронизируйся со мной
 
 TAGS:
   []

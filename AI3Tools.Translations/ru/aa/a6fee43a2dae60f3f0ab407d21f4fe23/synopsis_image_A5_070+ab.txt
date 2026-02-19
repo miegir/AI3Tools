@@ -1,0 +1,5 @@
+EN: Basically, that pod contains both Sakura Asahi's real body, as well as an AI copy of her.
+RU: По сути, в этой капсуле находится как настоящая Сакура Асахи, так и её ИИ-копия.
+
+TAGS:
+  [synopsis]

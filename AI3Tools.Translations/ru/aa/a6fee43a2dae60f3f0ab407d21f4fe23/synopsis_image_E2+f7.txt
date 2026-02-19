@@ -1,0 +1,5 @@
+EN: I hate to say this, but... This box you're in... What if it's a "kotoribako?"
+RU: Мне неприятно это говорить, но... эта коробка, в которой ты находишься... что, если это "которибако"?
+
+TAGS:
+  [synopsis]

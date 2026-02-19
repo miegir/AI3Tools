@@ -1,0 +1,5 @@
+EN: But you can only stay in Somnium for six minutes.
+RU: Но ты можешь находиться в Сомниуме только шесть минут.
+
+TAGS:
+  [synopsis]

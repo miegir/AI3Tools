@@ -1,0 +1,5 @@
+EN: Tesa's got the day off today.
+RU: У Тесы сегодня выходной.
+
+TAGS:
+  [synopsis]

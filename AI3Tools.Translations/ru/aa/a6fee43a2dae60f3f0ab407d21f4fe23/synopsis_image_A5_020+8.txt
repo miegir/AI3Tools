@@ -1,0 +1,5 @@
+EN: It's about time you explained yourself, don't you think?
+RU: Тебе не кажется, что пора уже объясниться?
+
+TAGS:
+  [synopsis]

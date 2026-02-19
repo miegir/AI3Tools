@@ -1,0 +1,5 @@
+EN: When you look at it like that, this AI is a human, just like any of us.
+RU: Если взглянуть под этим углом, то этот ИИ такой же человек, как и все мы.
+
+TAGS:
+  [synopsis]

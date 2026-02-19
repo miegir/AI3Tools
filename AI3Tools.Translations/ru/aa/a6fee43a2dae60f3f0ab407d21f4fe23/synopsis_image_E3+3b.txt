@@ -1,0 +1,5 @@
+EN: The real Tesa isn't here! Both of them are fake!
+RU: Настоящей Тесы здесь нет! Они обе фальшивки!
+
+TAGS:
+  [synopsis]

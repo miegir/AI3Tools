@@ -1,0 +1,5 @@
+EN: Head to the studio.
+RU: Едем в студию.
+
+TAGS:
+  [synopsis]

@@ -1,0 +1,5 @@
+EN: She's not on any of the displays. That Reptilian is gone, too.
+RU: Её нет ни на одном из экранов. И рептилия тоже исчезла.
+
+TAGS:
+  [synopsis]

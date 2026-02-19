@@ -1,0 +1,5 @@
+EN: I was running from that abandoned factory...to get away from him.
+RU: Я убегал с заброшенной фабрики, чтобы... скрыться от него.
+
+TAGS:
+  [synopsis]

@@ -1,0 +1,5 @@
+EN: This is my big moment, and I want you to burn it into both of your eyes!
+RU: Это мой звёздный час, и я хочу, чтобы ты запечатлел его обоими глазами!
+
+TAGS:
+  [synopsis]

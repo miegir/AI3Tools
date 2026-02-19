@@ -1,5 +1,10 @@
-EN: Phone
-RU: Телефон
+EN:
+  There was a connection between what I saw in Somnium and the solutions in the escape game... 
+  Phone
+
+RU:
+  Существует связь между тем, что я видел в сомниуме, и решениями головоломок в игре-побеге...
+  Телефон
 
 TAGS:
   []

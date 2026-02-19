@@ -1,0 +1,5 @@
+EN: It's my first day back, and it's already hell! I already had plenty of work to do, and now it's been doubled. Doubled, Date!
+RU: Я только первый день как вернулся, а тут уже сущий ад! У меня и так было полно работы, а теперь её стало вдвое больше. Вдвое, Датэ!
+
+TAGS:
+  [synopsis]
