@@ -107,7 +107,7 @@ internal class BundleManager(ILogger logger, FileSource source)
                         image.Mutate(m => m.Flip(FlipMode.Vertical));
 
                         using var target = new FileTarget(path);
-                        image.Save(target, PngFormat.Instance);
+                        SaveTextureAsPng(bundleFile, textureFile, target.Stream, target.Extension);
                         target.Commit();
                     }
                     catch (Exception exception)
@@ -437,10 +437,24 @@ internal class BundleManager(ILogger logger, FileSource source)
 
                 if (!File.Exists(sourcePath)) continue;
 
+                var baseField = bundleFile.GetBaseField(asset);
+                var textureFile = TextureFile.ReadTextureFile(baseField);
+
+                // If the file has not been modified (is equal to source), do not include it in the archive.
+                if (textureFile.m_Width != 0 && textureFile.m_Height != 0)
+                {
+                    using var targetStream = new MemoryStream();
+                    SaveTextureAsPng(bundleFile, textureFile, targetStream, Path.GetExtension(name));
+                    var targetBytes = targetStream.ToArray();
+                    var sourceBytes = File.ReadAllBytes(sourcePath);
+                    if (sourceBytes.SequenceEqual(targetBytes))
+                    {
+                        continue; // file is not modified
+                    }
+                }
+
                 yield return () =>
                 {
-                    var baseField = bundleFile.GetBaseField(asset);
-                    var textureFile = TextureFile.ReadTextureFile(baseField);
                     var textureArguments = Texture2DArguments.Create(textureFile, arguments.BC7Compression);
                     var objectPath = Path.Combine(arguments.ObjectDirectory, name, textureArguments.Name);
                     var builder = new ObjectBuilder(sourcePath, objectPath, arguments.ForceObjects);
@@ -719,7 +733,20 @@ internal class BundleManager(ILogger logger, FileSource source)
         return name;
     }
 
-    private static ImmutableDictionary<string, string> CreateTextValues(ImmutableDictionary<string, string> text) => text
-        .Where(e => !string.IsNullOrEmpty(e.Value))
-        .ToImmutableDictionary(e => e.Key, e => TextCompressor.Compress(e.Value));
+    private static void SaveTextureAsPng(BundleFile bundleFile, TextureFile textureFile, Stream targetStream, string targetExtension)
+    {
+        var textureData = bundleFile.GetTextureData(textureFile);
+        using var image = Image.LoadPixelData<Bgra32>(
+            textureData, textureFile.m_Width, textureFile.m_Height);
+
+        image.Mutate(m => m.Flip(FlipMode.Vertical));
+
+        var manager = image.Configuration.ImageFormatsManager;
+        if (!manager.TryFindFormatByFileExtension(targetExtension, out var format))
+        {
+            format = PngFormat.Instance;
+        }
+
+        image.Save(targetStream, format);
+    }
 }
