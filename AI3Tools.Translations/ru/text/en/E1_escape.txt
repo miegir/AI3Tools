@@ -45,7 +45,7 @@
     "src": "A lizard tail...? Are you a Reptilian?!",
     "yax": "Хвост ящерицы...? Вы рептилия?!",
     "nex": "Ящериный хвост...? Ты рептилоид?!",
-    "trx": "Хвост, как у ящерицы?.. Вы репитилоид?!"
+    "trx": "Хвост, как у ящерицы?.. Вы рептилоид?!"
   },
   "001_006": {
     "src": "\"Miss A-set\"... That feels rather formal. Do you mind if I drop the formalities and call you \"Tesa?\"",
